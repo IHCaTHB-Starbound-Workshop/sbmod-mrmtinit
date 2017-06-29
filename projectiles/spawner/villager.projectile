@@ -7,11 +7,11 @@
   "physics" : "laser",
   "damageKind" : "default",
   "timeToLive" : 1,
-  "scripts" : [ "/projectiles/spawn/npcspawn.lua" ],
+  "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
   "scriptConfig" : {
     "options" : [
       {
-        "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid"],
+        "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid" ],
         "type" : [ "villager", "villageguard" ]
       }
     ]
