@@ -1,0 +1,9 @@
+{
+  "author" : "IHCaTHB",
+  "description" : "",
+  "friendlyName" : "MRMT Initialization",
+  "includes" : [],
+  "name" : "MRMTINIT.IHC",
+  "requires" : [],
+  "version" : "0.1"
+}
