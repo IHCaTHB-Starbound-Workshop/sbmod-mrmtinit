@@ -7,5 +7,8 @@
   "physics" : "laser",
   "damageKind" : "default",
   "timeToLive" : 1,
-  "scripts" : [ "/projectiles/spawn/npcspawn.lua" ]
+  "scripts" : [ "/projectiles/spawn/npcspawn.lua" ],
+  "scriptConfig" : {
+    "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid"]
+  }
 }
