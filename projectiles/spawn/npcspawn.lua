@@ -1,10 +1,7 @@
 require "/scripts/util.lua"
 
-function init(scriptConfig)
+function init()
   local configParameter = config.getParameter("scriptConfig")
-  local speciespossible = configParameter.species
-  local typepossible = configParameter.type
-  local species = speciespossible[math.random(#speciespossible)]
-  local type = typepossible[math.random(#typepossible)]
-  world.spawnNpc(entity.position(), species, type, 1)
+  local choice = configParameter.options[math.random(#configParameter.options)]
+  world.spawnNpc(entity.position(), choice.species[math.random(#choice.species)], choice.type[math.random(#choice.type)], 1)
 end
