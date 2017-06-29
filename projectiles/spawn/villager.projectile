@@ -9,6 +9,7 @@
   "timeToLive" : 1,
   "scripts" : [ "/projectiles/spawn/npcspawn.lua" ],
   "scriptConfig" : {
-    "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid"]
+    "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid"],
+    "type" : [ "villager", "villageguard" ]
   }
 }
