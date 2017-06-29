@@ -18,11 +18,11 @@
       "wanderDistance" : 10
     },
 
-    "dialogMode" : "sequence",
     "dialog" : {
       "converse" : {
         "default" : {
           "default" : [
+            "..."
           ]
         }
       }
