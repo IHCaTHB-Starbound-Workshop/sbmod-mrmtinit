@@ -98,13 +98,13 @@
           "baseValue" : 9
         },
         "maxHealth" : {
-          "baseValue" : 0
+          "baseValue" : 1
         },
         "protection" : {
           "baseValue" : 0.0
         },
         "healthRegen" : {
-          "baseValue" : 0.0
+          "baseValue" : -1.0
         },
         "powerMultiplier" : {
           "baseValue" : 1.0
