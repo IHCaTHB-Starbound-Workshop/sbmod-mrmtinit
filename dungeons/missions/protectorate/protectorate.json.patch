@@ -1,0 +1,263 @@
+[
+  //lobby x 1472-1912 y 1504
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2001,
+      "name": "",
+      "properties": {
+        "monster" : "npcspawn"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1527,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2002,
+      "name": "",
+      "properties": {
+        "monster" : "npcspawn"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1582,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2003,
+      "name": "",
+      "properties": {
+        "monster" : "npcspawn"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1637,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2004,
+      "name": "",
+      "properties": {
+        "monster" : "npcspawn"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1692,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2005,
+      "name": "",
+      "properties": {
+        "monster" : "npcspawn"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1747,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2006,
+      "name": "",
+      "properties": {
+        "monster" : "npcspawn"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1802,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2007,
+      "name": "",
+      "properties": {
+        "monster" : "npcspawn"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1857,
+      "y": 1504
+    }
+  },
+  //hall x 3392-3600 y 1504
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2011,
+      "name": "",
+      "properties": {
+        "monster" : "cellcritter",
+        "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"villager\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"maxHealth\" : { \"baseValue\" : 0 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 3418,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2012,
+      "name": "",
+      "properties": {
+        "monster" : "cellcritter",
+        "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"villager\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"maxHealth\" : { \"baseValue\" : 0 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 3444,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2013,
+      "name": "",
+      "properties": {
+        "monster" : "cellcritter",
+        "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"villager\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"maxHealth\" : { \"baseValue\" : 0 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 3470,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2014,
+      "name": "",
+      "properties": {
+        "monster" : "cellcritter",
+        "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"villager\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"maxHealth\" : { \"baseValue\" : 0 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 3492,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2015,
+      "name": "",
+      "properties": {
+        "monster" : "cellcritter",
+        "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"villager\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"maxHealth\" : { \"baseValue\" : 0 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 3522,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2016,
+      "name": "",
+      "properties": {
+        "monster" : "cellcritter",
+        "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"villager\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"maxHealth\" : { \"baseValue\" : 0 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 3458,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2017,
+      "name": "",
+      "properties": {
+        "monster" : "cellcritter",
+        "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"villager\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"maxHealth\" : { \"baseValue\" : 0 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 3574,
+      "y": 1504
+    }
+  }
+]
