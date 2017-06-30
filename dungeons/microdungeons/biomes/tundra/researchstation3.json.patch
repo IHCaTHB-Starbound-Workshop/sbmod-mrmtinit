@@ -1,0 +1,57 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/layers/5/objects/0/properties/typeName",
+    "value" : "snowscientist"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/5/objects/0/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"snowscientist\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/5/objects/1/properties/typeName",
+    "value" : "snowscientist"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/5/objects/1/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"snowscientist\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/5/objects/2/properties/typeName",
+    "value" : "snowvillager"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/5/objects/2/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"snowvillager\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/5/objects/3/properties/typeName",
+    "value" : "snowvillager"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/5/objects/3/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"snowvillager\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+]]
