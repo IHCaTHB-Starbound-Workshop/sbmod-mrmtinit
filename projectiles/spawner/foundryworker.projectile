@@ -1,0 +1,19 @@
+{
+  "projectileName" : "foundryworker",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "flippable" : true,
+  "power" : 0,
+  "speed" : 0,
+  "physics" : "laser",
+  "damageKind" : "default",
+  "timeToLive" : 1,
+  "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
+  "scriptConfig" : {
+    "options" : [
+      {
+        "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid" ],
+        "type" : [ "foundryworker" ]
+      }
+    ]
+  }
+}
