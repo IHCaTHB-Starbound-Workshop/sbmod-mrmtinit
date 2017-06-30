@@ -1,4 +1,9 @@
-[
+[[
+  {
+    "op" : "test",
+    "path" : "/tiles/309/brush/0/1/typeName",
+    "value" : "prisonberserker"
+  },
   {
     "op": "remove",
     "path": "/tiles/309/brush/0/1/species"
@@ -46,6 +51,12 @@
     "op": "replace",
     "path": "/tiles/309/brush/0/1/typeName",
     "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/310/brush/0/1/typeName",
+    "value" : "prisonbruiser"
   },
   {
     "op": "remove",
@@ -94,6 +105,12 @@
     "op": "replace",
     "path": "/tiles/310/brush/0/1/typeName",
     "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/311/brush/0/1/typeName",
+    "value" : "prisongunman"
   },
   {
     "op": "remove",
@@ -143,4 +160,4 @@
     "path": "/tiles/311/brush/0/1/typeName",
     "value": "cellcritter"
   }
-]
+]]
