@@ -1,4 +1,24 @@
 [
+  //doggo
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2000,
+      "name": "",
+      "properties": {
+        "monster" : "cellcritter",
+        "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"protectoratestudent\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":1304,
+      "y":1272
+    }
+  },
   //lobby x 1472-1912 y 1504
   {
     "op": "add",
