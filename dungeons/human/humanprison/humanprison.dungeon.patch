@@ -1,0 +1,146 @@
+[
+  {
+    "op": "remove",
+    "path": "/tiles/309/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/309/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "prisonberserker",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/309/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/309/brush/0/1/typeName",
+    "value": "cellcritter"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/310/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/310/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "prisonbruiser",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/310/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/310/brush/0/1/typeName",
+    "value": "cellcritter"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/311/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/311/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "prisongunman",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/311/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/311/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+]
