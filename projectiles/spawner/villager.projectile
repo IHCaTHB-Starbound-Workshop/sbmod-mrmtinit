@@ -12,7 +12,7 @@
     "options" : [
       {
         "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid" ],
-        "type" : [ "villager", "villageguard" ]
+        "type" : [ "villager" ]
       }
     ]
   }
