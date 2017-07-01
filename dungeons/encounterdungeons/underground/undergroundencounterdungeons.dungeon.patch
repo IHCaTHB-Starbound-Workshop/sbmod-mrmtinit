@@ -1,0 +1,128 @@
+[[
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": "merchant_apex_generic"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": "merchant_avian_generic"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": "merchant_floran_generic"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": "merchant_glitch_generic"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": "merchant_human_generic"
+  },
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": "merchant_hylotl_generic"
+  }
+],[
+  {
+    "op" : "copy",
+    "path" : "/parts/0",
+    "from" : "/parts/0"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/name",
+    "value": "merchant_apex_generic"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/def/1",
+    "value": "merchant_apex_generic.json"
+  }
+],[
+  {
+    "op" : "copy",
+    "path" : "/parts/0",
+    "from" : "/parts/0"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/name",
+    "value": "merchant_avian_generic"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/def/1",
+    "value": "merchant_avian_generic.json"
+  }
+],[
+  {
+    "op" : "copy",
+    "path" : "/parts/0",
+    "from" : "/parts/0"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/name",
+    "value": "merchant_floran_generic"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/def/1",
+    "value": "merchant_floran_generic.json"
+  }
+],[
+  {
+    "op" : "copy",
+    "path" : "/parts/0",
+    "from" : "/parts/0"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/name",
+    "value": "merchant_glitch_generic"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/def/1",
+    "value": "merchant_glitch_generic.json"
+  }
+],[
+  {
+    "op" : "copy",
+    "path" : "/parts/0",
+    "from" : "/parts/0"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/name",
+    "value": "merchant_human_generic"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/def/1",
+    "value": "merchant_human_generic.json"
+  }
+],[
+  {
+    "op" : "copy",
+    "path" : "/parts/0",
+    "from" : "/parts/0"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/name",
+    "value": "merchant_hylotl_generic"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/0/def/1",
+    "value": "merchant_hylotl_generic.json"
+  }
+]]
