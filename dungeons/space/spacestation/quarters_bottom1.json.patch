@@ -1,0 +1,29 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/layers/6/objects/0/properties/typeName",
+    "value" : "spacevillager"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/6/objects/0/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"spacevillager\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/6/objects/1/properties/typeName",
+    "value" : "spacevillager"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/6/objects/1/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"spacevillager\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+]]
