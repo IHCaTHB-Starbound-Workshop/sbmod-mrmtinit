@@ -1,0 +1,811 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/tiles/0/brush/0/1/typeName",
+    "value" : "wizardmerchant"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/0/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/0/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "wizardmerchant",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/0/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/0/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/2/brush/0/1/typeName",
+    "value" : "cultist"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/2/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/2/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "cultist",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/2/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/2/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/3/brush/0/1/typeName",
+    "value" : "bandit"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/3/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/3/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "bandit",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/3/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/3/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/4/brush/0/1/typeName",
+    "value" : "bandit"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/4/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/4/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "bandit",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/4/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/4/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/5/brush/0/1/typeName",
+    "value" : "bandit"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/5/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/5/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "bandit",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/5/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/5/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/6/brush/0/1/typeName",
+    "value" : "bandit"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/6/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/6/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "bandit",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/6/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/6/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/7/brush/0/1/typeName",
+    "value" : "bandit"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/7/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/7/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "bandit",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/7/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/7/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/8/brush/0/1/typeName",
+    "value" : "bandit"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/8/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/8/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "bandit",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/8/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/8/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/9/brush/0/1/typeName",
+    "value" : "wanderingmerchant"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/9/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/9/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "wanderingmerchant",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/9/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/9/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/10/brush/0/1/typeName",
+    "value" : "merchant"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/10/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/10/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "merchant",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/10/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/10/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/11/brush/0/1/typeName",
+    "value" : "merchant"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/11/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/11/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "merchant",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/11/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/11/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/12/brush/0/1/typeName",
+    "value" : "merchant"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/12/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/12/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "merchant",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/12/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/12/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/13/brush/0/1/typeName",
+    "value" : "merchant"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/13/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/13/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "merchant",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/13/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/13/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/14/brush/0/1/typeName",
+    "value" : "merchant"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/14/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/14/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "merchant",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/14/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/14/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/tiles/566/brush/0/1/typeName",
+    "value" : "villager"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/566/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/566/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "villager",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/566/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/566/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+]]
