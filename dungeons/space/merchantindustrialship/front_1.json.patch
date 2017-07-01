@@ -1,0 +1,43 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/45/properties/typeName",
+    "value" : "industrialcrewmate"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/3/objects/45/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"industrialcrewmate\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/46/properties/typeName",
+    "value" : "industrialmerchant"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/3/objects/46/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"industrialmerchant\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/47/properties/typeName",
+    "value" : "industrialcrewmate"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/3/objects/47/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"industrialcrewmate\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+]]

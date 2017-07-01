@@ -1,0 +1,43 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/24/properties/typeName",
+    "value" : "astrocrewmate"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/3/objects/24/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"astrocrewmate\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/25/properties/typeName",
+    "value" : "astrocrewmate"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/3/objects/25/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"astrocrewmate\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/26/properties/typeName",
+    "value" : "astromerchant"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/3/objects/26/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"astromerchant\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+]]
