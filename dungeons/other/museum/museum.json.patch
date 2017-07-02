@@ -1,0 +1,40 @@
+[
+  {
+    "op": "add",
+    "path": "/layers/5/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2000,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"museumvisitor\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1372,
+      "y": 480
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/5/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2001,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"museumvisitor\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1612,
+      "y": 480
+    }
+  }
+]
