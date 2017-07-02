@@ -145,7 +145,7 @@
       "name": "",
       "properties": {
         "monster": "cellcritter",
-        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilianlist\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
       },
       "rotation": 0,
       "type": "",
