@@ -16,16 +16,6 @@
       "wanderWaitTime" : [4.0, 8.0],
       "wanderTime" : [0.25, 0.5],
       "wanderDistance" : 10
-    },
-
-    "dialog" : {
-      "converse" : {
-        "default" : {
-          "default" : [
-            "..."
-          ]
-        }
-      }
     }
   },
 
