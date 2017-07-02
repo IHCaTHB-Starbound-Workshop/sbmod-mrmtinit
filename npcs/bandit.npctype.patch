@@ -1,7 +1,0 @@
-[
-  {
-    "op" : "replace",
-    "path" : "/scriptConfig/dialog/attack/default",
-    "value" : "/dialog/combat.config:attack"
-  }
-]
