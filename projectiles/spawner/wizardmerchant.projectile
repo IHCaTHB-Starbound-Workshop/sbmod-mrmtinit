@@ -1,5 +1,5 @@
 {
-  "projectileName" : "wanderingmerchant",
+  "projectileName" : "wizardmerchant",
   "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
   "flippable" : true,
   "power" : 0,
@@ -12,7 +12,7 @@
     "options" : [
       {
         "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid" ],
-        "type" : [ "wanderingmerchant" ]
+        "type" : [ "wizardmerchant" ]
       }
     ]
   }
