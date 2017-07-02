@@ -1,0 +1,291 @@
+[
+  // doggo
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2000,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":1952,
+      "y":1128
+    }
+  },
+  // underground
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2001,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":2696,
+      "y":2368
+    }
+  },
+  // main level
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2002,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":2360,
+      "y":1120
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2003,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":2520,
+      "y":1120
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2004,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":2616,
+      "y":1120
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2005,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":2904,
+      "y":1120
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2006,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":3352,
+      "y":1120
+    }
+  },
+  // upper levels
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2007,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":3192,
+      "y":1104
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2008,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":2664,
+      "y":992
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2009,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":2744,
+      "y":992
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2010,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":3408,
+      "y":992
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2011,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":2552,
+      "y":936
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2012,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":2864,
+      "y":864
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2013,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":2984,
+      "y":864
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2014,
+      "name": "",
+      "properties": {
+        "monster": "cellcritter",
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"outpostcivilian\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x":3120,
+      "y":864
+    }
+  }
+]
