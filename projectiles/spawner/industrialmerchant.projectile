@@ -9,10 +9,14 @@
   "timeToLive" : 1,
   "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
   "scriptConfig" : {
-    "options" : [
+    "list" : [
       {
-        "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid" ],
-        "type" : [ "industrialmerchant" ]
+        "options" : [
+          {
+            "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid" ],
+            "type" : [ "industrialmerchant" ]
+          }
+        ]
       }
     ]
   }
