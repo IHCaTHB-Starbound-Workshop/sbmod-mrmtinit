@@ -86,7 +86,7 @@
       "name": "",
       "properties": {
         "monster": "cellcritter",
-        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"protectoratestudent\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"protectoratestudentlist\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
       },
       "rotation": 0,
       "type": "",
@@ -220,7 +220,7 @@
       "name": "",
       "properties": {
         "monster": "cellcritter",
-        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"protectoratestudent\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
+        "parameters": "{\"behaviorConfig\": {\"deathActions\": [ { \"name\": \"action-projectile\" , \"parameters\": { \"projectileCount\": 1, \"projectileType\": \"protectoratestudentlist\", \"projectileParameters\": {}, \"aimDirection\": [0, 2], \"inaccuracy\": 0, \"fireOffset\": [0, 2] } } ] } , \"statusSettings\": { \"stats\": { \"healthRegen\": { \"baseValue\": -1 } } } }"
       },
       "rotation": 0,
       "type": "",
