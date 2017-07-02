@@ -1,0 +1,15 @@
+[
+  {
+    "op" : "test",
+    "path" : "/layers/5/objects/0/properties/typeName",
+    "value" : "bandit"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/5/objects/0/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"bandit\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+]
