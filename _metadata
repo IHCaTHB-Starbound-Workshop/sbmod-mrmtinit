@@ -2,7 +2,7 @@
   "author" : "IHCaTHB",
   "description" : "",
   "friendlyName" : "MRMT Initialization",
-  "includes" : [],
+  "includes" : [ "FrackinUniverse" ],
   "name" : "MRMTINIT.IHC",
   "requires" : [],
   "version" : "0.1"
