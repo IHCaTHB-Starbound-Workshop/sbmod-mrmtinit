@@ -1,5 +1,5 @@
 {
-  "projectileName" : "outpostcivilian",
+  "projectileName" : "outpostcivilianlist",
   "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
   "flippable" : true,
   "power" : 0,

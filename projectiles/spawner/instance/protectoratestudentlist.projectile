@@ -1,5 +1,5 @@
 {
-  "projectileName" : "protectoratestudent",
+  "projectileName" : "protectoratestudentlist",
   "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
   "flippable" : true,
   "power" : 0,
