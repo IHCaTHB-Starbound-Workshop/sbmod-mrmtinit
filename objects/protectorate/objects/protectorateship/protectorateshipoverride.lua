@@ -1,6 +1,7 @@
 
 function setSpecies(species)
-  storage.species = root.assetJson(string.format("/universe_server.config:mrmtRegistry.%s", species)) or species
-  animator.setGlobalTag( "species", storage.species or root.assetJson(string.format("/universe_server.config:mrmtRegistry.%s", species)) or species)
+  local registry = root.assetJson("/universe_server.config:mrmtRegistry")
+  storage.species = registry[species] or species
+  animator.setGlobalTag( "species", storage.species or registry[species] or species)
   return true
 end
