@@ -3,19 +3,5 @@
     "op": "add",
     "path": "/scripts/-",
     "value": "protectorateshipoverride.lua"
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig",
-    "value": {
-      "override": false,
-      "apex": "apex",
-      "avian": "avian",
-      "floran": "floran",
-      "glitch": "glitch",
-      "human": "human",
-      "hylotl": "floran",
-      "novakid": "novakid"
-    }
   }
 ]
