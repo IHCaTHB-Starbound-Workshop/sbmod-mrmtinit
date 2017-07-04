@@ -17,6 +17,14 @@
             "type" : [ "protectoratestudent" ]
           }
         ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "novakid" ],
+            "type" : [ "protectoratestudent" ]
+          }
+        ]
       }
     ]
   }
