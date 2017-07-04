@@ -1,12 +1,12 @@
 [[
   {
     "op" : "test",
-    "path" : "/mrmtRegistry"
+    "path" : "/mrmtRegistry",
     "inverse" : true
   },
   {
     "op" : "add",
-    "path" : "/mrmtRegistry"
+    "path" : "/mrmtRegistry",
     "value" : {}
   }
 ],[
@@ -17,7 +17,7 @@
   },
   {
     "op" : "add",
-    "path" : "/mrmtRegistry/apex"
+    "path" : "/mrmtRegistry/apex",
     "value" : "apex"
   }
 ],[
@@ -28,8 +28,8 @@
   },
   {
     "op" : "add",
-    "path" : "/mrmtRegistry/avian"
-    "value" : "avian"
+    "path" : "/mrmtRegistry/avian",
+    "value" : "floran"
   }
 ],[
   {
@@ -39,7 +39,7 @@
   },
   {
     "op" : "add",
-    "path" : "/mrmtRegistry/floran"
+    "path" : "/mrmtRegistry/floran",
     "value" : "floran"
   }
 ],[
@@ -50,8 +50,8 @@
   },
   {
     "op" : "add",
-    "path" : "/mrmtRegistry/glitch"
-    "value" : "glitch"
+    "path" : "/mrmtRegistry/glitch",
+    "value" : "apex"
   }
 ],[
   {
@@ -61,8 +61,8 @@
   },
   {
     "op" : "add",
-    "path" : "/mrmtRegistry/human"
-    "value" : "human"
+    "path" : "/mrmtRegistry/human",
+    "value" : "apex"
   }
 ],[
   {
@@ -72,8 +72,8 @@
   },
   {
     "op" : "add",
-    "path" : "/mrmtRegistry/hylotl"
-    "value" : "hylotl"
+    "path" : "/mrmtRegistry/hylotl",
+    "value" : "floran"
   }
 ],[
   {
@@ -83,8 +83,8 @@
   },
   {
     "op" : "add",
-    "path" : "/mrmtRegistry/novakid"
-    "value" : "novakid"
+    "path" : "/mrmtRegistry/novakid",
+    "value" : "apex"
   }
 ],[
   {
@@ -94,18 +94,18 @@
   },
   {
     "op" : "add",
-    "path" : "/mrmtRegistry/penguin"
+    "path" : "/mrmtRegistry/penguin",
     "value" : "penguin"
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtShipHold"
+    "path" : "/mrmtShipHold",
     "inverse" : true
   },
   {
     "op" : "add",
-    "path" : "/mrmtShipHold"
+    "path" : "/mrmtShipHold",
     "value" : {}
   }
 ],[
