@@ -1,0 +1,152 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/mrmtRegistry"
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtRegistry"
+    "value" : {}
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtRegistry/apex",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtRegistry/apex"
+    "value" : "apex"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtRegistry/avian",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtRegistry/avian"
+    "value" : "avian"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtRegistry/floran",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtRegistry/floran"
+    "value" : "floran"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtRegistry/glitch",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtRegistry/glitch"
+    "value" : "glitch"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtRegistry/human",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtRegistry/human"
+    "value" : "human"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtRegistry/hylotl",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtRegistry/hylotl"
+    "value" : "hylotl"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtRegistry/novakid",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtRegistry/novakid"
+    "value" : "novakid"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtRegistry/penguin",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtRegistry/penguin"
+    "value" : "penguin"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtShipHold"
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtShipHold"
+    "value" : {}
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtShipHold/apex",
+    "value" : ["/ships/apex/apexT0.structure", "/ships/apex/apexT1.structure", "/ships/apex/apexT2.structure", "/ships/apex/apexT3.structure", "/ships/apex/apexT4.structure", "/ships/apex/apexT5.structure", "/ships/apex/apexT6.structure", "/ships/apex/apexT7.structure", "/ships/apex/apexT8.structure"]
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtShipHold/avian",
+    "value" : ["/ships/avian/avianT0.structure", "/ships/avian/avianT1.structure", "/ships/avian/avianT2.structure", "/ships/avian/avianT3.structure", "/ships/avian/avianT4.structure", "/ships/avian/avianT5.structure", "/ships/avian/avianT6.structure", "/ships/avian/avianT7.structure", "/ships/avian/avianT8.structure"]
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtShipHold/floran",
+    "value" : ["/ships/floran/floranT0.structure", "/ships/floran/floranT1.structure", "/ships/floran/floranT2.structure", "/ships/floran/floranT3.structure", "/ships/floran/floranT4.structure", "/ships/floran/floranT5.structure", "/ships/floran/floranT6.structure", "/ships/floran/floranT7.structure", "/ships/floran/floranT8.structure"]
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtShipHold/glitch",
+    "value" : ["/ships/glitch/glitchT0.structure", "/ships/glitch/glitchT1.structure", "/ships/glitch/glitchT2.structure", "/ships/glitch/glitchT3.structure", "/ships/glitch/glitchT4.structure", "/ships/glitch/glitchT5.structure", "/ships/glitch/glitchT6.structure", "/ships/glitch/glitchT7.structure", "/ships/glitch/glitchT8.structure"]
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtShipHold/human",
+    "value" : ["/ships/human/humanT0.structure", "/ships/human/humanT1.structure", "/ships/human/humanT2.structure", "/ships/human/humanT3.structure", "/ships/human/humanT4.structure", "/ships/human/humanT5.structure", "/ships/human/humanT6.structure", "/ships/human/humanT7.structure", "/ships/human/humanT8.structure"]
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtShipHold/hylotl",
+    "value" : ["/ships/hylotl/hylotlT0.structure","/ships/hylotl/hylotlT1.structure", "/ships/hylotl/hylotlT2.structure", "/ships/hylotl/hylotlT3.structure", "/ships/hylotl/hylotlT4.structure", "/ships/hylotl/hylotlT5.structure", "/ships/hylotl/hylotlT6.structure", "/ships/hylotl/hylotlT7.structure", "/ships/hylotl/hylotlT8.structure"]
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtShipHold/novakid",
+    "value" : ["/ships/novakid/novakidT0.structure", "/ships/novakid/novakidT1.structure", "/ships/novakid/novakidT2.structure", "/ships/novakid/novakidT3.structure", "/ships/novakid/novakidT4.structure", "/ships/novakid/novakidT5.structure", "/ships/novakid/novakidT6.structure", "/ships/novakid/novakidT7.structure", "/ships/novakid/novakidT8.structure"]
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtShipHold/penguin",
+    "value" : ["/ships/novakid/novakidT0.structure", "/ships/novakid/novakidT1.structure", "/ships/novakid/novakidT2.structure", "/ships/novakid/novakidT3.structure", "/ships/novakid/novakidT4.structure", "/ships/novakid/novakidT5.structure", "/ships/novakid/novakidT6.structure", "/ships/novakid/novakidT7.structure", "/ships/novakid/novakidT8.structure"]
+  }
+]]
