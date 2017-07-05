@@ -196,6 +196,41 @@
   },
   {
     "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "A foe!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Have at thee!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I will not be easily overcome."
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "To battle!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I shall defeat this foe!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You have breathed your last!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Prepare to lose your life!"
+  },
+  {
+    "op": "add",
     "path": "/killedTarget/default/default/-",
     "value": "A respectable effort on their part."
   },
@@ -203,7 +238,7 @@
     "op": "add",
     "path": "/killedTarget/default/default/-",
     "value": "Easy work."
-  },
+  } /*,
   {
     "op": "add",
     "path": "/killedTarget/default/default/-",
@@ -343,5 +378,5 @@
     "op": "add",
     "path": "/cheerOn/default/default/-",
     "value": "Get the prey!"
-  }
+  } */
 ]

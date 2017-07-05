@@ -253,5 +253,30 @@
     "op": "add",
     "path": "/rent/default/default/-",
     "value": "That's for you, to do as you please with."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "You need me for something?"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Did you need me for a particular reason?"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here I am! What did you want to talk about?"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Did you want to chat?"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": Is this a social call?"
   }
 ]
