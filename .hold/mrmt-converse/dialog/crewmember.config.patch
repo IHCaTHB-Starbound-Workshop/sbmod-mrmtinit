@@ -1,0 +1,147 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/converse/default/default/0",
+    "value" : "I have nothing to say to you."
+  },
+  {
+    "op" : "remove",
+    "path" : "/converse/default/default/0"
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "So what is today's mission?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "It is very good to be here, my friend."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "This is true freedom."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "What do we have planned for today?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Adventure awaits!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "So, what's the next mission?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Adventure ahoy!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Flying through space, running into misadventure... This is the life!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Life aboard a spaceship... Is anything more exciting?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Don't worry, you'll be safe with me around!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "What lies next on the road ahead? Adventure, intrigue, pillaging? Not pillaging, right?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Our futures are unwritten, our fates set loose amongst the stars!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "There is poetry in battle. Perhaps I shall sing some verses soon!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Nothing calms the spirit more than travelling with friends."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Howdy!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You got a sharp eye. How about a shootin' match between you and I?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I got a mighty thirst for a shoot out. Hopefully we'll find ourselves some action."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm a wanderin' soul at heart, so this is the job for me!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Hey, big guy! I'll keep you safe, don't you worry!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Alright, biggun? In need of some security?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm a merc born and bred."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Adventure! Excitement! Dubloons!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm worth my fee, ask anyone."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "My gun's all shined up, ready for the next job."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I am the consummate professional."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Both my parents were mercenaries, and all four of their parents before them. I'm a pretty good pedigree."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Mercenary work runs in my family! You're safer with me around, no doubt about it!"
+  }
+]]

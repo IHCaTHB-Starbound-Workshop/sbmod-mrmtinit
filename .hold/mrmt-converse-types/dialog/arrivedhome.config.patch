@@ -1,0 +1,88 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/beacon/apexType",
+    "from" : "/beacon/apex"
+  },
+  {
+    "op" : "copy",
+    "path" : "/beacon/avianType",
+    "from" : "/beacon/avian"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/floranType",
+    "value": {
+      "default": [
+        "You need me?",
+        "You need me for sssomething?",
+        "Sssurprise, me is here!",
+        "You were sssearching for me?",
+        "Were you sssearching for me?"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/beacon/glitchType",
+    "from" : "/beacon/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/beacon/humanType",
+    "from" : "/beacon/human"
+  },
+  {
+    "op" : "copy",
+    "path" : "/beacon/hylotlType",
+    "from" : "/beacon/hylotl"
+  },
+  {
+    "op" : "copy",
+    "path" : "/beacon/novakidType",
+    "from" : "/beacon/novakid"
+  },
+  {
+    "op" : "copy",
+    "path" : "/rent/apexType",
+    "from" : "/rent/apex"
+  },
+  {
+    "op" : "copy",
+    "path" : "/rent/avianType",
+    "from" : "/rent/avian"
+  },
+  {
+    "op": "add",
+    "path": "/rent/floranType",
+    "value": {
+      "default": [
+        "Here isss a present for you!",
+        "Me got you a thing! Take it!",
+        "Me got you this to ssay thank you.",
+        "Me has a thing for you!",
+        "Me likes house, me ssay thank you with present."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/rent/glitchType",
+    "from" : "/rent/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/rent/humanType",
+    "from" : "/rent/human"
+  },
+  {
+    "op" : "copy",
+    "path" : "/rent/hylotlType",
+    "from" : "/rent/hylotl"
+  },
+  {
+    "op" : "copy",
+    "path" : "/rent/novakidType",
+    "from" : "/rent/novakid"
+  },
+]

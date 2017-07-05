@@ -1,0 +1,882 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "May the light of Kluex guide you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "A friendly stranger! Thanks be to Kluex."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Bless you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "By Kluex's wings! A visitor!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "By the sacred lands of Avos, it's good to meet you!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Don't worry, this isn't a time of sacrifice."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Good day."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Good to meet you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Have you met a Stargazer yet?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Hello there."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Hello, traveller."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Hello."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Hi!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Hope you're having a good day!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "How do you do?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I wish you a blessed day."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Kluex be with you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Kluex bless you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Kluex guide you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Let Kluex guide your travels."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "May Kluex bring you strength."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "May Kluex guide your hand in battle."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "May Kluex make you strong."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "May Kluex take you under his wing."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "May the mighty Kluex defend you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "May you Ascend to Kluex side."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "May you Ascend."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "May you find Kluex's light."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "May you walk in the light of Kluex."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "May your life be filled with light."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Nice to make your acquaintance!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Nice to meet you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Welcome to our village."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Welcome, visitor."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Why, hello."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Nice to meet you, traveller"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Good day, featherless one."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I expect the Grounded say bad things about us. Well I'd happily say bad things about them!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Are you a kind of warrior? Well done!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Bless you, may you find strength."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Bless you, pretty one."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "By Kluex's light!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Did Kluex send you?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Do you carry a copy of the Avoscript?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Do you have a soul?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Do you know how many verses are in the Avoscript? 'Cause it's a lot."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Do you take the opportunity to spread the light of Kluex when you travel?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Have you met a Stargazer yet? I'm not sure what they'd make of you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Have you ventured up the Celestial tower yet?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "How long since you witnessed a sacred sacrifice?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I don't think Kluex would approve of your race's pacifism."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I hope to become the next cycle's Ascendant! But I hope that every cycle..."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I hope you still find time to attend to your faith amongst all your adventuring."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I wonder if you could convert to Kluex worship?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I worry about the Grounded."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'd love to hunt with you sometime. I think it's an activity Kluex would approve of."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm honoured to meet you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm not sure how Kluex would feel about the Protectorate."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I've only read one book: the Avoscript. But I've read it A LOT of times."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "If you jumped off the Celestial tower, would you just flutter down like a leaf?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "If you're interested in learning about Kluex you should find a Stargazer, they're our leaders."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Kluex is a god of battle, but also of life, death, the seasons and harvest. He is the All God."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Nice to meet you, traveller."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "No feathers at all? Kluex have pity on you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Oh, um hello."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Oh... Um, so, do you believe in Kluex?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Perhaps you should talk to a Stargazer, they might help you get on the right path."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Sadly, Kluex doesn't welcome those without feathers."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "The Stargazers must hear about you!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "The Stargazers preach that Avians are the highest race, but you don't seem so lowly."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "This 'pacifism' is an interesting concept."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "We sacrificed several humans to Kluex two seasons ago."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You can never tell another soul, but sometimes I think maybe Kluex isn't so great."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You could probably build some metal wings..."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You do worship Kluex, don't you?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You haven't had your head turned by Grounded propaganda, have you?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You joined the Protectorate? How conducive is that to Kluex worship?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You look strong! Perhaps you could be an Ascendant one day!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You make me a little uncomfortable - whoever invented you was trying to play god."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You must be the work of Kluex!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You seem like a strong warrior, your family must be proud."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You shine like Avolite!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You should read the Avoscript!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You wouldn't be much good as a sacrifice, we'd just get oil all over the altar."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You're so beautiful!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You're strong! I suspect you're a good warrior."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You're surely the work of Kluex."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Your people are described as spiritual, and yet you have no gods... That confuses me."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "May Kluex's light guide you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "A friendly stranger! Thanks be to Kluex."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Bless you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "By Kluex's wings! A visitor!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "By the sacred lands of Avos, it's good to meet you!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Don't worry, this isn't a time of sacrifice."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Good day."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Good to meet you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Have you met a Stargazer yet?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Hello there."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Hello, traveller."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Hello."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Hi!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Hope you're having a good day!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "How do you do?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "I wish you a blessed day."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Kluex be with you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Kluex bless you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Kluex guide you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Let Kluex guide your travels."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "May Kluex bring you strength."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "May Kluex guide your hand in battle."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "May Kluex make you strong."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "May Kluex take you under his wing."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "May the mighty Kluex defend you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "May you Ascend to Kluex side."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "May you Ascend."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "May you find Kluex's light."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "May you walk in the light of Kluex."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "May your life be filled with light."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Nice to make your acquaintance!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Nice to meet you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Welcome to our village."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Welcome, visitor."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Why, hello."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Nice to meet you, traveller"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Good day, featherless one."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "I expect the Grounded say bad things about us. Well I'd happily say bad things about them!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Are you a kind of warrior? Well done!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Bless you, may you find strength."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Bless you, pretty one."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "By Kluex's light!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Did Kluex send you?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Do you carry a copy of the Avoscript?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Do you have a soul?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Do you know how many verses are in the Avoscript? 'Cause it's a lot."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Do you take the opportunity to spread the light of Kluex when you travel?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Have you met a Stargazer yet? I'm not sure what they'd make of you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Have you ventured up the Celestial tower yet?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "How long since you witnessed a sacred sacrifice?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "I don't think Kluex would approve of your race's pacifism."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "I hope to become the next cycle's Ascendant! But I hope that every cycle..."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "I hope you still find time to attend to your faith amongst all your adventuring."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "I wonder if you could convert to Kluex worship?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "I worry about the Grounded."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "I'd love to hunt with you sometime. I think it's an activity Kluex would approve of."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "I'm honoured to meet you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "I'm not sure how Kluex would feel about the Protectorate."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "I've only read one book: the Avoscript. But I've read it A LOT of times."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "If you jumped off the Celestial tower, would you just flutter down like a leaf?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "If you're interested in learning about Kluex you should find a Stargazer, they're our leaders."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Kluex is a god of battle, but also of life, death, the seasons and harvest. He is the All God."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Nice to meet you, traveller."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "No feathers at all? Kluex have pity on you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Oh, um hello."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Oh... Um, so, do you believe in Kluex?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Perhaps you should talk to a Stargazer, they might help you get on the right path."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Sadly, Kluex doesn't welcome those without feathers."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "The Stargazers must hear about you!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "The Stargazers preach that Avians are the highest race, but you don't seem so lowly."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "This 'pacifism' is an interesting concept."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "We sacrificed several humans to Kluex two seasons ago."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You can never tell another soul, but sometimes I think maybe Kluex isn't so great."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You could probably build some metal wings..."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You do worship Kluex, don't you?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You haven't had your head turned by Grounded propaganda, have you?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You joined the Protectorate? How conducive is that to Kluex worship?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You look strong! Perhaps you could be an Ascendant one day!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You make me a little uncomfortable - whoever invented you was trying to play god."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You must be the work of Kluex!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You seem like a strong warrior, your family must be proud."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You shine like Avolite!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You should read the Avoscript!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You wouldn't be much good as a sacrifice, we'd just get oil all over the altar."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You're so beautiful!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You're strong! I suspect you're a good warrior."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "You're surely the work of Kluex."
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/default/-",
+    "value": "Your people are described as spiritual, and yet you have no gods... That confuses me."
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You called?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Is there something you need?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You wanna talk?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Hi! What's up?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You want something?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Hey, nice to see you. You just want a chat?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Hello there, what can I help you with?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Did you need me for anything?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Hi, what did you need me for?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Hello again, how's it going?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "What have you called me for?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You need me for something, my friend?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You needed me and I came, what can I do for you?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "What is it, my friend?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You wanted to talk to me?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "What would you like to discuss?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Salutations! What did you need to discuss?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "How pleasant to be invited to talk."
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You were hoping to speak to me?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Did you need me for anything in particular?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Somethin' on your mind?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "What can I do for ya'?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You needin' to talk about something?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "What you need to talk about?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You called and I came a-running."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "I thought you might like this!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here's a gift, for all your help."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "I got this for you. You can take it, or not. It's up to you."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here's something for your troubles!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Hey! Here's a present!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here's a little thank you gift for you."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here is a token of my gratitude."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here - I brought a gift for your troubles."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "You look like you could use a present. Take this."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "I bought a gift for you to say thank you, I hope you like it."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "I hope you like the gift!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Please accept this gift, for all your help."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "This is a good, safe home. I brought you a gift to say thank you."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "This present is for you, to say thank you."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "This is a good home. Here is a thank you present."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "For all you have done, take this."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "My home is as peaceful as I could hope for. Here is a gift for all you have done."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "May this gift ease your troubles as you have eased mine."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "For all you have done for me, please accept this humble gift in thanks."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Please accept this gift with my gratitude."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "I hope this humble gift conveys my appreciation for your help."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here's a little somethin' for your troubles. Thank you kindly."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "It's a mighty fine place you've helped me secure. I gotta thank you for it."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Thanks for helping me get by. You've earned this."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Don't know how to thank you properly, but for now take this."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "That's for you, to do as you please with."
+  }
+]

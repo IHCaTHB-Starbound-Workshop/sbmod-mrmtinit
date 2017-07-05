@@ -1,0 +1,213 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/tagCriteria/apexType",
+    "from" : "/tagCriteria/apex"
+  },
+  {
+    "op" : "copy",
+    "path" : "/tagCriteria/avianType",
+    "from" : "/tagCriteria/avian"
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/floranType",
+    "value": {
+      "default": [
+        "Ssstop taking away my nice ssstuff.",
+        "Put its home back how it wasss.",
+        "Its house was great before. Make it right again!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/tagCriteria/glitchType",
+    "from" : "/tagCriteria/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/tagCriteria/humanType",
+    "from" : "/tagCriteria/human"
+  },
+  {
+    "op" : "copy",
+    "path" : "/tagCriteria/hylotlType",
+    "from" : "/tagCriteria/hylotl"
+  },
+  {
+    "op" : "copy",
+    "path" : "/tagCriteria/novakidType",
+    "from" : "/tagCriteria/novakid"
+  },
+  {
+    "op" : "copy",
+    "path" : "/enclosedArea/apexType",
+    "from" : "/enclosedArea/apex"
+  },
+  {
+    "op" : "copy",
+    "path" : "/enclosedArea/avianType",
+    "from" : "/enclosedArea/avian"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/floranType",
+    "value": {
+      "default": [
+        "Please fix its wallsss.",
+        "Its house is broken. Can you fix it?",
+        "Me likess walls without holes. Can you fix its house?"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/enclosedArea/glitchType",
+    "from" : "/enclosedArea/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/enclosedArea/humanType",
+    "from" : "/enclosedArea/human"
+  },
+  {
+    "op" : "copy",
+    "path" : "/enclosedArea/hylotlType",
+    "from" : "/enclosedArea/hylotl"
+  },
+  {
+    "op" : "copy",
+    "path" : "/enclosedArea/novakidType",
+    "from" : "/enclosedArea/novakid"
+  },
+  {
+    "op" : "copy",
+    "path" : "/otherDeed/apexType",
+    "from" : "/otherDeed/apex"
+  },
+  {
+    "op" : "copy",
+    "path" : "/otherDeed/avianType",
+    "from" : "/otherDeed/avian"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/floranType",
+    "value": {
+      "default": [
+        "Me needs all this space, not sharing with some random ssstranger.",
+        "If you move in sssomeone else, me will eat them.",
+        "Its not sharing home! Take ssecond deed down."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/otherDeed/glitchType",
+    "from" : "/otherDeed/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/otherDeed/humanType",
+    "from" : "/otherDeed/human"
+  },
+  {
+    "op" : "copy",
+    "path" : "/otherDeed/hylotlType",
+    "from" : "/otherDeed/hylotl"
+  },
+  {
+    "op" : "copy",
+    "path" : "/otherDeed/novakidType",
+    "from" : "/otherDeed/novakid"
+  },
+  {
+    "op": "add",
+    "path": "/severe/apexType",
+    "value": {
+      "default": [
+        "Look at this place! Fix my home, or I leave.",
+        "I cannot cope with your indifference much longer...",
+        "It is foolish to ignore me. I suggest you fix up my home."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/severe/avianType",
+    "from" : "/severe/avian"
+  },
+  {
+    "op": "add",
+    "path": "/severe/floranType",
+    "value": {
+      "default": [
+        "Me can't live like thisss!",
+        "Me is angry, fix its house.",
+        "You sssstill haven't fixed things in its house!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/severe/glitchType",
+    "from" : "/severe/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/severe/humanType",
+    "from" : "/severe/human"
+  },
+  {
+    "op" : "copy",
+    "path" : "/severe/hylotlType",
+    "from" : "/severe/hylotl"
+  },
+  {
+    "op" : "copy",
+    "path" : "/severe/novakidType",
+    "from" : "/severe/novakid"
+  },
+  {
+    "op" : "copy",
+    "path" : "/final/apexType",
+    "from" : "/final/apex"
+  },
+  {
+    "op" : "copy",
+    "path" : "/final/avianType",
+    "from" : "/final/avian"
+  },
+  {
+    "op": "add",
+    "path": "/final/floranType",
+    "value": {
+      "default": [
+        "That'sss it, me is leaving!",
+        "Me givess up! Me can't live like this!",
+        "Me iss going, can't live here anymore!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/final/glitchType",
+    "from" : "/final/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/final/humanType",
+    "from" : "/final/human"
+  },
+  {
+    "op" : "copy",
+    "path" : "/final/hylotlType",
+    "from" : "/final/hylotl"
+  },
+  {
+    "op" : "copy",
+    "path" : "/final/novakidType",
+    "from" : "/final/novakid"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/helpme/apexType",
+    "from" : "/helpme/apex"
+  },
+  {
+    "op" : "copy",
+    "path" : "/helpme/avianType",
+    "from" : "/helpme/avian"
+  },
+  {
+    "op": "add",
+    "path": "/helpme/floranType",
+    "value": {
+      "default": [
+        "Ow! Stop it!",
+        "Sstop hurting me!",
+        "Me needs sspear!",
+        "Me not ready for hunt!",
+        "Me has no ssspear! Me can't stab!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/helpme/glitchType",
+    "from" : "/helpme/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/safe/avianType",
+    "from" : "/safe/avian"
+  },
+  {
+    "op": "add",
+    "path": "/safe/floranType",
+    "value": {
+      "default": [
+        "Me sssafe!",
+        "Me lives to hunt another day.",
+        "Them lucky me not have weapon...",
+        "Me go get spear now.",
+        "Me livesss!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/safe/glitchType",
+    "from" : "/safe/glitch"
+  }
+]

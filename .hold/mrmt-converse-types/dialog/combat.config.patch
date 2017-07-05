@@ -1,0 +1,212 @@
+[
+  {
+    "op": "add",
+    "path": "/reattack/floranType",
+    "value": {
+      "default": [
+        "Me furiousss you came back!",
+        "Hello again, prey.",
+        "You came back again!?",
+        "Me will ssstop you this time!",
+        "The prey came back!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/reattack/glitchType",
+    "from" : "/reattack/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/attack/apexType",
+    "from" : "/attack/apex"
+  },
+  {
+    "op" : "copy",
+    "path" : "/attack/avianType",
+    "from" : "/attack/avian"
+  },
+  {
+    "op": "add",
+    "path": "/attack/floranType",
+    "value": {
+      "default": [
+        "Sssupper!",
+        "Time to ssstab! Time to shoot!",
+        "Hunt the prey!",
+        "Get it!",
+        "Ssstab it! Shoot it!",
+        "Catch it! Eat it!",
+        "Me hunt!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/attack/glitchType",
+    "from" : "/attack/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/attack/humanType",
+    "from" : "/attack/human"
+  },
+  {
+    "op" : "add",
+    "path" : "/attack/hylotlType",
+    "from" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/attack/hylotlType/default",
+    "from" : "/attack/hylotl/default"
+  },
+  {
+    "op" : "copy",
+    "path" : "/attack/novakidType",
+    "from" : "/attack/novakid"
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/apexType",
+    "value": {
+      "default": [
+        "Target subdued.",
+        "Area secure.",
+        "Problem solved.",
+        "It is so unwise to mess with me.",
+        "Threat neutralised.",
+        "The enemy has been dealt with.",
+        "Target dispatched.",
+        "Target down!",
+        "All done. I think I've earned a treat.",
+        "The target has been neutralised!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/avianType",
+    "value": {
+      "default": [
+        "Never challenge me.",
+        "You'll never defeat a true warrior.",
+        "My antagonists are so readily subdued...",
+        "I was born to win this battle.",
+        "I didn't even lose a feather.",
+        "That's the consequence of engaging me in battle.",
+        "A respectable effort on their part.",
+        "Easy work."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/floranType",
+    "value": {
+      "default": [
+        "That was fun. What should me do now..?",
+        "Me is the best hunter in hissstory!",
+        "Now me has nothing to do...",
+        "Me winsss!",
+        "Me isss the best!",
+        "That was fun!",
+        "Did it!",
+        "Me enjoyed that."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/killedTarget/glitchType",
+    "from" : "/killedTarget/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/killedTarget/humanType",
+    "from" : "/killedTarget/human"
+  },
+  {
+    "op" : "copy",
+    "path" : "/killedTarget/hylotlType",
+    "from" : "/killedTarget/hylotl"
+  },
+  {
+    "op" : "copy",
+    "path" : "/killedTarget/novakidType",
+    "from" : "/killedTarget/novakid"
+  },
+  {
+    "op": "add",
+    "path": "/lostTarget/floranType",
+    "value": {
+      "default": [
+        "Me will go hunt ssomething else.",
+        "When they get back, they'll get a ssstabbing...",
+        "Me will find ssomeone else to chase.",
+        "Me's not given up! Just not sure what to do next...",
+        "Me hungry... maybe prey come back."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/lostTarget/glitchType",
+    "from" : "/lostTarget/glitch"
+  },
+  {
+    "op": "add",
+    "path": "/outOfSight/floranType",
+    "value": {
+      "default": [
+        "Me iss good hunter! Prey won't sstay hidden for long!",
+        "Me sstill smells the prey!",
+        "Wily prey is hiding!",
+        "... me can't find you.",
+        "Where is the ssneaky thing?"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/outOfSight/glitchType",
+    "from" : "/outOfSight/glitch"
+  },
+  {
+    "op": "add",
+    "path": "/cantReach/floranType",
+    "value": {
+      "default": [
+        "They're too far away to ssstab!",
+        "Me can't reach!",
+        "Come clossser!",
+        "Trickssy prey is out of reach!",
+        "Me not clossse enough!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/cantReach/glitchType",
+    "from" : "/cantReach/glitch"
+  },
+  {
+    "op": "add",
+    "path": "/cheerOn/floranType",
+    "value": {
+      "default": [
+        "Sssave some for me!",
+        "Get the prey!",
+        "Me is so happy to be part of thiss.",
+        "Get it!",
+        "Me excited!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/cheerOn/glitchType",
+    "from" : "/cheerOn/glitch"
+  }
+]

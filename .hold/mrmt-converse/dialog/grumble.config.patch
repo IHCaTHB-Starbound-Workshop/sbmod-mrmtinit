@@ -1,0 +1,362 @@
+[
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Things have changed... Either you've messed things up, or I'm being haunted."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "The arrangement of my house has changed, this isn't alright..."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Has something moved in here? It feels off..."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Um, this isn't what my home was like before..."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "I don't like this, can you put things back how they were?"
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Please put my things back where they were."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "These changes are unsettling, please put my things back."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Stop taking things... You need to fix my home now."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "I need you to put things back where you got them please."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Something is unbalanced in the flow of my home..."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Please return what you've taken."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "There is something disquieting about the current layout of my home..."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Somethin's up round here..."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "This ol' place don't feel right just now. You been messin' around in here."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "It ain't right to go stealin' from a person. Now, you just return what you took."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "My home could use some repairs..."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "Can you sort out the damage in here?"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "I need some repairs done!"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "Would you mind fixing my walls?"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "I'd really appreciate if you could repair the damages to my home."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "Hmm, this damage isn't great. Could you fix it?"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "There is a hole in my house..."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "I need you to mend my walls before the roof falls in on top of us."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "Please fix up these walls, the house is no good to me like this."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "My home is open to the elements, I'd be grateful if you'd mend the damage."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "I would be incredibly grateful if you could mend my walls."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "I noticed a damaged wall here, perhaps you could assist with repairs?"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "I'm not the only one feelin' a breeze in here, am I?"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "This place has got more holes in it than a sheriff at a shoot out."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "Looks like you set a crazed capricoat loose in here! You gonna fix up these walls?"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "I thought this was single tenancy!? I can't share my home!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Are you trying to have someone move in here?!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Why did you place another deed here?!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Why's someone else trying to move into my house?"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Did you put my house up for rent? This must be a mistake..."
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "There's another deed in my house - Surely this isn't intentional."
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Why is there another deed here? What are you trying to pull?"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "This is my home. I rent it from you. You can not move someone else in."
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "It is not ok to do this. I will not share my home."
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "I don't wish to share my home with a stranger."
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Passive or not, I cannot stand by as you ensconce a second tenant in my home."
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "There is another deed in my home? Surely a mistake has been made?"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "This here's my land, don't make no sense to go movin' someone else in here."
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "This ol' haunt ain't for sharing. Better take that second deed down."
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "This is my house dagnabbit, I ain't sharing it with no one."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "Living here is pretty horrible right now..."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "It's impossible to live like this!"
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "This has gone too far, I need you to fix things!"
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "I can't put up with this much longer - look at the state of my home."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "My usually resilient patience is beginning to wear thin. Fix my home."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "Look at this place! Fix my home, or I leave."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "I cannot cope with your indifference much longer..."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "My requests are left unanswered, my entreaties fall on deaf ears... Shameful. "
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "These conditions are deplorable, and your behaviour reprehensible."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "This is simply disgraceful, I demand you fix my house."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "Seems to me you might wanna fix this shack up 'fore I leave."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "Well ain't this place mighty disappointin'... You fixin' to fix it or what?"
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "This shack ain't what it used to be. You better make it right."
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "That's it, I give up. Time to leave!"
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I give up, I'm moving out!"
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "Enough is enough. I deserve a proper home."
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "That's it. I'm leaving. I can't stand living here anymore."
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I try to be respectful of others, it's a shame you don't make the same effort."
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I moved here for a better life... What a disappointment."
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I deserve better living conditions than this!"
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "That's it. I must leave. You are a terrible landlord."
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I can't abide this any longer. I'm going."
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I've lost all respect for you. I hope one day you will see the error of your ways."
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "These surroundings are detrimental to my very being. I must leave."
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I'd be better off beddin' down in a nest of crutters than stickin' round here."
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I'd rather sleep on a cactus than stay here one more night."
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "Crimany! This place is a mess! Time I skedaddle."
+  }
+]

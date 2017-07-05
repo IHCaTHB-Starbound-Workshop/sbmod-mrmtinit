@@ -1,0 +1,187 @@
+[
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "You know, the consequences for stealing are quite severe."
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "How can you justify this thievery?"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "Why are you taking things that aren't yours?"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "Stop that! Why are you stealing these things!?"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "These things don't belong to you!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "Will you really be able to enjoy something if you acquired it by theft?"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "Please don't take things from us."
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "That's not yours!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "Stealing isn't a victimless crime you know."
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "Hey! That stuff doesn't belong to you!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "What're you playing at? You can't go about stealing!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "What!? What are you doing!? That's theft!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "Woa woa woa, who told you you could take that?"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "That's not okay! Stop stealing!!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "Please cease this thievery at once!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "It's wrong to take what is not yours!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "Shame on you, these items are not yours to take!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "This thievery is an indictment of your character."
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "I plead with you to desist, please stop stealing from us!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Guards! Stop this criminal!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "You're a thief! Guards, come quickly!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "The guards will stop your thievery!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Guards! Catch this thief!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Stop stealing! Guards, help!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Thievery! Guards!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "I will not suffer a crook! Guards!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Things are being stolen! Guards, come quickly!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "You must stop taking things! Guards!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Stop pilfering! Guards, help!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Guards! Catch this terrible robber!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Ah! Guards, catch that thief!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Oh no, oh no! A Robber! Guards!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Guards, capture this criminal!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Burglar! Crook! Thief! Guards, I need you!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Larceny! Guards, help!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "This will not be endured! Guards, catch this thief!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Guards, capture this miscreant!"
+  }
+]

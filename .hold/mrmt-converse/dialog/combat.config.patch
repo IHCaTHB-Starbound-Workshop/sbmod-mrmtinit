@@ -1,0 +1,347 @@
+[
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Hostiles!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Engaging hostiles!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Hostiles attacking!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Assemble formation!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Hostile activity!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Engaging hostiles! Send reinforcements!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Enemy engaged!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Hunt the prey!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Get it!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "There is honour in battle."
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Begin the dance of war!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I wield the might of the storm!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You'd do better to fight the maelstrom than to fight me."
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I shall strike like lightning!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I will rain down a torrent upon you."
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I will fight with honour!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You're dead meat!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Let's get this over with!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You don't have a snowflakes chance on a magma planet!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I'm not much of a fighter..."
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Uh-oh..."
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I don't go down so easy!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "How do I keep ending up in situations like this?"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Let's get this over with..."
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Be warned, I put up a fight!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Let's do this!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You won't know what hit you!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Time for an ol'-fashioned showdown!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Yee-haw, here we go!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "let's ride!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Yer feelin' lucky, punk?"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Time for a ruckus!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Fill your hands!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "If you're lookin' for trouble, then I'm your huckleberry!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I ain't got time for this!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I'm a sharper shot than you, friend!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "This ain't my first rodeo!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Bang!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "We don't want no trouble round here!"
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "A respectable effort on their part."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "Easy work."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "You'll never defeat a true warrior."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "My antagonists are so readily subdued..."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "I was born to win this battle."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "I didn't even lose a feather."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "The target has been neutralised!"
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "Threat neutralised."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "The enemy has been dealt with."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "Target dispatched."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "Target down!"
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "Target subdued."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "Area secure."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "Problem solved."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "The battle is over..."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "What's done is done."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "Now I have defeated my foe, I must reflect on this battle."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "An honourable victory."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "A noble victory in the defense of my culture."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "It is done."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "I have served my people."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "That was fun!"
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "Did it!"
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "I need a glass o' root pop after all that."
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "I'm a natural winner at fightin', what can I say?"
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "Well wasn't that a right ol' rodeo?"
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/default/default/-",
+    "value": "Yee-haw! That was somethin'."
+  },
+  {
+    "op": "add",
+    "path": "/outOfSight/default/default/-",
+    "value": "Wily prey is hiding!"
+  },
+  {
+    "op": "add",
+    "path": "/cheerOn/default/default/-",
+    "value": "Get it!"
+  },
+  {
+    "op": "add",
+    "path": "/cheerOn/default/default/-",
+    "value": "Get the prey!"
+  }
+]

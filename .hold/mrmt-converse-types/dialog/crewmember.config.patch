@@ -1,0 +1,43 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/converse/apexType",
+    "from" : "/converse/apex"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/avianType",
+    "from" : "/converse/avian"
+  },
+  {
+    "op": "add",
+    "path": "/converse/floranType",
+    "value": {
+      "default": [
+        "Me likess to hunt among the sstars.",
+        "Me isss very professional!",
+        "Me isss eager to sstab things soon!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/glitchType",
+    "from" : "/converse/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/humanType",
+    "from" : "/converse/human"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/hylotlType",
+    "from" : "/converse/hylotl"
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/novakidType",
+    "from" : "/converse/novakid"
+  }
+]

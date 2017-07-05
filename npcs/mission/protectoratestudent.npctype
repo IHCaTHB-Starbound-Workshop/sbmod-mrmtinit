@@ -22,7 +22,37 @@
       "converse" : {
         "default" : {
           "default" : [
-            "..."
+            "The ceremony is going to start any minute now.",
+            "Leda Portia is an honourable Grand Protector. She truly believes we can keep the universe safe.",
+            "The life of a Protector will not always be easy, but know that you are part of a great cause.",
+            "Hopefully nobody notices the coffee stains on my uniform...",
+            "Hey <entityname>! I was wondering if you were going to show up or not.",
+            "Did you sleep through your SAIL alarms? That is so you.",
+            "You don't look half bad, for having just woken up!",
+            "I came here early to make sure I wouldn't miss the ceremony.",
+            "I've been waiting here for hours...",
+            "Surely my dedication to timeliness will be recognized.",
+            "Off to a bit of a late start, aren't you <entityname>?",
+            "Congratulations on your graduation, my friend. You've earned it.",
+            "Soon you'll be a real Protector, with your very own Matter Manipulator. Must be exciting!",
+            "I hear that those Matter Manipulators can disassemble all kinds of materials."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "Not many Florans become Protectorsss. Floran is proud to be chosen!",
+            "Floran regretss drinking five Oculemonades for breakfast...",
+            "Floran hopess there will be time for a toilet break."
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Eager. My very own Matter Manipulator. I figuratively cannot wait.",
+            "Nervous. Do my bolts look big in this?",
+            "Pleased. I am glad I ironed my uniform this morning.",
+            "Nervous. Do I look ok? I polished my head this morning.",
+            "Regretful. Maybe I should have oiled my joints this morning.",
+            "Embarassed. Hopefully nobody notices the coffee stains on my uniform..."
           ]
         }
       }

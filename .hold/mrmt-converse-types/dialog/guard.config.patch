@@ -1,0 +1,84 @@
+[
+  {
+    "op": "add",
+    "path": "/hail/apexType",
+    "value": {
+      "default": [
+        "Stay silent, traveller, and do not cause any trouble.",
+        "We are watching you.",
+        "Acts of aggression will not be tolerated.",
+        "Every act has repercussions.",
+        "Mouth shut, eyes forward."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hail/avianType",
+    "value": {
+      "default": [
+        "Don't try me.",
+        "If we fight, you will lose.",
+        "I'm afraid I must ask you to move along.",
+        "I hope your time here is pleasant.",
+        "Just try not to put a cat amongst the pigeons.",
+        "You're welcome here, as long as you respect our home.",
+        "I can't spar right now...",
+        "I hope we can get along.",
+        "As long as you don't break anything or kill anyone, you are welcome here.",
+        "We have been great warriors since time immemorial."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hail/floranType",
+    "value": {
+      "default": [
+        "Sstay out of trouble.",
+        "Me does not like your face.",
+        "No ssilliness.",
+        "Behave yourssself.",
+        "Me wantsss to stab sssomething...",
+        "Me is hungry...",
+        "Give me a reassson.",
+        "Don't tempt me.",
+        "Keep moving, sstranger.",
+        "Troublemakers are tasty."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/hail/glitchType",
+    "from" : "/hail/glitch"
+  },
+  {
+    "op" : "copy",
+    "path" : "/hail/humanType",
+    "from" : "/hail/human"
+  },
+  {
+    "op": "add",
+    "path": "/hail/hylotlType",
+    "value": {
+      "default": [
+        "Let us be peaceful, and have tranquility reign over our encounter.",
+        "I hope that we can each keep our steel sheathed and chambered.",
+        "Walk well, stranger.",
+        "We ask only that you behave respectfully within our jurisdiction.",
+        "Cross me and I will be forced to strike.",
+        "I hope the serenity of our surroundings will influence your actions.",
+        "Our warriors are trained from birth.",
+        "I ask that you do not blemish this place with unnecessary aggression.",
+        "Do not test me.",
+        "Welcome, stranger. Are you here to admire our culture?"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/hail/novakidType",
+    "from" : "/hail/novakid"
+  }
+]

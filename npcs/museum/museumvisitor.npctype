@@ -13,7 +13,8 @@
         "default" : {
           "default" : [
             "How old do you think all of these things are?",
-            "This is an impressive collection! I wonder who acquired these pieces?"
+            "This is an impressive collection! I wonder who acquired these pieces?",
+            "How long do you suppose this collection took to put together?"
           ]
         },
         "apex" : {
