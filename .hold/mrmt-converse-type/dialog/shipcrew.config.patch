@@ -1,0 +1,104 @@
+[
+  {
+    "op" : "add",
+    "path" : "mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/converse",
+    "from" : "/converse"
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/apex/apex"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/converse/apex/default",
+    "value": [
+      "Are you a member of the Terrene Protectorate? We used to deliver shipments for them, until... Recently.",
+      "A life on a spacefaring vessel is great.",
+      "I would rather be here maintaining cargo than stuck on some planet",
+      "I'm trying to live a quiet life.",
+      "It is difficult to maintain a beard when you spend so long maintaining a spaceship."
+    ]
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/avian/avian"
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/floran/floran"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/converse/floran/default",
+    "value": [
+      "Me hasss steady job on ship! Me jussst has to not eat anyone.",
+      "Me secretly afraid of heights. Ship isss ssscary.",
+      "Me doesssn't get to hunt much in ssspace. Sssad.",
+      "Did you come jussst to say hi to me?",
+      "Me not made for ssspace travel. Me always feeling sssick."
+    ]
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/glitch/glitch"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/converse/human",
+    "value": {
+      "human": [
+        "You aren't ex-USCM, are you? No? Phew.",
+        "Hey, a visitor? We don't get many visitors way out here! Stay a while!",
+        "Do you have your own ship? That's pretty cool!",
+        "Wow, I, uh, didn't expect to see anyone new around here.",
+        "Did you come all the way out into deep space just to meet us? That's awesome!",
+        "You're welcome to stick around for a while, but don't make a mess - I just finished tidying."
+      ],
+      "default": [
+        "Hey, a visitor? We don't get many visitors way out here! Stay a while!",
+        "Do you come in peace?",
+        "Do you have your own ship? That's pretty cool!",
+        "Wow, I, uh, didn't expect to see anyone new around here.",
+        "Did you come all the way out into deep space just to meet us? That's awesome!",
+        "You're welcome to stick around for a while, but don't make a mess - I just finished tidying."
+      ]
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/hylotl/hylotl"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/converse/hylotl/default",
+    "value": [
+      "Maintaining the integrity of the hull is an important priority aboard this ship.",
+      "Sailing through the stars makes me feel like a fish swimming through a vast, endless ocean.",
+      "When you fly your ship out into the great unknown... There is no feeling like it, is there?",
+      "Alone among stars.\nIn a sea of endless night.\nTogether we sail.",
+      "What do you think waits for us, out there in the stars?"
+    ]
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/novakid/novakid"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/converse/oldTimey",
+    "value": {
+      "default": [
+        "The low-moisture atmosphere on board this ship is good for preventing mildew.",
+        "Maintaining a spaceship is mind-numbing work - I want to play a game of chess!",
+        "I think I frayed me cuffs after moving heavy cargo around...",
+        "I didn't know space travel even existed for many years. Isn't it exciting?",
+        "We don't get visitors often! Are you staying for long?"
+      ]
+    }
+  }
+]
