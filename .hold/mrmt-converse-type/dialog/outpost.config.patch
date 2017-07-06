@@ -145,14 +145,9 @@
     }
   },
   {
-    "op" : "add",
-    "path" : "/mrmtType/flee",
-    "value" : {}
-  },
-  {
     "op" : "copy",
-    "path" : "/mrmtType/flee/helpme",
-    "from" : "/flee/helpme"
+    "path" : "/mrmtType/flee",
+    "from" : "/flee"
   },
   {
     "op": "add",
@@ -180,11 +175,6 @@
     }
   },
   {
-    "op" : "copy",
-    "path" : "/mrmtType/flee/helpthem",
-    "from" : "/flee/helpthem"
-  },
-  {
     "op": "add",
     "path": "/mrmtType/flee/helpthem/oldTimey",
     "value": {
@@ -210,11 +200,6 @@
     }
   },
   {
-    "op" : "copy",
-    "path" : "/mrmtType/flee/encourage",
-    "from" : "/flee/encourage"
-  },
-  {
     "op": "add",
     "path": "/mrmtType/flee/encourage/oldTimey",
     "value": {
@@ -236,11 +221,6 @@
         "Ssslice them!"
       ]
     }
-  },
-  {
-    "op" : "copy",
-    "path" : "/mrmtType/flee/safe",
-    "from" : "/flee/safe"
   },
   {
     "op": "add",

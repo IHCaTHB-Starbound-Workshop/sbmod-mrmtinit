@@ -6,8 +6,8 @@
   },
   {
     "op" : "copy",
-    "path" : "/mrmtType/safe",
-    "from" : "/safe"
+    "path" : "/mrmtType/helpme",
+    "from" : "/helpme"
   },
   {
     "op": "add",
