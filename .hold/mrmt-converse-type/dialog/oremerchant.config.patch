@@ -1,0 +1,130 @@
+[
+  {
+    "op" : "add",
+    "path" : "mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/tagCriteria",
+    "from" : "/tagCriteria"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/tagCriteria/oldTimey",
+    "value": {
+      "default": [
+        "My store is different.",
+        "I liked my store before it was changed.",
+        "I wish my store was how it used to be."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/enclosedArea",
+    "from" : "/enclosedArea"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/enclosedArea/oldTimey",
+    "value": {
+      "default": [
+        "The damage to my store is going to turn off customers.",
+        "Broken walls might be turning away potential customers.",
+        "Can you fix my store before it gets worse?"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/otherDeed",
+    "from" : "/otherDeed"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/otherDeed/oldTimey",
+    "value": {
+      "default": [
+        "Are you trying to move another merchant into my store?",
+        "How come someone else is trying to move in?",
+        "I thought I had this shop exclusively for myself."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/severe",
+    "from" : "/severe"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/severe/oldTimey",
+    "value": {
+      "default": [
+        "I wish to sell my wares, but it is difficult under these circumstances.",
+        "I wish my requests were listened to.",
+        "The fixes to my store haven't been made yet."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/final",
+    "from" : "/final"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/final/oldTimey",
+    "value": {
+      "default": [
+        "Time to find a better shop to sell my wares.",
+        "I deserve a better shop to do business with.",
+        "With these conditions, it is time that I left to sell somewhere else."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/beacon",
+    "from" : "/beacon"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/beacon/oldTimey",
+    "value": {
+      "default": [
+        "Did you need to buy something, or perhaps sell something?",
+        "Did you want to chat or buy things from me?",
+        "Did you just come to say hello?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/beacon/avian",
+    "value": {
+      "default": [
+        "Did you wish to do business?",
+        "Hello again, friend!",
+        "I am always glad to see a friendly face."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/rent",
+    "from" : "/rent"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/rent/oldTimey",
+    "value": {
+      "default": [
+        "Here is a gift for your assistance with my business.",
+        "I got you a gift for helping me with my store.",
+        "I hope you like the gift I picked up for you whilst trading!"
+      ]
+    }
+  }
+]
