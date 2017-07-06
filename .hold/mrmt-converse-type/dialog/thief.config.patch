@@ -1,0 +1,69 @@
+[
+  {
+    "op" : "add",
+    "path" : "mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/accuse",
+    "from" : "/accuse"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/accuse/floran",
+    "value": {
+      "default": [
+        "Ssstop stealing its stuff!",
+        "That isn't yoursss!",
+        "Me won't put up with sstealing!",
+        "Me iss not impressed! Stop stealing!",
+        "Bad sstranger! Stealing will be punished!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/accuse/oldTimey",
+    "value": {
+      "default": [
+        "You are stealing!",
+        "You are taking things that aren't yours!",
+        "I assumed you were a nice person, not a thief.",
+        "Those aren't yours, why are you taking them?",
+        "A thief!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/alert",
+    "from" : "/alert"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/alert/floran",
+    "value": {
+      "default": [
+        "Guardsss! Me found a thief!",
+        "The guards will hunt you down for thiss!",
+        "You are a criminal! Guardsss!",
+        "Me won't let you get away with thiss! Guardsss!",
+        "That'ss it - it's telling guards on you!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/alert/oldTimey",
+    "value": {
+      "default": [
+        "Guards, seize this criminal!",
+        "Guards, guards! A thief!",
+        "How can you do this!? Guards, help!",
+        "You thieving scoundrel! Guards!",
+        "Stop this thievery! Guards, help me!"
+      ]
+    }
+  }
+]
