@@ -1,4 +1,130 @@
-[
+[[
+  {
+    "op": "add",
+    "path": "/intimidate/notIntimidated/default/default/-",
+    "value": "You don't scare me, and neither does <questGiver>!"
+  },
+  {
+    "op": "add",
+    "path": "/bribe/giftAccepted/default/default/-",
+    "value": "Is this bribery? Oh well! Please give my thanks to <questGiver>!"
+  },
+  {
+    "op": "add",
+    "path": "/bribe/giftAccepted/default/default/-",
+    "value": "Being bribed is pretty great! Please give my thanks to <questGiver>."
+  },
+  {
+    "op": "add",
+    "path": "/bribe/requestAdditionToHouse/default/default/-",
+    "value": "What a nice gift! Could you place it in my home, so I can show it off?"
+  },
+  {
+    "op": "add",
+    "path": "/gift/giftAccepted/default/default/-",
+    "value": "How nice! Please thank <questGiver> for me!"
+  },
+  {
+    "op": "add",
+    "path": "/gift/giftAccepted2/default/default/-",
+    "value": "<questGiver> is pretty nice!"
+  },
+  {
+    "op": "add",
+    "path": "/gift/giftAccepted2/default/default/-",
+    "value": "<questGiver> is a good friend."
+  },
+  {
+    "op": "add",
+    "path": "/gift/requestAdditionToHouse/default/default/-",
+    "value": "What a nice gift! Could you place it in my home, so I can show it off?"
+  },
+  {
+    "op": "add",
+    "path": "/return_stolen/objectTaken/default/default/-",
+    "value": "Fine, take the <item> - I don't need it anyway!"
+  },
+  {
+    "op": "add",
+    "path": "/collect_fine/fineCollected/default/default/-",
+    "value": "You caught me! I'll play fair."
+  },
+  {
+    "op": "add",
+    "path": "/collect_gift/giftProvided/default/default/-",
+    "value": "Here's the <item> you need!"
+  },
+  {
+    "op": "add",
+    "path": "/request_craft/giftProvided/default/default/-",
+    "value": "Here's the <item> you needed me to make!"
+  },
+  {
+    "op": "add",
+    "path": "/borrow/giftProvided/default/default/-",
+    "value": "Fine, <questGiver> can borrow my <item>. Will you bring it back eventually?"
+  },
+  {
+    "op": "add",
+    "path": "/borrow/giftProvided/default/default/-",
+    "value": "Sure, I can lend <questGiver> my <item>. "
+  },
+  {
+    "op": "add",
+    "path": "/extort/giftProvided/default/default/-",
+    "value": "<questGiver> can have my <item>, just don't hurt me!"
+  },
+  {
+    "op": "add",
+    "path": "/hat/crafting/default/default/-",
+    "value": "You brought the materials? Great, hold on a moment then... "
+  },
+  {
+    "op": "add",
+    "path": "/hat/crafted/default/default/-",
+    "value": "Here you go! You can take this parcel to <questGiver> for me."
+  },
+  {
+    "op": "add",
+    "path": "/hat/crafted/default/default/-",
+    "value": "And... Finished! Take this parcel to <questGiver>."
+  },
+  {
+    "op": "add",
+    "path": "/helmet/crafting/default/default/-",
+    "value": "You brought the materials? Great, hold on a moment then... "
+  },
+  {
+    "op": "add",
+    "path": "/helmet/crafted/default/default/-",
+    "value": "Here you go! You can take this parcel to <questGiver> for me."
+  },
+  {
+    "op": "add",
+    "path": "/helmet/crafted/default/default/-",
+    "value": "And... Finished! Take this parcel to <questGiver>."
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/followHome/default/default/-",
+    "value": "Um. I'm still pretty frightened. Can you take me home to <questGiver>?"
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/followHome/default/default/-",
+    "value": "I'm still pretty shook up - can you take me home to <questGiver>?"
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/followHome/default/default/-",
+    "value": "Can you take me home to <questGiver>? Just to be on the safe side..."
+  },
+  {
+    "op": "add",
+    "path": "/kill_npcs/assistantIntro/default/default/-",
+    "value": "Hey there! <questGiver> is a friend of mine, and wanted me to help you fight the <enemy>."
+  }
+],[
   {
     "op" : "add",
     "path" : "/mrmtType",
@@ -611,4 +737,4 @@
       ]
     }
   }
-]
+]]

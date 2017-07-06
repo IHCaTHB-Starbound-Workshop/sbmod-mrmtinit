@@ -1,4 +1,55 @@
-[
+[[
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "Hey! That stuff doesn't belong to you!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "What're you playing at? You can't go about stealing!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "What!? What are you doing!? That's theft!"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "Woa woa woa, who told you you could take that?"
+  },
+  {
+    "op": "add",
+    "path": "/accuse/default/default/-",
+    "value": "That's not okay! Stop stealing!!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Stop pilfering! Guards, help!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Guards! Catch this terrible robber!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Ah! Guards, catch that thief!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Oh no, oh no! A Robber! Guards!"
+  },
+  {
+    "op": "add",
+    "path": "/alert/default/default/-",
+    "value": "Guards, capture this criminal!"
+  }
+],[
   {
     "op" : "add",
     "path" : "/mrmtType",
@@ -66,4 +117,4 @@
       ]
     }
   }
-]
+]]

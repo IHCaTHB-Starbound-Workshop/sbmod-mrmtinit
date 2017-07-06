@@ -1,4 +1,70 @@
-[
+[[
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Things have changed... Either you've messed things up, or I'm being haunted."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "The arrangement of my house has changed, this isn't alright..."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Has something moved in here? It feels off..."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "My home could use some repairs..."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "Can you sort out the damage in here?"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "I need some repairs done!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "I thought this was single tenancy!? I can't share my home!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Are you trying to have someone move in here?!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Why did you place another deed here?!"
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "Living here is pretty horrible right now..."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "It's impossible to live like this!"
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "That's it, I give up. Time to leave!"
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I give up, I'm moving out!"
+  }
+],[
   {
     "op" : "add",
     "path" : "/mrmtType",
@@ -150,4 +216,4 @@
       ]
     }
   }
-]
+]]

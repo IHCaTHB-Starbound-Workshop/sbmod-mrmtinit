@@ -1,4 +1,20 @@
-[
+[[
+  {
+    "op" : "test",
+    "path" : "/converse/default/default/0",
+    "value" : "I have nothing to say to you"
+  },
+  {
+    "op" : "remove",
+    "path" : "/converse/default/default/0"
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/converse/default/default/-",
+    "value" : "What manner of being are you?"
+  }
+],[
   {
     "op" : "add",
     "path" : "/mrmtType",
@@ -246,4 +262,4 @@
       ]
     }
   }
-]
+]]

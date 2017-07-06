@@ -1,4 +1,75 @@
-[
+[[
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Target practice!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I'm gonna fill you fulla holes!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Eat lead!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Why can't my gun hold more bullets?"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Pew pew pew!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I want a bigger gun!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Get back here! I wanna shoot you!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Travellers are perfect target practice!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Die faster, I'm getting bored."
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Bang bang bang!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You're gonna have more holes than a colander when I'm through!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Argh! I want a bigger gun!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I'm gonna explode you!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Finally, something to shoot!"
+  }
+],[
   {
     "op" : "add",
     "path" : "/mrmtType",
@@ -25,4 +96,4 @@
       ]
     }
   }
-]
+]]

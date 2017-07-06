@@ -1,4 +1,95 @@
-[
+[[
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Has something been stolen from my store?"
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "The arrangement of my store has changed, this isn't alright..."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "How can I sell stuff when my store is being changed?"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "Can you fix the walls? It'll put off new customers like this."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "No-one is going to shop here with these damages! Can you help?"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "My shop needs to be in top condition! Can you help fix it?"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Wasn't this location for me? I can't share the store!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Are you trying to have someone move in to my store?!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Why did you place another deed here?!"
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "These are unacceptable conditions for me to work in..."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "It is too difficult to sell my products like this!"
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "That's it, I give up. Time to take my business elsewhere!"
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I give up, I'm going to sell my wares in some other place!"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You called?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Is there something you need to buy?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Hi! Did you alert me because you want to buy something?"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "I thought you might like this, friend!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Take this, for your continued patronage!"
+  }
+],[
   {
     "op" : "add",
     "path" : "/mrmtType",
@@ -127,4 +218,4 @@
       ]
     }
   }
-]
+]]
