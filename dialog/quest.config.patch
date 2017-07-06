@@ -1,0 +1,614 @@
+[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/share_secret",
+    "from" : "/share_secret"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/share_secret/pleaseTakeReply/oldTimey",
+    "value": {
+      "default": [
+        "Please take this reply back to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/intimidate",
+    "from" : "/intimidate"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/intimidate/intimidated/floran",
+    "value": {
+      "default": [
+        "Don't hurt me with <item>! Tell <questGiver> me will obey!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/intimidate/intimidated/oldTimey",
+    "value": {
+      "default": [
+        "Don't hurt me with that <item> - Tell <questGiver> I'll do anything!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/intimidate/notIntimidated/floran",
+    "value": {
+      "default": [
+        "Me not sscared of <questGiver>!",
+        "Me not sscared of you, or <questGiver>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/intimidate/notIntimidated/oldTimey",
+    "value": {
+      "default": [
+        "Why should I do what <questGiver> wants?",
+        "Are you trying to intimidate me on behalf of <questGiver>?"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/bribe",
+    "from" : "/bribe"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/bribe/giftAccepted/floran",
+    "value": {
+      "default": [
+        "Me doesn't mind bribes. Say thanksss to <questGiver>!",
+        "Me likes bribes! Say thanksss to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/bribe/giftAccepted/oldTimey",
+    "value": {
+      "default": [
+        "A bribe! Give my thanks to <questGiver>.",
+        "Thank <questGiver> for this gift on my behalf!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/bribe/giftAccepted2/floran",
+    "value": {
+      "default": [
+        "Me wonders what <questGiver> wantsss..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/bribe/giftAccepted2/oldTimey",
+    "value": {
+      "default": [
+        "I wonder what <questGiver> wants from me?",
+        "I wonder why <questGiver> wanted to bribe me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/bribe/requestAdditionToHouse/floran",
+    "value": {
+      "default": [
+        "Me likesss gift! Can you put it in its house please?",
+        "Gift is perfect for me! Can you put it in its home?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/bribe/requestAdditionToHouse/oldTimey",
+    "value": {
+      "default": [
+        "What a wonderful gift! Perhaps you could place it in my home for me?",
+        "This gift is so nice, I should show it off. Could you place it in my home for me?"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/gift",
+    "from" : "/gift"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/gift/giftAccepted/floran",
+    "value": {
+      "default": [
+        "Me likesss gift! Tell <questGiver> for me!",
+        "A present for me! Give its thanksss to <questGiver>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/gift/giftAccepted/oldTimey",
+    "value": {
+      "default": [
+        "Please thank <questGiver> on my behalf!",
+        "Tell <questGiver> that I appreciate their gift!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/gift/giftAccepted2/floran",
+    "value": {
+      "default": [
+        "Me likesss <questGiver>!",
+        "Me hasss decided that <questGiver> is a good friend."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/gift/giftAccepted2/oldTimey",
+    "value": {
+      "default": [
+        "<questGiver> is a good friend.",
+        "<questGiver> is a kind person."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/gift/requestAdditionToHouse/floran",
+    "value": {
+      "default": [
+        "Me likesss gift! Can you put it in its house please?",
+        "Gift is perfect for me! Can you put it in its home?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/gift/requestAdditionToHouse/oldTimey",
+    "value": {
+      "default": [
+        "What a wonderful gift! Perhaps you could place it in my home for me?",
+        "This gift is so nice, I should show it off. Could you place it in my home for me?"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/return_stolen",
+    "from" : "/return_stolen"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/return_stolen/objectTaken/floran",
+    "value": {
+      "default": [
+        "You can take that <item> back, just don't get me in trouble!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/return_stolen/objectTaken/oldTimey",
+    "value": {
+      "default": [
+        "I have no idea how that <item> got here!",
+        "That <item> wasn't stolen, it only looks that way!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/collect_fine",
+    "from" : "/collect_fine"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/collect_fine/fineCollected/floran",
+    "value": {
+      "default": [
+        "Me got caught, ssso me will pay fine.",
+        "You caught me! Me impressed, here isss the fine."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/collect_fine/fineCollected/oldTimey",
+    "value": {
+      "default": [
+        "I guess I should pay the fine, I don't want to get into further trouble!",
+        "I'll pay the fine - What's the use in quibbling?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/collect_gift/giftProvided/oldTimey",
+    "value": {
+      "default": [
+        "I hope <questGiver> likes their new <item>!",
+        "Please take this <item> to <questGiver> - I hope they like it!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/request_craft",
+    "from" : "/request_craft"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/request_craft/giftProvided/floran",
+    "value": {
+      "default": [
+        "Me made thisss <item> for you, as requested!",
+        "Here isss the <item> you wanted me to make!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/request_craft/giftProvided/oldTimey",
+    "value": {
+      "default": [
+        "You're in luck - I made this <item> earlier. Take it.",
+        "I've already made the <item> - Please take it."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/borrow",
+    "from" : "/borrow"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/borrow/giftProvided/floran",
+    "value": {
+      "default": [
+        "Me can lend <questGiver> <item>, as long as me getsss it back ssoon.",
+        "Here iss the <item> for <questGiver>, me doesn't mind lending it."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/borrow/giftProvided/oldTimey",
+    "value": {
+      "default": [
+        "Here is my <item> - Just tell <questGiver> to give it back soon.",
+        "<questGiver> can borrow my <item> if they need it!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/extort",
+    "from" : "/extort"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/extort/giftProvided/floran",
+    "value": {
+      "default": [
+        "Me doesn't want to fight right now! Take <item>.",
+        "Fine! Me will help <questGiver>! Take its <item>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/extort/giftProvided/oldTimey",
+    "value": {
+      "default": [
+        "I don't want to get hurt! Take my <item> if that's what you need!",
+        "Just take my <item>! <questGiver> can have it!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/hat",
+    "from" : "/hat"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/hat/crafting/floran",
+    "value": {
+      "default": [
+        "You brought me materials! Me craft now, hold on...",
+        "Thank you for thingss! Me just take a moment to craft..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/hat/crafting/oldTimey",
+    "value": {
+      "default": [
+        "You have brought me the materials! Hold on one moment...",
+        "You brought me the items we need! Just give me moment to craft this..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/hat/crafted/floran",
+    "value": {
+      "default": [
+        "Finished! Pleasse take parcel to <questGiver> for me.",
+        "Here iss thing! Take it to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/hat/crafted/oldTimey",
+    "value": {
+      "default": [
+        "I have finished crafting. Can you deliver this to <questGiver> for me?",
+        "I have finished! Now please take this package to <questGiver> for me."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/helmet",
+    "from" : "/helmet"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/helmet/crafting/floran",
+    "value": {
+      "default": [
+        "You brought me materials! Me craft now, hold on...",
+        "Thank you for thingss! Me just take a moment to craft..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/helmet/crafting/oldTimey",
+    "value": {
+      "default": [
+        "You have brought me the materials! Hold on one moment...",
+        "You brought me the items we need! Just give me moment to craft this..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/helmet/crafted/floran",
+    "value": {
+      "default": [
+        "Finished! Pleasse take parcel to <questGiver> for me.",
+        "Here iss thing! Take it to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/helmet/crafted/oldTimey",
+    "value": {
+      "default": [
+        "I have finished crafting. Can you deliver this to <questGiver> for me?",
+        "I have finished! Now please take this package to <questGiver> for me."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/new_stock",
+    "from" : "/new_stock"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/new_stock/trade/oldTimey",
+    "value": {
+      "default": [
+        "This seems like the right stuff... Ok. Let's trade. Take this parcel to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/kidnapping",
+    "from" : "/kidnapping"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/kidnapping/kidnappersDead/floran",
+    "value": {
+      "default": [
+        "You saved me! Me is relieved!",
+        "Me could have won the fight if me had a ssspear, but me still appreciates help."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/kidnapping/kidnappersDead/oldTimey",
+    "value": {
+      "default": [
+        "You saved me! My hero!",
+        "Thank goodness you saved me!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/kidnapping/followHome/floran",
+    "value": {
+      "default": [
+        "Me doess not want to be alone. Can you take me home to <questGiver>?",
+        "Can you take me home to <questGiver>? Me doesn't feel sssafe."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/kidnapping/followHome/oldTimey",
+    "value": {
+      "default": [
+        "Um, could you take me back to <questGiver>?",
+        "Perhaps you could escort me back to <questGiver>?"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/escort",
+    "from" : "/escort"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/escort/found/floran",
+    "value": {
+      "default": [
+        "Me is lossst. Could you help me find <questGiver>?",
+        "Me sssomehow got lost... Please take me back to <questGiver>?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/escort/found/oldTimey",
+    "value": {
+      "default": [
+        "I appear to be lost. Help me - take me back to <questGiver>?",
+        "I think I might be lost. Er, can you take me back to <questGiver>?"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/barter",
+    "from" : "/barter"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/barter/trade/oldTimey",
+    "value": {
+      "default": [
+        "Amicable. Thank you for the goods, here's <questGiver>'s <receivedItems>."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/escort_trade",
+    "from" : "/escort_trade"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/escort_trade/collectDelivery/floran",
+    "value": {
+      "default": [
+        "Do you have a delivery for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/escort_trade/collectDelivery/oldTimey",
+    "value": {
+      "default": [
+        "Do you have a delivery for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/escort_trade/provideDelivery/oldTimey",
+    "value": {
+      "default": [
+        "Here are your goods! Enjoy!"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/kill_npcs",
+    "from" : "/kill_npcs"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/kill_npcs/assistantIntro/floran",
+    "value": {
+      "default": [
+        "<questGiver> contracted me to help you ssstab the <enemy>.",
+        "Me friend of <questGiver>, here to help you fight the <enemy>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/kill_npcs/assistantIntro/oldTimey",
+    "value": {
+      "default": [
+        "<questGiver> has contracted me to aid you in your battle with the <enemy>!",
+        "I have been hired by <questGiver> to help you in your quest."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/kill_npc/surrender/floran",
+    "value": {
+      "default": [
+        "Me sssurrenders! Put weapon away!",
+        "Me admitsss defeat! Put weapon away!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/kill_npc/surrender/oldTimey",
+    "value": {
+      "default": [
+        "I surrender, put away your weapon.",
+        "I surrender! Please, put away your weapon."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/kill_npc/betray/floran",
+    "value": {
+      "default": [
+        "Me hasss tricked you!",
+        "Me tricked you!",
+        "Why would you do what me asked?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/kill_npc/betray/oldTimey",
+    "value": {
+      "default": [
+        "You fool!",
+        "Oh! You actually fell for that?",
+        "You actually fell for that?"
+      ]
+    }
+  }
+]

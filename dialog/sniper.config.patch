@@ -1,0 +1,28 @@
+[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/attack",
+    "from" : "/attack"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/attack/floran",
+    "value": {
+      "default": [
+        "Me shoot outsssider!",
+        "You can't escape!",
+        "Me fill you with holesss!",
+        "Stranger not fast enough to outrun bulletss!",
+        "You can't hide from me! Me hunt you down!",
+        "Outsssider!",
+        "Me kill outsssider!",
+        "You won't sssurvive! me won't let you!"
+      ]
+    }
+  }
+]
