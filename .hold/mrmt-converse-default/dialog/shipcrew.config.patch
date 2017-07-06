@@ -1,0 +1,11 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/converse/human",
+    "from" : "/converse/default"
+  },
+  {
+    "op" : "remove",
+    "path" : "/converse/default/human"
+  }
+]

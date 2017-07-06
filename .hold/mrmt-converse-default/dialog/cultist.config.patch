@@ -1,0 +1,62 @@
+[
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "This just isn't your day!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "We are the Occasus! You can't stop us!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Don't think you can get away, nonbeliever!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "If you aren't with us, then you're against us!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Are you here to stop us? It doesn't matter anyway!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You can't stop us! Don't even try!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You shouldn't have come here!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You picked a bad time to come here!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "A nonbeliever approaches!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "If I kill you, Nox might promote me!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You shall not stop our plans!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You won't leave this place!"
+  }
+]

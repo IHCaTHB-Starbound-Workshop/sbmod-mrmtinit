@@ -1,0 +1,57 @@
+[
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You're dead meat!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Let's get this over with!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You don't have a snowflakes chance on a magma planet!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I'm not much of a fighter..."
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Uh-oh..."
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "I don't go down so easy!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "How do I keep ending up in situations like this?"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Let's get this over with..."
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Be warned, I put up a fight!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "Let's do this!"
+  },
+  {
+    "op": "add",
+    "path": "/attack/default/default/-",
+    "value": "You won't know what hit you!"
+  }
+]

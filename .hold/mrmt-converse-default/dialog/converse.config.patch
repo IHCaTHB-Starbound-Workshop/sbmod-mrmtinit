@@ -1,0 +1,147 @@
+[
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Sup?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Hi."
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "How's it going?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "How's it?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Yo!"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Hey, great to see you."
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Hey, what's up?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Oh hey, how's it going?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "You seem like a nice sort."
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Thanks for dropping by!"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Great to see you, pal."
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Hey, nice to meet you."
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Ace meeting you."
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Nice meeting ya!"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "What's up?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Hey."
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Hey! Welcome!"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Alright?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Oh hey!"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "You alright?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "You good?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Alright mate?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Welcome!"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "What you up to?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Hellooo."
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Good to see you."
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "How're things?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "How's life treating you?"
+  },
+  {
+    "op": "add",
+    "path": "/greeting/default/default/-",
+    "value": "Hey, what's happening?"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You called?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Is there something you need?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You wanna talk?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Hi! What's up?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You want something?"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "I thought you might like this!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here's a gift, for all your help."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "I got this for you. You can take it, or not. It's up to you."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here's something for your troubles!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Hey! Here's a present!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here's a little thank you gift for you."
+  }
+]

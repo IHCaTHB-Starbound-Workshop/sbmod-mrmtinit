@@ -1,0 +1,97 @@
+[
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Have you stolen something from my shop?"
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "The arrangement of my shop has changed, this isn't alright..."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "How can I sell stuff when my store is being changed?"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "Can you fix the walls? The damage is putting off customers."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "I need the wall fixed if I want customers to shop here. Can you help?"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "My shop needs to be in top condition! Can you help fix it?"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "I thought this was single tenancy!? I can't share the store!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Are you trying to have someone move in here?!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Why did you place another deed here?!"
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "These are unacceptable working conditions..."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "It's impossible to work like this!"
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "That's it, I give up. Time to take my business elsewhere!"
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I give up, I'm going to sell my wares in some other place!"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You called?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Is there something you need to buy?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Hi! Do you want to buy something?"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/0",
+    "value": "Here's a gift for all your help with my shop!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/1",
+    "value": "I thought you might like this."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "I really appreciate everything you've done, here have a gift."
+  }
+]

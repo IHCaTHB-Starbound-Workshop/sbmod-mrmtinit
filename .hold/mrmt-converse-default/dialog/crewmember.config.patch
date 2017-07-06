@@ -1,0 +1,37 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/converse/default/default/0",
+    "value" : "I have nothing to say to you."
+  },
+  {
+    "op" : "remove",
+    "path" : "/converse/default/default/0"
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Adventure ahoy!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Flying through space, running into misadventure... This is the life!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Life aboard a spaceship... Is anything more exciting?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Don't worry, you'll be safe with me around!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "What lies next on the road ahead? Adventure, intrigue, pillaging? Not pillaging, right?"
+  }
+]]
