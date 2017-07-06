@@ -1,0 +1,96 @@
+[
+  {
+    "op" : "add",
+    "path" : "mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/converse",
+    "from" : "/converse"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/converse/oldTimey",
+    "value": {
+      "default": [
+        "The low-moisture atmosphere in space is good for preventing mildew.",
+        "I spend much of my life not knowing space even existed, and now I am here!",
+        "I have come to space to find a professional trade. One day I shall be <selfname>, master engineer!",
+        "Now I am in space, I feel so miniscule. How will I make my mark when I matter so little?",
+        "Welcome, spacefarer! I am <selfname>. I wish you well on your travels.",
+        "Have you always known about space travel? Did you always dream about venturing through the stars?",
+        "I thought I'd be free from dangerous monsters when I came to space, but now I hear there are space monsters as well?!",
+        "Before I left, I hunted monsters for my village. Perhaps I shall do the same here in space?",
+        "Are the rumours of space parasites true? I dearly hope not!"
+      ]
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/human/human"
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/apex/apex"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/converse/apex/default",
+    "value": [
+      "Greetings. Are you in outer space for any specific purpose?",
+      "I can seek solace out here, among the stars. I welcome a quiet life.",
+      "One of the small benefits of life in space is that fleas don't survive easily out here...",
+      "My scientific knowledge is most valuable out here in space.",
+      "You have a look about you - A look of... Wanderlust?",
+      "Among the stars, looking down upon entire worlds, anything can appear small and insignificant.",
+      "The first step towards fighting a battle is to learn. The enemy can take your weapons, but never your knowledge."
+    ]
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/hylotl/hylotl"
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/floran/floran"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/converse/floran/default",
+    "value": [
+      "Me left its tribe because me isss pacifist. Me finding it... Tough.",
+      "Its teacher taught me about ssspace travel. Now me livesss in sssky!",
+      "Me got lossst during hunt and now me here. Me not quite sssure what happened.",
+      "Me doesssn't get to hunt much in ssspace. Sssad.",
+      "Me didn't want to fight and eat all of its life, ssso me came to ssspace inssstead.",
+      "Me livesss in sssky. Me higher up than all of its tribe!",
+      "Its name is <selfname>. Me saying hello!",
+      "Its tribe livesss on planet. Tribe doesssn't like its pacifist waysss so me comesss here."
+    ]
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/glitch/glitch"
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/avian/avian"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/converse/avian/default",
+    "value": [
+      "Welcome, stranger! As sure as the suns rise shall I greet every new face with a smile.",
+      "Space travel is a gift for discovery and knowledge!",
+      "From up here in space, one feels as if their role is small and insignificant.",
+      "Hello, stranger! I hope you've been vaccinated against space parasites lately!",
+      "Well ruffle my feathers - a friendly new face!",
+      "To fly through space on board a ship... It isn't like having real wings, but it's close!"
+    ]
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/converse/novakid/novakid"
+  }
+]
