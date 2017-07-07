@@ -58,6 +58,36 @@
       }
     }
   },
+  "mrmtTypes" : {
+    "dialog" : {
+      "converse" : {
+        "floran" : {
+          "default" : [
+            "Not many its become Protectorsss. Me is proud to be chosen!",
+            "Me regretss drinking five Oculemonades for breakfast...",
+            "Me hopess there will be time for a toilet break."
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Eager. My very own Matter Manipulator. I figuratively cannot wait.",
+            "Nervous. Do my bolts look big in this?",
+            "Pleased. I am glad I ironed my uniform this morning.",
+            "Nervous. Do I look ok? I polished my head this morning.",
+            "Regretful. Maybe I should have oiled my joints this morning.",
+            "Embarassed. Hopefully nobody notices the coffee stains on my uniform..."
+          ]
+        },
+        "oldTimey" : {
+          "default" : [
+            "My very own Matter Manipulator. I figuratively cannot wait.",
+            "I am glad I ironed my uniform this morning.",
+            "Hopefully nobody notices the coffee stains on my uniform..."
+          ]
+        }
+      }
+    }
+  },
 
   "matchColorIndices" : true,
   "items" : {

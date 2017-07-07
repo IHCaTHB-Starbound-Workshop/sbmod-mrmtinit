@@ -41,6 +41,34 @@
       }
     }
   },
+  "mrmtType" : {
+    "dialog" : {
+      "converse" : {
+        "apex" : {
+          "default" : [
+            "One day, people will remember our kind for things other than our oppressive regime."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "Museum should have more its thingsss, don't you agree?"
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Curious. How long do you suppose this collection took to put together?",
+            "Surprised. The cultural differences between our races are quite striking."
+          ]
+        },
+        "oldTimey" : {
+          "default" : [
+            "How long do you suppose this collection took to put together?",
+            "The cultural differences between our races are quite striking."
+          ]
+        }
+      }
+    }
+  },
 
   "matchColorIndices" : true,
   "items" : {
