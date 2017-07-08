@@ -1,0 +1,75 @@
+[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/dialog",
+    "from" : "/scriptConfig/dialog"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/crewmember/roleDescription/floran",
+    "value": {
+      "default": [
+        "Me will heal you whenever we're on the ship!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/crewmember/roleDescription/oldTimey",
+    "value": {
+      "default": [
+        "I'll heal you whenever we're on the ship!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/crewmember/fieldBenefit/floran",
+    "value": {
+      "default": [
+        "You look wounded. Me can help!",
+        "Me is medic! Trust me!",
+        "You look hurt. Me can help you!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/crewmember/fieldBenefit/oldTimey",
+    "value": {
+      "default": [
+        "You look like you could do with some healing!",
+        "Perhaps you could do with some healing?",
+        "You look like you could be in better shape. Let me assist you!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/crewmember/combatBenefit/floran",
+    "value": {
+      "default": [
+        "Me hasss things to help out!",
+        "Me can help out!",
+        "Me hasss things to help!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/crewmember/combatBenefit/oldTimey",
+    "value": {
+      "default": [
+        "I can help you out!",
+        "Perhaps you could do with some healing?",
+        "This should heal you!",
+        "Take this, it will help!"
+      ]
+    }
+  }
+]
