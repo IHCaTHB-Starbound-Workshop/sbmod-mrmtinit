@@ -1,0 +1,160 @@
+[[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/-",
+    "value": "What can I interest you in?"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/-",
+    "value": "What can I get you? Have a look at my range."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/-",
+    "value": "In need of fresh suppplies? Look no further!"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/-",
+    "value": "You won't find better food! Not around here anyway."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/-",
+    "value": "This grub is genuinely delicious."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/-",
+    "value": "Enjoy it, you won't find better!"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/-",
+    "value": "Come back whenever you're hungry!"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/-",
+    "value": "Pleasure to be of service!"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/scriptConfig/dialog/merchant/end/novakid/default/2",
+    "value" : "I do hope you enjoy the food."
+  },
+  {
+    "op" : "remove",
+    "path" : "/scriptConfig/dialog/merchant/end/novakid/default/2"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/scriptConfig/dialog/merchant/end/novakid/default/1",
+    "value" : "I can see you are a connoisseur."
+  },
+  {
+    "op" : "remove",
+    "path" : "/scriptConfig/dialog/merchant/end/novakid/default/1"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/scriptConfig/dialog/merchant/end/novakid/default/0",
+    "value" : "I look forward to your future custom."
+  },
+  {
+    "op" : "remove",
+    "path" : "/scriptConfig/dialog/merchant/end/novakid/default/0"
+  }
+],[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/novakid/default/-",
+    "value": "If that don't fill your belly I don't know what will!"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/novakid/default/-",
+    "value": "Thank you for your patronage!"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/novakid/default/-",
+    "value": "I can guarantee y'all be back wantin' more."
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/dialog",
+    "from" : "/scriptConfig/dialog"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/merchant/start/floran",
+    "value": {
+      "default": [
+        "Me sssell food!",
+        "Its food is the besst! Buy it all!",
+        "Teacher says me is \"liability in the kitchen\", but good produce merchant.",
+        "You look like poor hunter, so me ssell you dinner.",
+        "Me is at your sservice."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/merchant/start/glitch",
+    "value": {
+      "default": [
+        "Affable. All your cooking needs, right here.",
+        "Confident. My produce is of excellent quality!",
+        "Friendly. If you're hungry, you have come to the right person.",
+        "Genial. Best produce around! What can I get you?",
+        "Proud. I grow the best produce."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/merchant/start/oldTimey",
+    "value": {
+      "default": [
+        "All your cooking needs, right here.",
+        "My produce is of excellent quality!",
+        "If you're hungry, you have come to the right person.",
+        "Best produce around! What can I get you?",
+        "I grow the best produce."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/merchant/end/floran",
+    "value": {
+      "default": [
+        "Come back sssoon for more food!",
+        "Me will see you again!",
+        "Me can't wait to sssell more food!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/merchant/end/oldTimey",
+    "value": {
+      "default": [
+        "Come back any time.",
+        "Go forth and become hungry.",
+        "I'm sure you will enjoy that."
+      ]
+    }
+  }
+]]

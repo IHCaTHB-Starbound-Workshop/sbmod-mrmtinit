@@ -1,0 +1,66 @@
+[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/dialog",
+    "from" : "/scriptConfig/dialog"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/crewmember/offer/floran",
+    "value": {
+      "default": [
+        "Me good person really! Me just needsss to lay low. Can you help me?",
+        "Do you have a ship? Me needs to hide from sssome people. Can you help me?",
+        "Me isss laying low from some people! Can you help me out, maybe let me ssstow away on your ship?",
+        "Me needs to lay low. Me will fight for you in return for a place on your ship!",
+        "Me has offer for you - let me hide on your ship, and me will fight for you! Me can't stay around here...",
+        "Me needs somewhere to hide. Do you have a ship? Me has an offer for you...",
+        "Me needs to lay low! Please don't turn me in... me will work for you."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/crewmember/offer/oldTimey",
+    "value": {
+      "default": [
+        "I need to lay low! Please don't turn me in, can I join your crew instead?",
+        "I'm a good person really! Please, let me stow away on your ship with you!",
+        "There are people... Looking for me... Let me hide away on your ship, I'll fight for you in return.",
+        "I don't want to hurt you, I just need to lay low! Can I stow away with you?",
+        "I need to lay low! I'll fight with you if you let me stay on your ship.",
+        "Please, let me hide on your ship! I'll fight for you! There are people I need to avoid...",
+        "I really need to hide. Do you have a ship? I'll fight for you!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/crewmember/roleDescription/floran",
+    "value": {
+      "default": [
+        "Thisss ship is the perfect hiding place for me! Me will be here to help you any time!",
+        "Me appreciatess your help. Me will you fight your enemies for you anytime!",
+        "Me not so bad really, honest... This ship is perfect hiding spot. Come get me whenever you need help fighting!",
+        "Me can hide out here until people forget what me did... Thank you! If you need help me is here."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/crewmember/roleDescription/oldTimey",
+    "value": {
+      "default": [
+        "Thank you for allowing me to stay here. I can join you in battle if you ever need me, I won't forget our bargain.",
+        "This ship is the ideal place to lay low. If you need backup, I shall be here!",
+        "Thank you for giving me a place to hide. I will stay here, and fight for you when you require me.",
+        "I can hide out here until the heat dies down! Whenever you need backup I am be here to help."
+      ]
+    }
+  }
+]
