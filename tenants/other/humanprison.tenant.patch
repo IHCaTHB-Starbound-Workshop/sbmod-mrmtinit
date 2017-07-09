@@ -1,0 +1,48 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/tenants/0/species/0",
+    "inverse" : "true"
+  },
+  {
+    "op" : "add",
+    "path" : "/tenants/0/species",
+    "value" : []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "human"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "apex"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "avian"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "floran"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "glitch"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "hylotl"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "novakid"
+  }
+]]

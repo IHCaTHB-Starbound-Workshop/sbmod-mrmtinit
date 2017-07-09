@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "avian"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "floran"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "glitch"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "hylotl"
+  },
+  {
+    "op": "add",
+    "path": "/tenants/0/species/-",
+    "value": "novakid"
+  }
+]
