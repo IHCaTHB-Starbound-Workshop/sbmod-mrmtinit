@@ -1,0 +1,65 @@
+[[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default",
+    "value": {
+      "default": [
+        "I am a purveyor of fine arts. Do you have a cultured side?",
+        "I am the finest dressed individual at any establishment I visit!",
+        "Is not my attire the finest you've ever seen?"
+      ]
+    }
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/dialog",
+    "from" : "/scriptConfig/dialog"
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/dialog/converse/apex"
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/dialog/converse/human"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Me is always center of attention in thisss wig.",
+        "When me wearsss wig, people talk to me. Me doesn't know why.",
+        "Me wearsss this wig once and now everyone thinks me is fancy."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/hylotl",
+    "value": {
+      "default": [
+        "I am interested in only the finest arts.",
+        "One must comport oneself with utmost elegance.",
+        "I am a leader in sophistication."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/oldTimey",
+    "value": {
+      "default": [
+        "Go away, I am practicing my snooty laugh!",
+        "When I wear this wig, people think I am rich!",
+        "People stare at me in this wig - It must be because I look so fancy in it."
+      ]
+    }
+  }
+]]

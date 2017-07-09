@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default",
+    "value": {
+      "default": [
+        "I'm doing research into alien bacteria. I used to be stationed elsewhere.",
+        "Bacteria is everywhere! I'm concerned about infection."
+      ]
+    }
+  }
+]

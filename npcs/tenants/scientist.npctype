@@ -1,0 +1,7 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/scriptConfig/dialog/converse/default",
+    "from" : "/scriptConfig/dialog/converse/human"
+  }
+]
