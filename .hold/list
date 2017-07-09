@@ -1,5 +1,4 @@
 
-hazmat dialog fix
 snowscientist dialog fix
 snowvillager dialog fix
 bandit dialog fix
@@ -42,3 +41,4 @@ make 1 "list" type in protectorate school
 improve generic conversation
 check common npcs for conversation tweaks
 desertvillager dialog fix
+hazmat dialog fix
