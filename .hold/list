@@ -1,6 +1,4 @@
 
-snowscientist dialog fix
-snowvillager dialog fix
 bandit dialog fix
 prison dialog fix
 hazmat tenant dialog fix
@@ -42,3 +40,5 @@ improve generic conversation
 check common npcs for conversation tweaks
 desertvillager dialog fix
 hazmat dialog fix
+snowscientist dialog fix
+snowvillager dialog fix
