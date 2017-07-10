@@ -5,101 +5,48 @@
     "inverse" : true
   },
   {
-    "op": "add",
-    "path": "/items/novakid",
-    "value": [
-      [
-        0,
-        [
-          {
-            "chest": [
-              {
-                "name": "novatier1chest"
-              }
-            ],
-            "legs": [
-              {
-                "name": "novatier1pants"
-              }
-            ],
-            "primary": [
-              "npcbroadsword"
-            ],
-            "sheathedprimary": [
-              "npcassaultrifle"
-            ]
-          }
-        ]
-      ],
-      [
-        2,
-        [
-          {
-            "chest": [
-              {
-                "name": "novatier2chest"
-              }
-            ],
-            "legs": [
-              {
-                "name": "novatier2pants"
-              }
-            ],
-            "primary": [
-              "npcbroadsword"
-            ],
-            "sheathedprimary": [
-              "npcassaultrifle"
-            ]
-          }
-        ]
-      ],
-      [
-        3,
-        [
-          {
-            "chest": [
-              {
-                "name": "novatier3chest"
-              }
-            ],
-            "legs": [
-              {
-                "name": "novatier3pants"
-              }
-            ],
-            "primary": [
-              "npcbroadsword"
-            ],
-            "sheathedprimary": [
-              "npcassaultrifle"
-            ]
-          }
-        ]
-      ],
-      [
-        4,
-        [
-          {
-            "chest": [
-              {
-                "name": "novatier4chest"
-              }
-            ],
-            "legs": [
-              {
-                "name": "novatier4pants"
-              }
-            ],
-            "primary": [
-              "npcbroadsword"
-            ],
-            "sheathedprimary": [
-              "npcassaultrifle"
-            ]
-          }
-        ]
-      ]
-    ]
+    "op" : "copy",
+    "path" : "/items/novakid",
+    "from" : "/items/human"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/0/1/0/chest/0/name",
+    "value": "novakidtier1chest"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/0/1/0/legs/0/name",
+    "value": "novakidtier1pants"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/1/1/0/chest/0/name",
+    "value": "novakidtier2chest"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/1/1/0/legs/0/name",
+    "value": "novakidtier2pants"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/2/1/0/chest/0/name",
+    "value": "novakidtier3chest"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/2/1/0/legs/0/name",
+    "value": "novakidtier3pants"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/3/1/0/chest/0/name",
+    "value": "novakidtier4chest"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/3/1/0/legs/0/name",
+    "value": "novakidtier4pants"
   }
 ]
