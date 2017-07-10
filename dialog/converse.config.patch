@@ -146,6 +146,352 @@
   }
 ],[
   {
+    "op": "test",
+    "path": "/converse/default/default/0",
+    "value": "I have nothing to say to you."
+  },
+  {
+    "op": "remove",
+    "path": "/converse/default/default/0"
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "There are some funny species out here."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Oh my god, I'm bored. I want to do something fun."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I once planned on joining the Protectorate."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "My shoes are wet, I accidentally stepped in a pond."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Have you seen my hat? I've been looking for it for like an hour."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I really need to sneeze!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I can't talk right now, I'm super busy."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "The universe is massive. I feel so inconsequential."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "One day I want a spaceship like yours."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Something weird is going on here."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "My fridge broke. I'm going to have to eat so much mayonnaise."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "An Apex punched me the other day. Don't know why."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm gonna go on a treasure hunt."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I could totally go for a roast dinner right now."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Sometimes it's fun to just yell at monsters."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You found any cool weapons lately?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm craving a Cornish pasty right now."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Nice to see someone from the Protectorate."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm jealous of you, being an adventurer."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "It's been a long day; I need a hug."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I bet you've got a few stories to tell!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "No one will employ me. My sole skill is shadow puppetry."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Has your kind heard of vampires? What about werewolves?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "The universe is a big, scary place."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "How do you feel about pancakes?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "The monsters around here are pretty scary."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I've had the worst song stuck in my head for two days! Help me!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Can we maybe take a rain check on this conversation? I have stuff to do."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Do you have any empty jars? I want to make thorn fruit jam this weekend."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm so tired today. So tired."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I am wicked hungry."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I find you disconcerting. Sorry."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Ever played Hopscotch?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Let's have a nice cup of tea and a sit down."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "We're a lot alike, you and I."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Look at how pretty the sky is today."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I quite like space, y'know?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Monsters are scary."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Sometimes I miss soap operas, mostly not though."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Have you ever seen a narwhal?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Gross, I just swallowed a fly."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Let's hang out sometime!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm sure I've seen you somewhere before."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I reckon we'd get on well."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I think you're probably my favourite."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Are you in the Protectorate!? That's super cool!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I stubbed my toe. This is the worst day ever."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm in a performing arts troupe!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "You're one funky little dude."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "If you ever need a lawyer, I know a guy you can call."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I think I'm catching a cold."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "See this? It's my poker face."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I could go for some ice-cream right now."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "We should have a picnic!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Let's do something cool later."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I lost my cat."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "It's pretty hard to keep peace in a universe that doesn't seem to want it."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Something doesn't feel right; like storm clouds are gathering."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I ate too many berries and now my stomach hurts."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "My family are on a different planet."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I miss my planet."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "Seen anything of interest lately?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I'm dying for a cup of tea."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I've lost my favourite pen! Have you seen it?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I have nothing to say to you right now, I'm having an existential crisis."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "We should all reject our socio-political prejudices."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/default/-",
+    "value": "I make really good gravy, I could be a gravy chef."
+  }
+],[
+  {
     "op" : "add",
     "path" : "/mrmtType",
     "value" : {}
