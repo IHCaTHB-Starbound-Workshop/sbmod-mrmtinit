@@ -2,7 +2,7 @@
   "author" : "IHCaTHB",
   "description" : "",
   "friendlyName" : "MRMT Initialization",
-  "includes" : [ "FrackinUniverse", "FISHFACE.IHC", "Tier Nine Ships" ],
+  "includes" : [ "FrackinUniverse", "FISHFACE.IHC", "Tier Nine Ships", "GRANDARM.IHC" ],
   "name" : "MRMTINIT.IHC",
   "requires" : [],
   "version" : "0.1"

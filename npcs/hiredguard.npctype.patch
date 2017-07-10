@@ -12,41 +12,41 @@
   {
     "op": "replace",
     "path": "/items/novakid/0/1/0/chest/0/name",
-    "value": "novakidtier1chest"
+    "value": "novatier1chest"
   },
   {
     "op": "replace",
     "path": "/items/novakid/0/1/0/legs/0/name",
-    "value": "novakidtier1pants"
+    "value": "novatier1pants"
   },
   {
     "op": "replace",
     "path": "/items/novakid/1/1/0/chest/0/name",
-    "value": "novakidtier2chest"
+    "value": "novatier2chest"
   },
   {
     "op": "replace",
     "path": "/items/novakid/1/1/0/legs/0/name",
-    "value": "novakidtier2pants"
+    "value": "novatier2pants"
   },
   {
     "op": "replace",
     "path": "/items/novakid/2/1/0/chest/0/name",
-    "value": "novakidtier3chest"
+    "value": "novatier3chest"
   },
   {
     "op": "replace",
     "path": "/items/novakid/2/1/0/legs/0/name",
-    "value": "novakidtier3pants"
+    "value": "novatier3pants"
   },
   {
     "op": "replace",
     "path": "/items/novakid/3/1/0/chest/0/name",
-    "value": "novakidtier4chest"
+    "value": "novatier4chest"
   },
   {
     "op": "replace",
     "path": "/items/novakid/3/1/0/legs/0/name",
-    "value": "novakidtier4pants"
+    "value": "novatier4pants"
   }
 ]
