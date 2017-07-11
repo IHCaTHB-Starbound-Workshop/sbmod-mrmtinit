@@ -1,0 +1,113 @@
+[[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/apexDescription"
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/apexDescription"
+    "from" : "/apexDescription"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/avianDescription"
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/avianDescription"
+    "from" : "/avianDescription"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/floranDescription"
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/floranDescription"
+    "from" : "/floranDescription"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/glitchDescription"
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/glitchDescription"
+    "from" : "/glitchDescription"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/humanDescription"
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/humanDescription"
+    "from" : "/humanDescription"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/hylotlDescription"
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/hylotlDescription"
+    "from" : "/hylotlDescription"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/novakidDescription"
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/novakidDescription"
+    "from" : "/novakidDescription"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/description"
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/oldTimeyDescription"
+    "from" : "/description"
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtType/silentTypeDescription",
+    "value" : " "
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtType/EllipsesDescription",
+    "value" : "..."
+  },
+  {
+    "op" : "add",
+    "path" : "/mrmtType/HyphenDescription",
+    "value" : "-"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/shortdescription"
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/TerseDescription"
+    "from" : "/shortdescription"
+  }
+]]
