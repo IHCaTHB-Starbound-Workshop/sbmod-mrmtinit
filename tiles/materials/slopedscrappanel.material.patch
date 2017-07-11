@@ -26,13 +26,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/floranDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/floranDescription",
-    "from" : "/floranDescription"
+    "value" : "Metal sssso russty, me wouldn't even ussse it."
   }
 ],[
   {
