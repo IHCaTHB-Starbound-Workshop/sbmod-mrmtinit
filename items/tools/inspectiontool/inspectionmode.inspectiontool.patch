@@ -1,0 +1,85 @@
+[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/outOfRangeText",
+    "from" : "/outOfRangeText"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/outOfRangeText/floran",
+    "value": [
+      "Me cannot sssee from here!",
+      "Me needs to get closer to sssee that.",
+      "Me can't see that ssspot.",
+      "It's not clossse enough to see that."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/outOfRangeText/oldTimey",
+    "value": [
+      "I cannot see that spot from this position.",
+      "I'm not sure what that is; perhaps I should get closer.",
+      "I cannot see that from here.",
+      "I am not close enough to see that."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/outOfRangeText/silentType",
+    "value": [
+      ""
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/outOfRangeText/terseType",
+    "value": [
+      "Out of range."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/outOfRangeText/oldTimey",
+    "value": [
+      "I cannot see that spot from this position.",
+      "I'm not sure what that is; perhaps I should get closer.",
+      "I cannot see that from here.",
+      "I am not close enough to see that."
+    ]
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/nothingThereText",
+    "from" : "/nothingThereText"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/nothingThereText/oldTimey",
+    "value": [
+      "Nothing of interest here.",
+      "There is nothing there.",
+      "Nothing interesting.",
+      "This isn't really anything."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/nothingThereText/silentType",
+    "value": [
+      ""
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/nothingThereText/terseType",
+    "value": [
+      "Nothing there."
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/outOfRangeText",
+    "from" : "/outOfRangeText"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/outOfRangeText/floran",
+    "value": [
+      "Scanner not ssstrong enough! Me must move in.",
+      "That's outsssside scanner's range.",
+      "Ssignal's too faint to make out, me not close enough.",
+      "Mussst be out of range, me can't get a reading."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/outOfRangeText/oldTimey",
+    "value": [
+      "This hardware's sensors are insufficient to analyze that position from here.",
+      "I cannot seem to get a reading; perhaps I should get closer.",
+      "The signal is too faint to make out, I believe I'm out of range.",
+      "It must be out of range, I cannot get a reading."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/outOfRangeText/silentType",
+    "value": [
+      ""
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/outOfRangeText/terseType",
+    "value": [
+      "Out of range."
+    ]
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/nothingThereText",
+    "from" : "/nothingThereText"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/nothingThereText/oldTimey",
+    "value": [
+      "Nothing of interest here.",
+      "There is nothing there.",
+      "Nothing there to scan.",
+      "This isn't really anything."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/nothingThereText/silentType",
+    "value": [
+      ""
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/nothingThereText/terseType",
+    "value": [
+      "Nothing there."
+    ]
+  }
+]

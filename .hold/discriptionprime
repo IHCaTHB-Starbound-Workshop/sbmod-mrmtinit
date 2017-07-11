@@ -97,7 +97,7 @@
   },
   {
     "op" : "copy",
-    "path" : "/mrmtType/TerseDescription",
+    "path" : "/mrmtType/terseTypeDescription",
     "from" : "/shortdescription"
   }
 ]]
