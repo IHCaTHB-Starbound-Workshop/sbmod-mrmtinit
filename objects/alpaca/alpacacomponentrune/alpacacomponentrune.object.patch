@@ -16,13 +16,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/avianDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/avianDescription",
-    "from" : "/avianDescription"
+    "value" : "I don't understand this rune, it's too scientific."
   }
 ],[
   {
@@ -56,13 +52,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/hylotlDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/hylotlDescription",
-    "from" : "/hylotlDescription"
+    "value" : "Was this rune created by a race that spread among the stars long ago?"
   }
 ],[
   {

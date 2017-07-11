@@ -16,23 +16,15 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/avianDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/avianDescription",
-    "from" : "/avianDescription"
+    "value" : "I believe this must be my way out."
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/floranDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/floranDescription",
-    "from" : "/floranDescription"
+    "value" : "Me guesses thisss is door out."
   }
 ],[
   {

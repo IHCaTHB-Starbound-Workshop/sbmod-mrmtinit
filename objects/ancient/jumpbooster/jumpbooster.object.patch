@@ -26,13 +26,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/floranDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/floranDescription",
-    "from" : "/floranDescription"
+    "value" : "After walking through this gasss me can jump like monster."
   }
 ],[
   {

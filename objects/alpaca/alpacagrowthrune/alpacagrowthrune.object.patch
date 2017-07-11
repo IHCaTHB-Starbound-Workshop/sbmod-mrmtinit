@@ -16,23 +16,15 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/avianDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/avianDescription",
-    "from" : "/avianDescription"
+    "value" : "An ancient rune. This one means personal growth."
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/floranDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/floranDescription",
-    "from" : "/floranDescription"
+    "value" : "Me finds it hard to undersstand this rune."
   }
 ],[
   {

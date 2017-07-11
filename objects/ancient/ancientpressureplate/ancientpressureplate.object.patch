@@ -16,13 +16,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/avianDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/avianDescription",
-    "from" : "/avianDescription"
+    "value" : "Pressure tiles like this are common in tombs."
   }
 ],[
   {

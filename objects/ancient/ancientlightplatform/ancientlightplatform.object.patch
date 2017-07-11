@@ -26,13 +26,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/floranDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/floranDescription",
-    "from" : "/floranDescription"
+    "value" : "Me suspiciousss of hard light."
   }
 ],[
   {
@@ -66,13 +62,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/novakidDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/novakidDescription",
-    "from" : "/novakidDescription"
+    "value" : "Solid energy, just like me probably."
   }
 ],[
   {
