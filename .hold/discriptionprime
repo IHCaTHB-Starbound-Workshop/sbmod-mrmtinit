@@ -88,17 +88,8 @@
   {
     "op" : "add",
     "path" : "/mrmtType/silentTypeDescription",
-    "value" : " "
-  },
-  {
-    "op" : "add",
-    "path" : "/mrmtType/EllipsesDescription",
-    "value" : "..."
-  },
-  {
-    "op" : "add",
-    "path" : "/mrmtType/HyphenDescription",
-    "value" : "-"
+    "value" : ""
+  }
   }
 ],[
   {
