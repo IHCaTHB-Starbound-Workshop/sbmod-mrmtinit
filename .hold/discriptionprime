@@ -11,7 +11,7 @@
   },
   {
     "op" : "copy",
-    "path" : "/mrmtType/apexDescription"
+    "path" : "/mrmtType/apexDescription",
     "from" : "/apexDescription"
   }
 ],[
@@ -21,7 +21,7 @@
   },
   {
     "op" : "copy",
-    "path" : "/mrmtType/avianDescription"
+    "path" : "/mrmtType/avianDescription",
     "from" : "/avianDescription"
   }
 ],[
@@ -31,7 +31,7 @@
   },
   {
     "op" : "copy",
-    "path" : "/mrmtType/floranDescription"
+    "path" : "/mrmtType/floranDescription",
     "from" : "/floranDescription"
   }
 ],[
@@ -41,7 +41,7 @@
   },
   {
     "op" : "copy",
-    "path" : "/mrmtType/glitchDescription"
+    "path" : "/mrmtType/glitchDescription",
     "from" : "/glitchDescription"
   }
 ],[
@@ -51,7 +51,7 @@
   },
   {
     "op" : "copy",
-    "path" : "/mrmtType/humanDescription"
+    "path" : "/mrmtType/humanDescription",
     "from" : "/humanDescription"
   }
 ],[
@@ -61,7 +61,7 @@
   },
   {
     "op" : "copy",
-    "path" : "/mrmtType/hylotlDescription"
+    "path" : "/mrmtType/hylotlDescription",
     "from" : "/hylotlDescription"
   }
 ],[
@@ -71,7 +71,7 @@
   },
   {
     "op" : "copy",
-    "path" : "/mrmtType/novakidDescription"
+    "path" : "/mrmtType/novakidDescription",
     "from" : "/novakidDescription"
   }
 ],[
@@ -81,7 +81,7 @@
   },
   {
     "op" : "copy",
-    "path" : "/mrmtType/oldTimeyDescription"
+    "path" : "/mrmtType/oldTimeyDescription",
     "from" : "/description"
   }
 ],[
@@ -90,7 +90,6 @@
     "path" : "/mrmtType/silentTypeDescription",
     "value" : ""
   }
-  }
 ],[
   {
     "op" : "test",
@@ -98,7 +97,7 @@
   },
   {
     "op" : "copy",
-    "path" : "/mrmtType/TerseDescription"
+    "path" : "/mrmtType/TerseDescription",
     "from" : "/shortdescription"
   }
 ]]
