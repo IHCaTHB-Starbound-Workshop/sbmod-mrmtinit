@@ -1,0 +1,1256 @@
+[
+  {
+    "desc": "Some rusty lookin' rails, gettin' the itch to ride 'em.",
+    "file": "rustyrail.material",
+    "name": "Rusty Rail",
+    "path": "tiles/rails"
+  },
+  {
+    "desc": "Some sturdy lookin' rails, gettin' the itch to ride 'em.",
+    "file": "compositerail.material",
+    "name": "Composite Rail",
+    "path": "tiles/rails"
+  },
+  {
+    "desc": "Ain't uncommon to see logs laid like this in cabins.",
+    "file": "log.material",
+    "name": "Wooden Log",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some sorta slimy lookin' meat.",
+    "file": "stomachblock.material",
+    "name": "Stomach Lining",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These metal panels feel mighty smooth.",
+    "file": "smoothmetal.material",
+    "name": "Smooth Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just a buncha rocks.",
+    "file": "rock17.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some sandy lookin' rocks.",
+    "file": "sandstone01.material",
+    "name": "Sandstone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ain't what I'm used to, but nice lookin' roofing all the same.",
+    "file": "ornateroofing.material",
+    "name": "Ornate Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Gold! I can hardly contain my excitement!",
+    "file": "treasurehoard.material",
+    "name": "Treasure Hoard",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These tough rocks are mighty sharp.",
+    "file": "blaststone.material",
+    "name": "Blaststone Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Looks t'be some moonstone.",
+    "file": "moonstone.material",
+    "name": "Moonstone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just a buncha rocks.",
+    "file": "rock03.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some sorta hive made from crushed critters.",
+    "file": "hive.material",
+    "name": "Hivestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ain't nothin' gonna move this thick wall.",
+    "file": "outpostwall2.material",
+    "name": "Outpost Thick Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A sturdy lookin' metal panel.",
+    "file": "slopedinsetpanel.material",
+    "name": "Inset Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "It looks fresh cut, but this wood has been treated with somethin'.",
+    "file": "fullwood1.material",
+    "name": "Treated Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Yeehaw! Shiny blocks of solid gold!",
+    "file": "goldblock.material",
+    "name": "Gold Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Reckon these bricks have been around a while.",
+    "file": "temple2.material",
+    "name": "Temple Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some kinda outpost wall.",
+    "file": "outpost.material",
+    "name": "Outpost Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just a buncha rocks.",
+    "file": "rock01.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Made for holdin' spaceships together.",
+    "file": "apexshipsupport.material",
+    "name": "Ship Support",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This stone is full'a tiny geode crystals.",
+    "file": "geodestone.material",
+    "name": "Geode Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A big ol' erchius crystal.",
+    "file": "supermatter.material",
+    "name": "Erchius Crystal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dirty lookin' dirt.",
+    "file": "dirt.material",
+    "name": "Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some fancy lookin' ornate floorin'.",
+    "file": "ornateflooring.material",
+    "name": "Ornate Flooring",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just a buncha rocks.",
+    "file": "rock12.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A dark lookin' stone brick.",
+    "file": "darksmoothstone.material",
+    "name": "Dark Smooth Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some mighty soft lookin' sand.",
+    "file": "sand2.material",
+    "name": "Sand",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Stone cut 'n polished into some fancy lookin' tiles.",
+    "file": "stonetiles.material",
+    "name": "Stone Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some tiles made outta metal.",
+    "file": "lightmetal.material",
+    "name": "Light Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Looks t'me like some basic granite.",
+    "file": "rock14.material",
+    "name": "Granite Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These strips're somethin' I should pay attention to.",
+    "file": "hazard.material",
+    "name": "Hazard Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Buncha fresh snow.",
+    "file": "snow.material",
+    "name": "Snow",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some strong lookin' metal bars.",
+    "file": "bars.material",
+    "name": "Metal Bars",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ain't that somethin'. Seems this block is made from mushrooms.",
+    "file": "shroomblock.material",
+    "name": "Mushroom Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These rusty ol' bars have seen better days.",
+    "file": "heavyironbars.material",
+    "name": "Heavy Iron Bars",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Nice lookin' window with wooden panes.",
+    "file": "woodenwindow1.material",
+    "name": "Wooden Window",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This ice is mighty slick.",
+    "file": "frozenwater.material",
+    "name": "Smooth Ice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "I reckon this big ol' block of platinum would be worth somethin' to somebody.",
+    "file": "platinumblock.material",
+    "name": "Platinum Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A layered roofing piece made outta straw.",
+    "file": "thatch.material",
+    "name": "Thatch",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This is a nice lookin' copper window frame.",
+    "file": "copperwindow.material",
+    "name": "Copper Window",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ain't uncommon to run across cobblestone rocks like this.",
+    "file": "cobblestone.material",
+    "name": "Cobblestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "I can see clear through t'the other side of this glass.",
+    "file": "glass.material",
+    "name": "Glass Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wallpaper. Perfect for classin' up the place.",
+    "file": "wallpaper.material",
+    "name": "Classic Wallpaper",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "I'd reckon these coconut bricks are mighty strong.",
+    "file": "coconutblock.material",
+    "name": "Coconut Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sturdy lookin' bricks all marked up with symbols.",
+    "file": "aztectech.material",
+    "name": "Avian Tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A whole mess'a thick lookin' tar.",
+    "file": "tar.material",
+    "name": "Tar",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This metal beam looks mighty stong.",
+    "file": "pressurisedbeam.material",
+    "name": "Pressurised Beam",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This flesh is pretty nasty lookin'.",
+    "file": "hellstone.material",
+    "name": "Flesh Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "I'd bet this here wood is mighty old.",
+    "file": "woodbridge.material",
+    "name": "Wooden Bridge Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Big ol' pile of dusty silt.",
+    "file": "sand.material",
+    "name": "Loose Silt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These space rocks ain't like the ones on the ground.",
+    "file": "meteoriterock.material",
+    "name": "Meteorite Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some chopped bamboo.",
+    "file": "bamboo.material",
+    "name": "Bamboo",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some bright lookin' flowers.",
+    "file": "floweryblock.material",
+    "name": "Flower Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "It's made outta cactus. Better not lean against this.",
+    "file": "cactiblock.material",
+    "name": "Cacti Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "I'd hate t've been the fella who had to lay these heavy bricks.",
+    "file": "castlewalls1.material",
+    "name": "Heavy Stone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This here cloud is made from some heavy fluff stuff.",
+    "file": "cloudblock.material",
+    "name": "Cloud",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Bunch of bones. Who needs 'em!",
+    "file": "bonematerial.material",
+    "name": "Packed Bones",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Jus' some wet lookin' dirt.",
+    "file": "wetdirt.material",
+    "name": "Wet Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just a buncha rocks.",
+    "file": "rock02.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This here wood's all covered in stripes.",
+    "file": "alienstripedblock.material",
+    "name": "Alien Striped Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some rocks with growin' grass.",
+    "file": "grassyrock.material",
+    "name": "Grassy Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some mighty old lookin' bricks.",
+    "file": "ancientbrick.material",
+    "name": "Ancient Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Nothin' like a sturdy wooden fence.",
+    "file": "fence.material",
+    "name": "Wooden Fence",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shiny lookin' blocks made outta pure silver.",
+    "file": "silverblock.material",
+    "name": "Silver Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Why'd anyone want to cover their walls with paper lookin' like this?",
+    "file": "cheapwallpaper.material",
+    "name": "Tacky Wallpaper",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This ornate tiling really classes the place up.",
+    "file": "ornatetiles.material",
+    "name": "Ornate Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just some dry dusty dirt.",
+    "file": "drydirt.material",
+    "name": "Dry Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This is some sorta flesh.",
+    "file": "fleshblock.material",
+    "name": "Flesh Chunk",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "An ol' heap of garbage.",
+    "file": "junk.material",
+    "name": "Junk Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just a buncha rocks.",
+    "file": "rock20.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These blocks are crafted outta iron.",
+    "file": "ironblock.material",
+    "name": "Iron Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Better watch myself 'round these burnin' magmarocks.",
+    "file": "magmarock.material",
+    "name": "Magmarock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Looks t'me like a block made outta plants.",
+    "file": "plantblock.material",
+    "name": "Plant Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A big ol' screw outta silver.",
+    "file": "silverscrew.material",
+    "name": "Silver Screw",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A creepy lookin' spider web.",
+    "file": "spidersilkblock.material",
+    "name": "Spider Silk",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some smooth lookin' bricks.",
+    "file": "tombbrick2.material",
+    "name": "Unmarked Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Strong lookin' wall made from metal.",
+    "file": "apexshipdetails.material",
+    "name": "Metal Railing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "The crystals in this block are real purdy.",
+    "file": "crystalblock.material",
+    "name": "Crystal Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Grassy sod roofing, somethin' nice about the simplicity of it.",
+    "file": "grassy.material",
+    "name": "Sod Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some black lookin' obsidian rocks.",
+    "file": "obsidian.material",
+    "name": "Obsidian",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Bucha ol' tech smashed together into bricks.",
+    "file": "junktech.material",
+    "name": "Junk Tech",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some reeds that're all woven together.",
+    "file": "reeds.material",
+    "name": "Reed Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Buncha ice.",
+    "file": "ice.material",
+    "name": "Ice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some 'ol metal panels covered in rust.",
+    "file": "slopedrustypanel.material",
+    "name": "Rusty Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some sorta tough lookin' metal.",
+    "file": "lunarbaseblock.material",
+    "name": "Lunar Base Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Looks t'me like some small bricks.",
+    "file": "tombbrick3.material",
+    "name": "Small Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A shiny lookin' durasteel panel.",
+    "file": "pressuriseddurasteel.material",
+    "name": "Pressurised Durasteel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A mess 'o slimy lookin' jelly.",
+    "file": "jellyblock.material",
+    "name": "Jelly Blob",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "I reckon drying this clay would harden it up.",
+    "file": "clay.material",
+    "name": "Clay",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Filthy, dirty lookin' sewer pipes.",
+    "file": "sewerpipe.material",
+    "name": "Sewer Pipe",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This ain't nothin' more'n a pile of rocks.",
+    "file": "rockbrick.material",
+    "name": "Rock Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some real pretty painted bricks.",
+    "file": "homewalls1.material",
+    "name": "Painted Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Looks t'me like a big metal beam.",
+    "file": "outpostsupport.material",
+    "name": "Outpost Support Beam",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some fleshy brainstuff.",
+    "file": "brainsblock.material",
+    "name": "Brains",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some smooth lookin' blocks made outta tungsten.",
+    "file": "mediummetal.material",
+    "name": "Tungsten Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some shiny n' smooth titanium panels.",
+    "file": "composite01.material",
+    "name": "Titanium Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some strange lookin' crystals.",
+    "file": "matterblock.material",
+    "name": "Matter Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "There's some real nice flowers growin' here.",
+    "file": "petalblock.material",
+    "name": "Petal Matter Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some kinda ol' lookin' symbols.",
+    "file": "aztec.material",
+    "name": "Glyph Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Looks t'me like moondust.",
+    "file": "moondust.material",
+    "name": "Moondust",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Copper blocks, they look sorta like gears.",
+    "file": "copperblock.material",
+    "name": "Copper Gear Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Nice lookin' brickwork.",
+    "file": "brick.material",
+    "name": "Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This is a real fancy lookin' wall.",
+    "file": "ornatewall.material",
+    "name": "Ornate Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Someone's gone and carved a buncha pictures into these bricks.",
+    "file": "temple4.material",
+    "name": "Simple Temple Blocks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some dirty ol' pipes.",
+    "file": "heavypipe.material",
+    "name": "Heavy Pipe",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Glass so dark the sun'll hardly shine through.",
+    "file": "blackglass.material",
+    "name": "Black Glass",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This rock is glowin' yellow but not givin' off any heat.",
+    "file": "biorock.material",
+    "name": "Yellow Glow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "There's little wigglin' worms inside this stone.",
+    "file": "direstone.material",
+    "name": "Dire Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some bricks carved outta rock.",
+    "file": "castlewalls2.material",
+    "name": "Small Stone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Fancy lookin' panel with a bunch of wires underneath.",
+    "file": "techhull1.material",
+    "name": "Reinforced Tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some ol' metal covered in thick rust.",
+    "file": "rustymetal.material",
+    "name": "Rusty Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This is one ol' lookin' stone pillar.",
+    "file": "pillarblock.material",
+    "name": "Pillar Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This corrupted dirt ain't too pleasant.",
+    "file": "corruptdirt.material",
+    "name": "Corrupt Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Buncha plants and leaves all mashed together.",
+    "file": "plantmatter.material",
+    "name": "Plant Matter",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "That skin looks tougher'n a leather boot.",
+    "file": "dermisblock.material",
+    "name": "Ruin Dermis",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These ol' lookin' bricks are mighty smooth.",
+    "file": "tombbrick5.material",
+    "name": "Smooth Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just some basic lookin' wood planks.",
+    "file": "darkwood.material",
+    "name": "Timber",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These colourful blocks are meant for playin' with.",
+    "file": "redtoyblock.material",
+    "name": "Red Toy Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These tiles look perfect for makin' a roof.",
+    "file": "rooftiles.material",
+    "name": "Roof Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some kinda alien lookin' rock.",
+    "file": "alienrock.material",
+    "name": "Alien Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A fancy lookin' screen panel.",
+    "file": "shojiscreenpanel.material",
+    "name": "Shoji Screen Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Buncha crushed up rocks.",
+    "file": "stonerubble.material",
+    "name": "Stone Rubble",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This blue rock is shinin' a bit.",
+    "file": "biorock2.material",
+    "name": "Blue Glow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This slime is some nasty lookin' stuff.",
+    "file": "slime.material",
+    "name": "Slime Glob",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Strong lookin' stone. Feels mighty cold to the touch.",
+    "file": "tombbrick4.material",
+    "name": "Dark Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some dusty books. Who doesn't love t'hear a good story?",
+    "file": "bookpiles.material",
+    "name": "Pile of Books",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Buncha copper roofin' tiles.",
+    "file": "copperroofing.material",
+    "name": "Copper Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Thin wood strips all criss crossin' together.",
+    "file": "crosshatch.material",
+    "name": "Window Lattice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This concrete looks mighty tough.",
+    "file": "outpostwall1.material",
+    "name": "Outpost Concrete",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This block is actually filled with some sorta gas.",
+    "file": "neonblock.material",
+    "name": "Neon Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Somethin' wrong with this mirror. I ain't seein' nothin' reflected.",
+    "file": "mirror.material",
+    "name": "Mirror Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This here fence is made outta copper.",
+    "file": "copperfence.material",
+    "name": "Copper Fence",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Looks like these blocks are just some tough material all woven together.",
+    "file": "wickersupport.material",
+    "name": "Wicker Support Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These blocks are older'n dirt.",
+    "file": "ancientblock.material",
+    "name": "Ancient Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Concrete makes a mighty sturdy block.",
+    "file": "concrete.material",
+    "name": "Concrete Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Looks t'me like some wicker.",
+    "file": "wicker.material",
+    "name": "Wicker Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These vines are massive lookin'.",
+    "file": "vine.material",
+    "name": "Vine",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This metal panel is just a buncha rusted scrap.",
+    "file": "slopedscrappanel.material",
+    "name": "Scrap Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Looks t'me like a buncha mud.",
+    "file": "mud.material",
+    "name": "Mud",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some shiny lookin' rock crystals.",
+    "file": "geodeblock.material",
+    "name": "Geode Crystals",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some blocks were just meant for tossin'",
+    "file": "throwingblock.material",
+    "name": "Throwing Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ol' blocks with some sorta carvin'.",
+    "file": "temple1.material",
+    "name": "Temple Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dry lookin' packed sand.",
+    "file": "drysand.material",
+    "name": "Dry Sand",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This purple crystal is purdy lookin'.",
+    "file": "purplecrystal.material",
+    "name": "Purple Crystal Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A panel made outta metal.",
+    "file": "apexshipwall.material",
+    "name": "Wall Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These blocks're darker'n a moonless night.",
+    "file": "shadowspikeblock.material",
+    "name": "Shadow Spike Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Looks t'me like some kinda tentacle.",
+    "file": "tentaclepipe.material",
+    "name": "Large Tentacle",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just a buncha rocks.",
+    "file": "rock19.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just some ol' dusty bricks.",
+    "file": "tombbrick.material",
+    "name": "Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A block with some sorta glowin' symbol.",
+    "file": "blueneonsymbolblock.material",
+    "name": "Blue Neon Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Buncha creepy lookin' tentacles all mashed together.",
+    "file": "tentacleblock.material",
+    "name": "Tentacle Cluster",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some thick metal plating, looks mighty solid.",
+    "file": "slopedhullpanel.material",
+    "name": "Hull Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Bricks made outta cobblestone.",
+    "file": "cobblestonebrick.material",
+    "name": "Cobblestone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Planks made from some mighty colourful wood.",
+    "file": "rainbowwoodblock.material",
+    "name": "Rainbow Wood Planks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A whole mess of freezin' slush.",
+    "file": "slush.material",
+    "name": "Slush",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some bricks made outta dark rock.",
+    "file": "shadowwallblock.material",
+    "name": "Shadow Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some of these eyes are lookin' right at me.",
+    "file": "eyepiles.material",
+    "name": "Pile of Eyes",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Crushed rocks an' gravel.",
+    "file": "gravel.material",
+    "name": "Gravel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some smooth lookin' wall plates.",
+    "file": "plate.material",
+    "name": "Smooth Plated Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some chains made outta tungsten.",
+    "file": "chain.material",
+    "name": "Tungsten Chain",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some mighty old lookin' bricks.",
+    "file": "ledgebrick.material",
+    "name": "Ledge Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wood panels, that's how y'know this place is fancy.",
+    "file": "woodpanelling.material",
+    "name": "Wood Panelling",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some smooth lookin' bricks.",
+    "file": "fadedblocks.material",
+    "name": "Soft Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Buncha glowin' toxic chemical waste.",
+    "file": "waste.material",
+    "name": "Waste",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This frozen dirt is mighty cold.",
+    "file": "frozendirt.material",
+    "name": "Frozen Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Looks t'me like some sorta sewage. Smells like an outhouse in the sun.",
+    "file": "sewage.material",
+    "name": "Raw Sewage",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A cabin roof, good for keepin' dry in the rain.",
+    "file": "cabinroofing.material",
+    "name": "Cabin Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These stone blocks carved up mighty nice.",
+    "file": "ridgebrick.material",
+    "name": "Ridged Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some dusty lookin' little bricks.",
+    "file": "temple3.material",
+    "name": "Small Temple Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just a buncha rocks.",
+    "file": "rock04.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This here metal looks mighty rusty.",
+    "file": "rustyblock.material",
+    "name": "Rusty Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A tough 'ol metal girder.",
+    "file": "pressurisedgirder.material",
+    "name": "Pressurised Girder",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Just a buncha rocks.",
+    "file": "rock15.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "It's a mash of sticky oil an' rocks.",
+    "file": "asphalt.material",
+    "name": "Asphalt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This wood looks like it's been treated with somethin'.",
+    "file": "ornatewood.material",
+    "name": "Ornate Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Buncha ice, cut up into blocks.",
+    "file": "iceblock.material",
+    "name": "Ice Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some chalky lookin' limestone.",
+    "file": "limestone.material",
+    "name": "Limestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Mighty dark lookin' rocks.",
+    "file": "shadowblock.material",
+    "name": "Shadow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some fancy wall moulding.",
+    "file": "baseboard.material",
+    "name": "Classic Baseboard",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Big ol' pile of ash.",
+    "file": "ash.material",
+    "name": "Ash Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some flashy lookin' hi-tech blocks.",
+    "file": "metallic.material",
+    "name": "Hi-tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A strong lookin' metal girder.",
+    "file": "girder.material",
+    "name": "Girder",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Soft lookin' bricks, made from dirt.",
+    "file": "packeddirt.material",
+    "name": "Packed Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some dry n' dusty lookin' moonrock.",
+    "file": "moonrock.material",
+    "name": "Moonrock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "A big ol' piece of rock candy.",
+    "file": "candyblock.material",
+    "name": "Candy Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This here dirt's all cover'd in moss.",
+    "file": "mossypackeddirt.material",
+    "name": "Mossy Packed Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "I can see right through the spaces in this wood, clear to the other side.",
+    "file": "woodenwindow2.material",
+    "name": "Wooden Blinds",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Some bricks made outta sandstone.",
+    "file": "sandstoneblock.material",
+    "name": "Sandstone Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This rusty platform looks 'bout ready to fall apart.",
+    "file": "wreckplatform.material",
+    "name": "Wrecked Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Some strange lookin' tech in this platform.",
+    "file": "ancientplatform.material",
+    "name": "Ancient Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Some sorta shiny lookin' platform.",
+    "file": "pressurisedplatform.material",
+    "name": "Pressurised Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Bamboo hung up like a platform.",
+    "file": "bambooplatform.material",
+    "name": "Bamboo Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Some fancy lookin' platforms made outta metal.",
+    "file": "protectorateplatform.material",
+    "name": "Protectorate Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "I'll reckon this platform is worth its weight in silver.",
+    "file": "silverplatform.material",
+    "name": "Silver Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Just a platform made outta wood.",
+    "file": "platform.material",
+    "name": "Wood Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Platforms made outta tungsten.",
+    "file": "tungstenplatform.material",
+    "name": "Tungsten Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Some fancy lookin' metal platforms.",
+    "file": "modernplatform.material",
+    "name": "Modern Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Some simple lookin' wooden platforms.",
+    "file": "woodenplatform.material",
+    "name": "Ornate Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "A ladder made outta copper.",
+    "file": "copperladder.material",
+    "name": "Copper Ladder",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Pretty strange lookin' metal platform.",
+    "file": "outpostplatform.material",
+    "name": "Outpost Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Ol' stone bricks setup like a platform.",
+    "file": "tribalplatform.material",
+    "name": "Temple Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Best watch myself, this ol' platform looks like it's fallin' apart.",
+    "file": "ruinsplatform.material",
+    "name": "Ruins Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "This moss makes this platform mighty slippery.",
+    "file": "plantplatform.material",
+    "name": "Mossy Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "This platform's strong enough t'keep from gettin' boot scuffed.",
+    "file": "apexshipplatform.material",
+    "name": "Ship Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "I reckon it must've been tough makin' this platform with copper.",
+    "file": "copperplatform.material",
+    "name": "Copper Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Gold! It's a platform made of gold!.",
+    "file": "goldenplatform.material",
+    "name": "Gold Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Must've taken forever to carve these stone platforms.",
+    "file": "stoneplatform.material",
+    "name": "Stone Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "A shiny lookin' platform.",
+    "file": "lunarbaseplatform.material",
+    "name": "Lunar Base Platform",
+    "path": "tiles/platforms"
+  }
+]
