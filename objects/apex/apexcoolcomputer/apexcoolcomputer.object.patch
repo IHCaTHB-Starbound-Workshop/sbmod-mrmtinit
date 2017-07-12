@@ -6,13 +6,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/apexDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/apexDescription",
-    "from" : "/apexDescription"
+    "value" : "This is a really powerful computer."
   }
 ],[
   {
@@ -26,13 +22,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/floranDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/floranDescription",
-    "from" : "/floranDescription"
+    "value" : "Me sssteal technology to sssurvive."
   }
 ],[
   {

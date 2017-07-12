@@ -6,13 +6,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/apexDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/apexDescription",
-    "from" : "/apexDescription"
+    "value" : "The china depicts the Apex before the corruption of their DNA. So many of them long to be what they once were."
   }
 ],[
   {

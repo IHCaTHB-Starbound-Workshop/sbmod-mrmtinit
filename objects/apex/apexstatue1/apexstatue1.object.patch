@@ -6,13 +6,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/apexDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/apexDescription",
-    "from" : "/apexDescription"
+    "value" : "Big Ape... His image is everywhere, but nobody has ever seen him."
   }
 ],[
   {

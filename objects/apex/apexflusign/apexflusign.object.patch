@@ -16,23 +16,15 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/avianDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/avianDescription",
-    "from" : "/avianDescription"
+    "value" : "Can others catch ape flu?"
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/floranDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/floranDescription",
-    "from" : "/floranDescription"
+    "value" : "Sssilly Apex Flu, me will eat you."
   }
 ],[
   {

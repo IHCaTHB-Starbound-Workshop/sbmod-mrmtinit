@@ -6,13 +6,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/apexDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/apexDescription",
-    "from" : "/apexDescription"
+    "value" : "This scientist died attempting to alter his genes."
   }
 ],[
   {

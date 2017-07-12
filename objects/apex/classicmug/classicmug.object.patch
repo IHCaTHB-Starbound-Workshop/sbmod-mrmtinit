@@ -6,23 +6,15 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/apexDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/apexDescription",
-    "from" : "/apexDescription"
+    "value" : "A mug for hot juice."
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/avianDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/avianDescription",
-    "from" : "/avianDescription"
+    "value" : "I have never seen a cup with this kind of form."
   }
 ],[
   {

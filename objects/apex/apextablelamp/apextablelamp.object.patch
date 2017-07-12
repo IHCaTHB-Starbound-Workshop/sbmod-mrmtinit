@@ -5,7 +5,7 @@
     "value" : {}
   }
 ],[
-  {
+/*  {
     "op" : "test",
     "path" : "/apexDescription"
   },
@@ -14,7 +14,7 @@
     "path" : "/mrmtType/apexDescription",
     "from" : "/apexDescription"
   }
-],[
+],[*/
   {
     "op" : "test",
     "path" : "/avianDescription"
@@ -26,13 +26,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/floranDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/floranDescription",
-    "from" : "/floranDescription"
+    "value" : "Green lightsss remind me of home village."
   }
 ],[
   {

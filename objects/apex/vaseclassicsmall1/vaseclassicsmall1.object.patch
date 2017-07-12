@@ -16,13 +16,9 @@
   }
 ],[
   {
-    "op" : "test",
-    "path" : "/avianDescription"
-  },
-  {
-    "op" : "copy",
+    "op" : "add",
     "path" : "/mrmtType/avianDescription",
-    "from" : "/avianDescription"
+    "value" : "Sometimes I store trinkets in pots. Perhaps others do the same."
   }
 ],[
   {
