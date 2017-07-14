@@ -1,8 +1,14 @@
 generic:
-  total: changes any reference by original species name to pronoun
-  partial: changes any self reference by original species name to pronoun
-  strict: removes
+  total: changes any reference by base species name to pronoun
+  partial: changes any self reference by base species name to pronoun
 
 rename:
-  total: changes any reference by original species name to own species name
-  partial: changes any self reference by original species name to own species name
+  total: changes any reference by base species name to own species name
+  partial: changes any self reference by base species name to own species name
+
+types of references:
+  refering to self by base species name
+  identifying self as having history unique to base species
+  identifying self as having culture unique to base species
+  having inexplicable and advance knowledge of base species
+  identifying self as having physical characteristics of base species
