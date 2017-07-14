@@ -1,0 +1,8 @@
+[
+  {
+    "desc": "Wood that's been crafted into planks.",
+    "file": "darkwood.material",
+    "name": "Timber",
+    "path": "tiles/materials"
+  }
+]

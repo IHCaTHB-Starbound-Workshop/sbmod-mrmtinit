@@ -1,0 +1,8 @@
+generic:
+  total: changes any reference by original species name to pronoun
+  partial: changes any self reference by original species name to pronoun
+  strict: removes
+
+rename:
+  total: changes any reference by original species name to own species name
+  partial: changes any self reference by original species name to own species name

@@ -1,0 +1,1280 @@
+[
+  {
+    "desc": "Rusty metal rails.",
+    "file": "rustyrail.material",
+    "name": "Rusty Rail",
+    "path": "tiles/rails"
+  },
+  {
+    "desc": "Shiny metal rails.",
+    "file": "compositerail.material",
+    "name": "Composite Rail",
+    "path": "tiles/rails"
+  },
+  {
+    "desc": "Floran likess wooden log wallss.",
+    "file": "log.material",
+    "name": "Wooden Log",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sslimy meat.",
+    "file": "stomachblock.material",
+    "name": "Stomach Lining",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssmooth metal.",
+    "file": "smoothmetal.material",
+    "name": "Smooth Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hard rough sstoness.",
+    "file": "rock17.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssandy ssandstone rockss.",
+    "file": "sandstone01.material",
+    "name": "Sandstone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ornate roofing iss pretty.",
+    "file": "ornateroofing.material",
+    "name": "Ornate Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likes ssshiny gold!",
+    "file": "treasurehoard.material",
+    "name": "Treasure Hoard",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssharp rockss are sstrong.",
+    "file": "blaststone.material",
+    "name": "Blaststone Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssmooth moonsstone.",
+    "file": "moonstone.material",
+    "name": "Moonstone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hard rough sstoness.",
+    "file": "rock03.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hive made from crusshed animalss.",
+    "file": "hive.material",
+    "name": "Hivestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Thiss wall is ssso sstrong.",
+    "file": "outpostwall2.material",
+    "name": "Outpost Thick Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "This sspace-metal looks ssstrong.",
+    "file": "slopedinsetpanel.material",
+    "name": "Inset Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Jusst some bassic wood.",
+    "file": "fullwood1.material",
+    "name": "Treated Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sshiny gold blockss.",
+    "file": "goldblock.material",
+    "name": "Gold Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess old brickss.",
+    "file": "temple2.material",
+    "name": "Temple Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hard metal outposst wall.",
+    "file": "outpost.material",
+    "name": "Outpost Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hard rough sstoness.",
+    "file": "rock01.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssship sstructural ssupport.",
+    "file": "apexshipsupport.material",
+    "name": "Ship Support",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess tiny crysstals in geode sstone.",
+    "file": "geodestone.material",
+    "name": "Geode Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shiny giant crystalss.",
+    "file": "supermatter.material",
+    "name": "Erchius Crystal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Filthy dirt!",
+    "file": "dirt.material",
+    "name": "Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Unssstabbed rainbow wood.",
+    "file": "rainbowwood.material",
+    "name": "Unrefined Rainbow Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran feelss fancy walking on ornate floor.",
+    "file": "ornateflooring.material",
+    "name": "Ornate Flooring",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hard rough sstoness.",
+    "file": "rock12.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssmooth sstone block.",
+    "file": "darksmoothstone.material",
+    "name": "Dark Smooth Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dussty sand.",
+    "file": "sand2.material",
+    "name": "Sand",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sstones polished into beautiful tiless.",
+    "file": "stonetiles.material",
+    "name": "Stone Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Smooth metal tiless.",
+    "file": "lightmetal.material",
+    "name": "Light Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likessss pretty granite.",
+    "file": "rock14.material",
+    "name": "Granite Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Thesse sstripes mean caution.",
+    "file": "hazard.material",
+    "name": "Hazard Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Cold ssnowy sstuff.",
+    "file": "snow.material",
+    "name": "Snow",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sstrong metal barsss.",
+    "file": "bars.material",
+    "name": "Metal Bars",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "...",
+    "file": "black.material",
+    "name": "...",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Lovely mushroomss.",
+    "file": "shroomblock.material",
+    "name": "Mushroom Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Russsty old barss.",
+    "file": "heavyironbars.material",
+    "name": "Heavy Iron Bars",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Nice windowss, Floran can see outside.",
+    "file": "woodenwindow1.material",
+    "name": "Wooden Window",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssslippy frozen water.",
+    "file": "frozenwater.material",
+    "name": "Smooth Ice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess shiny platinum.",
+    "file": "platinumblock.material",
+    "name": "Platinum Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dry sstraw roofing.",
+    "file": "thatch.material",
+    "name": "Thatch",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Windowsss made from copper.",
+    "file": "copperwindow.material",
+    "name": "Copper Window",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Unssstabbed wood.",
+    "file": "fullwood2.material",
+    "name": "Unrefined Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssmooth cobblessstone rockss.",
+    "file": "cobblestone.material",
+    "name": "Cobblestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran lookss pretty in glasssss.",
+    "file": "glass.material",
+    "name": "Glass Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sstrange paper covers wallss.",
+    "file": "wallpaper.material",
+    "name": "Classic Wallpaper",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Coconutss are sstong brickss.",
+    "file": "coconutblock.material",
+    "name": "Coconut Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Brickss covered in sstrange markingss.",
+    "file": "aztectech.material",
+    "name": "Avian Tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran disslikes ssticky tar.",
+    "file": "tar.material",
+    "name": "Tar",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sstrong metal beam.",
+    "file": "pressurisedbeam.material",
+    "name": "Pressurised Beam",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssquishy, sslimy flesh.",
+    "file": "hellstone.material",
+    "name": "Flesh Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Old wood iss strong.",
+    "file": "woodbridge.material",
+    "name": "Wooden Bridge Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Silt. It's so dussty.",
+    "file": "sand.material",
+    "name": "Loose Silt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran like ssky rockss.",
+    "file": "meteoriterock.material",
+    "name": "Meteorite Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Fresssh bamboo stalkss.",
+    "file": "bamboo.material",
+    "name": "Bamboo",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Thesse flowerss look healthy.",
+    "file": "floweryblock.material",
+    "name": "Flower Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran like pickly cactuss blocksss.",
+    "file": "cactiblock.material",
+    "name": "Cacti Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Giant sstone brickss.",
+    "file": "castlewalls1.material",
+    "name": "Heavy Stone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Cloud iss sso fluffy!",
+    "file": "cloudblock.material",
+    "name": "Cloud",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Bonesss!",
+    "file": "bonematerial.material",
+    "name": "Packed Bones",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wet dirt iss good for plantss.",
+    "file": "wetdirt.material",
+    "name": "Wet Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hard rough sstoness.",
+    "file": "rock02.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "SSssstripey wood. Makess sstripey housse!",
+    "file": "alienstripedblock.material",
+    "name": "Alien Striped Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Grassssy rocksss.",
+    "file": "grassyrock.material",
+    "name": "Grassy Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ancient carved brickss.",
+    "file": "ancientbrick.material",
+    "name": "Ancient Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssturdy fence.",
+    "file": "fence.material",
+    "name": "Wooden Fence",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssilver, sso shiny.",
+    "file": "silverblock.material",
+    "name": "Silver Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran adore pretty wall paperss.",
+    "file": "cheapwallpaper.material",
+    "name": "Tacky Wallpaper",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran appreciatess nice ornate tiling.",
+    "file": "ornatetiles.material",
+    "name": "Ornate Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dirt that iss dry.",
+    "file": "drydirt.material",
+    "name": "Dry Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssquishy meat.",
+    "file": "fleshblock.material",
+    "name": "Flesh Chunk",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sso much junk.",
+    "file": "junk.material",
+    "name": "Junk Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hard rough sstoness.",
+    "file": "rock20.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Cold iron metal blockss.",
+    "file": "ironblock.material",
+    "name": "Iron Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Burny hot magmarockss.",
+    "file": "magmarock.material",
+    "name": "Magmarock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran feelss kinship with thiss plant block.",
+    "file": "plantblock.material",
+    "name": "Plant Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shiny sscrew made from ssilver.",
+    "file": "silverscrew.material",
+    "name": "Silver Screw",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssticky sspider web. Floran thinks sspider is great hunter!",
+    "file": "spidersilkblock.material",
+    "name": "Spider Silk",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess smooth brickss.",
+    "file": "tombbrick2.material",
+    "name": "Unmarked Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssstrong bolted metal.",
+    "file": "apexshipdetails.material",
+    "name": "Metal Railing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssshiny block made from crysstalss.",
+    "file": "crystalblock.material",
+    "name": "Crystal Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess grasssy ssod roofing.",
+    "file": "grassy.material",
+    "name": "Sod Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Obsssidian. Sstrong black rockss.",
+    "file": "obsidian.material",
+    "name": "Obsidian",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Technological trasssh.",
+    "file": "junktech.material",
+    "name": "Junk Tech",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess sstrong reedss.",
+    "file": "reeds.material",
+    "name": "Reed Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Frossty ssolid ice.",
+    "file": "ice.material",
+    "name": "Ice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran wantsss to make ssspears out of rusty metal.",
+    "file": "slopedrustypanel.material",
+    "name": "Rusty Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssstrong metal blockss.",
+    "file": "lunarbaseblock.material",
+    "name": "Lunar Base Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssmall brickss.",
+    "file": "tombbrick3.material",
+    "name": "Small Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssstrong durassteel panelling.",
+    "file": "pressuriseddurasteel.material",
+    "name": "Pressurised Durasteel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Jiggly wiggly jelly.",
+    "file": "jellyblock.material",
+    "name": "Jelly Blob",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssmooth clay.",
+    "file": "clay.material",
+    "name": "Clay",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssmelly ssewer pipess.",
+    "file": "sewerpipe.material",
+    "name": "Sewer Pipe",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sstacked rockss.",
+    "file": "rockbrick.material",
+    "name": "Rock Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Pretty painted bricksss.",
+    "file": "homewalls1.material",
+    "name": "Painted Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssupport beam.",
+    "file": "outpostsupport.material",
+    "name": "Outpost Support Beam",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran want to ssstab sssquishy brain.",
+    "file": "brainsblock.material",
+    "name": "Brains",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shiny tungssten blockss.",
+    "file": "mediummetal.material",
+    "name": "Tungsten Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssmooth shiny titanium panelss.",
+    "file": "composite01.material",
+    "name": "Titanium Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran musst gather colourful matter crystal.",
+    "file": "matterblock.material",
+    "name": "Matter Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran lovess flowery plantss.",
+    "file": "petalblock.material",
+    "name": "Petal Matter Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran cannot undersstand ssymbolss.",
+    "file": "aztec.material",
+    "name": "Glyph Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran lovess colourful moondusst.",
+    "file": "moondust.material",
+    "name": "Moondust",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Copper blockss like machine gearss.",
+    "file": "copperblock.material",
+    "name": "Copper Gear Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssimple bricksss.",
+    "file": "brick.material",
+    "name": "Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wall iss too pretty to sssmash.",
+    "file": "ornatewall.material",
+    "name": "Ornate Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Old carvingss in stone brickss.",
+    "file": "temple4.material",
+    "name": "Simple Temple Blocks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssmelly ssewer pipe.",
+    "file": "heavypipe.material",
+    "name": "Heavy Pipe",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran can hide behind dark glasss.",
+    "file": "blackglass.material",
+    "name": "Black Glass",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess yellow glowing rockss.",
+    "file": "biorock.material",
+    "name": "Yellow Glow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wiggly wormssstone!",
+    "file": "direstone.material",
+    "name": "Dire Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "These sstone brickss are ssmall.",
+    "file": "castlewalls2.material",
+    "name": "Small Stone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran rip plating off, sslash wires.",
+    "file": "techhull1.material",
+    "name": "Reinforced Tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Russst covered metal.",
+    "file": "rustymetal.material",
+    "name": "Rusty Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sstone pillar iss very old.",
+    "file": "pillarblock.material",
+    "name": "Pillar Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dissgusting corrupted dirt.",
+    "file": "corruptdirt.material",
+    "name": "Corrupt Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess plantss.",
+    "file": "plantmatter.material",
+    "name": "Plant Matter",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sstrong skin iss good protection.",
+    "file": "dermisblock.material",
+    "name": "Ruin Dermis",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssmooth bricks and ssoft.",
+    "file": "tombbrick5.material",
+    "name": "Smooth Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssplintery wood plankss.",
+    "file": "darkwood.material",
+    "name": "Timber",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess sstackable toy block.",
+    "file": "redtoyblock.material",
+    "name": "Red Toy Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Roofing tiless.",
+    "file": "rooftiles.material",
+    "name": "Roof Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran like sstrange rocks.",
+    "file": "alienrock.material",
+    "name": "Alien Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sstrange screen panelss.",
+    "file": "shojiscreenpanel.material",
+    "name": "Shoji Screen Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssstone rubble made from old buildingss.",
+    "file": "stonerubble.material",
+    "name": "Stone Rubble",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Blue rockss faintly glow.",
+    "file": "biorock2.material",
+    "name": "Blue Glow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran lovess sslime!",
+    "file": "slime.material",
+    "name": "Slime Glob",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Big stone brickss are hard and cold.",
+    "file": "tombbrick4.material",
+    "name": "Dark Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Greatnesss not found in bookss.",
+    "file": "bookpiles.material",
+    "name": "Pile of Books",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess sshiny copper roofing.",
+    "file": "copperroofing.material",
+    "name": "Copper Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran like crisss crosssy wood.",
+    "file": "crosshatch.material",
+    "name": "Window Lattice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran disslikess cold hard concrete.",
+    "file": "outpostwall1.material",
+    "name": "Outpost Concrete",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Bright coloured neon filled block.",
+    "file": "neonblock.material",
+    "name": "Neon Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shiny ssurface.",
+    "file": "mirror.material",
+    "name": "Mirror Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssturdy copper fence.",
+    "file": "copperfence.material",
+    "name": "Copper Fence",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess strong wicker blockss.",
+    "file": "wickersupport.material",
+    "name": "Wicker Support Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ancient blocksss.",
+    "file": "ancientblock.material",
+    "name": "Ancient Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran disslike cold concrete.",
+    "file": "concrete.material",
+    "name": "Concrete Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sstrong wicker makess wall.",
+    "file": "wicker.material",
+    "name": "Wicker Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Viness grow sstrong just like Floran.",
+    "file": "vine.material",
+    "name": "Vine",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Metal sssso russty, Floran wouldn't even ussse it.",
+    "file": "slopedscrappanel.material",
+    "name": "Scrap Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess muddy messsss.",
+    "file": "mud.material",
+    "name": "Mud",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssshiny geode crysstalss.",
+    "file": "geodeblock.material",
+    "name": "Geode Crystals",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess to throw blocks!",
+    "file": "throwingblock.material",
+    "name": "Throwing Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likes sstone picturess.",
+    "file": "temple1.material",
+    "name": "Temple Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hard dry ssandy sand.",
+    "file": "drysand.material",
+    "name": "Dry Sand",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Pretty purple crysstal.",
+    "file": "purplecrystal.material",
+    "name": "Purple Crystal Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Metal panel makess ssmooth wall.",
+    "file": "apexshipwall.material",
+    "name": "Wall Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dark blockss are black as night.",
+    "file": "shadowspikeblock.material",
+    "name": "Shadow Spike Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Big sstrong tentacless.",
+    "file": "tentaclepipe.material",
+    "name": "Large Tentacle",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hard rough sstoness.",
+    "file": "rock19.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dusssty old bricks.",
+    "file": "tombbrick.material",
+    "name": "Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran like glowy ssymbolss.",
+    "file": "blueneonsymbolblock.material",
+    "name": "Blue Neon Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran dislikess wriggling tentacless.",
+    "file": "tentacleblock.material",
+    "name": "Tentacle Cluster",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shiny sssmooth space metal.",
+    "file": "slopedhullpanel.material",
+    "name": "Hull Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssmooth cobblessstone brickss.",
+    "file": "cobblestonebrick.material",
+    "name": "Cobblestone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran lovess colourful rainbow plankss.",
+    "file": "rainbowwoodblock.material",
+    "name": "Rainbow Wood Planks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sslushy cold wet sslush.",
+    "file": "slush.material",
+    "name": "Slush",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Tough black brickss.",
+    "file": "shadowwallblock.material",
+    "name": "Shadow Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssquisshy eyess!",
+    "file": "eyepiles.material",
+    "name": "Pile of Eyes",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Crusshed gravel.",
+    "file": "gravel.material",
+    "name": "Gravel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssmooth sshiny metal platess.",
+    "file": "plate.material",
+    "name": "Smooth Plated Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran use chains to catch prey.",
+    "file": "chain.material",
+    "name": "Tungsten Chain",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Carved stone brickss.",
+    "file": "ledgebrick.material",
+    "name": "Ledge Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sstrange wood panelss for decoration.",
+    "file": "woodpanelling.material",
+    "name": "Wood Panelling",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssoft faded bricksss.",
+    "file": "fadedblocks.material",
+    "name": "Soft Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssstinky toxic messs. Vile poisson.",
+    "file": "waste.material",
+    "name": "Waste",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Frozen dirt iss cold to the touch.",
+    "file": "frozendirt.material",
+    "name": "Frozen Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran disgussted by stinky ssewage.",
+    "file": "sewage.material",
+    "name": "Raw Sewage",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran raisse the cabin roof.",
+    "file": "cabinroofing.material",
+    "name": "Cabin Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ridged stone blocksss.",
+    "file": "ridgebrick.material",
+    "name": "Ridged Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dussty small brickss.",
+    "file": "temple3.material",
+    "name": "Small Temple Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hard rough sstoness.",
+    "file": "rock04.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Russsty metal blockss.",
+    "file": "rustyblock.material",
+    "name": "Rusty Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shiny sstrong metal girder.",
+    "file": "pressurisedgirder.material",
+    "name": "Pressurised Girder",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran look pretty in glasssss.",
+    "file": "lightblocker.material",
+    "name": "Glass Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hard rough sstoness.",
+    "file": "rock15.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssticky asphalt ssmelly like tar.",
+    "file": "asphalt.material",
+    "name": "Asphalt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran likess sspecial treated wood.",
+    "file": "ornatewood.material",
+    "name": "Ornate Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssmooth ice blockss.",
+    "file": "iceblock.material",
+    "name": "Ice Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dussty limesstone rockss.",
+    "file": "limestone.material",
+    "name": "Limestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shadowy black blockss.",
+    "file": "shadowblock.material",
+    "name": "Shadow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Fancy wall boardsss.",
+    "file": "baseboard.material",
+    "name": "Classic Baseboard",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Big bunch of ashess.",
+    "file": "ash.material",
+    "name": "Ash Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Futurisstic computer blockss.",
+    "file": "metallic.material",
+    "name": "Hi-tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Cold metal girderss.",
+    "file": "girder.material",
+    "name": "Girder",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Brickss made from packed dirt.",
+    "file": "packeddirt.material",
+    "name": "Packed Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran disslike dry moonrockss.",
+    "file": "moonrock.material",
+    "name": "Moonrock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Candy hass colourful sstripess.",
+    "file": "candyblock.material",
+    "name": "Candy Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Packed dirt covered in growing mosss.",
+    "file": "mossypackeddirt.material",
+    "name": "Mossy Packed Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran can peak through large sslats of wood.",
+    "file": "woodenwindow2.material",
+    "name": "Wooden Blinds",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssturdy ssandstone brickss.",
+    "file": "sandstoneblock.material",
+    "name": "Sandstone Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Russty and unssafe. Floran likess.",
+    "file": "wreckplatform.material",
+    "name": "Wrecked Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Platform made with sstrange technology.",
+    "file": "ancientplatform.material",
+    "name": "Ancient Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Sstrong metal platformss are cold.",
+    "file": "pressurisedplatform.material",
+    "name": "Pressurised Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Floran grow sstrong bamboo for platformsss.",
+    "file": "bambooplatform.material",
+    "name": "Bamboo Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Shiny metal platformsss.",
+    "file": "protectorateplatform.material",
+    "name": "Protectorate Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Platformss made from ssilver.",
+    "file": "silverplatform.material",
+    "name": "Silver Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Ssimple wood platformsss.",
+    "file": "platform.material",
+    "name": "Wood Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Sstrong metal platformss.",
+    "file": "tungstenplatform.material",
+    "name": "Tungsten Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Ssmooth modern platformsss.",
+    "file": "modernplatform.material",
+    "name": "Modern Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Platformss made from wood.",
+    "file": "woodenplatform.material",
+    "name": "Ornate Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Ladder iss made from sshiny copper.",
+    "file": "copperladder.material",
+    "name": "Copper Ladder",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Jusst another metal platform.",
+    "file": "outpostplatform.material",
+    "name": "Outpost Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Platform made from old brickss.",
+    "file": "tribalplatform.material",
+    "name": "Temple Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Rotting and unsssafe. Floran approvess.",
+    "file": "ruinsplatform.material",
+    "name": "Ruins Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Floran sslide along sslimy mosss platform.",
+    "file": "plantplatform.material",
+    "name": "Mossy Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Sstrong sship platform.",
+    "file": "apexshipplatform.material",
+    "name": "Ship Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Platformss made from copper.",
+    "file": "copperplatform.material",
+    "name": "Copper Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Gold platformsss. Sso fancy.",
+    "file": "goldenplatform.material",
+    "name": "Gold Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Sstone carved into platformss.",
+    "file": "stoneplatform.material",
+    "name": "Stone Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Floran disslike cold metal platformss.",
+    "file": "lunarbaseplatform.material",
+    "name": "Lunar Base Platform",
+    "path": "tiles/platforms"
+  }
+]
