@@ -5,4 +5,10 @@
 + b
 
 ### v0.1 yyyy-mm-dd
-+ a
++ dialog tweaks
++ dungeon tweaks
++ npc tweaks
++ object description tweaks
++ projectile npc spawners
++ tenant tweaks
++ inclusions
