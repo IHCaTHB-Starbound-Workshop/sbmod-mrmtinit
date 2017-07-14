@@ -1,4 +1,4 @@
-# sbcom-mrmt-init
+# sbmod-mrmtinit
 # attribution
 
 ## author

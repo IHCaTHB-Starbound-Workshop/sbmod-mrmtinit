@@ -1,6 +1,6 @@
 ![_previewimage]
 
-# sbcom-mrmt-init
+# sbmod-mrmtinit
 # readme
 
 Project licensed under a modified [MIT license], file included.
