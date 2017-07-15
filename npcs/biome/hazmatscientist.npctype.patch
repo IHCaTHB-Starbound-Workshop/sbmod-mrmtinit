@@ -1,4 +1,4 @@
-[[
+[
   {
     "op": "add",
     "path": "/scriptConfig/dialog/converse/floran",
@@ -48,40 +48,4 @@
       ]
     }
   }
-],[
-  {
-    "op" : "add",
-    "path" : "/mrmtType",
-    "value" : {}
-  },
-  {
-    "op": "copy",
-    "path": "/mrmtType/dialog",
-    "from": "/scriptConfig/dialog"
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/dialog/converse/floran",
-    "value": {
-      "default": [
-        "Me learning a lot...me thinksss...",
-        "Me not like ssstrange plants.",
-        "Only ssstabbing me do is with needle.",
-        "Maybe me eat alien ssample...for sssscience.",
-        "Me misssss the hunt.",
-        "Me not like yellow sssuit but yellow ssuit protect me.",
-        "Ssso much work.",
-        "Many alien sssamples for me to examine! Me mussst remember not to eat.",
-        "Lotsss of ssstrange new prey here. Me never seen before!",
-        "Ssstrange planet hard to sssurvive on. Me likesss challenge!",
-        "Learning isss cool. They tell to me.",
-        "Me make ssscary face but you no sssee through helmet.",
-        "Me not know what isss happening and is ssscared.",
-        "Me want to take off funny ssuit and go ssstab thingsss.",
-        "Me can not ssstab my-grow-organ-is-them. Only ssscience!",
-        "Me is ssstudying my-grow-organ-is-them!",
-        "Me taught sself to say my-grow-organ-is-them!"
-      ]
-    }
-  }
-]]
+]

@@ -1,4 +1,4 @@
-[[
+[
   {
     "op" : "copy",
     "path" : "/scriptConfig/dialog/converse/default",
@@ -9,37 +9,4 @@
     "path" : "/scriptConfig/dialog/converse/novakid",
     "from" : "/scriptConfig/dialog/converse/human"
   }
-],[
-  {
-    "op" : "add",
-    "path" : "/mrmtType",
-    "value" : {}
-  },
-  {
-    "op" : "copy",
-    "path" : "/mrmtType/dialog",
-    "from" : "/scriptConfig/dialog"
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/dialog/converse/floran",
-    "value": {
-      "default": [
-        "Me is an electrician, but me has no idea how electricity worksss.",
-        "Me got this electrician job, sssomehow... Would rather be ssstabbing.",
-        "Me wondersss if electrician hat is good for combat."
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/dialog/converse/oldTimey",
-    "value": {
-      "default": [
-        "I came to fix these circuits, but they look fine to me.",
-        "I love maintaining circuits and electronics! It's a job AND a hobby.",
-        "I am glad I learned how electronics work - I find circuits fascinating."
-      ]
-    }
-  }
-]]
+]

@@ -1,4 +1,4 @@
-[[
+[
   {
     "op": "add",
     "path": "/scriptConfig/dialog/converse/floran",
@@ -10,59 +10,4 @@
       ]
     }
   }
-],[
-  {
-    "op" : "add",
-    "path" : "/mrmtType",
-    "value" : {}
-  },
-  {
-    "op" : "copy",
-    "path" : "/mrmtType/dialog",
-    "from" : "/scriptConfig/dialog"
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/dialog/converse/apex",
-    "value": {
-      "default": [
-        "I have gotten so strong that I could beat anyone in an arm wrestle!",
-        "I've been working myself so hard, I cannot stop sweating. It is quite unpleasant.",
-        "I have broken a sweat protecting this foundry! Can you tell?"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/dialog/converse/avian",
-    "value": {
-      "default": [
-        "I'm sweating through my feathers!",
-        "Protecting this place is easy!",
-        "Wielding an enormous hammer isn't so hard."
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/dialog/converse/oldTimey",
-    "value": {
-      "default": [
-        "I can withstand any danger on this planet!",
-        "Does it look like I'm sweating? I'm fairly sure I'm sweating.",
-        "It's so dull standing guard here. Perhaps I should find someone to fight..."
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/dialog/converse/floran",
-    "value": {
-      "default": [
-        "Hot planet bad for me. Me need water a lot.",
-        "No trouble or me ssstab.",
-        "Wielding big hammer not hard for me."
-      ]
-    }
-  }
-]]
+]

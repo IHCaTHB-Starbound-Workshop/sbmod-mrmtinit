@@ -1,4 +1,4 @@
-[[
+[
   {
     "op": "test",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
@@ -9,35 +9,4 @@
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
     "value": "Floran's name is <selfname>. <selfname> the Janitor."
   }
-],[
-  {
-    "op" : "add",
-    "path" : "/mrmtType",
-    "value" : {}
-  },
-  {
-    "op" : "copy",
-    "path" : "/mrmtType/dialog",
-    "from" : "/scriptConfig/dialog"
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/dialog/crewmember/roleDescription/floran",
-    "value": {
-      "default": [
-        "Me is <selfname>... its job is to sssweep. A lot.",
-        "Its name is <selfname>. <selfname> the Janitor."
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/dialog/crewmember/roleDescription/oldTimey",
-    "value": {
-      "default": [
-        "I'm <selfname>... The janitor.",
-        "A job is a job, but still..."
-      ]
-    }
-  }
-]]
+]

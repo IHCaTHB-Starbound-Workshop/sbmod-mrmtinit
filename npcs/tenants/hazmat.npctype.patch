@@ -1,4 +1,4 @@
-[[
+[
   {
     "op": "add",
     "path": "/scriptConfig/dialog/converse/default",
@@ -33,34 +33,4 @@
       ]
     }
   }
-],[
-  {
-    "op": "add",
-    "path": "/mrmtType",
-    "value": {}
-  },
-  {
-    "op": "copy",
-    "path": "/mrmtType/dialog",
-    "from": "/scriptConfig/dialog"
-  },
-  {
-    "op": "remove",
-    "path": "/mrmtType/dialog/converse/apex"
-  },
-  {
-    "op": "remove",
-    "path": "/mrmtType/dialog/converse/human"
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/dialog/converse/floran",
-    "value": {
-      "default": [
-        "Me make ssscary face but you no see through helmet.",
-        "Maybe me eat alien ssample...for sssscience.",
-        "Me taught sself to say my-grow-organ-is-them!"
-      ]
-    }
-  }
-]]
+]
