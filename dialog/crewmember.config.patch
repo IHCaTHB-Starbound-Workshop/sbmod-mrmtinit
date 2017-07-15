@@ -34,38 +34,4 @@
     "path": "/converse/default/default/-",
     "value": "What lies next on the road ahead? Adventure, intrigue, pillaging? Not pillaging, right?"
   }
-],[
-  {
-    "op" : "add",
-    "path" : "/mrmtType",
-    "value" : {}
-  },
-  {
-    "op" : "copy",
-    "path" : "/mrmtType/converse",
-    "from" : "/converse"
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/converse/floran",
-    "value": {
-      "default": [
-        "Me likess to hunt among the sstars.",
-        "Me isss very professional!",
-        "Me isss eager to sstab things soon!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/converse/oldTimey",
-    "value": {
-      "default": [
-        "I have so much scheduled for today!",
-        "Let's do some quests!",
-        "There is so much questing to be done!",
-        "You'll be safe if you stay close to me!"
-      ]
-    }
-  }
 ]]

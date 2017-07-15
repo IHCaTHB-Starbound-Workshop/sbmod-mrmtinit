@@ -1,4 +1,4 @@
-[[
+[
   {
     "op": "add",
     "path": "/attack/default/default/-",
@@ -89,45 +89,4 @@
       ]
     }
   }
-],[
-  {
-    "op" : "add",
-    "path" : "/mrmtType",
-    "value" : {}
-  },
-  {
-    "op": "copy",
-    "path": "/mrmtType/attack",
-    "from": "/attack"
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/attack/floran",
-    "value": {
-      "default": [
-        "Sssupper!",
-        "Time to ssstab! Time to shoot!",
-        "Hunt the prey!",
-        "Get it!",
-        "Ssstab it! Shoot it!",
-        "Catch it! Eat it!",
-        "Me hunt!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/mrmtType/attack/oldTimey",
-    "value": {
-      "default": [
-        "A foe!",
-        "Have at thee!",
-        "I will not be easily overcome.",
-        "To battle!",
-        "I shall defeat this foe!",
-        "You have breathed your last!",
-        "Prepare to lose your life!"
-      ]
-    }
-  }
-]]
+]
