@@ -23,6 +23,8 @@ and viewers, like you.
 
 [GitHub](https://github.com/)
 
+http://chbrown.github.io/rfc6902/
+
 
 
 [714236]: http://community.playstarbound.com/members/714236
