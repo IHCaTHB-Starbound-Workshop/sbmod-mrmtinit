@@ -1,0 +1,343 @@
+[
+  {
+    "op": "add",
+    "path": "/reattack/glitch",
+    "value": {
+      "default": [
+        "Irritated. You will regret returning.",
+        "Aggressive. This time you will not escape.",
+        "Fearless. I am ready to battle you once again!",
+        "Angry. How dare you return!?",
+        "Impassioned. You have returned only to be vanquished!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/reattack/floran",
+    "value": {
+      "default": [
+        "Floran furiousss you came back!",
+        "Hello again, prey.",
+        "You came back again!?",
+        "Floran will ssstop you this time!",
+        "The prey came back!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/attack/apex",
+    "value": {
+      "default": [
+        "Hostiles!",
+        "Engaging hostiles!",
+        "Hostiles attacking!",
+        "Assemble formation!",
+        "Hostile activity!",
+        "Engaging hostiles! Send reinforcements!",
+        "Enemy engaged!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/attack/avian",
+    "value": {
+      "default": [
+        "Caaaw!",
+        "Chachalacaaa!",
+        "Anhingaaa!",
+        "Jocotoco!.",
+        "Tapacuuulo!",
+        "Caracaraaa!",
+        "Cacique!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/attack/floran",
+    "value": {
+      "default": [
+        "Sssupper!",
+        "Time to ssstab! Time to shoot!",
+        "Hunt the prey!",
+        "Get it!",
+        "Ssstab it! Shoot it!",
+        "Catch it! Eat it!",
+        "Floran hunt!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/attack/glitch",
+    "value": {
+      "default": [
+        "Excited. A foe!",
+        "Pugnacious. Have at thee!",
+        "Calm. I will not be easily overcome.",
+        "Daring. To battle!",
+        "Courageous. I shall defeat this foe!",
+        "Eager. You have breathed your last!",
+        "Aggressive. Prepare to lose your life!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/attack/hylotl",
+    "value": {
+      "default": [
+        "There is honour in battle.",
+        "Begin the dance of war!",
+        "I wield the might of the storm!",
+        "You'd do better to fight the maelstrom than to fight me.",
+        "I shall strike like lightning!",
+        "I will rain down a torrent upon you.",
+        "I will fight with honour!"
+      ],
+      "floran": [
+        "I will take revenge for my ancestors!",
+        "I have trained to battle Floran!",
+        "I will defeat the Floran barbarian, and honour my forebears!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/attack/human",
+    "value": {
+      "default": [
+        "You're dead meat!",
+        "Let's get this over with!",
+        "You don't have a snowflakes chance on a magma planet!",
+        "I'm not much of a fighter...",
+        "Uh-oh...",
+        "I don't go down so easy!",
+        "How do I keep ending up in situations like this?",
+        "Let's get this over with...",
+        "Be warned, I put up a fight!",
+        "Let's do this!",
+        "You won't know what hit you!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/attack/novakid",
+    "value": {
+      "default": [
+        "Time for an ol'-fashioned showdown!",
+        "Yee-haw, here we go!",
+        "let's ride!",
+        "Yer feelin' lucky, punk?",
+        "Time for a ruckus!",
+        "Fill your hands!",
+        "If you're lookin' for trouble, then I'm your huckleberry!",
+        "I ain't got time for this!",
+        "I'm a sharper shot than you, friend!",
+        "This ain't my first rodeo!",
+        "Bang!",
+        "We don't want no trouble round here!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/avian",
+    "value": {
+      "default": [
+        "Never challenge an Avian.",
+        "You'll never defeat a true warrior.",
+        "My antagonists are so readily subdued...",
+        "I was born to win this battle.",
+        "I didn't even lose a feather.",
+        "That's the consequence of engaging an Avian in battle.",
+        "A respectable effort on their part.",
+        "Easy work."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/apex",
+    "value": {
+      "default": [
+        "Target subdued.",
+        "Area secure.",
+        "Problem solved.",
+        "It is so unwise to mess with an Apex.",
+        "Threat neutralised.",
+        "The enemy has been dealt with.",
+        "Target dispatched.",
+        "Target down!",
+        "All done. I think I've earned a banana.",
+        "The target has been neutralised!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/hylotl",
+    "value": {
+      "default": [
+        "The battle is over...",
+        "What's done is done.",
+        "Now I have defeated my foe, I must reflect on this battle.",
+        "An honourable victory.",
+        "A noble victory in the defense of my culture.",
+        "It is done.",
+        "I have served my people."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/glitch",
+    "value": {
+      "default": [
+        "Satisfied. Another victory!",
+        "Gratified. Another job well done.",
+        "Excited. That was exhilarating!",
+        "Exhausted. I need to get more exercise.",
+        "Pleased. What a triumph.",
+        "Happy. A marvelous victory!",
+        "Proud. What an excellent display of my own skill."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/floran",
+    "value": {
+      "default": [
+        "That was fun. What should Floran do now..?",
+        "Floran is the best hunter in hissstory!",
+        "Now Floran has nothing to do...",
+        "Floran winsss!",
+        "Floran isss the best!",
+        "That was fun!",
+        "Did it!",
+        "Floran enjoyed that."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/novakid",
+    "value": {
+      "default": [
+        "I need a glass o' root pop after all that.",
+        "I'm a natural winner at fightin', what can I say?",
+        "Well wasn't that a right ol' rodeo?",
+        "Yee-haw! That was somethin'."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/lostTarget/glitch",
+    "value": {
+      "default": [
+        "Embarrassed. I lost my adversary...",
+        "Thoughtful. What am I doing with my life?",
+        "Bored. Now what am I going to do?",
+        "Sour. Good riddance.",
+        "Hopeful. Um... Come back?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/lostTarget/floran",
+    "value": {
+      "default": [
+        "Floran will go hunt ssomething else.",
+        "When they get back, they'll get a ssstabbing...",
+        "Floran will find ssomeone else to chase.",
+        "Floran's not given up! Just not sure what to do next...",
+        "Floran hungry... maybe prey come back."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/outOfSight/glitch",
+    "value": {
+      "default": [
+        "Patient. I'll just wait here 'til you come back.",
+        "Frustrated. I know you're here somewhere!",
+        "Confused. Where did they go?",
+        "Uncertain. Wasn't I fighting someone a second ago?",
+        "Enraged. How did you disappear!?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/outOfSight/floran",
+    "value": {
+      "default": [
+        "Floran iss good hunter! Prey won't sstay hidden for long!",
+        "Floran sstill smells the prey!",
+        "Wily prey is hiding!",
+        "... Floran can't find you.",
+        "Where is the ssneaky thing?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/cantReach/glitch",
+    "value": {
+      "default": [
+        "Irritated. They are beyond my reach!",
+        "Angry. Come here!",
+        "Frustrated. Why didn't I bring a crossbow?",
+        "Sullen. How can we fight if I can't reach you?",
+        "Irate. Come closer so we can fight!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/cantReach/floran",
+    "value": {
+      "default": [
+        "They're too far away to ssstab!",
+        "Floran can't reach!",
+        "Come clossser!",
+        "Trickssy prey is out of reach!",
+        "Floran not clossse enough!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/cheerOn/glitch",
+    "value": {
+      "default": [
+        "Excited. Strike them down!",
+        "Commanding. Get them!",
+        "Enthusiastic. Get the foe!",
+        "Goading. Why isn't this foe already dead?",
+        "Selfish. I want to kill it!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/cheerOn/floran",
+    "value": {
+      "default": [
+        "Sssave some for me!",
+        "Get the prey!",
+        "Floran is so happy to be part of thiss.",
+        "Get it!",
+        "Floran excited!"
+      ]
+    }
+  }
+]
