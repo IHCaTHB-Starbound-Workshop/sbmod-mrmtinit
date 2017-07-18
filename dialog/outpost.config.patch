@@ -42,4 +42,47 @@
     "path" : "/converse/novakid/default/-",
     "value" : "Boy howdy!"
   }
+],[
+  {
+    "op": "add",
+    "path": "/converse/apex/novakid",
+    "value": [
+      "Greetings, Novakid."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/hylotl/novakid",
+    "value": [
+      "Greetings, Novakid."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/novakid",
+    "value": [
+      "Hello there, Novakid."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/human/novakid",
+    "value": [
+      "Whoa, a star cowboy."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/floran/novakid",
+    "value": [
+      "Ssscary fire man!"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/glitch/novakid",
+    "value": [
+      "Inquisitive. Greetings, what manner of being are you?"
+    ]
+  }
 ]]

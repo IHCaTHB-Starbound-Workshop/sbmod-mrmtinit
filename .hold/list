@@ -1,6 +1,4 @@
 
-finish adding novakid to /dialog/outpost.config
-
 === later ===
 
 FU
@@ -8,6 +6,8 @@ FU
 novakid merchant?
 
 eyeguard/eyepatch?
+
+novakid fixes in /dialog/quest.config
 
 === fin ===
 
@@ -43,4 +43,5 @@ hazmat tenant dialog fix
 scientist tenant dialog fix
 cultist dialog fix
 deadbeat
+finish adding novakid to /dialog/outpost.config
 
