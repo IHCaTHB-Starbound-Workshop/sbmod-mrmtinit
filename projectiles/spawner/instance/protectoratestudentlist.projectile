@@ -13,14 +13,6 @@
       {
         "options" : [
           {
-            "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid" ],
-            "type" : [ "protectoratestudent" ]
-          }
-        ]
-      },
-      {
-        "options" : [
-          {
             "species" : [ "novakid" ],
             "type" : [ "protectoratestudent" ]
           }

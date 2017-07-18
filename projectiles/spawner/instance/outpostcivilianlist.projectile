@@ -13,14 +13,6 @@
       {
         "options" : [
           {
-            "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid" ],
-            "type" : [ "astrocrewmate", "industrialcrewmate", "researchcrewmate", "researchscientist", "spacevillager" ]
-          }
-        ]
-      },
-      {
-        "options" : [
-          {
             "species" : [ "novakid" ],
             "type" : [ "astrocrewmate", "industrialcrewmate", "researchcrewmate", "researchscientist", "spacevillager" ]
           }
