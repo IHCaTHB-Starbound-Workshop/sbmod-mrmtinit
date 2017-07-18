@@ -14,4 +14,32 @@
     "path" : "/converse/default/default/-",
     "value" : "What manner of being are you?"
   }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/novakid",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/converse/novakid",
+    "value" : {}
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/novakid/default",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/converse/novakid/default",
+    "value" : []
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/converse/novakid/default/-",
+    "value" : "Boy howdy!"
+  }
 ]]
