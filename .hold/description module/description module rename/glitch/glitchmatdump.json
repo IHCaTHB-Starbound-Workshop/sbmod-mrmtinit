@@ -24,7 +24,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Impressed. Metal polished as smooth as a Glitch chassis.",
+    "desc": "Impressed. Metal polished as smooth as a .mrmttitlename. chassis.",
     "file": "smoothmetal.material",
     "name": "Smooth Metal",
     "path": "tiles/materials"
@@ -204,7 +204,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Distressed. Metal bars like this can be found in Glitch dungeons.",
+    "desc": "Distressed. Metal bars like this can be found in .mrmttitlename. dungeons.",
     "file": "bars.material",
     "name": "Metal Bars",
     "path": "tiles/materials"
@@ -276,7 +276,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Confused. The Glitch have never understood the concept of glued wall papering.",
+    "desc": "Confused. The .mrmttitlename. have never understood the concept of glued wall papering.",
     "file": "wallpaper.material",
     "name": "Classic Wallpaper",
     "path": "tiles/materials"
@@ -1098,7 +1098,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Curious. Baseboards are not commonly found in Glitch construction.",
+    "desc": "Curious. Baseboards are not commonly found in .mrmttitlename. construction.",
     "file": "baseboard.material",
     "name": "Classic Baseboard",
     "path": "tiles/materials"

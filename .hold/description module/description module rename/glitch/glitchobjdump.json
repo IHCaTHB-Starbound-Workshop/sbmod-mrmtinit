@@ -132,7 +132,7 @@
     "path": "objects/avian/feathers1"
   },
   {
-    "desc": "Reflective. The ash in this jar is Avian in origin. The Glitch can not be disposed of this way.",
+    "desc": "Reflective. The ash in this jar is Avian in origin. The .mrmttitlename. can not be disposed of this way.",
     "file": "ashjar1.object",
     "name": "Bird Jar",
     "path": "objects/avian/ashjar1"
@@ -240,13 +240,13 @@
     "path": "objects/avian/chestmedavian2"
   },
   {
-    "desc": "Confused. I don't think this was built by the Glitch.",
+    "desc": "Confused. I don't think this was built by the .mrmttitlename..",
     "file": "avianpressureplate.object",
     "name": "Crystal Pressure Plate",
     "path": "objects/avian/avianpressureplate"
   },
   {
-    "desc": "Surprised. Avian beliefs are no more ludicrous than those of the Glitch.",
+    "desc": "Surprised. Avian beliefs are no more ludicrous than those of the .mrmttitlename..",
     "file": "sundecor.object",
     "name": "Decorative Sun",
     "path": "objects/avian/sundecor"
@@ -294,7 +294,7 @@
     "path": "objects/avian/chestavian"
   },
   {
-    "desc": "Curious. The Glitch make use of anchors like these on their great sailing ships. Why is this one here?",
+    "desc": "Curious. The .mrmttitlename. make use of anchors like these on their great sailing ships. Why is this one here?",
     "file": "anchor.object",
     "name": "Anchor",
     "path": "objects/avian/anchor"
@@ -378,7 +378,7 @@
     "path": "objects/avian/tombstone5"
   },
   {
-    "desc": "Agreeable. Glitch lords also sit upon thrones.",
+    "desc": "Agreeable. .mrmttitlename. lords also sit upon thrones.",
     "file": "birdthrone.object",
     "name": "Avian Throne",
     "path": "objects/avian/birdthrone"
@@ -570,7 +570,7 @@
     "path": "objects/avian/chestmedavian"
   },
   {
-    "desc": "Observant. This mask looks like a Glitch.",
+    "desc": "Observant. This mask looks like a .mrmttitlename..",
     "file": "mask5.object",
     "name": "Decorative Wiseman Mask",
     "path": "objects/avian/mask5"
@@ -648,7 +648,7 @@
     "path": "objects/avian/talljar1"
   },
   {
-    "desc": "Intrigued. The Glitch harvest the dead for spare parts. The same may have happened here.",
+    "desc": "Intrigued. The .mrmttitlename. harvest the dead for spare parts. The same may have happened here.",
     "file": "tombthing3.object",
     "name": "Open Stone Tomb",
     "path": "objects/avian/tombthing3"
@@ -750,7 +750,7 @@
     "path": "objects/avian/screen5"
   },
   {
-    "desc": "Neutral. Instead of burying, the Glitch harvest the dead for spare parts.",
+    "desc": "Neutral. Instead of burying, the .mrmttitlename. harvest the dead for spare parts.",
     "file": "tombthing1.object",
     "name": "Undecorated Stone Tomb",
     "path": "objects/avian/tombthing1"
@@ -810,7 +810,7 @@
     "path": "objects/avian/bardoor2"
   },
   {
-    "desc": "Smug. The Glitch create their portcullis at a much larger scale.",
+    "desc": "Smug. The .mrmttitlename. create their portcullis at a much larger scale.",
     "file": "bardoor2.object",
     "name": "Portcullis",
     "path": "objects/avian/bardoor2"
@@ -1302,7 +1302,7 @@
     "path": "objects/biome/spring/splendidplant"
   },
   {
-    "desc": "Relaxed. The Glitch enjoy flowers and light.",
+    "desc": "Relaxed. The .mrmttitlename. enjoy flowers and light.",
     "file": "flowerlamp.object",
     "name": "Hanging Flower Lamp",
     "path": "objects/biome/spring/flowerlamp"
@@ -1386,7 +1386,7 @@
     "path": "objects/biome/alpine/stonetable"
   },
   {
-    "desc": "Jealous. Glitch bodies have too many corners for me to create an accurate snowglitch.",
+    "desc": "Jealous. .mrmttitlename. bodies have too many corners for me to create an accurate snowglitch.",
     "file": "fancysnowman.object",
     "name": "Fancy Snowman",
     "path": "objects/biome/snow/fancysnowman"
@@ -1410,7 +1410,7 @@
     "path": "objects/biome/snow/snowdrift3"
   },
   {
-    "desc": "Jealous. Glitch bodies have too many corners for me to create an accurate snowglitch.",
+    "desc": "Jealous. .mrmttitlename. bodies have too many corners for me to create an accurate snowglitch.",
     "file": "snowman.object",
     "name": "Snowman",
     "path": "objects/biome/snow/snowman"
@@ -1476,7 +1476,7 @@
     "path": "objects/biome/foundry/foundrydoor"
   },
   {
-    "desc": "Jealous. A heated bed does not have the same effect on Glitch as on organic beings.",
+    "desc": "Jealous. A heated bed does not have the same effect on .mrmttitlename. as on organic beings.",
     "file": "foundrybed.object",
     "name": "Foundry Bed",
     "path": "objects/biome/foundry/foundrybed"
@@ -1764,7 +1764,7 @@
     "path": "objects/biome/tentacle/tentaclespawner1"
   },
   {
-    "desc": "Cautious. Sharp spikes like these could penetrate a Glitch's shell.",
+    "desc": "Cautious. Sharp spikes like these could penetrate a .mrmttitlename.'s shell.",
     "file": "tentaclespike.object",
     "name": "Tentacle Spike",
     "path": "objects/biome/tentacle/tentaclespike"
@@ -1782,7 +1782,7 @@
     "path": "objects/biome/rust/rustbush2"
   },
   {
-    "desc": "Sardonic. The rust here is perhaps a bigger deterrent for a Glitch than a lock could ever be.",
+    "desc": "Sardonic. The rust here is perhaps a bigger deterrent for a .mrmttitlename. than a lock could ever be.",
     "file": "rustchest.object",
     "name": "Rusty Chest",
     "path": "objects/biome/rust/rustchest"
@@ -1848,7 +1848,7 @@
     "path": "objects/biome/ice/icechest"
   },
   {
-    "desc": "Conflicted. This hard bed is perfect for the Glitch, but what if it melts?",
+    "desc": "Conflicted. This hard bed is perfect for the .mrmttitlename., but what if it melts?",
     "file": "icebed.object",
     "name": "Ice Bed",
     "path": "objects/biome/ice/icebed"
@@ -1908,7 +1908,7 @@
     "path": "objects/biome/ice/icedoor"
   },
   {
-    "desc": "Cautious. Stalactite can fall and penetrate Glitch shell.",
+    "desc": "Cautious. Stalactite can fall and penetrate .mrmttitlename. shell.",
     "file": "ceilingstalactite1.object",
     "name": "Rock Stalactite",
     "path": "objects/biome/stonecave/ceilingstalactite1"
@@ -1926,19 +1926,19 @@
     "path": "objects/biome/stonecave/cavebed"
   },
   {
-    "desc": "Cautious. Stalactite can fall and penetrate Glitch shell.",
+    "desc": "Cautious. Stalactite can fall and penetrate .mrmttitlename. shell.",
     "file": "ceilingstalactite2.object",
     "name": "Rock Stalactite",
     "path": "objects/biome/stonecave/ceilingstalactite2"
   },
   {
-    "desc": "Cautious. Stalactite can fall and penetrate Glitch shell.",
+    "desc": "Cautious. Stalactite can fall and penetrate .mrmttitlename. shell.",
     "file": "ceilingstalactite3.object",
     "name": "Rock Stalactite",
     "path": "objects/biome/stonecave/ceilingstalactite3"
   },
   {
-    "desc": "Cautious. Stalactite can fall and penetrate Glitch shell.",
+    "desc": "Cautious. Stalactite can fall and penetrate .mrmttitlename. shell.",
     "file": "ceilingstalactite4.object",
     "name": "Rock Stalactite",
     "path": "objects/biome/stonecave/ceilingstalactite4"
@@ -1950,7 +1950,7 @@
     "path": "objects/biome/stonecave/cavechair"
   },
   {
-    "desc": "Cautious. Stalactite can fall and penetrate Glitch shell.",
+    "desc": "Cautious. Stalactite can fall and penetrate .mrmttitlename. shell.",
     "file": "ceilingstalactite5.object",
     "name": "Rock Stalactite",
     "path": "objects/biome/stonecave/ceilingstalactite5"
@@ -2712,31 +2712,31 @@
     "path": "objects/biome/crystalcave/crystalcavebush2"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallhouse10.object",
     "name": "Tiny Flats",
     "path": "objects/biome/gnome/smallhouse10"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallhouse6.object",
     "name": "Tiny House",
     "path": "objects/biome/gnome/smallhouse6"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallhouse3.object",
     "name": "Tiny House",
     "path": "objects/biome/gnome/smallhouse3"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallhouse7.object",
     "name": "Tiny House",
     "path": "objects/biome/gnome/smallhouse7"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallhouse5.object",
     "name": "Tiny Flats",
     "path": "objects/biome/gnome/smallhouse5"
@@ -2748,61 +2748,61 @@
     "path": "objects/biome/gnome/smalllamppost"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallinn.object",
     "name": "Tiny House",
     "path": "objects/biome/gnome/smallinn"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallhouse2.object",
     "name": "Tiny House",
     "path": "objects/biome/gnome/smallhouse2"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallhouse9.object",
     "name": "Tiny Flats",
     "path": "objects/biome/gnome/smallhouse9"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallhouse1.object",
     "name": "Tiny House",
     "path": "objects/biome/gnome/smallhouse1"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallclocktower.object",
     "name": "Tiny Clock Tower",
     "path": "objects/biome/gnome/smallclocktower"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallhouse11.object",
     "name": "Tiny House",
     "path": "objects/biome/gnome/smallhouse11"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallhouse4.object",
     "name": "Tiny Flats",
     "path": "objects/biome/gnome/smallhouse4"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallhouse8.object",
     "name": "Tiny House",
     "path": "objects/biome/gnome/smallhouse8"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallchurch.object",
     "name": "Tiny Building",
     "path": "objects/biome/gnome/smallchurch"
   },
   {
-    "desc": "Thoughtful. I do not believe a Glitch could live here.",
+    "desc": "Thoughtful. I do not believe a .mrmttitlename. could live here.",
     "file": "smallwindmill.object",
     "name": "Tiny House",
     "path": "objects/biome/gnome/smallwindmill"
@@ -3108,7 +3108,7 @@
     "path": "objects/biome/ocean/seashell7"
   },
   {
-    "desc": "Fearful. This anchor is covered in rust, the enemy of the Glitch.",
+    "desc": "Fearful. This anchor is covered in rust, the enemy of the .mrmttitlename..",
     "file": "brokenanchor.object",
     "name": "Broken Anchor",
     "path": "objects/biome/ocean/brokenanchor"
@@ -3216,7 +3216,7 @@
     "path": "objects/biome/tar/tarcrystal3"
   },
   {
-    "desc": "Curious. Why make a tarman look like a snowman when it could look like a Glitch?",
+    "desc": "Curious. Why make a tarman look like a snowman when it could look like a .mrmttitlename.?",
     "file": "tarman.object",
     "name": "Tarman",
     "path": "objects/biome/tar/tarman"
@@ -3252,7 +3252,7 @@
     "path": "objects/biome/tar/tarcrystal2"
   },
   {
-    "desc": "Impressed. The technical applications of tar appear to be greater than Glitch once presumed.",
+    "desc": "Impressed. The technical applications of tar appear to be greater than .mrmttitlename. once presumed.",
     "file": "tarconsole.object",
     "name": "Tar Console",
     "path": "objects/biome/tar/tarconsole"
@@ -3930,7 +3930,7 @@
     "path": "objects/biome/scorchedcity/scorchedcitycrate"
   },
   {
-    "desc": "Pleased. This chair looks sturdy enough to support most Glitch.",
+    "desc": "Pleased. This chair looks sturdy enough to support most .mrmttitlename..",
     "file": "scorchedcitychair.object",
     "name": "Stylish Chair",
     "path": "objects/biome/scorchedcity/scorchedcitychair"
@@ -4284,7 +4284,7 @@
     "path": "objects/themed/doom/doomtable"
   },
   {
-    "desc": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+    "desc": "Relaxed. This chair is exceptionally comfortable for the .mrmttitlename..",
     "file": "doomchair.object",
     "name": "Doom Chair",
     "path": "objects/themed/doom/doomchair"
@@ -4296,7 +4296,7 @@
     "path": "objects/themed/doom/doomswitch"
   },
   {
-    "desc": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+    "desc": "Relaxed. This chair is exceptionally comfortable for the .mrmttitlename..",
     "file": "geometricchair.object",
     "name": "Geometric Chair",
     "path": "objects/themed/geometric/geometricchair"
@@ -4464,7 +4464,7 @@
     "path": "objects/themed/astronaut/jupitermodel"
   },
   {
-    "desc": "Sadness. A Glitch transport crash landed on Neptune due to a system fault a few years ago. All were lost.",
+    "desc": "Sadness. A .mrmttitlename. transport crash landed on Neptune due to a system fault a few years ago. All were lost.",
     "file": "neptunemodel.object",
     "name": "Neptune Model",
     "path": "objects/themed/astronaut/neptunemodel"
@@ -4566,7 +4566,7 @@
     "path": "objects/themed/serene/serenetable"
   },
   {
-    "desc": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+    "desc": "Relaxed. This chair is exceptionally comfortable for the .mrmttitlename..",
     "file": "serenechair.object",
     "name": "Serene Chair",
     "path": "objects/themed/serene/serenechair"
@@ -4608,7 +4608,7 @@
     "path": "objects/themed/sea/coralmirror"
   },
   {
-    "desc": "Relaxed. This curved chair is exceptionally comfortable for the Glitch.",
+    "desc": "Relaxed. This curved chair is exceptionally comfortable for the .mrmttitlename..",
     "file": "wavechair.object",
     "name": "Wave Chair",
     "path": "objects/themed/wave/wavechair"
@@ -4752,7 +4752,7 @@
     "path": "objects/themed/opulent/opulentbed"
   },
   {
-    "desc": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+    "desc": "Relaxed. This chair is exceptionally comfortable for the .mrmttitlename..",
     "file": "opulentchair.object",
     "name": "Opulent Chair",
     "path": "objects/themed/opulent/opulentchair"
@@ -4812,7 +4812,7 @@
     "path": "objects/playerstation/playerstationconsole"
   },
   {
-    "desc": "Eager. The possibility of food excites even the Glitch.",
+    "desc": "Eager. The possibility of food excites even the .mrmttitlename..",
     "file": "apexcounter1.object",
     "name": "Standard Issue Cabinet",
     "path": "objects/apex/apexcounter1"
@@ -4866,7 +4866,7 @@
     "path": "objects/apex/apexwoodenchair"
   },
   {
-    "desc": "Nostalgic. The Glitch would host great feasts at tables such as these. There would be singing and dancing, and a motley fool filling the host with humour.",
+    "desc": "Nostalgic. The .mrmttitlename. would host great feasts at tables such as these. There would be singing and dancing, and a motley fool filling the host with humour.",
     "file": "classicdiningtable.object",
     "name": "Classic Dining Table",
     "path": "objects/apex/classicdiningtable"
@@ -4908,7 +4908,7 @@
     "path": "objects/apex/respawnpod"
   },
   {
-    "desc": "Sympathetic. Thought reassignment is common amongst Glitch.",
+    "desc": "Sympathetic. Thought reassignment is common amongst .mrmttitlename..",
     "file": "apexthoughtreassign.object",
     "name": "Reassignment Sign",
     "path": "objects/apex/apexthoughtreassign"
@@ -5022,7 +5022,7 @@
     "path": "objects/apex/classicapestatuenohead"
   },
   {
-    "desc": "Cautious. A strong current can damage even Glitch circuitry.",
+    "desc": "Cautious. A strong current can damage even .mrmttitlename. circuitry.",
     "file": "electricsign.object",
     "name": "Electricity Warning Sign",
     "path": "objects/apex/electricsign"
@@ -5040,7 +5040,7 @@
     "path": "objects/apex/apexsink"
   },
   {
-    "desc": "Admiration. These appear to be similar to Glitch chandeliers, but much improved.",
+    "desc": "Admiration. These appear to be similar to .mrmttitlename. chandeliers, but much improved.",
     "file": "classicchandelier.object",
     "name": "Classic Chandelier",
     "path": "objects/apex/classicchandelier"
@@ -5070,7 +5070,7 @@
     "path": "objects/apex/apexobeysign"
   },
   {
-    "desc": "Cheerful. The Glitch enjoy light.",
+    "desc": "Cheerful. The .mrmttitlename. enjoy light.",
     "file": "apexlamp1.object",
     "name": "Standard Issue Lamp",
     "path": "objects/apex/apexlamp1"
@@ -5124,7 +5124,7 @@
     "path": "objects/apex/apextablelamp"
   },
   {
-    "desc": "Confident. Ape flu has no effect on the Glitch.",
+    "desc": "Confident. Ape flu has no effect on the .mrmttitlename..",
     "file": "apexflusign.object",
     "name": "Ape Flu Poster",
     "path": "objects/apex/apexflusign"
@@ -5178,7 +5178,7 @@
     "path": "objects/apex/apexwallpainting2"
   },
   {
-    "desc": "Disgusted. The Glitch make use of such devices to extract secrets from enemies.",
+    "desc": "Disgusted. The .mrmttitlename. make use of such devices to extract secrets from enemies.",
     "file": "apextorturebed.object",
     "name": "Interrogation Table",
     "path": "objects/apex/apextorturebed"
@@ -5286,7 +5286,7 @@
     "path": "objects/apex/apexpiano"
   },
   {
-    "desc": "Inspired. A light angled in such a way would sit nicely above Glitch works of art.",
+    "desc": "Inspired. A light angled in such a way would sit nicely above .mrmttitlename. works of art.",
     "file": "classiclightart.object",
     "name": "Classic Ceiling Light",
     "path": "objects/apex/classiclightart"
@@ -5430,7 +5430,7 @@
     "path": "objects/apex/apexwoodpanel"
   },
   {
-    "desc": "Sympathetic. These creatures have less freedom than the Glitch.",
+    "desc": "Sympathetic. These creatures have less freedom than the .mrmttitlename..",
     "file": "apexceilingtv.object",
     "name": "Flickering Ceiling TV",
     "path": "objects/apex/apexceilingtv"
@@ -5466,7 +5466,7 @@
     "path": "objects/apex/classicchair"
   },
   {
-    "desc": "Amazed. The Glitch value gold highly; one could purchase a small keep with such a desk.",
+    "desc": "Amazed. The .mrmttitlename. value gold highly; one could purchase a small keep with such a desk.",
     "file": "classicdesk.object",
     "name": "Classic Desk",
     "path": "objects/apex/classicdesk"
@@ -5532,7 +5532,7 @@
     "path": "objects/apex/cider"
   },
   {
-    "desc": "Appreciative. Work equal to that of the Glitch stone masons.",
+    "desc": "Appreciative. Work equal to that of the .mrmttitlename. stone masons.",
     "file": "classicpillarsmall.object",
     "name": "Small Pillar",
     "path": "objects/apex/classicpillarsmall"
@@ -5820,7 +5820,7 @@
     "path": "objects/hylotl/hylotlstoreshelf"
   },
   {
-    "desc": "Impressed. It would take many years for a Glitch to assimilate this amount of data.",
+    "desc": "Impressed. It would take many years for a .mrmttitlename. to assimilate this amount of data.",
     "file": "librarybookcaseG2.object",
     "name": "Grand Ornate Bookcase",
     "path": "objects/hylotl/librarybookcaseG2"
@@ -5874,7 +5874,7 @@
     "path": "objects/hylotl/hylotlclassiccabinet1"
   },
   {
-    "desc": "Amused. Glitch do not need to index anything on tiny cards.",
+    "desc": "Amused. .mrmttitlename. do not need to index anything on tiny cards.",
     "file": "index.object",
     "name": "Card Index",
     "path": "objects/hylotl/index"
@@ -6042,7 +6042,7 @@
     "path": "objects/hylotl/classicbanner3"
   },
   {
-    "desc": "Delighted. A writing tool fit for a Glitch king.",
+    "desc": "Delighted. A writing tool fit for a .mrmttitlename. king.",
     "file": "quillandink.object",
     "name": "Quill and Ink",
     "path": "objects/hylotl/quillandink"
@@ -6402,7 +6402,7 @@
     "path": "objects/hylotl/beautifulattempt"
   },
   {
-    "desc": "Contemplative. Bookcases bring back fond memories of reading tales of Glitch kings and castles.",
+    "desc": "Contemplative. Bookcases bring back fond memories of reading tales of .mrmttitlename. kings and castles.",
     "file": "librarybookcaseL2.object",
     "name": "Large Ornate Bookcase",
     "path": "objects/hylotl/librarybookcaseL2"
@@ -6588,7 +6588,7 @@
     "path": "objects/generic/woodenbed2"
   },
   {
-    "desc": "Bliss. A comfortable iron bed. The Glitch can rest easily here.",
+    "desc": "Bliss. A comfortable iron bed. The .mrmttitlename. can rest easily here.",
     "file": "ironbed.object",
     "name": "Sharp Bed",
     "path": "objects/generic/ironbed"
@@ -6936,7 +6936,7 @@
     "path": "objects/generic/woodenarmchair2"
   },
   {
-    "desc": "Surprised. This looks similar to the cell doors in Glitch dungeons.",
+    "desc": "Surprised. This looks similar to the cell doors in .mrmttitlename. dungeons.",
     "file": "bardoor.object",
     "name": "Iron Bar Door",
     "path": "objects/generic/bardoor"
@@ -6978,7 +6978,7 @@
     "path": "objects/generic/miningsupplies"
   },
   {
-    "desc": "Inspired. Such a lamp would light a Glitch courtyard nicely.",
+    "desc": "Inspired. Such a lamp would light a .mrmttitlename. courtyard nicely.",
     "file": "oillanterntall.object",
     "name": "Standing Oil Lamp",
     "path": "objects/generic/oillanterntall"
@@ -7176,7 +7176,7 @@
     "path": "objects/generic/recreationalvehicle"
   },
   {
-    "desc": "Puzzlement. This toilet is only really safe for the Glitch, who don't need it.",
+    "desc": "Puzzlement. This toilet is only really safe for the .mrmttitlename., who don't need it.",
     "file": "irontoilet.object",
     "name": "Sharp Toilet",
     "path": "objects/generic/irontoilet"
@@ -7404,7 +7404,7 @@
     "path": "objects/generic/coppersupport"
   },
   {
-    "desc": "Smug. The Glitch create their portcullis at a much larger scale.",
+    "desc": "Smug. The .mrmttitlename. create their portcullis at a much larger scale.",
     "file": "portcullis.object",
     "name": "Durasteel Portcullis",
     "path": "objects/generic/portcullis"
@@ -7608,7 +7608,7 @@
     "path": "objects/floran/florandrum3"
   },
   {
-    "desc": "Nervous. These sharpened spikes could impale even a Glitch.",
+    "desc": "Nervous. These sharpened spikes could impale even a .mrmttitlename..",
     "file": "huntingpunjisticks1.object",
     "name": "Large Sharp Sticks",
     "path": "objects/floran/huntingpunjisticks1"
@@ -7716,7 +7716,7 @@
     "path": "objects/floran/plantgeyser1"
   },
   {
-    "desc": "Nervous. These sharpened spikes could impale even a Glitch.",
+    "desc": "Nervous. These sharpened spikes could impale even a .mrmttitlename..",
     "file": "huntingpunjisticks2.object",
     "name": "Small Sharp Sticks",
     "path": "objects/floran/huntingpunjisticks2"
@@ -7734,7 +7734,7 @@
     "path": "objects/floran/chestfloran1"
   },
   {
-    "desc": "Fearful. Based on the size of this bone, the creature it came from is likely bigger than an entire Glitch castle.",
+    "desc": "Fearful. Based on the size of this bone, the creature it came from is likely bigger than an entire .mrmttitlename. castle.",
     "file": "floranbonedisplay1.object",
     "name": "Bone Trophy",
     "path": "objects/floran/floranbonedisplay1"
@@ -7980,7 +7980,7 @@
     "path": "objects/floran/floranpod1"
   },
   {
-    "desc": "Disgusted. How would such a piece look if made from the remains of a Glitch?",
+    "desc": "Disgusted. How would such a piece look if made from the remains of a .mrmttitlename.?",
     "file": "floranbed.object",
     "name": "Primitive Bed",
     "path": "objects/floran/floranbed"
@@ -8076,7 +8076,7 @@
     "path": "objects/floran/huntinggroundtorch"
   },
   {
-    "desc": "Amused. Glitch often display weapons on walls, but this spear is of Floran origin.",
+    "desc": "Amused. .mrmttitlename. often display weapons on walls, but this spear is of Floran origin.",
     "file": "huntingdisplay1.object",
     "name": "Spear on a Plaque",
     "path": "objects/floran/huntingdisplay1"
@@ -8304,7 +8304,7 @@
     "path": "objects/floran/huntingpike2"
   },
   {
-    "desc": "Discontent. A particularly unpleasant method of torture, especially for Glitch.",
+    "desc": "Discontent. A particularly unpleasant method of torture, especially for .mrmttitlename..",
     "file": "planttorturedevice.object",
     "name": "Torture Device",
     "path": "objects/floran/planttorturedevice"
@@ -8334,7 +8334,7 @@
     "path": "objects/crafting/upgradeablecraftingobjects/craftingfurnace"
   },
   {
-    "desc": "Proud. The Glitch craft all sorts of weapons on these anvils. They even craft anvils on these anvils.",
+    "desc": "Proud. The .mrmttitlename. craft all sorts of weapons on these anvils. They even craft anvils on these anvils.",
     "file": "craftinganvil.object",
     "name": "^orange;Anvil^white;",
     "path": "objects/crafting/upgradeablecraftingobjects/craftinganvil"
@@ -8418,7 +8418,7 @@
     "path": "objects/crafting/pixelcompressor"
   },
   {
-    "desc": "Proud. The Glitch craft all sorts of weapons on these anvils. They even craft anvils on these anvils.",
+    "desc": "Proud. The .mrmttitlename. craft all sorts of weapons on these anvils. They even craft anvils on these anvils.",
     "file": "ironanvil.object",
     "name": "^orange;Iron Anvil^white;",
     "path": "objects/crafting/ironanvil"
@@ -9240,7 +9240,7 @@
     "path": "objects/space/stationwallpanel"
   },
   {
-    "desc": "Uninterested. Most Glitch prefer a large table over a bar for drinking and celebration.",
+    "desc": "Uninterested. Most .mrmttitlename. prefer a large table over a bar for drinking and celebration.",
     "file": "spacebarbottom.object",
     "name": "Space Bar",
     "path": "objects/space/spacebar"
@@ -9300,7 +9300,7 @@
     "path": "objects/space/astrovent"
   },
   {
-    "desc": "Curious. I wonder if Glitch lungs work similar to this vent.",
+    "desc": "Curious. I wonder if .mrmttitlename. lungs work similar to this vent.",
     "file": "stationceilingvent.object",
     "name": "Station Ceiling Vent",
     "path": "objects/space/stationceilingvent"
@@ -9336,13 +9336,13 @@
     "path": "objects/space/astrolight"
   },
   {
-    "desc": "Reminiscent. The angled design of this door reminds me of traditional Glitch banners.",
+    "desc": "Reminiscent. The angled design of this door reminds me of traditional .mrmttitlename. banners.",
     "file": "stationdoorlarge.object",
     "name": "Station Large Door",
     "path": "objects/space/stationdoor"
   },
   {
-    "desc": "Reminiscent. The angled design of this door reminds me of traditional Glitch banners.",
+    "desc": "Reminiscent. The angled design of this door reminds me of traditional .mrmttitlename. banners.",
     "file": "stationdoor.object",
     "name": "Station Door",
     "path": "objects/space/stationdoor"
@@ -9426,13 +9426,13 @@
     "path": "objects/space/industrialtable"
   },
   {
-    "desc": "Reminiscent. The angled design of this hatch reminds me of traditional Glitch banners.",
+    "desc": "Reminiscent. The angled design of this hatch reminds me of traditional .mrmttitlename. banners.",
     "file": "stationrailhatch.object",
     "name": "Station Rail Hatch",
     "path": "objects/space/stationhatch"
   },
   {
-    "desc": "Reminiscent. The angled design of this hatch reminds me of traditional Glitch banners.",
+    "desc": "Reminiscent. The angled design of this hatch reminds me of traditional .mrmttitlename. banners.",
     "file": "stationhatch.object",
     "name": "Station Hatch",
     "path": "objects/space/stationhatch"
@@ -9462,7 +9462,7 @@
     "path": "objects/space/stationpylon"
   },
   {
-    "desc": "Curious. I wonder if this medical bed can account for Glitch anatomy.",
+    "desc": "Curious. I wonder if this medical bed can account for .mrmttitlename. anatomy.",
     "file": "stationmedscanner.object",
     "name": "Station Medical Scanner",
     "path": "objects/space/stationmedscanner"
@@ -9510,7 +9510,7 @@
     "path": "objects/arttrophies/paintingbirthofvenus"
   },
   {
-    "desc": "Deductive. I believe the Glitch are aware of their situation in some subconscious way. Perhaps that awareness is how this painting came to be.",
+    "desc": "Deductive. I believe the .mrmttitlename. are aware of their situation in some subconscious way. Perhaps that awareness is how this painting came to be.",
     "file": "persistenceofpixels.object",
     "name": "Persistence of Pixels",
     "path": "objects/arttrophies/persistenceofpixels"
@@ -9588,7 +9588,7 @@
     "path": "objects/arttrophies/rainbowunicornstatue"
   },
   {
-    "desc": "Observant. This human's clothing would be accepted by the Glitch.",
+    "desc": "Observant. This human's clothing would be accepted by the .mrmttitlename..",
     "file": "paintingshakespeare.object",
     "name": "Famous Poet Portrait",
     "path": "objects/arttrophies/paintingshakespeare"
@@ -9642,7 +9642,7 @@
     "path": "objects/arttrophies/paintingcreationofpixel"
   },
   {
-    "desc": "Wonderment. Such expression alludes the Glitch, we are creatures of reason.",
+    "desc": "Wonderment. Such expression alludes the .mrmttitlename., we are creatures of reason.",
     "file": "paintingstarrynight.object",
     "name": "Abstract Painting",
     "path": "objects/arttrophies/paintingstarrynight"
@@ -9678,7 +9678,7 @@
     "path": "objects/arttrophies/glitchspeare"
   },
   {
-    "desc": "Amused. The Apex appears to be dressed in current Glitch fashion.",
+    "desc": "Amused. The Apex appears to be dressed in current .mrmttitlename. fashion.",
     "file": "paintingapespeare.object",
     "name": "Apex Poet Portrait",
     "path": "objects/arttrophies/paintingapespeare"
@@ -10536,67 +10536,67 @@
     "path": "objects/clues/glitch/glitchchess"
   },
   {
-    "desc": "Cautious. Sharp ice could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp ice could penetrate .mrmttitlename. shell.",
     "file": "icestalagmite3.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/ice/icestalagmite3"
   },
   {
-    "desc": "Cautious. Sharp ice could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp ice could penetrate .mrmttitlename. shell.",
     "file": "icestalagmite2.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/ice/icestalagmite2"
   },
   {
-    "desc": "Cautious. Sharp ice could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp ice could penetrate .mrmttitlename. shell.",
     "file": "icestalactite2.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/ice/icestalactite2"
   },
   {
-    "desc": "Cautious. Sharp ice could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp ice could penetrate .mrmttitlename. shell.",
     "file": "icespike.object",
     "name": "Ice Spike",
     "path": "objects/obstacles/ice/icespike"
   },
   {
-    "desc": "Cautious. Sharp ice could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp ice could penetrate .mrmttitlename. shell.",
     "file": "icestalagmite1.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/ice/icestalagmite1"
   },
   {
-    "desc": "Cautious. Sharp ice could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp ice could penetrate .mrmttitlename. shell.",
     "file": "icestalactite4.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/ice/icestalactite4"
   },
   {
-    "desc": "Cautious. Sharp ice could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp ice could penetrate .mrmttitlename. shell.",
     "file": "icestalagmite4.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/ice/icestalagmite4"
   },
   {
-    "desc": "Cautious. Sharp ice could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp ice could penetrate .mrmttitlename. shell.",
     "file": "icestalactite3.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/ice/icestalactite3"
   },
   {
-    "desc": "Cautious. Sharp ice could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp ice could penetrate .mrmttitlename. shell.",
     "file": "icestalactite1.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/ice/icestalactite1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "ceilingspike4.object",
     "name": "Stalactite",
     "path": "objects/obstacles/arid/ceilingspike4"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "groundspike1.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/arid/groundspike1"
@@ -10608,25 +10608,25 @@
     "path": "objects/obstacles/arid/thorns4"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "ceilingspike1.object",
     "name": "Stalactite",
     "path": "objects/obstacles/arid/ceilingspike1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "groundspike3.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/arid/groundspike3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "groundspike2.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/arid/groundspike2"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "ceilingspike2.object",
     "name": "Stalactite",
     "path": "objects/obstacles/arid/ceilingspike2"
@@ -10638,7 +10638,7 @@
     "path": "objects/obstacles/arid/thorns3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "groundspike4.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/arid/groundspike4"
@@ -10650,7 +10650,7 @@
     "path": "objects/obstacles/arid/thorns1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "ceilingspike3.object",
     "name": "Stalactite",
     "path": "objects/obstacles/arid/ceilingspike3"
@@ -10662,181 +10662,181 @@
     "path": "objects/obstacles/arid/thorns2"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "desertceilingspike4.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/desert/desertceilingspike4"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "desertceilingspike1.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/desert/desertceilingspike1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "desertceilingspike3.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/desert/desertceilingspike3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "desertgroundspike1.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/desert/desertgroundspike1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "desertgroundspike4.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/desert/desertgroundspike4"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "desertceilingspike2.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/desert/desertceilingspike2"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "desertgroundspike2.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/desert/desertgroundspike2"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "desertgroundspike3.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/desert/desertgroundspike3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "savannahceilingspike2.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/savannah/savannahceilingspike2"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "savannahgroundspike4.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/savannah/savannahgroundspike4"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "savannahceilingspike4.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/savannah/savannahceilingspike4"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "savannahgroundspike2.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/savannah/savannahgroundspike2"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "savannahgroundspike3.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/savannah/savannahgroundspike3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "savannahceilingspike1.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/savannah/savannahceilingspike1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "savannahceilingspike3.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/savannah/savannahceilingspike3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "savannahgroundspike1.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/savannah/savannahgroundspike1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "greengroundspike3.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/green/greengroundspike3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "greengroundspike4.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/green/greengroundspike4"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "greenceilingspike4.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/green/greenceilingspike4"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "greengroundspike2.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/green/greengroundspike2"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "greenceilingspike1.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/green/greenceilingspike1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "greengroundspike1.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/green/greengroundspike1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "greenceilingspike3.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/green/greenceilingspike3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "greenceilingspike2.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/green/greenceilingspike2"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "magmagroundspike3.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/magma/magmagroundspike3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "magmaceilingspike2.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/magma/magmaceilingspike2"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "magmaceilingspike3.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/magma/magmaceilingspike3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "magmagroundspike1.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/magma/magmagroundspike1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "magmaceilingspike1.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/magma/magmaceilingspike1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "magmagroundspike2.object",
     "name": "Sharp Spikes",
     "path": "objects/obstacles/magma/magmagroundspike2"
@@ -10962,7 +10962,7 @@
     "path": "objects/protectorate/objects/protectorateposter2"
   },
   {
-    "desc": "Proud. The six racial banners! The Glitch banner is my favourite shade of grey.",
+    "desc": "Proud. The six racial banners! The .mrmttitlename. banner is my favourite shade of grey.",
     "file": "protectoratelobbyracebanners.object",
     "name": "Protectorate Race Banners",
     "path": "objects/protectorate/objects/protectoratelobbyracebanners"
@@ -10998,7 +10998,7 @@
     "path": "objects/protectorate/objects/protectoratelobbyplant"
   },
   {
-    "desc": "Disappointed. These energy drinks do little for Glitch.",
+    "desc": "Disappointed. These energy drinks do little for .mrmttitlename..",
     "file": "protectoratelobbyvending.object",
     "name": "Protectorate Vending Machine",
     "path": "objects/protectorate/objects/protectoratelobbyvending"
@@ -11016,7 +11016,7 @@
     "path": "objects/protectorate/objects/protectoratebrokendisplay2"
   },
   {
-    "desc": "Uncomfortable. Metal detectors can be a nightmare for us Glitch.",
+    "desc": "Uncomfortable. Metal detectors can be a nightmare for us .mrmttitlename..",
     "file": "protectoratesecuritystation.object",
     "name": "Protectorate Security Station",
     "path": "objects/protectorate/objects/protectoratesecuritystation"
@@ -11496,7 +11496,7 @@
     "path": "objects/human/prisoncontrolpanel"
   },
   {
-    "desc": "Curious. Maybe an agile Glitch to fit through here.",
+    "desc": "Curious. Maybe an agile .mrmttitlename. to fit through here.",
     "file": "prisongratev.object",
     "name": "Vertical Metal Grates",
     "path": "objects/human/prisongratev"
@@ -11508,13 +11508,13 @@
     "path": "objects/human/bunkercabinet1"
   },
   {
-    "desc": "Uncomfortable. Showers and Glitch do not mix.",
+    "desc": "Uncomfortable. Showers and .mrmttitlename. do not mix.",
     "file": "prisonshower.object",
     "name": "Rusty Shower",
     "path": "objects/human/prisonshower"
   },
   {
-    "desc": "Uncomfortable. Showers and Glitch do not mix.",
+    "desc": "Uncomfortable. Showers and .mrmttitlename. do not mix.",
     "file": "prisonshowerdripping.object",
     "name": "Dripping Prison Shower",
     "path": "objects/human/prisonshower"
@@ -11556,7 +11556,7 @@
     "path": "objects/human/bunkerdisplay2"
   },
   {
-    "desc": "Observant. Similar markings are used to denote areas in which self-aware Glitch lurk.",
+    "desc": "Observant. Similar markings are used to denote areas in which self-aware .mrmttitlename. lurk.",
     "file": "hazardtapeh.object",
     "name": "Horizontal Hazard Tape",
     "path": "objects/human/hazardtapeh"
@@ -11568,7 +11568,7 @@
     "path": "objects/human/prisonpaper1"
   },
   {
-    "desc": "Curious. Maybe an agile Glitch to fit through here.",
+    "desc": "Curious. Maybe an agile .mrmttitlename. to fit through here.",
     "file": "prisongrateh.object",
     "name": "Horizonal Metal Grates",
     "path": "objects/human/prisongrateh"
@@ -11604,7 +11604,7 @@
     "path": "objects/human/alertlight"
   },
   {
-    "desc": "Pleased. Human and Glitch architecture seem to share certain similarities.",
+    "desc": "Pleased. Human and .mrmttitlename. architecture seem to share certain similarities.",
     "file": "prisoncorner.object",
     "name": "Decorative Support Beam",
     "path": "objects/human/prisoncorner"
@@ -11664,7 +11664,7 @@
     "path": "objects/human/bunkertable2"
   },
   {
-    "desc": "Pleased. Human and Glitch architecture seem to share certain similarities.",
+    "desc": "Pleased. Human and .mrmttitlename. architecture seem to share certain similarities.",
     "file": "prisonarch.object",
     "name": "Gothic Arch",
     "path": "objects/human/prisonarch"
@@ -11700,7 +11700,7 @@
     "path": "objects/human/bunkerdisplay3"
   },
   {
-    "desc": "Nostalgic. These curtains are as soft as Glitch bedsheets.",
+    "desc": "Nostalgic. These curtains are as soft as .mrmttitlename. bedsheets.",
     "file": "curtain1.object",
     "name": "Curtain",
     "path": "objects/human/curtain1"
@@ -11778,7 +11778,7 @@
     "path": "objects/human/bunkerpanel2"
   },
   {
-    "desc": "Reminiscing. Similar markings are used to denote areas in which self-aware Glitch lurk.",
+    "desc": "Reminiscing. Similar markings are used to denote areas in which self-aware .mrmttitlename. lurk.",
     "file": "hazardtapev.object",
     "name": "Vertical Hazard Tape",
     "path": "objects/human/hazardtapev"
@@ -11790,7 +11790,7 @@
     "path": "objects/human/prisonfence2"
   },
   {
-    "desc": "Cautious. This sharp wire could scratch even the toughest Glitch shell.",
+    "desc": "Cautious. This sharp wire could scratch even the toughest .mrmttitlename. shell.",
     "file": "barbedwire.object",
     "name": "Barbed Wire",
     "path": "objects/human/barbedwire"
@@ -11826,7 +11826,7 @@
     "path": "objects/human/bunkertv"
   },
   {
-    "desc": "Cynical. Inbuilt electronics are often inferior to their separate counterparts. Except in the case of Glitch, of course.",
+    "desc": "Cynical. Inbuilt electronics are often inferior to their separate counterparts. Except in the case of .mrmttitlename., of course.",
     "file": "bunkerdesk.object",
     "name": "Metal Office Desk",
     "path": "objects/human/bunkerdesk"
@@ -11880,7 +11880,7 @@
     "path": "objects/human/bunkerlighth"
   },
   {
-    "desc": "Uncomfortable. Microwaves can be somewhat damaging to Glitch circuitry.",
+    "desc": "Uncomfortable. Microwaves can be somewhat damaging to .mrmttitlename. circuitry.",
     "file": "microwave.object",
     "name": "Microwave",
     "path": "objects/human/microwave"
@@ -11910,19 +11910,19 @@
     "path": "objects/human/bunkerposter1"
   },
   {
-    "desc": "Uncomfortable. This almost looks like a burning Glitch.",
+    "desc": "Uncomfortable. This almost looks like a burning .mrmttitlename..",
     "file": "prisonbarrelfire.object",
     "name": "Barrel Fire",
     "path": "objects/human/prisonbarrelfire"
   },
   {
-    "desc": "Smug. Glitch do not need to take baths.",
+    "desc": "Smug. .mrmttitlename. do not need to take baths.",
     "file": "basicbathdripping.object",
     "name": "Dripping Basic Bath",
     "path": "objects/human/basicbath"
   },
   {
-    "desc": "Smug. Glitch do not need to take baths.",
+    "desc": "Smug. .mrmttitlename. do not need to take baths.",
     "file": "basicbath.object",
     "name": "Basic Bath",
     "path": "objects/human/basicbath"
@@ -11970,7 +11970,7 @@
     "path": "objects/human/bunkerceilinglight2"
   },
   {
-    "desc": "Thoughtful. A recruitment panel. Glitch who are not self-aware often choose to become warriors.",
+    "desc": "Thoughtful. A recruitment panel. .mrmttitlename. who are not self-aware often choose to become warriors.",
     "file": "bunkerpanel3.object",
     "name": "LED Recruitment Panel",
     "path": "objects/human/bunkerpanel3"
@@ -12060,7 +12060,7 @@
     "path": "objects/human/prisonpaper3"
   },
   {
-    "desc": "Thoughtful. With the correct calibration, this scanner could be tricked by a Glitch eye.",
+    "desc": "Thoughtful. With the correct calibration, this scanner could be tricked by a .mrmttitlename. eye.",
     "file": "bunkereyescanner.object",
     "name": "Eye Scanner",
     "path": "objects/human/bunkereyescanner"
@@ -12108,7 +12108,7 @@
     "path": "objects/outpost/outpostlocker"
   },
   {
-    "desc": "Curious. How many Glitch could this lift?",
+    "desc": "Curious. How many .mrmttitlename. could this lift?",
     "file": "outpostcrane.object",
     "name": "Large Mechanical Crane",
     "path": "objects/outpost/outpostcrane"
@@ -12282,7 +12282,7 @@
     "path": "objects/outpost/outposthatchlarge"
   },
   {
-    "desc": "Appreciative. A chair. The Glitch occasionally like to sit.",
+    "desc": "Appreciative. A chair. The .mrmttitlename. occasionally like to sit.",
     "file": "outpostchair.object",
     "name": "Padded Metal Chair",
     "path": "objects/outpost/outpostchair"
@@ -12720,7 +12720,7 @@
     "path": "objects/spawner/spawners"
   },
   {
-    "desc": "Mistrust. The Glitch are not fond of magic.",
+    "desc": "Mistrust. The .mrmttitlename. are not fond of magic.",
     "file": "spawner_wizard.object",
     "name": "Wizard Spawner",
     "path": "objects/spawner/spawners"
@@ -13224,7 +13224,7 @@
     "path": "objects/tiered/tier1switch"
   },
   {
-    "desc": "Relaxed. This chair is perfectly comfortable for the Glitch.",
+    "desc": "Relaxed. This chair is perfectly comfortable for the .mrmttitlename..",
     "file": "tier1chair.object",
     "name": "Iron Chair",
     "path": "objects/tiered/tier1chair"
@@ -13236,7 +13236,7 @@
     "path": "objects/tiered/tier2switch"
   },
   {
-    "desc": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+    "desc": "Relaxed. This chair is exceptionally comfortable for the .mrmttitlename..",
     "file": "tier3chair.object",
     "name": "Titanium Chair",
     "path": "objects/tiered/tier3chair"
@@ -13248,7 +13248,7 @@
     "path": "objects/tiered/tier3door"
   },
   {
-    "desc": "Relaxed. This chair is perfectly comfortable for the Glitch.",
+    "desc": "Relaxed. This chair is perfectly comfortable for the .mrmttitlename..",
     "file": "tier2chair.object",
     "name": "Tungsten Chair",
     "path": "objects/tiered/tier2chair"
@@ -13308,7 +13308,7 @@
     "path": "objects/tiered/tier1table"
   },
   {
-    "desc": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+    "desc": "Relaxed. This chair is exceptionally comfortable for the .mrmttitlename..",
     "file": "tier4chair.object",
     "name": "Durasteel Chair",
     "path": "objects/tiered/tier4chair"
@@ -13356,7 +13356,7 @@
     "path": "objects/glitch/medievalswitchlever"
   },
   {
-    "desc": "Sentimental. Many common Glitch live their lives as farmers. These are the tools of their trade.",
+    "desc": "Sentimental. Many common .mrmttitlename. live their lives as farmers. These are the tools of their trade.",
     "file": "farmtools.object",
     "name": "Farm Tools",
     "path": "objects/glitch/farmtools"
@@ -13440,7 +13440,7 @@
     "path": "objects/glitch/medievaldresser"
   },
   {
-    "desc": "Fascinated. A sharp sword display. The Glitch weapon of choice is the broadsword.",
+    "desc": "Fascinated. A sharp sword display. The .mrmttitlename. weapon of choice is the broadsword.",
     "file": "medievalsworddisplay.object",
     "name": "Sword Display",
     "path": "objects/glitch/medievalsworddisplay"
@@ -13458,13 +13458,13 @@
     "path": "objects/glitch/villagedoor"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards. ",
     "file": "chessking.object",
     "name": "White Stone King",
     "path": "objects/glitch/chessking"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards. ",
     "file": "chesspawnblack.object",
     "name": "Black Stone Pawn",
     "path": "objects/glitch/chesspawnblack"
@@ -13476,7 +13476,7 @@
     "path": "objects/glitch/juicekeg"
   },
   {
-    "desc": "Boastful. A sharp axe is a work of art to the Glitch.",
+    "desc": "Boastful. A sharp axe is a work of art to the .mrmttitlename..",
     "file": "medievalaxedisplay.object",
     "name": "Axe Display",
     "path": "objects/glitch/medievalaxedisplay"
@@ -13494,7 +13494,7 @@
     "path": "objects/glitch/wickerbasket4"
   },
   {
-    "desc": "Concerned. Glitch who make flags with these colours aren't often the nicest people.",
+    "desc": "Concerned. .mrmttitlename. who make flags with these colours aren't often the nicest people.",
     "file": "darkbattlestandard.object",
     "name": "Dark Battle Standard",
     "path": "objects/glitch/darkbattlestandard"
@@ -13506,7 +13506,7 @@
     "path": "objects/glitch/castlehiddendoor"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards. ",
     "file": "chessqueen.object",
     "name": "White Stone Queen",
     "path": "objects/glitch/chessqueen"
@@ -13524,7 +13524,7 @@
     "path": "objects/glitch/hayroll"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards. ",
     "file": "chessrook.object",
     "name": "White Stone Rook",
     "path": "objects/glitch/chessrook"
@@ -13548,7 +13548,7 @@
     "path": "objects/glitch/medievallamp"
   },
   {
-    "desc": "Proud. The Glitch produce banners of all kinds. They symbolise the different houses of the Glitch.",
+    "desc": "Informed. The .mrmttitlename. produce banners of all kinds. They symbolise the different houses of the .mrmttitlename..",
     "file": "bannermedievallarge.object",
     "name": "Large Glitch Banner",
     "path": "objects/glitch/bannermedievallarge"
@@ -13572,7 +13572,7 @@
     "path": "objects/glitch/medievalclock"
   },
   {
-    "desc": "Sorrowful. Many of the Glitch that became self-aware have experienced a ball and chain.",
+    "desc": "Sorrowful. Many of the .mrmttitlename. that became self-aware have experienced a ball and chain.",
     "file": "ballandchain.object",
     "name": "Ball and Chain",
     "path": "objects/glitch/ballandchain"
@@ -13596,7 +13596,7 @@
     "path": "objects/glitch/medievalcodex"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards. ",
     "file": "chessbishop.object",
     "name": "White Stone Bishop",
     "path": "objects/glitch/chessbishop"
@@ -13614,13 +13614,13 @@
     "path": "objects/glitch/medievalchair"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards. ",
     "file": "chessknight.object",
     "name": "White Stone Knight",
     "path": "objects/glitch/chessknight"
   },
   {
-    "desc": "Proud. The Glitch produce banners of all kinds. They symbolise the different houses of the Glitch.",
+    "desc": "Proud. The .mrmttitlename. produce banners of all kinds. They symbolise the different houses of the .mrmttitlename..",
     "file": "bannermedievalsmall.object",
     "name": "Small Glitch Banner",
     "path": "objects/glitch/bannermedievalsmall"
@@ -13650,19 +13650,19 @@
     "path": "objects/glitch/medievalcup"
   },
   {
-    "desc": "Satisfied. Glitch practice archery with great skill.",
+    "desc": "Satisfied. .mrmttitlename. practice archery with great skill.",
     "file": "target.object",
     "name": "Target",
     "path": "objects/glitch/target"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards. ",
     "file": "chesspawn.object",
     "name": "White Stone Pawn",
     "path": "objects/glitch/chesspawn"
   },
   {
-    "desc": "Distressed. The Glitch lock prisoners behind doors like these. Often they are other Glitch that have gained self awareness.",
+    "desc": "Distressed. The .mrmttitlename. lock prisoners behind doors like these. Often they are other .mrmttitlename. that have gained self awareness.",
     "file": "castledungeondoor.object",
     "name": "Medieval Cell Door",
     "path": "objects/glitch/castledungeondoor"
@@ -13680,7 +13680,7 @@
     "path": "objects/glitch/medievalswitchhidden"
   },
   {
-    "desc": "Pleased. Glitch sheets tend to stay silky, as our metal shell doesn't wear them down.",
+    "desc": "Pleased. .mrmttitlename. sheets tend to stay silky, as our metal shell doesn't wear them down.",
     "file": "medievalbed.object",
     "name": "Medieval Bed",
     "path": "objects/glitch/medievalbed"
@@ -13842,7 +13842,7 @@
     "path": "objects/glitch/sewerflooddoor"
   },
   {
-    "desc": "Curious. A fellow Glitch... or a trash can.",
+    "desc": "Curious. A fellow .mrmttitlename.... or a trash can.",
     "file": "trashcan.object",
     "name": "Trash Can",
     "path": "objects/glitch/trashcan"
@@ -13884,13 +13884,13 @@
     "path": "objects/glitch/signinn"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards. ",
     "file": "chessqueenblack.object",
     "name": "Black Stone Queen",
     "path": "objects/glitch/chessqueenblack"
   },
   {
-    "desc": "Intrigued. The Glitch have not produced many books. I wonder if there are any here.",
+    "desc": "Intrigued. The .mrmttitlename. have not produced many books. I wonder if there are any here.",
     "file": "medievalbookcase.object",
     "name": "Medieval Bookcase",
     "path": "objects/glitch/medievalbookcase"
@@ -13950,19 +13950,19 @@
     "path": "objects/glitch/royalchalice"
   },
   {
-    "desc": "Greedy. It has been a long time since I was present at a Glitch feast. Few in the universe are capable of such merriment.",
+    "desc": "Greedy. It has been a long time since I was present at a .mrmttitlename. feast. Few in the universe are capable of such merriment.",
     "file": "medievaldiningtable.object",
     "name": "Royal Dining Table",
     "path": "objects/glitch/medievaldiningtable"
   },
   {
-    "desc": "Nostalgic. Handcrafted counters like this are very common in Glitch storefronts.",
+    "desc": "Nostalgic. Handcrafted counters like this are very common in .mrmttitlename. storefronts.",
     "file": "medievalcounter.object",
     "name": "Medieval Counter",
     "path": "objects/glitch/medievalcounter"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards. ",
     "file": "chessrookblack.object",
     "name": "Black Stone Rook",
     "path": "objects/glitch/chessrookblack"
@@ -13992,7 +13992,7 @@
     "path": "objects/glitch/signlibrary"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards.",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards.",
     "file": "chessbishopblack.object",
     "name": "Black Stone Bishop",
     "path": "objects/glitch/chessbishopblack"
@@ -14010,7 +14010,7 @@
     "path": "objects/glitch/medievalregister"
   },
   {
-    "desc": "Thoughtful. Many of these gears make up a Glitch.",
+    "desc": "Thoughtful. Many of these gears make up a .mrmttitlename..",
     "file": "sewergear.object",
     "name": "Gear",
     "path": "objects/glitch/sewergear"
@@ -14040,7 +14040,7 @@
     "path": "objects/glitch/wallshackles"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards. ",
     "file": "chessknightblack.object",
     "name": "Black Stone Knight",
     "path": "objects/glitch/chessknightblack"
@@ -14088,7 +14088,7 @@
     "path": "objects/glitch/royalcandles"
   },
   {
-    "desc": "Sadness. The preferred form of capital punishment among the Glitch.",
+    "desc": "Sadness. The preferred form of capital punishment among the .mrmttitlename..",
     "file": "guillotine.object",
     "name": "Guillotine",
     "path": "objects/glitch/guillotine"
@@ -14124,7 +14124,7 @@
     "path": "objects/glitch/medievalstreetlamp"
   },
   {
-    "desc": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+    "desc": "Sentimental. .mrmttitlename. nobility learn to play chess from an early age. They play on large, outdoor boards. ",
     "file": "chesskingblack.object",
     "name": "Black Stone King",
     "path": "objects/glitch/chesskingblack"
@@ -14136,13 +14136,13 @@
     "path": "objects/glitch/medievalplate"
   },
   {
-    "desc": "Amused. The Glitch hide switches in crystals like these.",
+    "desc": "Amused. The .mrmttitlename. hide switches in crystals like these.",
     "file": "castleswitch.object",
     "name": "Gem Switch",
     "path": "objects/glitch/castleswitch"
   },
   {
-    "desc": "Excited. The Glitch often store weapons in chests like these. Is there one in here?",
+    "desc": "Excited. The .mrmttitlename. often store weapons in chests like these. Is there one in here?",
     "file": "medievalchest.object",
     "name": "Medieval Chest",
     "path": "objects/glitch/medievalchest"
@@ -14160,13 +14160,13 @@
     "path": "objects/farmables/tomato"
   },
   {
-    "desc": "Proud. The Glitch know of a way to use these vegetables as batteries.",
+    "desc": "Proud. The .mrmttitlename. know of a way to use these vegetables as batteries.",
     "file": "currentcornseed.object",
     "name": "Currentcorn Seed",
     "path": "objects/farmables/currentcorn"
   },
   {
-    "desc": "Proud. The Glitch know of a way to use these vegetables as batteries.",
+    "desc": "Proud. The .mrmttitlename. know of a way to use these vegetables as batteries.",
     "file": "wildcurrentcornseed.object",
     "name": "Currentcorn Seed",
     "path": "objects/farmables/currentcorn"
@@ -14178,19 +14178,19 @@
     "path": "objects/farmables/flowerred"
   },
   {
-    "desc": "Relieved. This fungus does not appear to be corrosive to Glitch.",
+    "desc": "Relieved. This fungus does not appear to be corrosive to .mrmttitlename..",
     "file": "mushroomseed.object",
     "name": "Mushroom Seed",
     "path": "objects/farmables/mushroom"
   },
   {
-    "desc": "Disapproving. Others remove the screws. The Glitch feel they enhance the flavour.",
+    "desc": "Disapproving. Others remove the screws. The .mrmttitlename. feel they enhance the flavour.",
     "file": "wildautomatoseed.object",
     "name": "Automato Seed",
     "path": "objects/farmables/automato"
   },
   {
-    "desc": "Disapproving. Others remove the screws. The Glitch feel they enhance the flavour.",
+    "desc": "Disapproving. Others remove the screws. The .mrmttitlename. feel they enhance the flavour.",
     "file": "automatoseed.object",
     "name": "Automato Seed",
     "path": "objects/farmables/automato"
@@ -14232,13 +14232,13 @@
     "path": "objects/farmables/potato"
   },
   {
-    "desc": "Disinterested. This plant apparently looks like organic internal anatomy. The Glitch have no such parts.",
+    "desc": "Disinterested. This plant apparently looks like organic internal anatomy. The .mrmttitlename. have no such parts.",
     "file": "bonebooseed.object",
     "name": "Boneboo Seed",
     "path": "objects/farmables/boneboo"
   },
   {
-    "desc": "Disinterested. This plant apparently looks like organic internal anatomy. The Glitch have no such parts.",
+    "desc": "Disinterested. This plant apparently looks like organic internal anatomy. The .mrmttitlename. have no such parts.",
     "file": "wildbonebooseed.object",
     "name": "Boneboo Seed",
     "path": "objects/farmables/boneboo"
@@ -14268,7 +14268,7 @@
     "path": "objects/farmables/eggs/fluffaloegg"
   },
   {
-    "desc": "Nostalgic. The fluffalo is a common choice of livestock for Glitch farmers.",
+    "desc": "Nostalgic. The fluffalo is a common choice of livestock for .mrmttitlename. farmers.",
     "file": "fluffaloegg.object",
     "name": "Fluffalo Egg",
     "path": "objects/farmables/eggs/fluffaloegg"
@@ -14304,13 +14304,13 @@
     "path": "objects/farmables/eggs/robothenegg"
   },
   {
-    "desc": "Sceptical. It is claimed that if the Glitch eat corn, it will pop inside us.",
+    "desc": "Sceptical. It is claimed that if the .mrmttitlename. eat corn, it will pop inside us.",
     "file": "wildcornseed.object",
     "name": "Corn Seed",
     "path": "objects/farmables/corn"
   },
   {
-    "desc": "Sceptical. It is claimed that if the Glitch eat corn, it will pop inside us.",
+    "desc": "Sceptical. It is claimed that if the .mrmttitlename. eat corn, it will pop inside us.",
     "file": "cornseed.object",
     "name": "Corn Seed",
     "path": "objects/farmables/corn"
@@ -14352,13 +14352,13 @@
     "path": "objects/farmables/crystalplant"
   },
   {
-    "desc": "Smug. The Glitch have been known to use pineapples for target practice.",
+    "desc": "Smug. The .mrmttitlename. have been known to use pineapples for target practice.",
     "file": "wildpineappleseed.object",
     "name": "Pineapple Seed",
     "path": "objects/farmables/pineapple"
   },
   {
-    "desc": "Smug. The Glitch have been known to use pineapples for target practice.",
+    "desc": "Smug. The .mrmttitlename. have been known to use pineapples for target practice.",
     "file": "pineappleseed.object",
     "name": "Pineapple Seed",
     "path": "objects/farmables/pineapple"
@@ -14394,13 +14394,13 @@
     "path": "objects/farmables/wartweed"
   },
   {
-    "desc": "Proud. Glitch teeth make short work of pearlpeas.",
+    "desc": "Proud. .mrmttitlename. teeth make short work of pearlpeas.",
     "file": "pearlpeaseed.object",
     "name": "Pearlpea Seed",
     "path": "objects/farmables/pearlpea"
   },
   {
-    "desc": "Pride. Glitch teeth make short work of pearlpeas.",
+    "desc": "Pride. .mrmttitlename. teeth make short work of pearlpeas.",
     "file": "wildpearlpeaseed.object",
     "name": "Pearlpea Seed",
     "path": "objects/farmables/pearlpea"
@@ -14442,13 +14442,13 @@
     "path": "objects/farmables/carrot"
   },
   {
-    "desc": "Ponderous. Glitch see no good use for these bitter beans.",
+    "desc": "Ponderous. .mrmttitlename. see no good use for these bitter beans.",
     "file": "coffeeseed.object",
     "name": "Coffee Seed",
     "path": "objects/farmables/coffee"
   },
   {
-    "desc": "Ponderous. Glitch see no good use for these bitter beans.",
+    "desc": "Ponderous. .mrmttitlename. see no good use for these bitter beans.",
     "file": "wildcoffeeseed.object",
     "name": "Coffee Seed",
     "path": "objects/farmables/coffee"
@@ -14538,13 +14538,13 @@
     "path": "objects/farmables/cocoa"
   },
   {
-    "desc": "Ponderous. Glitch see no good use for these bitter beans.",
+    "desc": "Ponderous. .mrmttitlename. see no good use for these bitter beans.",
     "file": "wildcocoaseed.object",
     "name": "Cocoa Seed",
     "path": "objects/farmables/cocoa"
   },
   {
-    "desc": "Proud. Glitch farm moths to make the finest silk.",
+    "desc": "Proud. .mrmttitlename. farm moths to make the finest silk.",
     "file": "mothtrap.object",
     "name": "Moth Trap",
     "path": "objects/farmables/mothtrap"
@@ -14562,13 +14562,13 @@
     "path": "objects/farmables/pussplum"
   },
   {
-    "desc": "Amused. A Glitch once ate uncooked rice and launched a successful career as a percussion instrument.",
+    "desc": "Amused. A .mrmttitlename. once ate uncooked rice and launched a successful career as a percussion instrument.",
     "file": "riceseed.object",
     "name": "Rice Seed",
     "path": "objects/farmables/rice"
   },
   {
-    "desc": "Amused. A Glitch once ate uncooked rice and launched a successful career as a percussion instrument.",
+    "desc": "Amused. A .mrmttitlename. once ate uncooked rice and launched a successful career as a percussion instrument.",
     "file": "wildriceseed.object",
     "name": "Rice Seed",
     "path": "objects/farmables/rice"
@@ -14622,13 +14622,13 @@
     "path": "objects/farmables/coralcreep"
   },
   {
-    "desc": "Cynical. The Apex love these, but The Glitch see nothing special.",
+    "desc": "Cynical. The Apex love these, but The .mrmttitlename. see nothing special.",
     "file": "bananaseed.object",
     "name": "Banana Seed",
     "path": "objects/farmables/banana"
   },
   {
-    "desc": "Cynical. The Apex love these, but The Glitch see nothing special.",
+    "desc": "Cynical. The Apex love these, but The .mrmttitlename. see nothing special.",
     "file": "wildbananaseed.object",
     "name": "Banana Seed",
     "path": "objects/farmables/banana"
@@ -14790,7 +14790,7 @@
     "path": "objects/mission/hylotlmission/librarybookcaseN2damage"
   },
   {
-    "desc": "Cautious. Sharp bone could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp bone could penetrate .mrmttitlename. shell.",
     "file": "bonespike.object",
     "name": "Bone Spike",
     "path": "objects/mission/bonespike"
