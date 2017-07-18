@@ -1,0 +1,61 @@
+[[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Not many Floransss come to cold planet.",
+        "Sssmall cold OK but too much cold bad for Floran.",
+        "Floran welcomesss you, but wonder why you wantsss cold.",
+        "Floran will freeze!",
+        "If you like sssnow there isss ssso much.",
+        "Thisss not even coldessst Floran hass been!",
+        "Ssso cold. Lab coat uselessss.",
+        "Floran try taking notesss but Floran sssssso cold!",
+        "Floran read ressearch notess. \"ssstab snow maybe\"."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/glitch",
+    "value": {
+      "default": [
+        "Curious. There must be something you need on this planet, otherwise you wouldn't come here.",
+        "Jovial. Welcome to the desert!",
+        "Worried. I should take some shade before my circuits overheat.",
+        "Irritated. There is sand in my joints.",
+        "Meditative. This place may be cold, but it sure is beautiful.",
+        "Curious. What brings you here? Are you conducting research too?"
+      ]
+    }
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op": "copy",
+    "path": "/mrmtType/dialog",
+    "from": "/scriptConfig/dialog"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Not many itsss come to cold planet.",
+        "Sssmall cold OK but too much cold bad for me.",
+        "Me welcomesss you, but wonder why you wantsss cold.",
+        "Me will freeze!",
+        "If you like sssnow there isss ssso much.",
+        "Thisss not even coldessst me hass been!",
+        "Ssso cold. Lab coat uselessss.",
+        "Me try taking notesss but me sssssso cold!",
+        "Me read ressearch notess. \"ssstab snow maybe\"."
+      ]
+    }
+  }
+]]

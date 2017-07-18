@@ -1,0 +1,54 @@
+[[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Not many Floransss come to cold planet.",
+        "Sssmall cold OK but too much cold bad for Floran.",
+        "Floran welcomesss you, but wonder why you wantsss cold.",
+        "Floran will freeze!",
+        "If you like sssnow there isss ssso much.",
+        "Thisss not even coldessst Floran hass been!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/glitch",
+    "value": {
+      "default": [
+        "Boastful. Luckily, I'm used to these cold conditions!",
+        "Curious. There must be something you need on this planet, otherwise you wouldn't come here!",
+        "Concerned. If you aren't prepared, this weather will freeze you solid!",
+        "Thoughtful. It's pretty cold here, huh? I don't mind it, myself.",
+        "Vacillating. Cold is good for the circuits, but moisture is bad."
+      ]
+    }
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op": "copy",
+    "path": "/mrmtType/dialog",
+    "from": "/scriptConfig/dialog"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Not many itsss come to cold planet.",
+        "Sssmall cold OK but too much cold bad for me.",
+        "Me welcomesss you, but wonder why you wantsss cold.",
+        "Me will freeze!",
+        "If you like sssnow there isss ssso much.",
+        "Thisss not even coldessst me hass been!"
+      ]
+    }
+  }
+]]

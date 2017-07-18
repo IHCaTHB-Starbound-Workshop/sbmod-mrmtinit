@@ -1,0 +1,87 @@
+[[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Floran learning a lot...Floran thinksss...",
+        "Floran not like ssstrange plants.",
+        "Only ssstabbing Floran do is with needle.",
+        "Maybe Floran eat alien ssample...for sssscience.",
+        "Floran misssss the hunt.",
+        "Floran not like yellow sssuit but yellow ssuit protect Floran.",
+        "Ssso much work.",
+        "Many alien sssamples for Floran to examine! Floran mussst remember not to eat.",
+        "Lotsss of ssstrange new prey here. Floran never seen before!",
+        "Ssstrange planet hard to survive on. Floran likesss challenge!",
+        "Learning isss cool. They tell to Floran.",
+        "Floran make ssscary face but you no see through helmet.",
+        "Floran not know what isss happening and is ssscared.",
+        "Floran want to take off funny ssuit and go ssstab thingsss.",
+        "Floran can not ssstab my-grow-organ-is-them. Only ssscience!",
+        "Floran is ssstudying my-grow-organ-is-them!",
+        "Floran taught sself to say my-grow-organ-is-them!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/glitch",
+    "value": {
+      "default": [
+        "Excited. These planets are completely alien in nature! We have no way to classify them!",
+        "Excited. There are so many tissue samples for me to examine!",
+        "Cheerful. This suit doesn't actually help much against the harsh radioactivity, I just feel safer with it on!",
+        "Excited. There are a lot of hostile creatures in the area. Fascinating!",
+        "Excited. This planet is utterly unsafe. I love it!",
+        "Curious. I wonder what new medicines we could create using samples from this planet?",
+        "Boastful. My fellow scientists and I are setting out to investigate all the alien planets in the universe!",
+        "Curious. I wonder if the radioactivity has catalysed unstable growth on this planet?",
+        "Irritated. I'm doing some research. Don't contaminate my samples!",
+        "Troubled. \"Let's do some research on a dangerous alien planet\", they said! \"What could go wrong?\" they said!",
+        "Excited. Learning is cool, and don't let anyone tell you otherwise!",
+        "Thoughtful. They could really make these suits a little friendlier, couldn't they?",
+        "Curious. Can you see my face through this suit?",
+        "Alarmed. Don't touch me - I'm covered in unidentified microorganisms!",
+        "Proud. Beneath this yellow suit, my gears clank for the love of discovery!",
+        "Thoughtful. Even if all culture was somehow lost, people would still eventually rediscover science."
+      ]
+    }
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op": "copy",
+    "path": "/mrmtType/dialog",
+    "from": "/scriptConfig/dialog"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Me learning a lot...me thinksss...",
+        "Me not like ssstrange plants.",
+        "Only ssstabbing me do is with needle.",
+        "Maybe me eat alien ssample...for sssscience.",
+        "Me misssss the hunt.",
+        "Me not like yellow sssuit but yellow ssuit protect me.",
+        "Ssso much work.",
+        "Many alien sssamples for me to examine! Me mussst remember not to eat.",
+        "Lotsss of ssstrange new prey here. Me never seen before!",
+        "Ssstrange planet hard to sssurvive on. Me likesss challenge!",
+        "Learning isss cool. They tell to me.",
+        "Me make ssscary face but you no sssee through helmet.",
+        "Me not know what isss happening and is ssscared.",
+        "Me want to take off funny ssuit and go ssstab thingsss.",
+        "Me can not ssstab my-grow-organ-is-them. Only ssscience!",
+        "Me is ssstudying my-grow-organ-is-them!",
+        "Me taught sself to say my-grow-organ-is-them!"
+      ]
+    }
+  }
+]]

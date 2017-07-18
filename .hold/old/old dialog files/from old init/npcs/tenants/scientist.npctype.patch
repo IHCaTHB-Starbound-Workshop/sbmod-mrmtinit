@@ -1,0 +1,73 @@
+[[
+  {
+    "op" : "copy",
+    "path" : "/scriptConfig/dialog/converse/default",
+    "from" : "/scriptConfig/dialog/converse/human"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Glassses makess Floran feel sssilly.",
+        "Lab coat makess Floran feel sssilly.",
+        "Look at Floransss notesss! \"gravity wavesss maybe\"...Floran not sure what it meansss."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/glitch",
+    "value": {
+      "default": [
+        "Friendly. I am recording all of our social interactions for data. I hope you don't mind.",
+        "Excited. There's so much data for me to record around here. It's fascinating.",
+        "Proud. I'm writing a research paper on biodiversity. It will be extremely important."
+      ]
+    }
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/dialog",
+    "from" : "/scriptConfig/dialog"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/apex",
+    "value": {
+      "default": [
+        "Don't worry, my research is private.",
+        "I am conducting some field tests, and this location represents the ideal environment.",
+        "I am running some experiments, and this place will do nicely."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/hylotl",
+    "value": {
+      "default": [
+        "It is so hard to find a good pair of glasses these days.",
+        "I wish these glasses fit me properly.",
+        "I feel silly doing research without properly fitting glasses."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Glassses makess me feel sssilly.",
+        "Lab coat makess me feel sssilly.",
+        "Look at itsss notesss! \"gravity wavesss maybe\"...me not sure what it meansss."
+      ]
+    }
+  }
+]]

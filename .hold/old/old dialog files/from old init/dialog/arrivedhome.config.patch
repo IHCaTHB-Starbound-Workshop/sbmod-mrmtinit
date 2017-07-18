@@ -1,0 +1,125 @@
+[[
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You called?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Is there something you need?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You wanna talk?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "Hi! What's up?"
+  },
+  {
+    "op": "add",
+    "path": "/beacon/default/default/-",
+    "value": "You want something?"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "I thought you might like this!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here's a gift, for all your help."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "I got this for you. You can take it, or not. It's up to you."
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here's something for your troubles!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Hey! Here's a present!"
+  },
+  {
+    "op": "add",
+    "path": "/rent/default/default/-",
+    "value": "Here's a little thank you gift for you."
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/beacon",
+    "from" : "/beacon"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/beacon/floran",
+    "value": {
+      "default": [
+        "You need me?",
+        "You need me for sssomething?",
+        "Sssurprise, me is here!",
+        "You were sssearching for me?",
+        "Were you sssearching for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/beacon/oldTimey",
+    "value": {
+      "default": [
+        "You need me for something?",
+        "Did you need me for a particular reason?",
+        "Here I am! What did you want to talk about?",
+        "Did you want to chat?",
+        "Is this a social call?"
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/rent",
+    "from" : "/rent"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/rent/floran",
+    "value": {
+      "default": [
+        "Here isss a present for you!",
+        "Me got you a thing! Take it!",
+        "Me got you this to ssay thank you.",
+        "Me has a thing for you!",
+        "Me likes house, me ssay thank you with present."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/rent/oldTimey",
+    "value": {
+      "default": [
+        "This is going very well! Here's a gift to say thank you.",
+        "Here is a gift, for all your help.",
+        "A gift of thanks.",
+        "I got you a present for all you've done for me.",
+        "I hope you like the gift, you've earned it!"
+      ]
+    }
+  }
+]]

@@ -1,0 +1,96 @@
+{
+  "type" : "museumvisitor",
+  "baseType" : "outpostcivilian",
+
+  "scriptConfig" : {
+    "offeredQuests" : [ ],
+    "turnInQuests" : [ ],
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "How old do you think all of these things are?",
+            "This is an impressive collection! I wonder who acquired these pieces?",
+            "How long do you suppose this collection took to put together?"
+          ]
+        },
+        "apex" : {
+          "default" : [
+            "One day, people will remember our kind for things other than our oppressive regime."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "Museum should have more Floran thingsss, don't you agree?"
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Curious. How long do you suppose this collection took to put together?",
+            "Surprised. The cultural differences between our races are quite striking."
+          ]
+        },
+        "human" : {
+          "default" : [
+            "The human exhibit may be small, but it brings back fond memories of Earth..."
+          ]
+        }
+      }
+    }
+  },
+  "mrmtType" : {
+    "dialog" : {
+      "converse" : {
+        "apex" : {
+          "default" : [
+            "One day, people will remember our kind for things other than our oppressive regime."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "Museum should have more its thingsss, don't you agree?"
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Curious. How long do you suppose this collection took to put together?",
+            "Surprised. The cultural differences between our races are quite striking."
+          ]
+        },
+        "oldTimey" : {
+          "default" : [
+            "How long do you suppose this collection took to put together?",
+            "The cultural differences between our races are quite striking."
+          ]
+        }
+      }
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [ { "name" : "apextier3chest", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } } ],
+            "legs" : [ { "name" : "conceptlegs", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } } ]
+          },
+          {
+            "chest" : [ { "name" : "aviancommonershirt", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } } ],
+            "legs" : [ { "name" : "floransurvivalistlegs", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } } ]
+          },
+          {
+            "chest" : [ { "name" : "hylotltier3chest", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } } ],
+            "legs" : [ { "name" : "apextier2pants", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } } ]
+          },
+          {
+            "chest" : [ { "name" : "merchantchest", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } } ],
+            "legs" : [ { "name" : "merchantlegs", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } } ]
+          }
+        ] ]
+    ]
+  }
+}

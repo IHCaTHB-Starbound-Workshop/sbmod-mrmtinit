@@ -1,0 +1,219 @@
+[[
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Things have changed... Either you've messed things up, or I'm being haunted."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "The arrangement of my house has changed, this isn't alright..."
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/default/default/-",
+    "value": "Has something moved in here? It feels off..."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "My home could use some repairs..."
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "Can you sort out the damage in here?"
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/default/default/-",
+    "value": "I need some repairs done!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "I thought this was single tenancy!? I can't share my home!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Are you trying to have someone move in here?!"
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/default/default/-",
+    "value": "Why did you place another deed here?!"
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "Living here is pretty horrible right now..."
+  },
+  {
+    "op": "add",
+    "path": "/severe/default/default/-",
+    "value": "It's impossible to live like this!"
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "That's it, I give up. Time to leave!"
+  },
+  {
+    "op": "add",
+    "path": "/final/default/default/-",
+    "value": "I give up, I'm moving out!"
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/tagCriteria",
+    "from" : "/tagCriteria"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/tagCriteria/floran",
+    "value": {
+      "default": [
+        "Ssstop taking away my nice ssstuff.",
+        "Put its home back how it wasss.",
+        "Its house was great before. Make it right again!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/tagCriteria/oldTimey",
+    "value": {
+      "default": [
+        "My home is different.",
+        "I dislike these changes, put things back how they were.",
+        "I wish my house was how it used to be."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/enclosedArea",
+    "from" : "/enclosedArea"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/enclosedArea/floran",
+    "value": {
+      "default": [
+        "Please fix its wallsss.",
+        "Its house is broken. Can you fix it?",
+        "Me likess walls without holes. Can you fix its house?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/enclosedArea/oldTimey",
+    "value": {
+      "default": [
+        "My poor house - the walls are damaged. Could you fix things up?",
+        "There is a need for repairs here.",
+        "Can you fix my home? I'm sure it's salvageable."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/otherDeed",
+    "from" : "/otherDeed"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/otherDeed/floran",
+    "value": {
+      "default": [
+        "Me needs all this space, not sharing with some random ssstranger.",
+        "If you move in sssomeone else, me will eat them.",
+        "It's not sharing home! Take ssecond deed down."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/otherDeed/oldTimey",
+    "value": {
+      "default": [
+        "Are you trying to move a stranger into my home?",
+        "But this is my home, I can't share it...",
+        "I thought this place was my very own home, but you want me to share it."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/severe",
+    "from" : "/severe"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/severe/floran",
+    "value": {
+      "default": [
+        "Me can't live like thisss!",
+        "Me is angry, fix its house.",
+        "You sssstill haven't fixed things in its house!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/severe/oldTimey",
+    "value": {
+      "default": [
+        "I need you to fix my home.",
+        "I wish my requests were listened to.",
+        "The fixes to my home haven't been made."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/severe/apex",
+    "value": {
+      "default": [
+        "Look at this place! Fix my home, or I leave.",
+        "I cannot cope with your indifference much longer...",
+        "It is foolish to ignore me. I suggest you fix up my home."
+      ]
+    }
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/final",
+    "from" : "/final"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/final/floran",
+    "value": {
+      "default": [
+        "That'sss it, me is leaving!",
+        "Me givess up! Me can't live like this!",
+        "Me iss going, can't live here anymore!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/final/oldTimey",
+    "value": {
+      "default": [
+        "This is beyond me. I'm taking my leave.",
+        "I deserve a better home than this",
+        "I didn't want it to come to this, but I can't stay here any longer."
+      ]
+    }
+  }
+]]

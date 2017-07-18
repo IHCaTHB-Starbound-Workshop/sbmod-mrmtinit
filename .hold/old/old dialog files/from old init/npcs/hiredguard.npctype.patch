@@ -1,0 +1,52 @@
+[
+  {
+    "op" : "test",
+    "path" : "/items/novakid",
+    "inverse" : true
+  },
+  {
+    "op" : "copy",
+    "path" : "/items/novakid",
+    "from" : "/items/human"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/0/1/0/chest/0/name",
+    "value": "novatier1chest"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/0/1/0/legs/0/name",
+    "value": "novatier1pants"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/1/1/0/chest/0/name",
+    "value": "novatier2chest"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/1/1/0/legs/0/name",
+    "value": "novatier2pants"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/2/1/0/chest/0/name",
+    "value": "novatier3chest"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/2/1/0/legs/0/name",
+    "value": "novatier3pants"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/3/1/0/chest/0/name",
+    "value": "novatier4chest"
+  },
+  {
+    "op": "replace",
+    "path": "/items/novakid/3/1/0/legs/0/name",
+    "value": "novatier4pants"
+  }
+]

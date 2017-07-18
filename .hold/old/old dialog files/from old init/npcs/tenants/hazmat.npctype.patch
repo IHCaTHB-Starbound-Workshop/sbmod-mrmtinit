@@ -1,0 +1,66 @@
+[[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default",
+    "value": {
+      "default": [
+        "I'm doing research into alien bacteria. I used to be stationed elsewhere.",
+        "This suit is to protect me from local contamination. You probably shouldn't touch me.",
+        "The universe is full of deadly bacteria! I'm safer in this suit.",
+        "Bacteria is everywhere! I'm concerned about infection."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Floran make ssscary face but you no see through helmet.",
+        "Maybe Floran eat alien ssample...for sssscience.",
+        "Floran taught sself to say my-grow-organ-is-them!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/glitch",
+    "value": {
+      "default": [
+        "Alarmed. Don't touch me - I'm covered in unidentified microorganisms!",
+        "Proud. Beneath this yellow suit, my gears clank for the love of discovery!",
+        "Thoughtful. Even if all culture was somehow lost, people would still eventually rediscover science."
+      ]
+    }
+  }
+],[
+  {
+    "op": "add",
+    "path": "/mrmtType",
+    "value": {}
+  },
+  {
+    "op": "copy",
+    "path": "/mrmtType/dialog",
+    "from": "/scriptConfig/dialog"
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/dialog/converse/apex"
+  },
+  {
+    "op": "remove",
+    "path": "/mrmtType/dialog/converse/human"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Me make ssscary face but you no see through helmet.",
+        "Maybe me eat alien ssample...for sssscience.",
+        "Me taught sself to say my-grow-organ-is-them!"
+      ]
+    }
+  }
+]]

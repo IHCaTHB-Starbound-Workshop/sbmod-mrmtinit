@@ -1,0 +1,63 @@
+[[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Floran not used to hot desssert!",
+        "Welcome to the desssert!",
+        "If you like sssand you like desert!",
+        "Sssand is fun but Floran need water.",
+        "Too much heat bad for Floran."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/glitch",
+    "value": {
+      "default": [
+        "Curious. There must be something you need on this planet, otherwise you wouldn't come here.",
+        "Jovial. Welcome to the desert!",
+        "Worried. I should take some shade before my circuits overheat.",
+        "Irritated. There is sand in my joints."
+      ]
+    }
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/dialog",
+    "from" : "/scriptConfig/dialog"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Me not used to hot desssert!",
+        "Welcome to the desssert!",
+        "If you like sssand you like desert!",
+        "Sssand is fun but me need water.",
+        "Too much heat bad for me."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/oldTimey",
+    "value": {
+      "default": [
+        "There must be something you need on this planet, otherwise you wouldn't come here.",
+        "Welcome to the desert!",
+        "I should take some shade before I overheat.",
+        "There is sand in my boot."
+      ]
+    }
+  }
+]]

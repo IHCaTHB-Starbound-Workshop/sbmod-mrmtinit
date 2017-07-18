@@ -1,0 +1,58 @@
+[[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Hot air bad for Floran. Floran need water a lot.",
+        "Armor protectsss Floran. If no armor...no Floran.",
+        "No stab machinery."
+      ]
+    }
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/mrmtType",
+    "value" : {}
+  },
+  {
+    "op" : "copy",
+    "path" : "/mrmtType/dialog",
+    "from" : "/scriptConfig/dialog"
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/apex",
+    "value": {
+      "default": [
+        "This foundry is tough to live in.",
+        "The work here can be dangerous, but worth it.",
+        "This planet is even hotter for those of us with fur."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/oldTimey",
+    "value": {
+      "default": [
+        "Foundry work is hard work!",
+        "I have been working hard here. I'm nearly reaching melting point!",
+        "My work is never done!",
+        "My shift isn't over yet!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Hot air bad for me. Me need water a lot.",
+        "Armor protectsss me. If no armor...no me.",
+        "No stab machinery."
+      ]
+    }
+  }
+]]
