@@ -12,7 +12,7 @@
     "path": "tiles/rails"
   },
   {
-    "desc": "Floran likess wooden log wallss.",
+    "desc": ".mrmttitlename. likess wooden log wallss.",
     "file": "log.material",
     "name": "Wooden Log",
     "path": "tiles/materials"
@@ -48,7 +48,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likes ssshiny gold!",
+    "desc": ".mrmttitlename. likes ssshiny gold!",
     "file": "treasurehoard.material",
     "name": "Treasure Hoard",
     "path": "tiles/materials"
@@ -102,7 +102,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess old brickss.",
+    "desc": ".mrmttitlename. likess old brickss.",
     "file": "temple2.material",
     "name": "Temple Bricks",
     "path": "tiles/materials"
@@ -126,7 +126,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess tiny crysstals in geode sstone.",
+    "desc": ".mrmttitlename. likess tiny crysstals in geode sstone.",
     "file": "geodestone.material",
     "name": "Geode Stone",
     "path": "tiles/materials"
@@ -150,7 +150,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran feelss fancy walking on ornate floor.",
+    "desc": ".mrmttitlename. feelss fancy walking on ornate floor.",
     "file": "ornateflooring.material",
     "name": "Ornate Flooring",
     "path": "tiles/materials"
@@ -186,7 +186,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likessss pretty granite.",
+    "desc": ".mrmttitlename. likessss pretty granite.",
     "file": "rock14.material",
     "name": "Granite Block",
     "path": "tiles/materials"
@@ -228,7 +228,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Nice windowss, Floran can see outside.",
+    "desc": "Nice windowss, .mrmttitlename. can see outside.",
     "file": "woodenwindow1.material",
     "name": "Wooden Window",
     "path": "tiles/materials"
@@ -240,7 +240,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess shiny platinum.",
+    "desc": ".mrmttitlename. likess shiny platinum.",
     "file": "platinumblock.material",
     "name": "Platinum Block",
     "path": "tiles/materials"
@@ -270,7 +270,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran lookss pretty in glasssss.",
+    "desc": ".mrmttitlename. lookss pretty in glasssss.",
     "file": "glass.material",
     "name": "Glass Block",
     "path": "tiles/materials"
@@ -294,7 +294,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran disslikes ssticky tar.",
+    "desc": ".mrmttitlename. disslikes ssticky tar.",
     "file": "tar.material",
     "name": "Tar",
     "path": "tiles/materials"
@@ -324,7 +324,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran like ssky rockss.",
+    "desc": ".mrmttitlename. like ssky rockss.",
     "file": "meteoriterock.material",
     "name": "Meteorite Rock",
     "path": "tiles/materials"
@@ -342,7 +342,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran like pickly cactuss blocksss.",
+    "desc": ".mrmttitlename. like pickly cactuss blocksss.",
     "file": "cactiblock.material",
     "name": "Cacti Block",
     "path": "tiles/materials"
@@ -408,13 +408,13 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran adore pretty wall paperss.",
+    "desc": ".mrmttitlename. adore pretty wall paperss.",
     "file": "cheapwallpaper.material",
     "name": "Tacky Wallpaper",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran appreciatess nice ornate tiling.",
+    "desc": ".mrmttitlename. appreciatess nice ornate tiling.",
     "file": "ornatetiles.material",
     "name": "Ornate Tiles",
     "path": "tiles/materials"
@@ -456,7 +456,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran feelss kinship with thiss plant block.",
+    "desc": ".mrmttitlename. feelss kinship with thiss plant block.",
     "file": "plantblock.material",
     "name": "Plant Block",
     "path": "tiles/materials"
@@ -468,13 +468,13 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Ssticky sspider web. Floran thinks sspider is great hunter!",
+    "desc": "Ssticky sspider web. .mrmttitlename. thinks sspider is great hunter!",
     "file": "spidersilkblock.material",
     "name": "Spider Silk",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess smooth brickss.",
+    "desc": ".mrmttitlename. likess smooth brickss.",
     "file": "tombbrick2.material",
     "name": "Unmarked Tomb Brick",
     "path": "tiles/materials"
@@ -492,7 +492,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess grasssy ssod roofing.",
+    "desc": ".mrmttitlename. likess grasssy ssod roofing.",
     "file": "grassy.material",
     "name": "Sod Block",
     "path": "tiles/materials"
@@ -510,7 +510,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess sstrong reedss.",
+    "desc": ".mrmttitlename. likess sstrong reedss.",
     "file": "reeds.material",
     "name": "Reed Block",
     "path": "tiles/materials"
@@ -522,7 +522,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran wantsss to make ssspears out of rusty metal.",
+    "desc": ".mrmttitlename. wantsss to make ssspears out of rusty metal.",
     "file": "slopedrustypanel.material",
     "name": "Rusty Panel",
     "path": "tiles/materials"
@@ -582,7 +582,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran want to ssstab sssquishy brain.",
+    "desc": ".mrmttitlename. want to ssstab sssquishy brain.",
     "file": "brainsblock.material",
     "name": "Brains",
     "path": "tiles/materials"
@@ -600,25 +600,25 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran musst gather colourful matter crystal.",
+    "desc": ".mrmttitlename. musst gather colourful matter crystal.",
     "file": "matterblock.material",
     "name": "Matter Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran lovess flowery plantss.",
+    "desc": ".mrmttitlename. lovess flowery plantss.",
     "file": "petalblock.material",
     "name": "Petal Matter Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran cannot undersstand ssymbolss.",
+    "desc": ".mrmttitlename. cannot undersstand ssymbolss.",
     "file": "aztec.material",
     "name": "Glyph Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran lovess colourful moondusst.",
+    "desc": ".mrmttitlename. lovess colourful moondusst.",
     "file": "moondust.material",
     "name": "Moondust",
     "path": "tiles/materials"
@@ -654,13 +654,13 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran can hide behind dark glasss.",
+    "desc": ".mrmttitlename. can hide behind dark glasss.",
     "file": "blackglass.material",
     "name": "Black Glass",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess yellow glowing rockss.",
+    "desc": ".mrmttitlename. likess yellow glowing rockss.",
     "file": "biorock.material",
     "name": "Yellow Glow Rock",
     "path": "tiles/materials"
@@ -678,7 +678,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran rip plating off, sslash wires.",
+    "desc": ".mrmttitlename. rip plating off, sslash wires.",
     "file": "techhull1.material",
     "name": "Reinforced Tech Block",
     "path": "tiles/materials"
@@ -702,7 +702,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess plantss.",
+    "desc": ".mrmttitlename. likess plantss.",
     "file": "plantmatter.material",
     "name": "Plant Matter",
     "path": "tiles/materials"
@@ -726,7 +726,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess sstackable toy block.",
+    "desc": ".mrmttitlename. likess sstackable toy block.",
     "file": "redtoyblock.material",
     "name": "Red Toy Block",
     "path": "tiles/materials"
@@ -738,7 +738,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran like sstrange rocks.",
+    "desc": ".mrmttitlename. like sstrange rocks.",
     "file": "alienrock.material",
     "name": "Alien Rock",
     "path": "tiles/materials"
@@ -762,7 +762,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran lovess sslime!",
+    "desc": ".mrmttitlename. lovess sslime!",
     "file": "slime.material",
     "name": "Slime Glob",
     "path": "tiles/materials"
@@ -780,19 +780,19 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess sshiny copper roofing.",
+    "desc": ".mrmttitlename. likess sshiny copper roofing.",
     "file": "copperroofing.material",
     "name": "Copper Roofing",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran like crisss crosssy wood.",
+    "desc": ".mrmttitlename. like crisss crosssy wood.",
     "file": "crosshatch.material",
     "name": "Window Lattice",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran disslikess cold hard concrete.",
+    "desc": ".mrmttitlename. disslikess cold hard concrete.",
     "file": "outpostwall1.material",
     "name": "Outpost Concrete",
     "path": "tiles/materials"
@@ -816,7 +816,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess strong wicker blockss.",
+    "desc": ".mrmttitlename. likess strong wicker blockss.",
     "file": "wickersupport.material",
     "name": "Wicker Support Block",
     "path": "tiles/materials"
@@ -828,7 +828,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran disslike cold concrete.",
+    "desc": ".mrmttitlename. disslike cold concrete.",
     "file": "concrete.material",
     "name": "Concrete Block",
     "path": "tiles/materials"
@@ -840,19 +840,19 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Viness grow sstrong just like Floran.",
+    "desc": "Viness grow sstrong just like .mrmttitlename..",
     "file": "vine.material",
     "name": "Vine",
     "path": "tiles/materials"
   },
   {
-    "desc": "Metal sssso russty, Floran wouldn't even ussse it.",
+    "desc": "Metal sssso russty, .mrmttitlename. wouldn't even ussse it.",
     "file": "slopedscrappanel.material",
     "name": "Scrap Panel",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess muddy messsss.",
+    "desc": ".mrmttitlename. likess muddy messsss.",
     "file": "mud.material",
     "name": "Mud",
     "path": "tiles/materials"
@@ -864,13 +864,13 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess to throw blocks!",
+    "desc": ".mrmttitlename. likess to throw blocks!",
     "file": "throwingblock.material",
     "name": "Throwing Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likes sstone picturess.",
+    "desc": ".mrmttitlename. likes sstone picturess.",
     "file": "temple1.material",
     "name": "Temple Block",
     "path": "tiles/materials"
@@ -918,13 +918,13 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran like glowy ssymbolss.",
+    "desc": ".mrmttitlename. like glowy ssymbolss.",
     "file": "blueneonsymbolblock.material",
     "name": "Blue Neon Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran dislikess wriggling tentacless.",
+    "desc": ".mrmttitlename. dislikess wriggling tentacless.",
     "file": "tentacleblock.material",
     "name": "Tentacle Cluster",
     "path": "tiles/materials"
@@ -942,7 +942,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran lovess colourful rainbow plankss.",
+    "desc": ".mrmttitlename. lovess colourful rainbow plankss.",
     "file": "rainbowwoodblock.material",
     "name": "Rainbow Wood Planks",
     "path": "tiles/materials"
@@ -978,7 +978,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran use chains to catch prey.",
+    "desc": ".mrmttitlename. use chains to catch prey.",
     "file": "chain.material",
     "name": "Tungsten Chain",
     "path": "tiles/materials"
@@ -1014,13 +1014,13 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran disgussted by stinky ssewage.",
+    "desc": ".mrmttitlename. disgussted by stinky ssewage.",
     "file": "sewage.material",
     "name": "Raw Sewage",
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran raisse the cabin roof.",
+    "desc": ".mrmttitlename. raisse the cabin roof.",
     "file": "cabinroofing.material",
     "name": "Cabin Roofing",
     "path": "tiles/materials"
@@ -1056,7 +1056,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran look pretty in glasssss.",
+    "desc": ".mrmttitlename. look pretty in glasssss.",
     "file": "lightblocker.material",
     "name": "Glass Block",
     "path": "tiles/materials"
@@ -1074,7 +1074,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran likess sspecial treated wood.",
+    "desc": ".mrmttitlename. likess sspecial treated wood.",
     "file": "ornatewood.material",
     "name": "Ornate Wood",
     "path": "tiles/materials"
@@ -1128,7 +1128,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran disslike dry moonrockss.",
+    "desc": ".mrmttitlename. disslike dry moonrockss.",
     "file": "moonrock.material",
     "name": "Moonrock",
     "path": "tiles/materials"
@@ -1146,7 +1146,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran can peak through large sslats of wood.",
+    "desc": ".mrmttitlename. can peak through large sslats of wood.",
     "file": "woodenwindow2.material",
     "name": "Wooden Blinds",
     "path": "tiles/materials"
@@ -1158,7 +1158,7 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Russty and unssafe. Floran likess.",
+    "desc": "Russty and unssafe. .mrmttitlename. likess.",
     "file": "wreckplatform.material",
     "name": "Wrecked Platform",
     "path": "tiles/platforms"
@@ -1176,7 +1176,7 @@
     "path": "tiles/platforms"
   },
   {
-    "desc": "Floran grow sstrong bamboo for platformsss.",
+    "desc": ".mrmttitlename. grow sstrong bamboo for platformsss.",
     "file": "bambooplatform.material",
     "name": "Bamboo Platform",
     "path": "tiles/platforms"
@@ -1236,13 +1236,13 @@
     "path": "tiles/platforms"
   },
   {
-    "desc": "Rotting and unsssafe. Floran approvess.",
+    "desc": "Rotting and unsssafe. .mrmttitlename. approvess.",
     "file": "ruinsplatform.material",
     "name": "Ruins Platform",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Floran sslide along sslimy mosss platform.",
+    "desc": ".mrmttitlename. sslide along sslimy mosss platform.",
     "file": "plantplatform.material",
     "name": "Mossy Platform",
     "path": "tiles/platforms"
@@ -1272,7 +1272,7 @@
     "path": "tiles/platforms"
   },
   {
-    "desc": "Floran disslike cold metal platformss.",
+    "desc": ".mrmttitlename. disslike cold metal platformss.",
     "file": "lunarbaseplatform.material",
     "name": "Lunar Base Platform",
     "path": "tiles/platforms"
