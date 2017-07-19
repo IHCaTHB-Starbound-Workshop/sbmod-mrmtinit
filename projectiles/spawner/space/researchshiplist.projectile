@@ -14,7 +14,7 @@
         "options" : [
           {
             "species" : [ "apex" ],
-            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+            "type" : [ "researchcrewmate", "researchscientist" ]
           }
         ]
       },
@@ -22,7 +22,7 @@
         "options" : [
           {
             "species" : [ "avian" ],
-            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+            "type" : [ "researchcrewmate", "researchscientist" ]
           }
         ]
       },
@@ -30,7 +30,7 @@
         "options" : [
           {
             "species" : [ "floran" ],
-            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+            "type" : [ "researchcrewmate", "researchscientist" ]
           }
         ]
       },
@@ -38,7 +38,7 @@
         "options" : [
           {
             "species" : [ "glitch" ],
-            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+            "type" : [ "researchcrewmate", "researchscientist" ]
           }
         ]
       },
@@ -46,7 +46,7 @@
         "options" : [
           {
             "species" : [ "human" ],
-            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+            "type" : [ "researchcrewmate", "researchscientist" ]
           }
         ]
       },
@@ -54,7 +54,7 @@
         "options" : [
           {
             "species" : [ "hylotl" ],
-            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+            "type" : [ "researchcrewmate", "researchscientist" ]
           }
         ]
       },
@@ -62,7 +62,7 @@
         "options" : [
           {
             "species" : [ "novakid" ],
-            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+            "type" : [ "researchcrewmate", "researchscientist" ]
           }
         ]
       }
