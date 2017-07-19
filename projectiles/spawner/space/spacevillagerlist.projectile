@@ -1,0 +1,71 @@
+{
+  "projectileName" : "spacevillagerlist",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "flippable" : true,
+  "power" : 0,
+  "speed" : 0,
+  "physics" : "laser",
+  "damageKind" : "default",
+  "timeToLive" : 1,
+  "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
+  "scriptConfig" : {
+    "list" : [
+      {
+        "options" : [
+          {
+            "species" : [ "apex" ],
+            "type" : [ "spacevillager" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "avian" ],
+            "type" : [ "spacevillager" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "floran" ],
+            "type" : [ "spacevillager" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "glitch" ],
+            "type" : [ "spacevillager" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "human" ],
+            "type" : [ "spacevillager" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "hylotl" ],
+            "type" : [ "spacevillager" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "novakid" ],
+            "type" : [ "spacevillager" ]
+          }
+        ]
+      }
+    ]
+  }
+}
