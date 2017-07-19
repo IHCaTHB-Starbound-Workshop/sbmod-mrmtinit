@@ -84,12 +84,12 @@ t_file.close()
 """
 for path, dirs, files in os.walk(os.getcwd()):
     for file in files :
-        if '.object' in file:
+        if '.material' in file:
             t_file = open(os.path.join(path,file))
             t_string = t_file.read()
             t_json = json.loads(removecomments(t_string))
-            if 'floranDescription' in t_json:
-                t_desc = t_json['floranDescription']
+            if 'shortdescription' in t_json:
+                t_desc = t_json['shortdescription']
             else:
                 t_desc = "__no description__"
             p_list.append(dict(path = os.path.relpath(path,common_prefix),file = file, name = t_json['shortdescription'], desc = t_desc))

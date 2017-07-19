@@ -1,0 +1,1292 @@
+[
+  {
+    "desc": "Rusty Rail",
+    "file": "rustyrail.material",
+    "name": "Rusty Rail",
+    "path": "tiles/rails"
+  },
+  {
+    "desc": "Composite Rail",
+    "file": "compositerail.material",
+    "name": "Composite Rail",
+    "path": "tiles/rails"
+  },
+  {
+    "desc": "Wooden Log",
+    "file": "log.material",
+    "name": "Wooden Log",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Stomach Lining",
+    "file": "stomachblock.material",
+    "name": "Stomach Lining",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Smooth Metal",
+    "file": "smoothmetal.material",
+    "name": "Smooth Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rough Stone",
+    "file": "rock17.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sandstone",
+    "file": "sandstone01.material",
+    "name": "Sandstone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ornate Roofing",
+    "file": "ornateroofing.material",
+    "name": "Ornate Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Treasure Hoard",
+    "file": "treasurehoard.material",
+    "name": "Treasure Hoard",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Blaststone Block",
+    "file": "blaststone.material",
+    "name": "Blaststone Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Moonstone",
+    "file": "moonstone.material",
+    "name": "Moonstone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rough Stone",
+    "file": "rock03.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hivestone",
+    "file": "hive.material",
+    "name": "Hivestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Outpost Thick Wall",
+    "file": "outpostwall2.material",
+    "name": "Outpost Thick Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Inset Panel",
+    "file": "slopedinsetpanel.material",
+    "name": "Inset Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Treated Wood",
+    "file": "fullwood1.material",
+    "name": "Treated Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Gold Block",
+    "file": "goldblock.material",
+    "name": "Gold Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Temple Bricks",
+    "file": "temple2.material",
+    "name": "Temple Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Outpost Wall",
+    "file": "outpost.material",
+    "name": "Outpost Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rough Stone",
+    "file": "rock01.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ship Support",
+    "file": "apexshipsupport.material",
+    "name": "Ship Support",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Geode Stone",
+    "file": "geodestone.material",
+    "name": "Geode Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Erchius Crystal",
+    "file": "supermatter.material",
+    "name": "Erchius Crystal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dirt",
+    "file": "dirt.material",
+    "name": "Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Unrefined Rainbow Wood",
+    "file": "rainbowwood.material",
+    "name": "Unrefined Rainbow Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ornate Flooring",
+    "file": "ornateflooring.material",
+    "name": "Ornate Flooring",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rough Stone",
+    "file": "rock12.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dark Smooth Stone",
+    "file": "darksmoothstone.material",
+    "name": "Dark Smooth Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sand",
+    "file": "sand2.material",
+    "name": "Sand",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Stone Tiles",
+    "file": "stonetiles.material",
+    "name": "Stone Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Light Metal",
+    "file": "lightmetal.material",
+    "name": "Light Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Granite Block",
+    "file": "rock14.material",
+    "name": "Granite Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hazard Block",
+    "file": "hazard.material",
+    "name": "Hazard Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Snow",
+    "file": "snow.material",
+    "name": "Snow",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Metal Bars",
+    "file": "bars.material",
+    "name": "Metal Bars",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "...",
+    "file": "black.material",
+    "name": "...",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Mushroom Block",
+    "file": "shroomblock.material",
+    "name": "Mushroom Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Heavy Iron Bars",
+    "file": "heavyironbars.material",
+    "name": "Heavy Iron Bars",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wooden Window",
+    "file": "woodenwindow1.material",
+    "name": "Wooden Window",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Smooth Ice",
+    "file": "frozenwater.material",
+    "name": "Smooth Ice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Platinum Block",
+    "file": "platinumblock.material",
+    "name": "Platinum Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Thatch",
+    "file": "thatch.material",
+    "name": "Thatch",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Copper Window",
+    "file": "copperwindow.material",
+    "name": "Copper Window",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Unrefined Wood",
+    "file": "fullwood2.material",
+    "name": "Unrefined Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Cobblestone",
+    "file": "cobblestone.material",
+    "name": "Cobblestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Glass Block",
+    "file": "glass.material",
+    "name": "Glass Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Classic Wallpaper",
+    "file": "wallpaper.material",
+    "name": "Classic Wallpaper",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Coconut Block",
+    "file": "coconutblock.material",
+    "name": "Coconut Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Avian Tech Block",
+    "file": "aztectech.material",
+    "name": "Avian Tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Tar",
+    "file": "tar.material",
+    "name": "Tar",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Pressurised Beam",
+    "file": "pressurisedbeam.material",
+    "name": "Pressurised Beam",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Flesh Pile",
+    "file": "hellstone.material",
+    "name": "Flesh Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wooden Bridge Block",
+    "file": "woodbridge.material",
+    "name": "Wooden Bridge Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Loose Silt",
+    "file": "sand.material",
+    "name": "Loose Silt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Meteorite Rock",
+    "file": "meteoriterock.material",
+    "name": "Meteorite Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Bamboo",
+    "file": "bamboo.material",
+    "name": "Bamboo",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Flower Block",
+    "file": "floweryblock.material",
+    "name": "Flower Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Cacti Block",
+    "file": "cactiblock.material",
+    "name": "Cacti Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Heavy Stone Brick",
+    "file": "castlewalls1.material",
+    "name": "Heavy Stone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Cloud",
+    "file": "cloudblock.material",
+    "name": "Cloud",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Packed Bones",
+    "file": "bonematerial.material",
+    "name": "Packed Bones",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wet Dirt",
+    "file": "wetdirt.material",
+    "name": "Wet Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rough Stone",
+    "file": "rock02.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Alien Striped Wood",
+    "file": "alienstripedblock.material",
+    "name": "Alien Striped Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Grassy Rock",
+    "file": "grassyrock.material",
+    "name": "Grassy Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ancient Brick",
+    "file": "ancientbrick.material",
+    "name": "Ancient Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wooden Fence",
+    "file": "fence.material",
+    "name": "Wooden Fence",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Silver Block",
+    "file": "silverblock.material",
+    "name": "Silver Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Tacky Wallpaper",
+    "file": "cheapwallpaper.material",
+    "name": "Tacky Wallpaper",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ornate Tiles",
+    "file": "ornatetiles.material",
+    "name": "Ornate Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dry Dirt",
+    "file": "drydirt.material",
+    "name": "Dry Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Flesh Chunk",
+    "file": "fleshblock.material",
+    "name": "Flesh Chunk",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Junk Pile",
+    "file": "junk.material",
+    "name": "Junk Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rough Stone",
+    "file": "rock20.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Iron Block",
+    "file": "ironblock.material",
+    "name": "Iron Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Magmarock",
+    "file": "magmarock.material",
+    "name": "Magmarock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Plant Block",
+    "file": "plantblock.material",
+    "name": "Plant Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Silver Screw",
+    "file": "silverscrew.material",
+    "name": "Silver Screw",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Spider Silk",
+    "file": "spidersilkblock.material",
+    "name": "Spider Silk",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Unmarked Tomb Brick",
+    "file": "tombbrick2.material",
+    "name": "Unmarked Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Metal Railing",
+    "file": "apexshipdetails.material",
+    "name": "Metal Railing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Crystal Block",
+    "file": "crystalblock.material",
+    "name": "Crystal Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sod Block",
+    "file": "grassy.material",
+    "name": "Sod Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Obsidian",
+    "file": "obsidian.material",
+    "name": "Obsidian",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Junk Tech",
+    "file": "junktech.material",
+    "name": "Junk Tech",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Reed Block",
+    "file": "reeds.material",
+    "name": "Reed Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ice",
+    "file": "ice.material",
+    "name": "Ice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rusty Panel",
+    "file": "slopedrustypanel.material",
+    "name": "Rusty Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Lunar Base Block",
+    "file": "lunarbaseblock.material",
+    "name": "Lunar Base Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Small Tomb Brick",
+    "file": "tombbrick3.material",
+    "name": "Small Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Pressurised Durasteel",
+    "file": "pressuriseddurasteel.material",
+    "name": "Pressurised Durasteel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Jelly Blob",
+    "file": "jellyblock.material",
+    "name": "Jelly Blob",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Clay",
+    "file": "clay.material",
+    "name": "Clay",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sewer Pipe",
+    "file": "sewerpipe.material",
+    "name": "Sewer Pipe",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rock Bricks",
+    "file": "rockbrick.material",
+    "name": "Rock Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Painted Brick",
+    "file": "homewalls1.material",
+    "name": "Painted Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Outpost Support Beam",
+    "file": "outpostsupport.material",
+    "name": "Outpost Support Beam",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Brains",
+    "file": "brainsblock.material",
+    "name": "Brains",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Tungsten Block",
+    "file": "mediummetal.material",
+    "name": "Tungsten Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Titanium Panel",
+    "file": "composite01.material",
+    "name": "Titanium Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Matter Block",
+    "file": "matterblock.material",
+    "name": "Matter Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Petal Matter Block",
+    "file": "petalblock.material",
+    "name": "Petal Matter Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Glyph Block",
+    "file": "aztec.material",
+    "name": "Glyph Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Moondust",
+    "file": "moondust.material",
+    "name": "Moondust",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Copper Gear Block",
+    "file": "copperblock.material",
+    "name": "Copper Gear Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Bricks",
+    "file": "brick.material",
+    "name": "Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ornate Wall",
+    "file": "ornatewall.material",
+    "name": "Ornate Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Simple Temple Blocks",
+    "file": "temple4.material",
+    "name": "Simple Temple Blocks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Heavy Pipe",
+    "file": "heavypipe.material",
+    "name": "Heavy Pipe",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Black Glass",
+    "file": "blackglass.material",
+    "name": "Black Glass",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Yellow Glow Rock",
+    "file": "biorock.material",
+    "name": "Yellow Glow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dire Stone",
+    "file": "direstone.material",
+    "name": "Dire Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Small Stone Brick",
+    "file": "castlewalls2.material",
+    "name": "Small Stone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Reinforced Tech Block",
+    "file": "techhull1.material",
+    "name": "Reinforced Tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rusty Metal",
+    "file": "rustymetal.material",
+    "name": "Rusty Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Pillar Block",
+    "file": "pillarblock.material",
+    "name": "Pillar Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Corrupt Dirt",
+    "file": "corruptdirt.material",
+    "name": "Corrupt Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Plant Matter",
+    "file": "plantmatter.material",
+    "name": "Plant Matter",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ruin Dermis",
+    "file": "dermisblock.material",
+    "name": "Ruin Dermis",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Smooth Tomb Brick",
+    "file": "tombbrick5.material",
+    "name": "Smooth Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Timber",
+    "file": "darkwood.material",
+    "name": "Timber",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Red Toy Block",
+    "file": "redtoyblock.material",
+    "name": "Red Toy Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Roof Tiles",
+    "file": "rooftiles.material",
+    "name": "Roof Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Alien Rock",
+    "file": "alienrock.material",
+    "name": "Alien Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shoji Screen Panel",
+    "file": "shojiscreenpanel.material",
+    "name": "Shoji Screen Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Stone Rubble",
+    "file": "stonerubble.material",
+    "name": "Stone Rubble",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Blue Glow Rock",
+    "file": "biorock2.material",
+    "name": "Blue Glow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Slime Glob",
+    "file": "slime.material",
+    "name": "Slime Glob",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dark Tomb Brick",
+    "file": "tombbrick4.material",
+    "name": "Dark Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Pile of Books",
+    "file": "bookpiles.material",
+    "name": "Pile of Books",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Copper Roofing",
+    "file": "copperroofing.material",
+    "name": "Copper Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Window Lattice",
+    "file": "crosshatch.material",
+    "name": "Window Lattice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Outpost Concrete",
+    "file": "outpostwall1.material",
+    "name": "Outpost Concrete",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Neon Block",
+    "file": "neonblock.material",
+    "name": "Neon Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Mirror Block",
+    "file": "mirror.material",
+    "name": "Mirror Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Copper Fence",
+    "file": "copperfence.material",
+    "name": "Copper Fence",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wicker Support Block",
+    "file": "wickersupport.material",
+    "name": "Wicker Support Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ancient Block",
+    "file": "ancientblock.material",
+    "name": "Ancient Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Concrete Block",
+    "file": "concrete.material",
+    "name": "Concrete Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dead Core Block",
+    "file": "deadcore.material",
+    "name": "Dead Core Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wicker Block",
+    "file": "wicker.material",
+    "name": "Wicker Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Vine",
+    "file": "vine.material",
+    "name": "Vine",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Scrap Panel",
+    "file": "slopedscrappanel.material",
+    "name": "Scrap Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Mud",
+    "file": "mud.material",
+    "name": "Mud",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Geode Crystals",
+    "file": "geodeblock.material",
+    "name": "Geode Crystals",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Throwing Block",
+    "file": "throwingblock.material",
+    "name": "Throwing Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Temple Block",
+    "file": "temple1.material",
+    "name": "Temple Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Dry Sand",
+    "file": "drysand.material",
+    "name": "Dry Sand",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Purple Crystal Block",
+    "file": "purplecrystal.material",
+    "name": "Purple Crystal Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wall Panel",
+    "file": "apexshipwall.material",
+    "name": "Wall Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shadow Spike Block",
+    "file": "shadowspikeblock.material",
+    "name": "Shadow Spike Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Large Tentacle",
+    "file": "tentaclepipe.material",
+    "name": "Large Tentacle",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rough Stone",
+    "file": "rock19.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Tomb Brick",
+    "file": "tombbrick.material",
+    "name": "Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Blue Neon Block",
+    "file": "blueneonsymbolblock.material",
+    "name": "Blue Neon Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Tentacle Cluster",
+    "file": "tentacleblock.material",
+    "name": "Tentacle Cluster",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hull Panel",
+    "file": "slopedhullpanel.material",
+    "name": "Hull Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Cobblestone Brick",
+    "file": "cobblestonebrick.material",
+    "name": "Cobblestone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rainbow Wood Planks",
+    "file": "rainbowwoodblock.material",
+    "name": "Rainbow Wood Planks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Slush",
+    "file": "slush.material",
+    "name": "Slush",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shadow Bricks",
+    "file": "shadowwallblock.material",
+    "name": "Shadow Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Pile of Eyes",
+    "file": "eyepiles.material",
+    "name": "Pile of Eyes",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Gravel",
+    "file": "gravel.material",
+    "name": "Gravel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Smooth Plated Block",
+    "file": "plate.material",
+    "name": "Smooth Plated Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Tungsten Chain",
+    "file": "chain.material",
+    "name": "Tungsten Chain",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ledge Brick",
+    "file": "ledgebrick.material",
+    "name": "Ledge Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wood Panelling",
+    "file": "woodpanelling.material",
+    "name": "Wood Panelling",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Soft Brick",
+    "file": "fadedblocks.material",
+    "name": "Soft Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Waste",
+    "file": "waste.material",
+    "name": "Waste",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Frozen Dirt",
+    "file": "frozendirt.material",
+    "name": "Frozen Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Raw Sewage",
+    "file": "sewage.material",
+    "name": "Raw Sewage",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Cabin Roofing",
+    "file": "cabinroofing.material",
+    "name": "Cabin Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ridged Block",
+    "file": "ridgebrick.material",
+    "name": "Ridged Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Small Temple Bricks",
+    "file": "temple3.material",
+    "name": "Small Temple Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rough Stone",
+    "file": "rock04.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rusty Block",
+    "file": "rustyblock.material",
+    "name": "Rusty Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Pressurised Girder",
+    "file": "pressurisedgirder.material",
+    "name": "Pressurised Girder",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Glass Block",
+    "file": "lightblocker.material",
+    "name": "Glass Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rough Stone",
+    "file": "rock15.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Asphalt",
+    "file": "asphalt.material",
+    "name": "Asphalt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ornate Wood",
+    "file": "ornatewood.material",
+    "name": "Ornate Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ice Block",
+    "file": "iceblock.material",
+    "name": "Ice Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Limestone",
+    "file": "limestone.material",
+    "name": "Limestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Shadow Rock",
+    "file": "shadowblock.material",
+    "name": "Shadow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Classic Baseboard",
+    "file": "baseboard.material",
+    "name": "Classic Baseboard",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ash Pile",
+    "file": "ash.material",
+    "name": "Ash Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hi-tech Block",
+    "file": "metallic.material",
+    "name": "Hi-tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Girder",
+    "file": "girder.material",
+    "name": "Girder",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Packed Dirt",
+    "file": "packeddirt.material",
+    "name": "Packed Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Moonrock",
+    "file": "moonrock.material",
+    "name": "Moonrock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Candy Block",
+    "file": "candyblock.material",
+    "name": "Candy Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Mossy Packed Dirt",
+    "file": "mossypackeddirt.material",
+    "name": "Mossy Packed Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wooden Blinds",
+    "file": "woodenwindow2.material",
+    "name": "Wooden Blinds",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sandstone Bricks",
+    "file": "sandstoneblock.material",
+    "name": "Sandstone Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Wrecked Platform",
+    "file": "wreckplatform.material",
+    "name": "Wrecked Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Wood Platform",
+    "file": "platform2.material",
+    "name": "Wood Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Ancient Platform",
+    "file": "ancientplatform.material",
+    "name": "Ancient Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Pressurised Platform",
+    "file": "pressurisedplatform.material",
+    "name": "Pressurised Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Bamboo Platform",
+    "file": "bambooplatform.material",
+    "name": "Bamboo Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Protectorate Platform",
+    "file": "protectorateplatform.material",
+    "name": "Protectorate Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Silver Platform",
+    "file": "silverplatform.material",
+    "name": "Silver Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Wood Platform",
+    "file": "platform.material",
+    "name": "Wood Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Tungsten Platform",
+    "file": "tungstenplatform.material",
+    "name": "Tungsten Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Modern Platform",
+    "file": "modernplatform.material",
+    "name": "Modern Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Ornate Platform",
+    "file": "woodenplatform.material",
+    "name": "Ornate Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Copper Ladder",
+    "file": "copperladder.material",
+    "name": "Copper Ladder",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Outpost Platform",
+    "file": "outpostplatform.material",
+    "name": "Outpost Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Temple Platform",
+    "file": "tribalplatform.material",
+    "name": "Temple Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Ruins Platform",
+    "file": "ruinsplatform.material",
+    "name": "Ruins Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Mossy Platform",
+    "file": "plantplatform.material",
+    "name": "Mossy Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Ship Platform",
+    "file": "apexshipplatform.material",
+    "name": "Ship Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Copper Platform",
+    "file": "copperplatform.material",
+    "name": "Copper Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Gold Platform",
+    "file": "goldenplatform.material",
+    "name": "Gold Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Stone Platform",
+    "file": "stoneplatform.material",
+    "name": "Stone Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "Lunar Base Platform",
+    "file": "lunarbaseplatform.material",
+    "name": "Lunar Base Platform",
+    "path": "tiles/platforms"
+  }
+]
