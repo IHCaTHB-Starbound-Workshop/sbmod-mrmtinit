@@ -14,7 +14,7 @@
         "options" : [
           {
             "species" : [ "novakid" ],
-            "type" : [ "astrocrewmate", "industrialcrewmate", "researchcrewmate", "researchscientist", "spacevillager" ]
+            "type" : [ "astrocrewmate", "industrialcrewmate", "researchcrewmate", "researchscientist", "spacevillager", "outpostcivilian" ]
           }
         ]
       }

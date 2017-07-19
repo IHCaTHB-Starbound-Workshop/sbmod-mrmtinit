@@ -1,5 +1,5 @@
 {
-  "projectileName" : "outpostcivilian",
+  "projectileName" : "villageguardcaptain",
   "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
   "flippable" : true,
   "power" : 0,
@@ -14,7 +14,7 @@
         "options" : [
           {
             "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid" ],
-            "type" : [ "astrocrewmate", "industrialcrewmate", "researchcrewmate", "researchscientist", "spacevillager", "outpostcivilian" ]
+            "type" : [ "villageguardcaptain" ]
           }
         ]
       }
