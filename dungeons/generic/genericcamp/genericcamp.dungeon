@@ -1,0 +1,97 @@
+{
+  "metadata" : {
+    "name" : "genericcamp",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "genericcampendleft1", "genericcampendright1" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 12,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "genericcamp2",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "genericcamp2" ] ]
+
+      ],
+      "def" : [ "tmx", "genericcamp2.json" ]
+    },
+    {
+      "name" : "genericcamp3",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "genericcamp3" ] ]
+
+      ],
+      "def" : [ "tmx", "genericcamp3.json" ]
+    },
+    {
+      "name" : "genericcamp4",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "genericcamp4" ] ]
+
+      ],
+      "def" : [ "tmx", "genericcamp4.json" ]
+    },
+    {
+      "name" : "genericcamp5",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "genericcamp5" ] ]
+      ],
+      "def" : [ "tmx", "genericcamp5.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "genericcamptoilet1",
+      "rules" : [
+        [ "maxSpawnCount", [2] ],
+        [ "doNotConnectToPart", [ "genericcamptoilet1" ] ]
+      ],
+      "def" : [ "tmx", "genericcamptoilet1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "genericcamphill1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "genericcamphill1" ] ]
+      ],
+      "def" : [ "tmx", "genericcamphill1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "genericcamplake1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "genericcamplake1" ] ]
+      ],
+      "def" : [ "tmx", "genericcamplake1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "genericcampendleft1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "genericcampendleft1.json" ] ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "genericcampendright1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "genericcampendright1.json" ] ],
+      "chance" : 0
+    }
+  ]
+}
