@@ -1,0 +1,1292 @@
+[
+  {
+    "desc": "((These rails are a bit rough, but functional.))",
+    "file": "rustyrail.material",
+    "name": "Rusty Rail",
+    "path": "tiles/rails"
+  },
+  {
+    "desc": "((A strong reinforced rail.))",
+    "file": "compositerail.material",
+    "name": "Composite Rail",
+    "path": "tiles/rails"
+  },
+  {
+    "desc": "((A wooden log. Good for building simple structures.))",
+    "file": "log.material",
+    "name": "Wooden Log",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This fleshy mass looks like it was part of some creature's stomach.))",
+    "file": "stomachblock.material",
+    "name": "Stomach Lining",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Smooth metal, cold to the touch.))",
+    "file": "smoothmetal.material",
+    "name": "Smooth Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "rock17.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Tough natural sandstone.))",
+    "file": "sandstone01.material",
+    "name": "Sandstone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Traditional looking ornate roofing.))",
+    "file": "ornateroofing.material",
+    "name": "Ornate Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A shimmering hoard of valuable treasure.))",
+    "file": "treasurehoard.material",
+    "name": "Treasure Hoard",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Sharp rocks produced by blasts of enormous heat.))",
+    "file": "blaststone.material",
+    "name": "Blaststone Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Beautiful, smooth moonstone.))",
+    "file": "moonstone.material",
+    "name": "Moonstone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "rock03.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Sticky hive combs made from the remains of fallen creatures.))",
+    "file": "hive.material",
+    "name": "Hivestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A thick wall type developed for exposure to extreme elements.))",
+    "file": "outpostwall2.material",
+    "name": "Outpost Thick Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A somewhat inexpensive material that can withstand most weathering.))",
+    "file": "slopedinsetpanel.material",
+    "name": "Inset Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Carefully treated wood that maintains a freshly chopped appearance.))",
+    "file": "fullwood1.material",
+    "name": "Treated Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A whole block of solid gold.))",
+    "file": "goldblock.material",
+    "name": "Gold Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((These bricks look ancient. Intricate words are scratched into the surface but I can't make them out.))",
+    "file": "temple2.material",
+    "name": "Temple Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Wall material commonly used in space outposts.))",
+    "file": "outpost.material",
+    "name": "Outpost Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "rock01.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A wall support used in ship construction.))",
+    "file": "apexshipsupport.material",
+    "name": "Ship Support",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A solid stone filled with small geode crystals.))",
+    "file": "geodestone.material",
+    "name": "Geode Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A crystal used to power FTL technology. It's still not fully understood.))",
+    "file": "supermatter.material",
+    "name": "Erchius Crystal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Dirty looking dirt.))",
+    "file": "dirt.material",
+    "name": "Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough and unrefined, this wood has a colourful center.))",
+    "file": "rainbowwood.material",
+    "name": "Unrefined Rainbow Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Delightful ornate flooring.))",
+    "file": "ornateflooring.material",
+    "name": "Ornate Flooring",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "rock12.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A dark, smooth stone block.))",
+    "file": "darksmoothstone.material",
+    "name": "Dark Smooth Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Soft and warm sand.))",
+    "file": "sand2.material",
+    "name": "Sand",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Tiles made from smoothly polished stone.))",
+    "file": "stonetiles.material",
+    "name": "Stone Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A light metallic tile, perfect for a research laboratory.))",
+    "file": "lightmetal.material",
+    "name": "Light Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Stacked natural granite bricks.))",
+    "file": "rock14.material",
+    "name": "Granite Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This pattern suggests caution.))",
+    "file": "hazard.material",
+    "name": "Hazard Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Soft and fluffy snow.))",
+    "file": "snow.material",
+    "name": "Snow",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Thick metal bars. Still strong, though decaying with rust.))",
+    "file": "bars.material",
+    "name": "Metal Bars",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((...))",
+    "file": "black.material",
+    "name": "...",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A block made of soft fungus.))",
+    "file": "shroomblock.material",
+    "name": "Mushroom Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Thick iron bars. Still strong, though decaying with rust.))",
+    "file": "heavyironbars.material",
+    "name": "Heavy Iron Bars",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A window with wooden panes.))",
+    "file": "woodenwindow1.material",
+    "name": "Wooden Window",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Some naturally smooth ice.))",
+    "file": "frozenwater.material",
+    "name": "Smooth Ice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A whole block of solid platinum.))",
+    "file": "platinumblock.material",
+    "name": "Platinum Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Traditional thatched roofing.))",
+    "file": "thatch.material",
+    "name": "Thatch",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A window with a frame made from solid copper.))",
+    "file": "copperwindow.material",
+    "name": "Copper Window",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough and unrefined, this wood looks freshly chopped.))",
+    "file": "fullwood2.material",
+    "name": "Unrefined Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Hard cobblestones, smooth to the touch.))",
+    "file": "cobblestone.material",
+    "name": "Cobblestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((I can see my reflection.))",
+    "file": "glass.material",
+    "name": "Glass Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Some classy wallpaper, the perfect finishing touch.))",
+    "file": "wallpaper.material",
+    "name": "Classic Wallpaper",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Bricks made from coconut and mortar.))",
+    "file": "coconutblock.material",
+    "name": "Coconut Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((An advanced synthetic Avian material with printed markings.))",
+    "file": "aztectech.material",
+    "name": "Avian Tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Thick, rancid tar. Just looking at it feels sticky.))",
+    "file": "tar.material",
+    "name": "Tar",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A support beam made for pressurised environments.))",
+    "file": "pressurisedbeam.material",
+    "name": "Pressurised Beam",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Eww, a fleshy looking material!))",
+    "file": "hellstone.material",
+    "name": "Flesh Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((The wood is very old and creaks in the wind.))",
+    "file": "woodbridge.material",
+    "name": "Wooden Bridge Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((It's Silt. It's very silty.))",
+    "file": "sand.material",
+    "name": "Loose Silt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((An extremely hard rock found just outside the atmosphere.))",
+    "file": "meteoriterock.material",
+    "name": "Meteorite Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Freshly cut stalks of bamboo.))",
+    "file": "bamboo.material",
+    "name": "Bamboo",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A fragrant bundle made of flowers and leaves.))",
+    "file": "floweryblock.material",
+    "name": "Flower Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Cactus that's been fashioned into a construction block. Still prickly.))",
+    "file": "cactiblock.material",
+    "name": "Cacti Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Strong stone slabs, perfect for building a castle.))",
+    "file": "castlewalls1.material",
+    "name": "Heavy Stone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A cloud dense enough to walk on.))",
+    "file": "cloudblock.material",
+    "name": "Cloud",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A collection of bones tightly packed together.))",
+    "file": "bonematerial.material",
+    "name": "Packed Bones",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Not quite mud, not quite dirt...it's wet dirt.))",
+    "file": "wetdirt.material",
+    "name": "Wet Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "rock02.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A piece of alien striped wood. Stripey!))",
+    "file": "alienstripedblock.material",
+    "name": "Alien Striped Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, grassy stone.))",
+    "file": "grassyrock.material",
+    "name": "Grassy Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This carved brick is immeasurably old.))",
+    "file": "ancientbrick.material",
+    "name": "Ancient Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A sturdy wooden fence.))",
+    "file": "fence.material",
+    "name": "Wooden Fence",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A whole block of silver.))",
+    "file": "silverblock.material",
+    "name": "Silver Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Cheap, tacky wallpaper.))",
+    "file": "cheapwallpaper.material",
+    "name": "Tacky Wallpaper",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Exquisite ornate roof tiles.))",
+    "file": "ornatetiles.material",
+    "name": "Ornate Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Dirt, dried solid in the sun.))",
+    "file": "drydirt.material",
+    "name": "Dry Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Some hideous, foul-smelling kind of flesh.))",
+    "file": "fleshblock.material",
+    "name": "Flesh Chunk",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A pile of random junk.))",
+    "file": "junk.material",
+    "name": "Junk Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "rock20.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A solid iron block.))",
+    "file": "ironblock.material",
+    "name": "Iron Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Magmarock. This is hot stuff.))",
+    "file": "magmarock.material",
+    "name": "Magmarock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A block made of plant matter.))",
+    "file": "plantblock.material",
+    "name": "Plant Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A giant screw crafted from silver.))",
+    "file": "silverscrew.material",
+    "name": "Silver Screw",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Webs packed tight into a solid block.))",
+    "file": "spidersilkblock.material",
+    "name": "Spider Silk",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((These bricks have worn smooth with age.))",
+    "file": "tombbrick2.material",
+    "name": "Unmarked Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A riveted metal wall.))",
+    "file": "apexshipdetails.material",
+    "name": "Metal Railing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A shimmering block of made from crystals.))",
+    "file": "crystalblock.material",
+    "name": "Crystal Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A block of sod roofing with growing grass.))",
+    "file": "grassy.material",
+    "name": "Sod Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Solid obsidian. It is naturally black.))",
+    "file": "obsidian.material",
+    "name": "Obsidian",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Useless scrap metal, mostly remnants of outmoded technology.))",
+    "file": "junktech.material",
+    "name": "Junk Tech",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A block made from tightly woven reeds.))",
+    "file": "reeds.material",
+    "name": "Reed Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Solid ice, tingly to the touch.))",
+    "file": "ice.material",
+    "name": "Ice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Sturdy metal panelling that has been rusted with age.))",
+    "file": "slopedrustypanel.material",
+    "name": "Rusty Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This alloy looks incredibly durable.))",
+    "file": "lunarbaseblock.material",
+    "name": "Lunar Base Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((These small bricks are masterfully crafted.))",
+    "file": "tombbrick3.material",
+    "name": "Small Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A durasteel panel, specially designed to contain pressurised environments.))",
+    "file": "pressuriseddurasteel.material",
+    "name": "Pressurised Durasteel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A slimy, bright coloured mass of jelly.))",
+    "file": "jellyblock.material",
+    "name": "Jelly Blob",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Heavy, sticky clay.))",
+    "file": "clay.material",
+    "name": "Clay",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A sewer pipe used for transporting waste.))",
+    "file": "sewerpipe.material",
+    "name": "Sewer Pipe",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A crudely produced set of rock bricks.))",
+    "file": "rockbrick.material",
+    "name": "Rock Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Nicely painted brickwork.))",
+    "file": "homewalls1.material",
+    "name": "Painted Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A reinforced support beam.))",
+    "file": "outpostsupport.material",
+    "name": "Outpost Support Beam",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Pulsating brain matter.. I wonder if it's thinking.))",
+    "file": "brainsblock.material",
+    "name": "Brains",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A solid tungsten block.))",
+    "file": "mediummetal.material",
+    "name": "Tungsten Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A smooth panel made of titanium.))",
+    "file": "composite01.material",
+    "name": "Titanium Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A matter block. A block that matters.))",
+    "file": "matterblock.material",
+    "name": "Matter Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Sweet smelling dark leaves and flowers.))",
+    "file": "petalblock.material",
+    "name": "Petal Matter Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Small glyphs cover this stone.))",
+    "file": "aztec.material",
+    "name": "Glyph Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Moondust, the thing dreams are made of.))",
+    "file": "moondust.material",
+    "name": "Moondust",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This copper block has a distinct gear-like imprint.))",
+    "file": "copperblock.material",
+    "name": "Copper Gear Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Small but perfectly formed bricks made from clay.))",
+    "file": "brick.material",
+    "name": "Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A traditional looking wall.))",
+    "file": "ornatewall.material",
+    "name": "Ornate Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Old and poorly crafted blocks, crude drawings are scratched into the stone.))",
+    "file": "temple4.material",
+    "name": "Simple Temple Blocks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A heavy pipe, commonly used in waste systems.))",
+    "file": "heavypipe.material",
+    "name": "Heavy Pipe",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A dark-tinted panel of glass.))",
+    "file": "blackglass.material",
+    "name": "Black Glass",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This rock is glowing with bioluminescence.))",
+    "file": "biorock.material",
+    "name": "Yellow Glow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Little wormlike forms wriggle beneath the surface of this glassy stone.))",
+    "file": "direstone.material",
+    "name": "Dire Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Small stone slabs, perfect for the finer details.))",
+    "file": "castlewalls2.material",
+    "name": "Small Stone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Wiring hides beneath this reinforced hi-tech plated material.))",
+    "file": "techhull1.material",
+    "name": "Reinforced Tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Old metal encrusted with rust.))",
+    "file": "rustymetal.material",
+    "name": "Rusty Metal",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((An old looking stone pillar.))",
+    "file": "pillarblock.material",
+    "name": "Pillar Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A disgusting block of corrupted dirt.))",
+    "file": "corruptdirt.material",
+    "name": "Corrupt Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A block made of packed plant matter.))",
+    "file": "plantmatter.material",
+    "name": "Plant Matter",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A fleshy mass with some thick, tough looking skin.))",
+    "file": "dermisblock.material",
+    "name": "Ruin Dermis",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Old bricks, polished to perfection.))",
+    "file": "tombbrick5.material",
+    "name": "Smooth Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Wood that has been prepared for building and crafting.))",
+    "file": "darkwood.material",
+    "name": "Timber",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A large stackable toy block.))",
+    "file": "redtoyblock.material",
+    "name": "Red Toy Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Weathered roof tiles. Their shape makes me feel uneasy.))",
+    "file": "rooftiles.material",
+    "name": "Roof Tiles",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This strange rock comes from an alien world.))",
+    "file": "alienrock.material",
+    "name": "Alien Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A traditional screen panel.))",
+    "file": "shojiscreenpanel.material",
+    "name": "Shoji Screen Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Stone rubble which appears to be debris from an old structure.))",
+    "file": "stonerubble.material",
+    "name": "Stone Rubble",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This blue rock is faintly glowing with bioluminescence.))",
+    "file": "biorock2.material",
+    "name": "Blue Glow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A thick mucus. It jiggles when poked.))",
+    "file": "slime.material",
+    "name": "Slime Glob",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Dark and cold to the touch, these bricks seem to suck the heat from the room.))",
+    "file": "tombbrick4.material",
+    "name": "Dark Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A pile of dusty old books, they're full of tales of dragons and knights.))",
+    "file": "bookpiles.material",
+    "name": "Pile of Books",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Roofing tiles fashioned from copper.))",
+    "file": "copperroofing.material",
+    "name": "Copper Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A simple lattice made of wood.))",
+    "file": "crosshatch.material",
+    "name": "Window Lattice",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Dark concrete specially designed for outposts.))",
+    "file": "outpostwall1.material",
+    "name": "Outpost Concrete",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A coloured block filled with neon gas.))",
+    "file": "neonblock.material",
+    "name": "Neon Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A non-reflective mirror.))",
+    "file": "mirror.material",
+    "name": "Mirror Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A sturdy copper fence.))",
+    "file": "copperfence.material",
+    "name": "Copper Fence",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A tightly woven wicker material.))",
+    "file": "wickersupport.material",
+    "name": "Wicker Support Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((These bricks have certainly survived the test of time.))",
+    "file": "ancientblock.material",
+    "name": "Ancient Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Cold, hard, concrete.))",
+    "file": "concrete.material",
+    "name": "Concrete Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((The superdense core of a dead planet. Nearly unbreakable.))",
+    "file": "deadcore.material",
+    "name": "Dead Core Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A roughly woven wicker material.))",
+    "file": "wicker.material",
+    "name": "Wicker Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A thick coil of vines. They look strong.))",
+    "file": "vine.material",
+    "name": "Vine",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rusted scrap metal paneling in a state of severe disrepair.))",
+    "file": "slopedscrappanel.material",
+    "name": "Scrap Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Thick and sticky mud.))",
+    "file": "mud.material",
+    "name": "Mud",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Glimmering natural geode crystals.))",
+    "file": "geodeblock.material",
+    "name": "Geode Crystals",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A small throwing block that sticks to surfaces.))",
+    "file": "throwingblock.material",
+    "name": "Throwing Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Ancient stones with intricate carvings of creatures scratched into the surface.))",
+    "file": "temple1.material",
+    "name": "Temple Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Hard, cracked sand that shatters underfoot.))",
+    "file": "drysand.material",
+    "name": "Dry Sand",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Light seems to twist inside these purple crystals.))",
+    "file": "purplecrystal.material",
+    "name": "Purple Crystal Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A sleek metal wall panel.))",
+    "file": "apexshipwall.material",
+    "name": "Wall Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A spiked block formed from shadowy material.))",
+    "file": "shadowspikeblock.material",
+    "name": "Shadow Spike Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A large tentacle))",
+    "file": "tentaclepipe.material",
+    "name": "Large Tentacle",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "rock19.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Dusty and ancient bricks.))",
+    "file": "tombbrick.material",
+    "name": "Tomb Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A tile with a strange blue glyph engraved in the centre.))",
+    "file": "blueneonsymbolblock.material",
+    "name": "Blue Neon Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A mass of wriggling tentacles.))",
+    "file": "tentacleblock.material",
+    "name": "Tentacle Cluster",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Cheap, resilient panelling widely used for ship and station construction.))",
+    "file": "slopedhullpanel.material",
+    "name": "Hull Panel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Small bricks made from cobblestone.))",
+    "file": "cobblestonebrick.material",
+    "name": "Cobblestone Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Simply fabulous.))",
+    "file": "rainbowwoodblock.material",
+    "name": "Rainbow Wood Planks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Melting ice makes a thick slush.))",
+    "file": "slush.material",
+    "name": "Slush",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Bricks carved from shadowy rock.))",
+    "file": "shadowwallblock.material",
+    "name": "Shadow Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A tumbling heap of squishy eyeballs.))",
+    "file": "eyepiles.material",
+    "name": "Pile of Eyes",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Coarse gravel.))",
+    "file": "gravel.material",
+    "name": "Gravel",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Reminds me of the inside of a medical centre.))",
+    "file": "plate.material",
+    "name": "Smooth Plated Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Tungsten chains, and not the fun kind.))",
+    "file": "chain.material",
+    "name": "Tungsten Chain",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Stone stepped bricks with a small ledge.))",
+    "file": "ledgebrick.material",
+    "name": "Ledge Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This wood panelling was fashionable in a distant era.))",
+    "file": "woodpanelling.material",
+    "name": "Wood Panelling",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Soft faded brick.))",
+    "file": "fadedblocks.material",
+    "name": "Soft Brick",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Disgusting, faintly glowing toxic waste.))",
+    "file": "waste.material",
+    "name": "Waste",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This dirt is frozen solid.))",
+    "file": "frozendirt.material",
+    "name": "Frozen Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A disgusting pile of sewage. Lovely.))",
+    "file": "sewage.material",
+    "name": "Raw Sewage",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Simple roofing for a cabin.))",
+    "file": "cabinroofing.material",
+    "name": "Cabin Roofing",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Stone bricks with a ridge carved near the top.))",
+    "file": "ridgebrick.material",
+    "name": "Ridged Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Dusty but finely crafted bricks.))",
+    "file": "temple3.material",
+    "name": "Small Temple Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "rock04.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A rusty old metal block.))",
+    "file": "rustyblock.material",
+    "name": "Rusty Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A girder designed to accommodate pressurisation changes.))",
+    "file": "pressurisedgirder.material",
+    "name": "Pressurised Girder",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((I can see my reflection... it's hideous!))",
+    "file": "lightblocker.material",
+    "name": "Glass Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "rock15.material",
+    "name": "Rough Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A cheap but effective construction material.))",
+    "file": "asphalt.material",
+    "name": "Asphalt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Expertly treated ornate wood.))",
+    "file": "ornatewood.material",
+    "name": "Ornate Wood",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Solid ice, cut into block shape.))",
+    "file": "iceblock.material",
+    "name": "Ice Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined limestone.))",
+    "file": "limestone.material",
+    "name": "Limestone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A rock as pitch black as shadow.))",
+    "file": "shadowblock.material",
+    "name": "Shadow Rock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This baseboard completes the classic home look.))",
+    "file": "baseboard.material",
+    "name": "Classic Baseboard",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A pile of tightly packed ash.))",
+    "file": "ash.material",
+    "name": "Ash Pile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This looks hi-tech!))",
+    "file": "metallic.material",
+    "name": "Hi-tech Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A strong looking metal girder.))",
+    "file": "girder.material",
+    "name": "Girder",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Some dirt packed into small bricks.))",
+    "file": "packeddirt.material",
+    "name": "Packed Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Tough, gritty moon rock.))",
+    "file": "moonrock.material",
+    "name": "Moonrock",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Sweet-smelling rock candy!))",
+    "file": "candyblock.material",
+    "name": "Candy Block",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Packed dirt, covered in moss.))",
+    "file": "mossypackeddirt.material",
+    "name": "Mossy Packed Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Old wooden slats that don't let much light through.))",
+    "file": "woodenwindow2.material",
+    "name": "Wooden Blinds",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Bricks made from smoothed sandstone.))",
+    "file": "sandstoneblock.material",
+    "name": "Sandstone Bricks",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rusty scaffolding, it doesn't look safe.))",
+    "file": "wreckplatform.material",
+    "name": "Wrecked Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A non-descript wood platform.))",
+    "file": "platform2.material",
+    "name": "Wood Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((An ancient platform made up of some kind of technological rock.))",
+    "file": "ancientplatform.material",
+    "name": "Ancient Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((Tough pressurised platform for potentially pressured environments!))",
+    "file": "pressurisedplatform.material",
+    "name": "Pressurised Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((Strong platforms fashioned from bamboo stalks.))",
+    "file": "bambooplatform.material",
+    "name": "Bamboo Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A simple looking platform.))",
+    "file": "protectorateplatform.material",
+    "name": "Protectorate Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A polished platform crafted from pure silver.))",
+    "file": "silverplatform.material",
+    "name": "Silver Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A nondescript wood platform.))",
+    "file": "platform.material",
+    "name": "Wood Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((Strong platforms made from tungsten.))",
+    "file": "tungstenplatform.material",
+    "name": "Tungsten Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((Made from a modern material, these are smooth to the touch.))",
+    "file": "modernplatform.material",
+    "name": "Modern Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((Nicely finished wooden platforms.))",
+    "file": "woodenplatform.material",
+    "name": "Ornate Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A copper ladder.))",
+    "file": "copperladder.material",
+    "name": "Copper Ladder",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A simple light platform commonly found in remote outposts.))",
+    "file": "outpostplatform.material",
+    "name": "Outpost Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((Platforms built from solid temple bricks.))",
+    "file": "tribalplatform.material",
+    "name": "Temple Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((An old dusty wooden platform. Looks like it's falling apart.))",
+    "file": "ruinsplatform.material",
+    "name": "Ruins Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((The platform is slimy with moss and leaves. Better be careful not to slip!))",
+    "file": "plantplatform.material",
+    "name": "Mossy Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((Durable enough to withstand the demands of space travel.))",
+    "file": "apexshipplatform.material",
+    "name": "Ship Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A platform made from copper.))",
+    "file": "copperplatform.material",
+    "name": "Copper Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((For the truly opulent, a platform made from gold.))",
+    "file": "goldenplatform.material",
+    "name": "Gold Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A platform carved from stone.))",
+    "file": "stoneplatform.material",
+    "name": "Stone Platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A well-constructed metal platform.))",
+    "file": "lunarbaseplatform.material",
+    "name": "Lunar Base Platform",
+    "path": "tiles/platforms"
+  }
+]
