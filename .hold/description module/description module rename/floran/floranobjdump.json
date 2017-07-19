@@ -7686,7 +7686,7 @@
     "path": "objects/floran/huntingtrophy1"
   },
   {
-    "desc": "A .mrmttitlename.'s attempt to draw sssunrise.",
+    "desc": "A Floran's attempt to draw sssunrise.",
     "file": "floranpainting5.object",
     "name": "Primitive Abstract Art",
     "path": "objects/floran/floranpainting5"
@@ -7830,7 +7830,7 @@
     "path": "objects/floran/floranceilingbones2"
   },
   {
-    "desc": ".mrmttitlename. prissonerss have bassic bed matss.",
+    "desc": "Floran prissonerss have bassic bed matss.",
     "file": "plantbed4.object",
     "name": "Covered Plant Bedroll",
     "path": "objects/floran/plantbed4"
@@ -7878,7 +7878,7 @@
     "path": "objects/floran/floranpelt5"
   },
   {
-    "desc": ".mrmttitlename. sshelf iss empty.",
+    "desc": "Floran sshelf iss empty.",
     "file": "plantshelf.object",
     "name": "Empty Shelf",
     "path": "objects/floran/plantshelf"
@@ -7890,7 +7890,7 @@
     "path": "objects/floran/huntingplatformrocks"
   },
   {
-    "desc": ".mrmttitlename. sstaging ussed to build.",
+    "desc": "Floran sstaging ussed to build.",
     "file": "plantplatform2.object",
     "name": "Large Wooden Staging",
     "path": "objects/floran/plantplatform2"
@@ -8010,7 +8010,7 @@
     "path": "objects/floran/plantplatform1"
   },
   {
-    "desc": "This cage iss made to transsport .mrmttitlename. prissoner.",
+    "desc": "This cage iss made to transsport Floran prissoner.",
     "file": "plantcage1.object",
     "name": "Large Wooden Cage",
     "path": "objects/floran/plantcage1"
@@ -8034,7 +8034,7 @@
     "path": "objects/floran/huntingweaponrack2"
   },
   {
-    "desc": "This platform wass built by .mrmttitlename. hunterss.",
+    "desc": "This platform wass built by Floran hunterss.",
     "file": "huntingplatform1.object",
     "name": "Raised Platform",
     "path": "objects/floran/huntingplatform1"
