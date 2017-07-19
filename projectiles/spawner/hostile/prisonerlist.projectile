@@ -1,0 +1,71 @@
+{
+  "projectileName" : "prisonerlist",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "flippable" : true,
+  "power" : 0,
+  "speed" : 0,
+  "physics" : "laser",
+  "damageKind" : "default",
+  "timeToLive" : 1,
+  "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
+  "scriptConfig" : {
+    "list" : [
+      {
+        "options" : [
+          {
+            "species" : [ "apex" ],
+            "type" : [ "prisonberserker", "prisonbruiser", "prisongunman" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "avian" ],
+            "type" : [ "prisonberserker", "prisonbruiser", "prisongunman" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "floran" ],
+            "type" : [ "prisonberserker", "prisonbruiser", "prisongunman" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "glitch" ],
+            "type" : [ "prisonberserker", "prisonbruiser", "prisongunman" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "human" ],
+            "type" : [ "prisonberserker", "prisonbruiser", "prisongunman" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "hylotl" ],
+            "type" : [ "prisonberserker", "prisonbruiser", "prisongunman" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "novakid" ],
+            "type" : [ "prisonberserker", "prisonbruiser", "prisongunman" ]
+          }
+        ]
+      }
+    ]
+  }
+}

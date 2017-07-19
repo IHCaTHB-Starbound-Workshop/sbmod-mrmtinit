@@ -1,0 +1,71 @@
+{
+  "projectileName" : "deadbeatlist",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "flippable" : true,
+  "power" : 0,
+  "speed" : 0,
+  "physics" : "laser",
+  "damageKind" : "default",
+  "timeToLive" : 1,
+  "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
+  "scriptConfig" : {
+    "list" : [
+      {
+        "options" : [
+          {
+            "species" : [ "apex" ],
+            "type" : [ "deadbeatbruiser", "deadbeatscrounger", "deadbeatthug" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "avian" ],
+            "type" : [ "deadbeatbruiser", "deadbeatscrounger", "deadbeatthug" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "floran" ],
+            "type" : [ "deadbeatbruiser", "deadbeatscrounger", "deadbeatthug" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "glitch" ],
+            "type" : [ "deadbeatbruiser", "deadbeatscrounger", "deadbeatthug" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "human" ],
+            "type" : [ "deadbeatbruiser", "deadbeatscrounger", "deadbeatthug" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "hylotl" ],
+            "type" : [ "deadbeatbruiser", "deadbeatscrounger", "deadbeatthug" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "novakid" ],
+            "type" : [ "deadbeatbruiser", "deadbeatscrounger", "deadbeatthug" ]
+          }
+        ]
+      }
+    ]
+  }
+}

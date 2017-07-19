@@ -1,0 +1,31 @@
+{
+  "projectileName" : "museumvisitorlist",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "flippable" : true,
+  "power" : 0,
+  "speed" : 0,
+  "physics" : "laser",
+  "damageKind" : "default",
+  "timeToLive" : 1,
+  "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
+  "scriptConfig" : {
+    "list" : [
+      {
+        "options" : [
+          {
+            "species" : [ "hylotl" ],
+            "type" : [ "museumvisitor" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "novakid" ],
+            "type" : [ "museumvisitor" ]
+          }
+        ]
+      }
+    ]
+  }
+}

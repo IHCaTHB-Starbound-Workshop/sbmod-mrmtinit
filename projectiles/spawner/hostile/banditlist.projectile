@@ -1,0 +1,71 @@
+{
+  "projectileName" : "banditlist",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "flippable" : true,
+  "power" : 0,
+  "speed" : 0,
+  "physics" : "laser",
+  "damageKind" : "default",
+  "timeToLive" : 1,
+  "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
+  "scriptConfig" : {
+    "list" : [
+      {
+        "options" : [
+          {
+            "species" : [ "apex" ],
+            "type" : [ "bandit" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "avian" ],
+            "type" : [ "bandit" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "floran" ],
+            "type" : [ "bandit" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "glitch" ],
+            "type" : [ "bandit" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "human" ],
+            "type" : [ "bandit" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "hylotl" ],
+            "type" : [ "bandit" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "novakid" ],
+            "type" : [ "bandit" ]
+          }
+        ]
+      }
+    ]
+  }
+}
