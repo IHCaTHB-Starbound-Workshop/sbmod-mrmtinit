@@ -1,0 +1,71 @@
+{
+  "projectileName" : "astroshiplist",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "flippable" : true,
+  "power" : 0,
+  "speed" : 0,
+  "physics" : "laser",
+  "damageKind" : "default",
+  "timeToLive" : 1,
+  "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
+  "scriptConfig" : {
+    "list" : [
+      {
+        "options" : [
+          {
+            "species" : [ "apex" ],
+            "type" : [ "astrocrewmate", "astrocrewmate", "astrocrewmate", "astrocrewmate", "astromerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "avian" ],
+            "type" : [ "astrocrewmate", "astrocrewmate", "astrocrewmate", "astrocrewmate", "astromerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "floran" ],
+            "type" : [ "astrocrewmate", "astrocrewmate", "astrocrewmate", "astrocrewmate", "astromerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "glitch" ],
+            "type" : [ "astrocrewmate", "astrocrewmate", "astrocrewmate", "astrocrewmate", "astromerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "human" ],
+            "type" : [ "astrocrewmate", "astrocrewmate", "astrocrewmate", "astrocrewmate", "astromerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "hylotl" ],
+            "type" : [ "astrocrewmate", "astrocrewmate", "astrocrewmate", "astrocrewmate", "astromerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "novakid" ],
+            "type" : [ "astrocrewmate", "astrocrewmate", "astrocrewmate", "astrocrewmate", "astromerchant" ]
+          }
+        ]
+      }
+    ]
+  }
+}

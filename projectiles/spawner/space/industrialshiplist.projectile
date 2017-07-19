@@ -1,0 +1,71 @@
+{
+  "projectileName" : "industrialshiplist",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "flippable" : true,
+  "power" : 0,
+  "speed" : 0,
+  "physics" : "laser",
+  "damageKind" : "default",
+  "timeToLive" : 1,
+  "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
+  "scriptConfig" : {
+    "list" : [
+      {
+        "options" : [
+          {
+            "species" : [ "apex" ],
+            "type" : [ "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialmerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "avian" ],
+            "type" : [ "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialmerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "floran" ],
+            "type" : [ "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialmerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "glitch" ],
+            "type" : [ "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialmerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "human" ],
+            "type" : [ "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialmerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "hylotl" ],
+            "type" : [ "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialmerchant" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "novakid" ],
+            "type" : [ "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialcrewmate", "industrialmerchant" ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "projectileName" : "researchshiplist",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "flippable" : true,
+  "power" : 0,
+  "speed" : 0,
+  "physics" : "laser",
+  "damageKind" : "default",
+  "timeToLive" : 1,
+  "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
+  "scriptConfig" : {
+    "list" : [
+      {
+        "options" : [
+          {
+            "species" : [ "apex" ],
+            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "avian" ],
+            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "floran" ],
+            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "glitch" ],
+            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "human" ],
+            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "hylotl" ],
+            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "novakid" ],
+            "type" : [ "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchcrewmate", "researchscientist" ]
+          }
+        ]
+      }
+    ]
+  }
+}
