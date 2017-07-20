@@ -1,82 +1,302 @@
-[
+[[
   {
     "op": "add",
     "path": "/planetTypes/forest/layers/surface/dungeons/-",
-    "value": [
-      1,
-      "genericcamp"
-    ]
+    "value": [ 1, "genericcamp" ]
   },
   {
     "op": "add",
     "path": "/planetTypes/desert/layers/surface/dungeons/-",
-    "value": [
-      1,
-      "genericcamp"
-    ]
+    "value": [ 1, "genericcamp" ]
   },
   {
     "op": "add",
     "path": "/planetTypes/savannah/layers/surface/dungeons/-",
-    "value": [
-      1,
-      "genericcamp"
-    ]
+    "value": [ 1, "genericcamp" ]
   },
   {
     "op": "add",
     "path": "/planetTypes/snow/layers/surface/dungeons/-",
-    "value": [
-      1,
-      "genericcamp"
-    ]
+    "value": [ 1, "genericcamp" ]
   },
   {
     "op": "add",
     "path": "/planetTypes/jungle/layers/surface/dungeons/-",
-    "value": [
-      1,
-      "genericcamp"
-    ]
+    "value": [ 1, "genericcamp" ]
   },
   {
     "op": "add",
     "path": "/planetTypes/alien/layers/surface/dungeons/-",
-    "value": [
-      1,
-      "genericcamp"
-    ]
+    "value": [ 1, "genericcamp" ]
   },
   {
     "op": "add",
     "path": "/planetTypes/tundra/layers/surface/dungeons/-",
-    "value": [
-      1,
-      "genericcamp"
-    ]
+    "value": [ 1, "genericcamp" ]
   },
   {
     "op": "add",
     "path": "/planetTypes/midnight/layers/surface/dungeons/-",
-    "value": [
-      1,
-      "genericcamp"
-    ]
+    "value": [ 1, "genericcamp" ]
   },
   {
     "op": "add",
     "path": "/planetTypes/volcanic/layers/surface/dungeons/-",
-    "value": [
-      1,
-      "genericcamp"
-    ]
+    "value": [ 1, "genericcamp" ]
   },
   {
     "op": "add",
     "path": "/planetTypes/scorchedcity/layers/surface/dungeons/-",
-    "value": [
-      1,
-      "genericcamp"
-    ]
+    "value": [ 1, "genericcamp" ]
   }
-]
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/ffunknown/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/ffunknown/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/shadow/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/shadow/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/superdense/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/superdense/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/arboreal/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/arboreal/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/arboreal2/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/arboreal2/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/arborealdark/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/arborealdark/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/bloodstone/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/bloodstone/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/bog/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/bog/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/crystalmoon/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/crystalmoon/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/chromatic/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/chromatic/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/desertwastes/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desertwastes/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/desertwastesdark/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/desertwastesdark/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/frozenvolcanic/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/frozenvolcanic/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/snowdark/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/snowdark/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/tundradark/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/tundradark/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/fungus/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/fungus/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/irradiated/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/irradiated/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/mountainous/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/mountainous/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/penumbra/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/penumbra/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/protoworld/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/protoworld/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/protoworlddark/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/protoworlddark/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/slimeworld/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/slimeworld/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/thickjungle/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/thickjungle/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/urbanwasteland/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/urbanwasteland/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/planetTypes/urbanwasteland2/layers/surface/dungeons/0"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypes/urbanwasteland2/layers/surface/dungeons/-",
+    "value": [ 1, "genericcamp" ]
+  }
+]]
