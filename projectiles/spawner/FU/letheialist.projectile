@@ -13,7 +13,55 @@
       {
         "options" : [
           {
-            "species" : [ "apex", "avian", "floran", "glitch", "human", "hylotl", "novakid" ],
+            "species" : [ "apex" ],
+            "type" : [ "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiascientist", "letheiascientist", "letheiacaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "avian" ],
+            "type" : [ "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiascientist", "letheiascientist", "letheiacaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "floran" ],
+            "type" : [ "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiascientist", "letheiascientist", "letheiacaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "glitch" ],
+            "type" : [ "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiascientist", "letheiascientist", "letheiacaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "human" ],
+            "type" : [ "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiascientist", "letheiascientist", "letheiacaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "hylotl" ],
+            "type" : [ "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiascientist", "letheiascientist", "letheiacaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "novakid" ],
             "type" : [ "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiagrunt", "letheiascientist", "letheiascientist", "letheiacaptain" ]
           }
         ]
