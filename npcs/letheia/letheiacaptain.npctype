@@ -1,0 +1,32 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/attack/floran",
+    "value": {
+      "default": [
+        "Sssupper!",
+        "Time to ssstab! Time to shoot!",
+        "Hunt the prey!",
+        "Get it!",
+        "Ssstab it! Shoot it!",
+        "Catch it! Eat it!",
+        "Floran hunt!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/attack/glitch",
+    "value": {
+      "default": [
+        "Excited. A foe!",
+        "Pugnacious. Have at thee!",
+        "Calm. I will not be easily overcome.",
+        "Daring. To battle!",
+        "Courageous. I shall defeat this foe!",
+        "Eager. You have breathed your last!",
+        "Aggressive. Prepare to lose your life!"
+      ]
+    }
+  }
+]

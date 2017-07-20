@@ -1,0 +1,55 @@
+[
+  {
+    "op" : "test",
+    "path" : "/tiles/39/brush/0/1/typeName",
+    "value" : "wreckwarrior"
+  },
+  {
+    "op": "remove",
+    "path": "/tiles/39/brush/0/1/species"
+  },
+  {
+    "op": "add",
+    "path": "/tiles/39/brush/0/1/parameters",
+    "value": {
+      "behaviorConfig": {
+        "deathActions": [
+          {
+            "name": "action-projectile",
+            "parameters": {
+              "projectileCount": 1,
+              "projectileType": "wreckwarrior",
+              "projectileParameters": {},
+              "aimDirection": [
+                0,
+                2
+              ],
+              "inaccuracy": 0,
+              "fireOffset": [
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      },
+      "statusSettings": {
+        "stats": {
+          "healthRegen": {
+            "baseValue": -1
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/39/brush/0/1/kind",
+    "value": "monster"
+  },
+  {
+    "op": "replace",
+    "path": "/tiles/39/brush/0/1/typeName",
+    "value": "cellcritter"
+  }
+]
