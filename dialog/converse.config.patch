@@ -489,5 +489,869 @@
     "op": "add",
     "path": "/converse/default/default/-",
     "value": "I make really good gravy, I could be a gravy chef."
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/default/generic",
+    "from" : "/converse/default/default"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/apex/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Hey, ape-dude!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "A talking monkey. Cool."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Are you gonna hurt me?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Just how big IS Big Ape?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Didn't the Apex look kind of like us once?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "A monkey! Oh wait, monkeys have tails. An ape!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Aah!!! Oh, sorry - I have an irrational fear of chimpanzees and you're face... Sorry..."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "I had a pizza with tuna and bananas on it once. Surprisingly good."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Are all Apex good at science? It was my worst subject at school."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Sorry that the Apex are all oppressed and stuff."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Are the Apex continuously devolving? When do you get tails?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "I've heard bad things about the Miniknog, I'm not surprised you joined the Protectorate."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Your hair is just magnificent."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Who is \"Big Ape\"?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Hey there, Apex!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Have you ever tried shaving to pass as human?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "The Miniknog sounds terrible!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Awesome to see you, Apex!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "You guys are so cool."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "You reek of wet dog! Or, I guess, wet ape."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "I've never met a Miniknog soldier. Are they scary?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "You look pretty strong, like a wrestler."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "Pleasure to make your acquaintance, ape."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "When I was a child I had a toy monkey that looked like you."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/avian/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "Hey, it's a big bird!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "Nice feathers there."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "It's weird that you can't fly."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "Hey there, Avian!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "I'm in a hurry, gotta fly. Oops, sorry, that was insensitive."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "You look so warm and fluffy."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "Who's this Kluex I keep hearing about, then?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "I too am flightless."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "I've never met an Avian I didn't like."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "I hear your kind build grand temples. We used to do that too."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "I like birds; my uncle used to own parrots."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "Wish I had feathers."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "I saw one of those Avian towers once. People jump off those!?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "Have you ever tried sunflower seeds? I think you'd love them."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "I study intergalactic religions - Kluex is just fascinating."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "Another Avian I met told me about the Celestial Towers. Chilling."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "Can I borrow a feather to make a quill?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "If an Avian and a snake had a baby, would it be a feather boa?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "Avians are SO COOL!"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/floran/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "Yo there, talking tree."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "You're pretty cute."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "Aren't your kind meant to be savage? You don't seem it."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "You could do with a pruning."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "It's hard to believe you're a lethal killer!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "Do you guys have pollen?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "Do Floran ever get attacked by giant hummingbirds?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "You make me think of the garden I had when I was growing up on Earth."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "I met a greenfinger once - real nice guy... Or girl... Or neither?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "Could you teach me how to hunt some time?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "I wish I was a Floran."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "I've heard Floran can be pretty vicious, but you seem kinda nice."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "Which meat is the best meat?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "I want to go into spear production, do you think there's a market for it?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "You're so pretty."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "I'm scared of you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "My best friend growing up was a Floran. They ate my rabbit, but I didn't mind."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "Do Floran ever get like 250ft tall, like a sequoia tree with a face?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "I got my eye on you, Floran."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "It's pretty exciting to see you!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "I hear you and the fish people don't get on?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "I bet you've killed more monsters than I've had hot dinners."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "Can you read?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "Florans are the best!"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/glitch/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "Whoa, nice, a robot."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "The future, it's here!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "Did you hear about our planet, Glitch? What do we do now?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "How do you work?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "Sometimes I like to pretend I'm an old timey knight!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "No bones about it, robots are just awesome."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "Do you ever have to replace your eye bulbs?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "Jovial. Hello! Uh, I hope that wasn't offensive."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "I once made a Glitch costume out of cardboard."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "The Glitch have a funny way of talking... Cuts out the flim-flam though."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "My dad is a mechanic, but I guess in Glitch terms he's a doctor."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "You're a bit creaky, maybe you should oil your joints."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "I too have a hard outer shell, however, mine is figurative."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "That's a nice alloy you've got there."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "I've always wanted to hang out with a robot."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "What's it like to be made of metal?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "Who created you guys, then?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "I want armour like yours."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "I love the way you guys talk."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "So lovely to meet you, Glitch!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "What metal are you made from?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "Can you go in the water?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "You're quite small for a killer robot."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "You have the coolest face."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/human/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "You are the first human that I've met."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "It is bad news for everybody, what happened to Earth."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "Don't get too close, human. I have fleas."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "I've heard lots about humans, lots of good things."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "Humans are rebellious, yes?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "How do you humans know what you're allowed to do?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "Commiserations about the destruction of your species."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "I was sorry to hear of what happened to Earth."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "A human from Earth. It is good to meet you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "You are very smooth."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "You smell interesting, human."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "What kind of planet was Earth? Oh... Is it too soon to ask this question? My bad."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "I could pass for human if I had a good hair day."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/hylotl/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Oh hey, a giant fish."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Hah, oh my, you smell funny."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "You remind me of holidays at the beach."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "A Hylotl, eh?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Nice to meet you, fishface."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "I'm a pretty strong swimmer. I'm not boasting, it's just true."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "I've read ten books!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Hylotl art is pretty nice, I'm a fan."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "I had a pizza with tuna and bananas on it once. Surprisingly good."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Hylotl's strive for peace, right? Same as humans. No wonder you're a Protector."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "I used to live by a beach on Earth. I miss it."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "I don't read a lot of poetry, I find it too opaque."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "I used to meditate, but I couldn't stand the quiet."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "I draw a little, maybe you'd like to take a look sometime?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Do Hylotl ever dry out?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Seals are like dogs, but in the sea. All Hylotl should have seals."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "You're pretty awesome for a talking tuna."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Welcome, Hylotl!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Nice to meet you, fish!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Let's go swimming."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Something about you makes me want fish and chips. Can't put my finger on what."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Living under water is cool."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "I hear your architecture is stunning."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "You seem like a cultured kind of person."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Could you beat a shark in a fight? Maybe that's like asking if I could beat a tiger in a fight."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Talking fish, sharks with legs... man, I love space!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Our planet had many oceans. Then a tentacle monster happened."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "You're one slick fish man."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "We should hang out more often, fish."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Gross, you're all slimy."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Nice outfit, where'd you get it?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "I miss the cool sea breeze."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/novakid/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Are you made of pure energy?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Oh wow, I've never seen anyone like you before!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Do you glow all the time, or is it like a switch you can turn off?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Whoa, you're something new alright..."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Do you have eyes? How do you even see?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "You look so cool. I wish I was you."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "You're so bright!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "What are you? ...Whatever you are, I like it."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Howdy."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "That's a pretty cool glow you've got going there."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "You would be a terrible \"murder in the dark\" player."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Ow, my eyes. You're super bright."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Nice face."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Does your glow attract bugs at night? I collect bugs..."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "I bet you're popular at parties!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "You're not from around here, are you?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Wow, you're pretty brightly coloured! Are you off to a festival?"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Okay, I've never seen anyone like you before."
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Well, you're something I've not seen before."
   }
 ]]
