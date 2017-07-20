@@ -13,6 +13,11 @@
     "op" : "add",
     "path" : "/converse/default/default/-",
     "value" : "What manner of being are you?"
+  },
+  {
+    "op" : "add",
+    "path" : "/converse/default/default/-",
+    "value" : "Have an awesome day!"
   }
 ],[
   {
@@ -84,5 +89,129 @@
     "value": [
       "Inquisitive. Greetings, what manner of being are you?"
     ]
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/human/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "Yo!"
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/human/-",
+    "value": "Hey, great to see you."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/apex/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/apex",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/apex/-",
+    "value": "A talking monkey. Cool."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/avian/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/avian",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/avian/-",
+    "value": "Hey, it's a big bird!"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/floran/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/floran",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/floran/-",
+    "value": "A triffid!"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/glitch/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/glitch",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/glitch/-",
+    "value": "Whoa, nice, a robot."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/hylotl/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/hylotl/-",
+    "value": "Oh hey, a giant fish."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/converse/default/novakid/0",
+    "inverse" : true
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/novakid",
+    "value": []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/converse/default/novakid/-",
+    "value": "Whoa, a star cowboy."
   }
 ]]
