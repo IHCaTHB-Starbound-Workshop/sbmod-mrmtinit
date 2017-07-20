@@ -1,0 +1,71 @@
+{
+  "projectileName" : "villagelist",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "flippable" : true,
+  "power" : 0,
+  "speed" : 0,
+  "physics" : "laser",
+  "damageKind" : "default",
+  "timeToLive" : 1,
+  "scripts" : [ "/projectiles/spawner/npcspawn.lua" ],
+  "scriptConfig" : {
+    "list" : [
+      {
+        "options" : [
+          {
+            "species" : [ "apex" ],
+            "type" : [ "villager", "villager", "villager", "villager", "villageguard", "villageguard", "villageguardcaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "avian" ],
+            "type" : [ "villager", "villager", "villager", "villager", "villageguard", "villageguard", "villageguardcaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "floran" ],
+            "type" : [ "villager", "villager", "villager", "villager", "villageguard", "villageguard", "villageguardcaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "glitch" ],
+            "type" : [ "villager", "villager", "villager", "villager", "villageguard", "villageguard", "villageguardcaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "human" ],
+            "type" : [ "villager", "villager", "villager", "villager", "villageguard", "villageguard", "villageguardcaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "hylotl" ],
+            "type" : [ "villager", "villager", "villager", "villager", "villageguard", "villageguard", "villageguardcaptain" ]
+          }
+        ]
+      },
+      {
+        "options" : [
+          {
+            "species" : [ "novakid" ],
+            "type" : [ "villager", "villager", "villager", "villager", "villageguard", "villageguard", "villageguardcaptain" ]
+          }
+        ]
+      }
+    ]
+  }
+}
