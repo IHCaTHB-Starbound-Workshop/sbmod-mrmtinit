@@ -1,0 +1,435 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/27/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/27/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/28/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/28/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/29/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/29/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/30/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/30/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/31/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/31/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/32/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/32/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/33/properties/typeName",
+    "value" : "letheiascientist"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/33/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiascientist\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/34/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/34/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/35/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/35/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/36/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/36/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/37/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/37/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/38/properties/typeName",
+    "value" : "letheiacaptain"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/38/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiacaptain\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/39/properties/typeName",
+    "value" : "letheiacaptain"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/39/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiacaptain\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/40/properties/typeName",
+    "value" : "letheiacaptain"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/40/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiacaptain\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/41/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/41/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/42/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/42/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/43/properties/typeName",
+    "value" : "letheiascientist"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/43/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiascientist\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/44/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/44/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/45/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/45/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/46/properties/typeName",
+    "value" : "letheiascientist"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/46/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiascientist\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/47/properties/typeName",
+    "value" : "letheiascientist"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/47/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiascientist\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/48/properties/typeName",
+    "value" : "letheiascientist"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/48/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiascientist\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/49/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/49/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/50/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/50/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/51/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/51/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/52/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/52/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/53/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/53/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/54/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/54/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/55/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/55/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/56/properties/typeName",
+    "value" : "letheiagrunt"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/56/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiagrunt\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/3/objects/57/properties/typeName",
+    "value" : "letheiascientist"
+  },
+  {
+    "op" : "replace",
+    "path" : "/layers/3/objects/57/properties",
+    "value": {
+      "monster" : "cellcritter",
+      "parameters" : "{\"behaviorConfig\" : {\"deathActions\" : [ { \"name\" : \"action-projectile\" , \"parameters\" : { \"projectileCount\" : 1, \"projectileType\" : \"letheiascientist\", \"projectileParameters\" : {}, \"aimDirection\" : [0, 2], \"inaccuracy\" : 0, \"fireOffset\" : [0, 2] } } ] } , \"statusSettings\" : { \"stats\" : { \"healthRegen\" : { \"baseValue\" : -1 } } } }"
+    }
+  }
+]]
