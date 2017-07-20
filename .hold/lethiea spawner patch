@@ -1,0 +1,61 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/layers/2/objects/616/properties/parameters"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/2/objects/616/properties/parameters",
+    "value": "{ \"spawner\" : { \"npcSpecies\" : [\"apex\", \"avian\", \"floran\", \"glitch\", \"human\", \"hylotl\", \"novakid\"], \"npcTypes\" : [\"letheiagrunt\"], \"npcLevel\" : [6, 6], \"npcParams\" : { \"aggressive\" : true }, \"position\" : [0, 1], \"positionVariance\" : [0, 0], \"frequency\" : [3, 3], \"stock\" : 2, \"trigger\" : \"wire\", \"outOfSight\" : false } }"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/2/objects/863/properties/parameters"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/2/objects/863/properties/parameters",
+    "value": "{ \"spawner\" : { \"npcSpecies\" : [\"apex\", \"avian\", \"floran\", \"glitch\", \"human\", \"hylotl\", \"novakid\"], \"npcTypes\" : [\"letheiagrunt\"], \"npcLevel\" : [6, 6], \"npcParams\" : { \"aggressive\" : true }, \"position\" : [0, 2], \"positionVariance\" : [0, 0], \"frequency\" : [2, 3], \"stock\" : 3, \"trigger\" : \"wire\", \"outOfSight\" : false } }"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/2/objects/866/properties/parameters"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/2/objects/866/properties/parameters",
+    "value": "{ \"spawner\" : { \"npcSpecies\" : [\"apex\", \"avian\", \"floran\", \"glitch\", \"human\", \"hylotl\", \"novakid\"], \"npcTypes\" : [\"letheiagrunt\"], \"npcLevel\" : [6, 6], \"npcParams\" : { \"aggressive\" : true }, \"position\" : [0, 2], \"positionVariance\" : [0, 0], \"frequency\" : [2, 3], \"stock\" : 2, \"trigger\" : \"wire\", \"outOfSight\" : false } }"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/2/objects/867/properties/parameters"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/2/objects/867/properties/parameters",
+    "value": "{ \"spawner\" : { \"npcSpecies\" : [\"apex\", \"avian\", \"floran\", \"glitch\", \"human\", \"hylotl\", \"novakid\"], \"npcTypes\" : [\"letheiagrunt\"], \"npcLevel\" : [6, 6], \"npcParams\" : { \"aggressive\" : true }, \"position\" : [0, 2], \"positionVariance\" : [0, 0], \"frequency\" : [2, 3], \"stock\" : 2, \"trigger\" : \"wire\", \"outOfSight\" : false } }"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/2/objects/941/properties/parameters"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/2/objects/941/properties/parameters",
+    "value": "{ \"spawner\" : { \"npcSpecies\" : [\"apex\", \"avian\", \"floran\", \"glitch\", \"human\", \"hylotl\", \"novakid\"], \"npcTypes\" : [\"letheiagrunt\"], \"npcLevel\" : [6, 6], \"npcParams\" : { \"aggressive\" : true }, \"position\" : [0, 2], \"positionVariance\" : [0, 0], \"frequency\" : [2, 3], \"stock\" : 4, \"trigger\" : \"wire\", \"outOfSight\" : false } }"
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/layers/2/objects/972/properties/parameters"
+  },
+  {
+    "op": "replace",
+    "path": "/layers/2/objects/972/properties/parameters",
+    "value": "{ \"spawner\" : { \"npcSpecies\" : [\"apex\", \"avian\", \"floran\", \"glitch\", \"human\", \"hylotl\", \"novakid\"], \"npcTypes\" : [\"letheiagrunt\"], \"npcLevel\" : [6, 6], \"npcParams\" : { \"aggressive\" : true }, \"position\" : [0, 1], \"positionVariance\" : [0, 0], \"frequency\" : [3, 3], \"stock\" : 2, \"trigger\" : \"wire\", \"outOfSight\" : false } }"
+  }
+]]
