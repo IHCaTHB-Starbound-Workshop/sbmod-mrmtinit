@@ -1,0 +1,1550 @@
+[
+  {
+    "desc": "((A platform made of an advanced alloy.))",
+    "file": "peglacialloyplatform.material",
+    "name": "A platform made of an advanced alloy.",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A fine, yet incredibly strong cable formed from carbon nanotubes))",
+    "file": "avalicable.material",
+    "name": "A fine, yet incredibly strong cable formed from carbon nanotubes",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A chilly - but sturdy - platform made of Pykrete.))",
+    "file": "peglacipykreteplatform.material",
+    "name": "A chilly - but sturdy - platform made of Pykrete.",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((Step sweetly on these honey platforms.))",
+    "file": "honeyplatform.material",
+    "name": "Step sweetly on these honey platforms.",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((Whatever this is made from, it's not normal.))",
+    "file": "elderplatform.material",
+    "name": "Whatever this is made from, it's not normal.",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A hardened aerogel platform, suitable for cookie jars and people alike.))",
+    "file": "avalitechplatform.material",
+    "name": "A hardened aerogel platform, suitable for cookie jars and people alike.",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A hardened aerogel platform, suitable for cookie jars and people alike.))",
+    "file": "avaliplatform.material",
+    "name": "A hardened aerogel platform, suitable for cookie jars and people alike.",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A hardened aerogel platform, this time designed so that the slopes are shaped like stairs.))",
+    "file": "avalistairs.material",
+    "name": "A hardened aerogel platform, this time designed so that the slopes are shaped like stairs.",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((Step sweetly on these honey platforms.))",
+    "file": "redhoneyplatform.material",
+    "name": "Step sweetly on these honey platforms.",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A rich amber platform))",
+    "file": "amberplatform.material",
+    "name": "A rich amber platform",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A hardened aerogel platform, suitable for cookie jars and people alike.))",
+    "file": "avalidarkplatform.material",
+    "name": "A hardened aerogel platform, suitable for cookie jars and people alike.",
+    "path": "tiles/platforms"
+  },
+  {
+    "desc": "((A solid steel girder))",
+    "file": "fusteelgirdir.material",
+    "name": "A solid steel girder",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A strange arrangement of very ancient, unknown stone.))",
+    "file": "elderbricks2.material",
+    "name": "A strange arrangement of very ancient, unknown stone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((All that remains after being touched by Dark Water.))",
+    "file": "corruptslime.material",
+    "name": "All that remains after being touched by Dark Water.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Vine Wall))",
+    "file": "vinewall.material",
+    "name": "Vine Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A hideous, cooked block made of some kind of flesh.))",
+    "file": "cookedflesh.material",
+    "name": "A hideous, cooked block made of some kind of flesh.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A greenhouse to let the sun through.))",
+    "file": "retexgreenhouse.material",
+    "name": "A greenhouse to let the sun through.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rainbow-hued sand.))",
+    "file": "rainbowsand.material",
+    "name": "Rainbow-hued sand.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Bamboo))",
+    "file": "bamboo.material",
+    "name": "Bamboo",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Okay...ew.))",
+    "file": "rottingflesh.material",
+    "name": "Okay...ew.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((extremely viscous blue slime.))",
+    "file": "fublueslime.material",
+    "name": "extremely viscous blue slime.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Strangely glittering dust))",
+    "file": "retexaetherdust.material",
+    "name": "Strangely glittering dust",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Oh boy. This is pleasant.))",
+    "file": "cookedboneyflesh.material",
+    "name": "Oh boy. This is pleasant.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Soft and warm sand.))",
+    "file": "retexsand2.material",
+    "name": "Soft and warm sand.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Tough wastestone.))",
+    "file": "wastestone.material",
+    "name": "Tough wastestone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Metal, darkly.))",
+    "file": "avalidarkmetal2.material",
+    "name": "Metal, darkly.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Mossy Stone))",
+    "file": "fumossyrock2.material",
+    "name": "Mossy Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Light and airy panels.))",
+    "file": "avalipaneling.material",
+    "name": "Light and airy panels.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A solid block of diamond alloy.))",
+    "file": "ff_diamondblock.material",
+    "name": "A solid block of diamond alloy.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined marestone.))",
+    "file": "marestone.material",
+    "name": "Rough, unrefined marestone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Polymer panels used to hide and protect electronics.))",
+    "file": "avalitechpanel.material",
+    "name": "Polymer panels used to hide and protect electronics.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A metallic hive construct.))",
+    "file": "steelhive.material",
+    "name": "A metallic hive construct.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Strange, irradiated sand.))",
+    "file": "glowsand.material",
+    "name": "Strange, irradiated sand.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Shoji Tile))",
+    "file": "fumonasterybeam.material",
+    "name": "Shoji Tile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((An ancient construct of unknown origin))",
+    "file": "precursorfloor2.material",
+    "name": "An ancient construct of unknown origin",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Unusually scented alien grass))",
+    "file": "fualiengrass.material",
+    "name": "Unusually scented alien grass",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Metal.))",
+    "file": "steelmetal.material",
+    "name": "Metal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Dry, rough grasses))",
+    "file": "fusavannahgrass.material",
+    "name": "Dry, rough grasses",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Flowery, lush soil.))",
+    "file": "rainforestfloorflowers.material",
+    "name": "Flowery, lush soil.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Plain paneling, because sometimes less is more.))",
+    "file": "avaliplain.material",
+    "name": "Plain paneling, because sometimes less is more.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Avali tent fabric can stop bullets!))",
+    "file": "campcanvas.material",
+    "name": "Avali tent fabric can stop bullets!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This material feels...wrong.))",
+    "file": "elderstone.material",
+    "name": "This material feels...wrong.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Dirty looking dirt.))",
+    "file": "retexdirt.material",
+    "name": "Dirty looking dirt.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A rough, sharp and irregular stone flecked with impurities.))",
+    "file": "harrowstone.material",
+    "name": "A rough, sharp and irregular stone flecked with impurities.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A solid block of penumbrite alloy.))",
+    "file": "penumbriteblock.material",
+    "name": "A solid block of penumbrite alloy.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((An ancient construct of unknown origin))",
+    "file": "precursorwall.material",
+    "name": "An ancient construct of unknown origin",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Live, vital coral))",
+    "file": "livecoral.material",
+    "name": "Live, vital coral",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Shoji Flooring))",
+    "file": "fumonasteryflooring.material",
+    "name": "Shoji Flooring",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((The walls are dripping in gold!))",
+    "file": "redhoneycombmaterial.material",
+    "name": "The walls are dripping in gold!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Ice-covered sand.))",
+    "file": "frozensand.material",
+    "name": "Ice-covered sand.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Smoothe gray stone))",
+    "file": "greyslate.material",
+    "name": "Smoothe gray stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A heavy-duty pipe used for transporting fluids, gases and anything else that can fit!))",
+    "file": "fulabpipe.material",
+    "name": "A heavy-duty pipe used for transporting fluids, gases and anything else that can fit!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Light seems to twist inside the crystals.))",
+    "file": "warttile.material",
+    "name": "Light seems to twist inside the crystals.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((An ancient construct of unknown origin))",
+    "file": "precursorfloor.material",
+    "name": "An ancient construct of unknown origin",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Light seems to twist inside the crystals.))",
+    "file": "aegisaltcrystal.material",
+    "name": "Light seems to twist inside the crystals.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((The walls are dripping in gold!))",
+    "file": "honeycombmaterial.material",
+    "name": "The walls are dripping in gold!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Hard stones, smooth to the touch.))",
+    "file": "retexcobblestone.material",
+    "name": "Hard stones, smooth to the touch.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((What ichor was carried through this?))",
+    "file": "elderpipe.material",
+    "name": "What ichor was carried through this?",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This stone reflects no light.))",
+    "file": "penumbrastone.material",
+    "name": "This stone reflects no light.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Once tilled, automatically hydrates soil for growing.))",
+    "file": "hydrotube.material",
+    "name": "Once tilled, automatically hydrates soil for growing.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((mixed bone powder and... gore.))",
+    "file": "bonemealblock.material",
+    "name": "mixed bone powder and... gore.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Fine grains of metal.))",
+    "file": "steelsand.material",
+    "name": "Fine grains of metal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This material feels...wrong.))",
+    "file": "elderstone2.material",
+    "name": "This material feels...wrong.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A thick jelly. It's tempting to eat it.))",
+    "file": "fujellyblock.material",
+    "name": "A thick jelly. It's tempting to eat it.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Hard stones, smooth to the touch, heated to incandescent temperatures!))",
+    "file": "redhotcobblestone.material",
+    "name": "Hard stones, smooth to the touch, heated to incandescent temperatures!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Charred, crisping flesh.))",
+    "file": "charredfleshmaterial.material",
+    "name": "Charred, crisping flesh.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Light seems to twist inside the crystals.))",
+    "file": "purplecrystal.material",
+    "name": "Light seems to twist inside the crystals.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A solid block of protocite.))",
+    "file": "protoblock.material",
+    "name": "A solid block of protocite.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((These tubes transport a nutrient aerosol for growing plants indoors.))",
+    "file": "avaliaeroponics.material",
+    "name": "These tubes transport a nutrient aerosol for growing plants indoors.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Not much can hope to grow here.))",
+    "file": "deadearth.material",
+    "name": "Not much can hope to grow here.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Covered in maddening, horrid glyphs.))",
+    "file": "elderbricks.material",
+    "name": "Covered in maddening, horrid glyphs.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((a rough volcanic stone))",
+    "file": "andesite.material",
+    "name": "a rough volcanic stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Pure, untarnished soil.))",
+    "file": "chromadirt.material",
+    "name": "Pure, untarnished soil.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Unsure how this is possible, but okay.))",
+    "file": "fublueslimestone.material",
+    "name": "Unsure how this is possible, but okay.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Delicate coral.))",
+    "file": "coral2.material",
+    "name": "Delicate coral.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Soft and warm sand.))",
+    "file": "redsand2.material",
+    "name": "Soft and warm sand.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Sturdy ancient pillar. Great for building.))",
+    "file": "precursorpillar.material",
+    "name": "Sturdy ancient pillar. Great for building.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Shoji Roof))",
+    "file": "fumonasteryroofing.material",
+    "name": "Shoji Roof",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Etched with strange language. Kinda creepy, too.))",
+    "file": "elderbaseboard.material",
+    "name": "Etched with strange language. Kinda creepy, too.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Unsure how this is possible, but okay.))",
+    "file": "jellystone.material",
+    "name": "Unsure how this is possible, but okay.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A stone of solid darkness.))",
+    "file": "darkstone.material",
+    "name": "A stone of solid darkness.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Tarry Stone))",
+    "file": "tarstone.material",
+    "name": "Tarry Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Light seems to twist inside the crystals.))",
+    "file": "violiumcrystal.material",
+    "name": "Light seems to twist inside the crystals.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "retexrock17.material",
+    "name": "Rough, unrefined stone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((wonderful shiny ebon stone.))",
+    "file": "ebonblock.material",
+    "name": "wonderful shiny ebon stone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A large metal pipe.))",
+    "file": "retexironpipe.material",
+    "name": "A large metal pipe.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Metallic stone as hard as steel.))",
+    "file": "moltensteel.material",
+    "name": "Metallic stone as hard as steel.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Shoji Wall))",
+    "file": "fumonasterywall.material",
+    "name": "Shoji Wall",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rusted, solid metal.))",
+    "file": "fumetalblock.material",
+    "name": "Rusted, solid metal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Somewhat solid clouds! You can even walk on them! They're pretty wet, though.))",
+    "file": "raincloud.material",
+    "name": "Somewhat solid clouds! You can even walk on them! They're pretty wet, though.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A thick coil of vines, with flowers. They look strong.))",
+    "file": "springvines.material",
+    "name": "A thick coil of vines, with flowers. They look strong.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Some neatly placed cables.))",
+    "file": "retexwallcables.material",
+    "name": "Some neatly placed cables.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Old weakened metal.))",
+    "file": "brittlemetal.material",
+    "name": "Old weakened metal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Girder made of ancient materials.))",
+    "file": "precursorgirder.material",
+    "name": "Girder made of ancient materials.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Strange neon-like soil))",
+    "file": "aliensoil.material",
+    "name": "Strange neon-like soil",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A collection of charred bones tightly packed together. Something awful happened to these people.))",
+    "file": "charredbonematerial.material",
+    "name": "A collection of charred bones tightly packed together. Something awful happened to these people.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Stone covered in vines and roots.))",
+    "file": "junglestone.material",
+    "name": "Stone covered in vines and roots.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Increases your jump height.))",
+    "file": "jumpblock.material",
+    "name": "Increases your jump height.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Fine grains of metal.))",
+    "file": "moltensand.material",
+    "name": "Fine grains of metal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Unknown stone that meshes perfectly.))",
+    "file": "eldertile.material",
+    "name": "Unknown stone that meshes perfectly.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Covered in maddening, horrid glyphs.))",
+    "file": "elderpillarcap.material",
+    "name": "Covered in maddening, horrid glyphs.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A dreamy beige pillar))",
+    "file": "retexaetherdustpillar.material",
+    "name": "A dreamy beige pillar",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Mossy Stone))",
+    "file": "fumossyrock.material",
+    "name": "Mossy Stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined rostone.))",
+    "file": "rostone.material",
+    "name": "Rough, unrefined rostone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Glorious ancient metal.))",
+    "file": "precursorsloped.material",
+    "name": "Glorious ancient metal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Oh boy. This is pleasant.))",
+    "file": "boneyflesh.material",
+    "name": "Oh boy. This is pleasant.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Easy wipe-clean tiles... perfect for places prone to mess.))",
+    "file": "avalitiles.material",
+    "name": "Easy wipe-clean tiles... perfect for places prone to mess.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Shiny, almost opalescent meteorite stone))",
+    "file": "whitemeteorite.material",
+    "name": "Shiny, almost opalescent meteorite stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Increases your jump height.))",
+    "file": "titaniumwallblock.material",
+    "name": "Increases your jump height.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A soft, decorative tapestry))",
+    "file": "camptapestry1.material",
+    "name": "A soft, decorative tapestry",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A literal stick in the mud.))",
+    "file": "camppole.material",
+    "name": "A literal stick in the mud.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A super-strong alloy of ancient origin))",
+    "file": "precursorchain.material",
+    "name": "A super-strong alloy of ancient origin",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Tough sandstone.))",
+    "file": "retexsandstone01.material",
+    "name": "Tough sandstone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((An ancient construct of unknown origin))",
+    "file": "precursorpanel.material",
+    "name": "An ancient construct of unknown origin",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Solid darkness... how?))",
+    "file": "darkness.material",
+    "name": "Solid darkness... how?",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "retexrock15.material",
+    "name": "Rough, unrefined stone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Rough, unrefined stone.))",
+    "file": "retexrock12.material",
+    "name": "Rough, unrefined stone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A strong looking ancient girder.))",
+    "file": "precursorgirdir.material",
+    "name": "A strong looking ancient girder.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Metal.))",
+    "file": "moltentile.material",
+    "name": "Metal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A thick mucus. It's tempting to poke it.))",
+    "file": "slime2.material",
+    "name": "A thick mucus. It's tempting to poke it.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((It's like a Glitch beehive!))",
+    "file": "avalihexagons1.material",
+    "name": "It's like a Glitch beehive!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Ew. Slimy.))",
+    "file": "fublueslimedirt.material",
+    "name": "Ew. Slimy.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A gigantic cell.))",
+    "file": "genetile.material",
+    "name": "A gigantic cell.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A block of rusted junk.))",
+    "file": "brittlejunk.material",
+    "name": "A block of rusted junk.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Metallic stone as hard as steel.))",
+    "file": "steelstone.material",
+    "name": "Metallic stone as hard as steel.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A pillar. Made from sand. Fairly self-explanatory, I'd say.))",
+    "file": "sandpillar2.material",
+    "name": "A pillar. Made from sand. Fairly self-explanatory, I'd say.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A solid iron block.))",
+    "file": "retexironblock.material",
+    "name": "A solid iron block.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Live, vital coral))",
+    "file": "darkwatercoral.material",
+    "name": "Live, vital coral",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A pillar made of solid erchius. Probably explodey.))",
+    "file": "erchiuspillar.material",
+    "name": "A pillar made of solid erchius. Probably explodey.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Cozy, in that malign sort of way.))",
+    "file": "elderblock1.material",
+    "name": "Cozy, in that malign sort of way.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Stone rubble which appears to be debris from an old structure.))",
+    "file": "elderrubble.material",
+    "name": "Stone rubble which appears to be debris from an old structure.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A soft, decorative trim material.))",
+    "file": "camptapestry2.material",
+    "name": "A soft, decorative trim material.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((An LED display works away quietly.))",
+    "file": "avalidisplay.material",
+    "name": "An LED display works away quietly.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Metal, darkly.))",
+    "file": "avalidarkmetal3.material",
+    "name": "Metal, darkly.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Elder roofing.))",
+    "file": "elderroof.material",
+    "name": "Elder roofing.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Yea, this looks friendly.))",
+    "file": "elderblock2.material",
+    "name": "Yea, this looks friendly.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Monumental!))",
+    "file": "retexredsandstone.material",
+    "name": "Monumental!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A sturdy, yet malleable glass.))",
+    "file": "precursorglasswall.material",
+    "name": "A sturdy, yet malleable glass.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((shiny, glassy sand.))",
+    "file": "glasssand.material",
+    "name": "shiny, glassy sand.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A really immovable stick in the mud.))",
+    "file": "campbigpole.material",
+    "name": "A really immovable stick in the mud.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This dirt reflects no light.))",
+    "file": "penumbradirt.material",
+    "name": "This dirt reflects no light.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Freshly chopped energy wood. It could be used as fuel.))",
+    "file": "energywood.material",
+    "name": "Freshly chopped energy wood. It could be used as fuel.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Ice-covered stone.))",
+    "file": "frozenstone.material",
+    "name": "Ice-covered stone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Holo-archives, data chits and other removable data storage.))",
+    "file": "avalichits.material",
+    "name": "Holo-archives, data chits and other removable data storage.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Mmm. Delicious.))",
+    "file": "cookedbrains.material",
+    "name": "Mmm. Delicious.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A pillar. Made from sand. Fairly self-explanatory, I'd say.))",
+    "file": "sandpillar1.material",
+    "name": "A pillar. Made from sand. Fairly self-explanatory, I'd say.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This fleshy mass looks like it was part of some creature's stomach.))",
+    "file": "fustomachblock.material",
+    "name": "This fleshy mass looks like it was part of some creature's stomach.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((The walls are strange, like a melding of flesh and stone))",
+    "file": "hiveold.material",
+    "name": "The walls are strange, like a melding of flesh and stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((An LED display works away quietly.))",
+    "file": "avaliglass.material",
+    "name": "An LED display works away quietly.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((This is most...unusual.))",
+    "file": "protorock.material",
+    "name": "This is most...unusual.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((live coral))",
+    "file": "coral.material",
+    "name": "live coral",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Ew. Slimy.))",
+    "file": "slimedirt.material",
+    "name": "Ew. Slimy.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Swamp Dirt))",
+    "file": "swampdirtff.material",
+    "name": "Swamp Dirt",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Metal parts for some unknown purpose.))",
+    "file": "steelpartblock.material",
+    "name": "Metal parts for some unknown purpose.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Metal parts for some unknown purpose.))",
+    "file": "moltenmetal.material",
+    "name": "Metal parts for some unknown purpose.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A collection of sun-bleached bones tightly packed together.))",
+    "file": "bleachedbonematerial.material",
+    "name": "A collection of sun-bleached bones tightly packed together.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Soft, pliable fungus.))",
+    "file": "shroomblockwall.material",
+    "name": "Soft, pliable fungus.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Shoji Tile))",
+    "file": "fumonasterytile.material",
+    "name": "Shoji Tile",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A block made of a soft, glowing fungus.))",
+    "file": "shroomblockglow.material",
+    "name": "A block made of a soft, glowing fungus.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A dense, red stone))",
+    "file": "redslate2.material",
+    "name": "A dense, red stone",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A fine glittering red sand. Could probably be made into glass!))",
+    "file": "redsand.material",
+    "name": "A fine glittering red sand. Could probably be made into glass!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Metal, darkly.))",
+    "file": "avalidarkmetal.material",
+    "name": "Metal, darkly.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((sparkling crystalline sand.))",
+    "file": "crystalsand.material",
+    "name": "sparkling crystalline sand.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Light and airy panels.))",
+    "file": "avalipaneling2.material",
+    "name": "Light and airy panels.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Covered in maddening, horrid glyphs.))",
+    "file": "elderfloor.material",
+    "name": "Covered in maddening, horrid glyphs.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Sand covered in ice.))",
+    "file": "frozensand2.material",
+    "name": "Sand covered in ice.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Some sort of console screen.))",
+    "file": "purpleconsole.material",
+    "name": "Some sort of console screen.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Covered in maddening, horrid glyphs.))",
+    "file": "elderpillar1.material",
+    "name": "Covered in maddening, horrid glyphs.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((An ancient construct of unknown origin))",
+    "file": "precursordecorative.material",
+    "name": "An ancient construct of unknown origin",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((moist leafy dirt.))",
+    "file": "jungledirt2.material",
+    "name": "moist leafy dirt.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((dry, fertile soil.))",
+    "file": "jungledirt1.material",
+    "name": "dry, fertile soil.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((I can see my reflection... it's hideous!))",
+    "file": "glowglass.material",
+    "name": "I can see my reflection... it's hideous!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Gives you a speed boost.))",
+    "file": "speedblock.material",
+    "name": "Gives you a speed boost.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Stone covered in fungal spores.))",
+    "file": "fungalstone.material",
+    "name": "Stone covered in fungal spores.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((A layer of crushed oystershells.))",
+    "file": "oystershell.material",
+    "name": "A layer of crushed oystershells.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Soft, pliable rainforest floor))",
+    "file": "rainforestfloor.material",
+    "name": "Soft, pliable rainforest floor",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((An ancient construct of unknown origin))",
+    "file": "precursordetail.material",
+    "name": "An ancient construct of unknown origin",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((extremely viscous black slime.))",
+    "file": "blackslime.material",
+    "name": "extremely viscous black slime.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "((Strange veins course through this stone.))",
+    "file": "veinblock.material",
+    "name": "Strange veins course through this stone.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((Sturdy plasteel. Great for building.))",
+    "file": "labwallfence.material",
+    "name": "Sturdy plasteel. Great for building.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((Plasteel roofing.))",
+    "file": "labroof.material",
+    "name": "Plasteel roofing.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((Strong metallic support.))",
+    "file": "steelgirdir2.material",
+    "name": "Strong metallic support.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((High-tech composite material))",
+    "file": "fulabhoverpanel.material",
+    "name": "High-tech composite material",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((Advanced metals form a fantastic building alloy.))",
+    "file": "labbeam.material",
+    "name": "Advanced metals form a fantastic building alloy.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((Sturdy plasteel. Great for building.))",
+    "file": "labtile.material",
+    "name": "Sturdy plasteel. Great for building.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((High tech panelling.))",
+    "file": "fulabhoverplatform.material",
+    "name": "High tech panelling.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((A touch-screen interface))",
+    "file": "fulabscreen.material",
+    "name": "A touch-screen interface",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((Sturdy plasteel. Great for building.))",
+    "file": "labwall1.material",
+    "name": "Sturdy plasteel. Great for building.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((A sturdy, yet flexible glass.))",
+    "file": "labframedglass.material",
+    "name": "A sturdy, yet flexible glass.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((A techy lab panel.))",
+    "file": "labtechpanel.material",
+    "name": "A techy lab panel.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((Sturdy plasteel. Great for building.))",
+    "file": "labwall.material",
+    "name": "Sturdy plasteel. Great for building.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((Advanced metals form a fantastic building alloy.))",
+    "file": "hitechmetalblock.material",
+    "name": "Advanced metals form a fantastic building alloy.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((A handy load-bearing pillar for labs.))",
+    "file": "fulabsupport.material",
+    "name": "A handy load-bearing pillar for labs.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((A strong looking plasteel girder.))",
+    "file": "labgirdir.material",
+    "name": "A strong looking plasteel girder.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((some iron grating.))",
+    "file": "irongrating.material",
+    "name": "some iron grating.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((Glass reinforced with durasteel wire.))",
+    "file": "fureinforcedglass.material",
+    "name": "Glass reinforced with durasteel wire.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((Sturdy plasteel. Great for building.))",
+    "file": "labsupport.material",
+    "name": "Sturdy plasteel. Great for building.",
+    "path": "tiles/materials/tilesandgreebles"
+  },
+  {
+    "desc": "((Ice Sheet))",
+    "file": "iceblock3.material",
+    "name": "Ice Sheet",
+    "path": "tiles/materials/icewaste"
+  },
+  {
+    "desc": "((Ancient Ice))",
+    "file": "iceblock2.material",
+    "name": "Ancient Ice",
+    "path": "tiles/materials/icewaste"
+  },
+  {
+    "desc": "((Ancient Ice))",
+    "file": "iceblock1.material",
+    "name": "Ancient Ice",
+    "path": "tiles/materials/icewaste"
+  },
+  {
+    "desc": "((Ancient Ice))",
+    "file": "iceblock4.material",
+    "name": "Ancient Ice",
+    "path": "tiles/materials/icewaste"
+  },
+  {
+    "desc": "((A rich source of Saltpeter.))",
+    "file": "calichestone.material",
+    "name": "A rich source of Saltpeter.",
+    "path": "tiles/materials/caliche"
+  },
+  {
+    "desc": "((This stuff is literally legendary.))",
+    "file": "bloodstonetile.material",
+    "name": "This stuff is literally legendary.",
+    "path": "tiles/materials/bloodstone"
+  },
+  {
+    "desc": "((Blood-red stone!))",
+    "file": "ff_bloodstone.material",
+    "name": "Blood-red stone!",
+    "path": "tiles/materials/bloodstone"
+  },
+  {
+    "desc": "((The mythical, creepy Blood Stone.))",
+    "file": "bloodstonetile2.material",
+    "name": "The mythical, creepy Blood Stone.",
+    "path": "tiles/materials/bloodstone"
+  },
+  {
+    "desc": "((As red as your insides.))",
+    "file": "bloodsand.material",
+    "name": "As red as your insides.",
+    "path": "tiles/materials/bloodstone"
+  },
+  {
+    "desc": "((...the hell is this?.))",
+    "file": "bioblock2.material",
+    "name": "...the hell is this?.",
+    "path": "tiles/materials/bioworld"
+  },
+  {
+    "desc": "((This looks a bit odd...))",
+    "file": "biogravel.material",
+    "name": "This looks a bit odd...",
+    "path": "tiles/materials/bioworld"
+  },
+  {
+    "desc": "((...organic stone?))",
+    "file": "biostone.material",
+    "name": "...organic stone?",
+    "path": "tiles/materials/bioworld"
+  },
+  {
+    "desc": "((Interesting...))",
+    "file": "bioblock.material",
+    "name": "Interesting...",
+    "path": "tiles/materials/bioworld"
+  },
+  {
+    "desc": "((Somehow, even the dirt here is strange.))",
+    "file": "biodirt.material",
+    "name": "Somehow, even the dirt here is strange.",
+    "path": "tiles/materials/bioworld"
+  },
+  {
+    "desc": "((Burning-hot magma walls. You should probably not touch this.))",
+    "file": "magmatile2.material",
+    "name": "Burning-hot magma walls. You should probably not touch this.",
+    "path": "tiles/materials/magmatile"
+  },
+  {
+    "desc": "((Burning-hot magma walls. You should probably not touch this.))",
+    "file": "magmatile1.material",
+    "name": "Burning-hot magma walls. You should probably not touch this.",
+    "path": "tiles/materials/magmatile"
+  },
+  {
+    "desc": "((Solid, unyielding stone.))",
+    "file": "magmatile4.material",
+    "name": "Solid, unyielding stone.",
+    "path": "tiles/materials/magmatile"
+  },
+  {
+    "desc": "((Yay. Ash.))",
+    "file": "magmatile3.material",
+    "name": "Yay. Ash.",
+    "path": "tiles/materials/magmatile"
+  },
+  {
+    "desc": "((A chilled cable housing.))",
+    "file": "peglacivertcable.material",
+    "name": "A chilled cable housing.",
+    "path": "tiles/materials/peglaci"
+  },
+  {
+    "desc": "((A panel made of a secret Peglaci alloy.))",
+    "file": "peglacimetalpanel.material",
+    "name": "A panel made of a secret Peglaci alloy.",
+    "path": "tiles/materials/peglaci"
+  },
+  {
+    "desc": "((A chilled cable housing.))",
+    "file": "peglacihorcable.material",
+    "name": "A chilled cable housing.",
+    "path": "tiles/materials/peglaci"
+  },
+  {
+    "desc": "((A densely packed stack of processors, kept chilled to optimal temperatures.))",
+    "file": "peglacicablenexus.material",
+    "name": "A densely packed stack of processors, kept chilled to optimal temperatures.",
+    "path": "tiles/materials/peglaci"
+  },
+  {
+    "desc": "((A gracefully inscribed column of ice.))",
+    "file": "peglaciicecolumn.material",
+    "name": "A gracefully inscribed column of ice.",
+    "path": "tiles/materials/peglaci"
+  },
+  {
+    "desc": "((A panel of crystal with hexagonal tiles.))",
+    "file": "peglacihexpane.material",
+    "name": "A panel of crystal with hexagonal tiles.",
+    "path": "tiles/materials/peglaci"
+  },
+  {
+    "desc": "((It's an Alloy Based Screen))",
+    "file": "peglacimetalscreen.material",
+    "name": "It's an Alloy Based Screen",
+    "path": "tiles/materials/peglaci"
+  },
+  {
+    "desc": "((A block that connects to many cables.))",
+    "file": "peglacicableconnector.material",
+    "name": "A block that connects to many cables.",
+    "path": "tiles/materials/peglaci"
+  },
+  {
+    "desc": "((This probably isn't safe.))",
+    "file": "irradiatedtile2.material",
+    "name": "This probably isn't safe.",
+    "path": "tiles/materials/irradiated"
+  },
+  {
+    "desc": "((Yea, this definitely is NOT safe to touch.))",
+    "file": "irradiatedtile3.material",
+    "name": "Yea, this definitely is NOT safe to touch.",
+    "path": "tiles/materials/irradiated"
+  },
+  {
+    "desc": "((Probably less than fantastic as a farming soil.))",
+    "file": "irradiatedtile.material",
+    "name": "Probably less than fantastic as a farming soil.",
+    "path": "tiles/materials/irradiated"
+  },
+  {
+    "desc": "((A panel of ancient Giantek. It makes me feel dizzy.))",
+    "file": "peglacigiantek.material",
+    "name": "A panel of ancient Giantek. It makes me feel dizzy.",
+    "path": "tiles/materials/giants"
+  },
+  {
+    "desc": "((Jam-packed with goodness.))",
+    "file": "sulphurstone.material",
+    "name": "Jam-packed with goodness.",
+    "path": "tiles/materials/sulphuric"
+  },
+  {
+    "desc": "((Lovely sulphur-rich dirt.))",
+    "file": "sulphurdirt.material",
+    "name": "Lovely sulphur-rich dirt.",
+    "path": "tiles/materials/sulphuric"
+  },
+  {
+    "desc": "((A block of honeycombs! Yum!))",
+    "file": "fu_honeycombblock.material",
+    "name": "A block of honeycombs! Yum!",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((Beautiful icy wax platforms.))",
+    "file": "frozenwaxplatform.material",
+    "name": "Beautiful icy wax platforms.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((A red block of wax.))",
+    "file": "redwaxblock.material",
+    "name": "A red block of wax.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((Beautiful red wax platforms.))",
+    "file": "redwaxplatform.material",
+    "name": "Beautiful red wax platforms.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((A fine glittering sand. Could probably be made into glass!))",
+    "file": "goldensand.material",
+    "name": "A fine glittering sand. Could probably be made into glass!",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((Rough and unrefined, this wood looks golden.))",
+    "file": "goldenwood.material",
+    "name": "Rough and unrefined, this wood looks golden.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((A block of frozen wax.))",
+    "file": "frozenwaxblock.material",
+    "name": "A block of frozen wax.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((A block of wax.))",
+    "file": "waxblock1.material",
+    "name": "A block of wax.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((A block made of golden leaves.))",
+    "file": "goldenleaves.material",
+    "name": "A block made of golden leaves.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((Beautiful wax platforms.))",
+    "file": "waxplatform.material",
+    "name": "Beautiful wax platforms.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((A shining amber block made of honey and crystals.))",
+    "file": "honeycrystalblock.material",
+    "name": "A shining amber block made of honey and crystals.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((Beautiful white wax platforms.))",
+    "file": "whitewaxplatform.material",
+    "name": "Beautiful white wax platforms.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((A block of red honeycombs! Yum!))",
+    "file": "fu_redhoneycombblock.material",
+    "name": "A block of red honeycombs! Yum!",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((Golden stones, smooth to the touch.))",
+    "file": "honeystone.material",
+    "name": "Golden stones, smooth to the touch.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((A block of white wax.))",
+    "file": "whitewaxblock.material",
+    "name": "A block of white wax.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "((Small bricks made of honeystone.))",
+    "file": "honeystonebrick.material",
+    "name": "Small bricks made of honeystone.",
+    "path": "tiles/materials/honey/brick"
+  },
+  {
+    "desc": "((I can see my reflection... it's hideous!))",
+    "file": "goldenglass.material",
+    "name": "I can see my reflection... it's hideous!",
+    "path": "tiles/materials/honey/goldenglass"
+  },
+  {
+    "desc": "((Golden wood planks.))",
+    "file": "goldenplank.material",
+    "name": "Golden wood planks.",
+    "path": "tiles/materials/honey/goldenplanks"
+  },
+  {
+    "desc": "((A block made of Pykrete.))",
+    "file": "peglaciinscribedpykreteblock.material",
+    "name": "A block made of Pykrete.",
+    "path": "tiles/materials/pykrete"
+  },
+  {
+    "desc": "((A decorative panel made of Pykrete.))",
+    "file": "peglacipykretedecor.material",
+    "name": "A decorative panel made of Pykrete.",
+    "path": "tiles/materials/pykrete"
+  },
+  {
+    "desc": "((A block made of Pykrete.))",
+    "file": "peglacipykreteblock.material",
+    "name": "A block made of Pykrete.",
+    "path": "tiles/materials/pykrete"
+  },
+  {
+    "desc": "((A decorative strip made of Pykrete.))",
+    "file": "peglacipykretestrip.material",
+    "name": "A decorative strip made of Pykrete.",
+    "path": "tiles/materials/pykrete"
+  },
+  {
+    "desc": "((Pykrete panelling laid upon dense glacier ice.))",
+    "file": "peglacipykretefoundation.material",
+    "name": "Pykrete panelling laid upon dense glacier ice.",
+    "path": "tiles/materials/pykrete"
+  },
+  {
+    "desc": "((Stone made out of magmastone and hellfire.))",
+    "file": "fuokeamagmastone.material",
+    "name": "Stone made out of magmastone and hellfire.",
+    "path": "tiles/materials/pixelgoods"
+  },
+  {
+    "desc": "((Plasteel is pretty awesome.))",
+    "file": "fuokeahitechwall2.material",
+    "name": "Plasteel is pretty awesome.",
+    "path": "tiles/materials/pixelgoods"
+  },
+  {
+    "desc": "((Plasteel is pretty awesome.))",
+    "file": "fuokeahitechwall1.material",
+    "name": "Plasteel is pretty awesome.",
+    "path": "tiles/materials/pixelgoods"
+  },
+  {
+    "desc": "((Bricks made out of magmastone and hellfire.))",
+    "file": "fuokeamagmabrick.material",
+    "name": "Bricks made out of magmastone and hellfire.",
+    "path": "tiles/materials/pixelgoods"
+  },
+  {
+    "desc": "((A thick jelly. It's tempting to eat it.))",
+    "file": "fujellyblock2.material",
+    "name": "A thick jelly. It's tempting to eat it.",
+    "path": "tiles/materials/pixelgoods"
+  },
+  {
+    "desc": "((It's grass. I don't think it needs describing. Do you?))",
+    "file": "fuokeagrass.material",
+    "name": "It's grass. I don't think it needs describing. Do you?",
+    "path": "tiles/materials/pixelgoods"
+  }
+]

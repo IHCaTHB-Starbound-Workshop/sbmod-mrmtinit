@@ -1,0 +1,146 @@
+[
+  {
+    "desc": "Sssquishy pre-cooked meat block.",
+    "file": "cookedflesh.material",
+    "name": "Sssquishy pre-cooked meat block.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssticks.",
+    "file": "bamboo.material",
+    "name": "Sssticks.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssand.",
+    "file": "retexsand2.material",
+    "name": "Sssand.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Filthy dirt!",
+    "file": "retexdirt.material",
+    "name": "Filthy dirt!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Pretty cryssstal.",
+    "file": "aegisaltcrystal.material",
+    "name": "Pretty cryssstal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Cobblessstone.",
+    "file": "retexcobblestone.material",
+    "name": "Cobblessstone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hot cobblessstone.",
+    "file": "redhotcobblestone.material",
+    "name": "Hot cobblessstone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Pretty cryssstal.",
+    "file": "purplecrystal.material",
+    "name": "Pretty cryssstal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssand.",
+    "file": "redsand2.material",
+    "name": "Sssand.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Pretty cryssstal.",
+    "file": "violiumcrystal.material",
+    "name": "Pretty cryssstal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rocksss.",
+    "file": "retexrock17.material",
+    "name": "Rocksss.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Metal pipes like Glitch organs.",
+    "file": "retexironpipe.material",
+    "name": "Metal pipes like Glitch organs.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Floran like vinesss.",
+    "file": "springvines.material",
+    "name": "Floran like vinesss.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssandstone.",
+    "file": "retexsandstone01.material",
+    "name": "Sssandstone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Rocksss.",
+    "file": "retexrock12.material",
+    "name": "Rocksss.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Ssslimy!",
+    "file": "slime2.material",
+    "name": "Ssslimy!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssandstone.",
+    "file": "retexredsandstone.material",
+    "name": "Sssandstone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Energy wood.",
+    "file": "energywood.material",
+    "name": "Energy wood.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sslimy meat.",
+    "file": "fustomachblock.material",
+    "name": "Sslimy meat.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Sssand.",
+    "file": "goldensand.material",
+    "name": "Sssand.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "Unssstabbed wood.",
+    "file": "goldenwood.material",
+    "name": "Unssstabbed wood.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "Ssshiny block.",
+    "file": "honeycrystalblock.material",
+    "name": "Ssshiny block.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "honeyssstone.",
+    "file": "honeystonebrick.material",
+    "name": "honeyssstone.",
+    "path": "tiles/materials/honey/brick"
+  },
+  {
+    "desc": "Floran look pretty in glasssss.",
+    "file": "goldenglass.material",
+    "name": "Floran look pretty in glasssss.",
+    "path": "tiles/materials/honey/goldenglass"
+  }
+]
