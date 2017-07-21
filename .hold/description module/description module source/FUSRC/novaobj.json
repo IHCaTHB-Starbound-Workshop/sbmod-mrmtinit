@@ -1,0 +1,512 @@
+[
+  {
+    "desc": "waw",
+    "file": "rainbow.object",
+    "name": "waw",
+    "path": "objects/test"
+  },
+  {
+    "desc": "A famrable crystal! Now we're talkin'!",
+    "file": "crystalplantseed.object",
+    "name": "A famrable crystal! Now we're talkin'!",
+    "path": "objects/farmables/crystalplant"
+  },
+  {
+    "desc": "A famrable crystal! Now we're talkin'!",
+    "file": "wildcrystalplantseed.object",
+    "name": "A famrable crystal! Now we're talkin'!",
+    "path": "objects/farmables/crystalplant"
+  },
+  {
+    "desc": "A plant that grows dessert. Well I'll be.",
+    "file": "sweetscoopseed.object",
+    "name": "A plant that grows dessert. Well I'll be.",
+    "path": "objects/farmables/sweetscoop"
+  },
+  {
+    "desc": "A plant that grows dessert. Well I'll be.",
+    "file": "wildsweetscoopseed.object",
+    "name": "A plant that grows dessert. Well I'll be.",
+    "path": "objects/farmables/sweetscoop"
+  },
+  {
+    "desc": "Some odd form o' wheat, perhaps?",
+    "file": "wildedunestalkseed.object",
+    "name": "Some odd form o' wheat, perhaps?",
+    "path": "objects/farmables/dunestalk"
+  },
+  {
+    "desc": "Some odd form o' wheat, perhaps?",
+    "file": "dunestalkseed.object",
+    "name": "Some odd form o' wheat, perhaps?",
+    "path": "objects/farmables/dunestalk"
+  },
+  {
+    "desc": "Now that's a plant!",
+    "file": "lumivineseed.object",
+    "name": "Now that's a plant!",
+    "path": "objects/farmables/lumivine"
+  },
+  {
+    "desc": "Now that's a plant!",
+    "file": "wildlumivineseed.object",
+    "name": "Now that's a plant!",
+    "path": "objects/farmables/lumivine"
+  },
+  {
+    "desc": "Boy, I could sure go fer some moonshine on the rocks.",
+    "file": "wildgemglowseed.object",
+    "name": "Boy, I could sure go fer some moonshine on the rocks.",
+    "path": "objects/farmables/gemglow"
+  },
+  {
+    "desc": "Boy, I could sure go fer some moonshine on the rocks.",
+    "file": "gemglowseed.object",
+    "name": "Boy, I could sure go fer some moonshine on the rocks.",
+    "path": "objects/farmables/gemglow"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "penguinhighwaymap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "alienjunglemap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "forestoffaemap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "pavillionmap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "skytemplemap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "sunsetridersmap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "snowcrashmap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "lethialabsmap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "infiltrationmap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "avianhydromap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "towerinvinciblemap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "magickaforestmap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "ancienttemplemap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "verdantruinsmap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "grandarenamap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "This makes me hunger for adventure!",
+    "file": "evernightmap.object",
+    "name": "This makes me hunger for adventure!",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "I could cook up a storm on this 'ere thing.",
+    "file": "avalicuttingboard.object",
+    "name": "I could cook up a storm on this 'ere thing.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "I can use this here gadget to get back my augments.",
+    "file": "aex.object",
+    "name": "I can use this here gadget to get back my augments.",
+    "path": "objects/augmentextractor"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "letheiafleetturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "grandarenaturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "infiltrationturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "magickaforestturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "ancienttempleturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "skytempleturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "avianhydroturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "towerinvincibleturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "alienjungleturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "forestoffaeturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "sunsetridersturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "verdantruinsturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "penguinhighwayturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "evernightturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "lethialabsturnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "extrachallengelabs2turnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "extrachallengelabs1turnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "extrachallengelabs3turnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "It's over already?",
+    "file": "extrachallengelabs4turnin.object",
+    "name": "It's over already?",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "Who needs a shield anyhow?",
+    "file": "referencegenerator.object",
+    "name": "Who needs a shield anyhow?",
+    "path": "objects/generators"
+  },
+  {
+    "desc": "These here wares certainly are catching my interest.",
+    "file": "extraavianaugments.object",
+    "name": "These here wares certainly are catching my interest.",
+    "path": "objects/crafting/extraavianaugments"
+  },
+  {
+    "desc": "A workstation for all things wirin' related.",
+    "file": "wiringstation.object",
+    "name": "A workstation for all things wirin' related.",
+    "path": "objects/crafting/wiringstation"
+  },
+  {
+    "desc": "Best to avoid that kinda thing.",
+    "file": "extrabonespike.object",
+    "name": "Best to avoid that kinda thing.",
+    "path": "objects/traps/extrabonespike"
+  },
+  {
+    "desc": "This thing could still blow!",
+    "file": "poisonmine.object",
+    "name": "This thing could still blow!",
+    "path": "objects/mines"
+  },
+  {
+    "desc": "So many features! It doesn't help that I can't manually interact with it!",
+    "file": "swtjc_wp_advancedswitch_noninteractive.object",
+    "name": "So many features! It doesn't help that I can't manually interact with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "file": "swtjc_wp_advancedswitch_nolatch.object",
+    "name": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "file": "swtjc_wp_advancedswitch.object",
+    "name": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "I can flip this here switch, either by hand, or when its input node is /'on'/!",
+    "file": "swtjc_wp_compactvwallswitch.object",
+    "name": "I can flip this here switch, either by hand, or when its input node is /'on'/!",
+    "path": "objects/wired/smallwallswitch"
+  },
+  {
+    "desc": "I can flip this here switch, either by hand, or when its input node is /'on'/!",
+    "file": "swtjc_wp_compacthwallswitch.object",
+    "name": "I can flip this here switch, either by hand, or when its input node is /'on'/!",
+    "path": "objects/wired/smallwallswitch"
+  },
+  {
+    "desc": "Looks like this thing sure could do some damage!",
+    "file": "fu_laserturret.object",
+    "name": "Looks like this thing sure could do some damage!",
+    "path": "objects/wired/fu_turrets/fu_laserturret"
+  },
+  {
+    "desc": "Looks like this thing sure could do some damage!",
+    "file": "fu_rocketturret.object",
+    "name": "Looks like this thing sure could do some damage!",
+    "path": "objects/wired/fu_turrets/fu_rocketturret"
+  },
+  {
+    "desc": "Looks like this thing sure could do some damage!",
+    "file": "fu_teslaturret.object",
+    "name": "Looks like this thing sure could do some damage!",
+    "path": "objects/wired/fu_turrets/fu_teslaturret"
+  },
+  {
+    "desc": "Looks like this thing sure could do some damage!",
+    "file": "fu_gaussturret.object",
+    "name": "Looks like this thing sure could do some damage!",
+    "path": "objects/wired/fu_turrets/fu_gaussturret"
+  },
+  {
+    "desc": "Looks like this thing sure could do some damage!",
+    "file": "fu_flameturret.object",
+    "name": "Looks like this thing sure could do some damage!",
+    "path": "objects/wired/fu_turrets/fu_flameturret"
+  },
+  {
+    "desc": "A signal emitter that's always on? Maybe I can use it to keep doors open and switches online at all times?",
+    "file": "swtjc_wp_emitter.object",
+    "name": "A signal emitter that's always on? Maybe I can use it to keep doors open and switches online at all times?",
+    "path": "objects/wired/emitter"
+  },
+  {
+    "desc": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "file": "swtjc_wp_brokenemitter.object",
+    "name": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "path": "objects/wired/emitter"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedor.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i12h.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "They really went overboard with programming this thing!",
+    "file": "swtjc_wp_masterlogic.object",
+    "name": "They really went overboard with programming this thing!",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedand.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedor3i.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i2h.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedand3i.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i1h.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Not all that different from a normal AND Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedand_nolatch.object",
+    "name": "Not all that different from a normal AND Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedor_nolatch.object",
+    "name": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedxor_nolatch.object",
+    "name": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "This here dish looks like it's gonna fall apart any second.",
+    "file": "extrateleportradar.object",
+    "name": "This here dish looks like it's gonna fall apart any second.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "Some kinda science dish.",
+    "file": "extrateleportradarreturn.object",
+    "name": "Some kinda science dish.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "This here dish looks like it's gonna fall apart any second.",
+    "file": "extrateleportradarhome.object",
+    "name": "This here dish looks like it's gonna fall apart any second.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "These lil' tykes are useful when you're on the long trail.",
+    "file": "extraenergycanister.object",
+    "name": "These lil' tykes are useful when you're on the long trail.",
+    "path": "objects/dispensers"
+  },
+  {
+    "desc": "This bed's kinda itchy.",
+    "file": "grassbed.object",
+    "name": "This bed's kinda itchy.",
+    "path": "objects/generic/furniture/grassbed"
+  },
+  {
+    "desc": "...",
+    "file": "crewshop.object",
+    "name": "...",
+    "path": "objects/generic/crewshop"
+  },
+  {
+    "desc": "A vendin' machine for sugary type drinks.",
+    "file": "labvendingmachine.object",
+    "name": "A vendin' machine for sugary type drinks.",
+    "path": "objects/generic/labfurniture/vendingmachine"
+  }
+]

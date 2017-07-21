@@ -1,0 +1,2054 @@
+[
+  {
+    "desc": "waw",
+    "file": "rainbow.object",
+    "name": "waw",
+    "path": "objects/test"
+  },
+  {
+    "desc": "A solid tech chest. It glows.",
+    "file": "bamboochest.object",
+    "name": "A solid tech chest. It glows.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "An immensely sturdy bamboo table.",
+    "file": "bambootable.object",
+    "name": "An immensely sturdy bamboo table.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "A highly decent place to sit.",
+    "file": "bamboochair.object",
+    "name": "A highly decent place to sit.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "This is very comfortable place to rest my feathers.",
+    "file": "bamboobed.object",
+    "name": "This is very comfortable place to rest my feathers.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "A plant that grows crystals. It's magic!",
+    "file": "crystalplantseed.object",
+    "name": "A plant that grows crystals. It's magic!",
+    "path": "objects/farmables/crystalplant"
+  },
+  {
+    "desc": "A plant that grows crystals. It's magic!",
+    "file": "wildcrystalplantseed.object",
+    "name": "A plant that grows crystals. It's magic!",
+    "path": "objects/farmables/crystalplant"
+  },
+  {
+    "desc": "A pretty blue flower.",
+    "file": "flowerblue.object",
+    "name": "A pretty blue flower.",
+    "path": "objects/farmables/flowerblue"
+  },
+  {
+    "desc": "This tastes like something a human would eat around one of their holidays.",
+    "file": "sweetscoopseed.object",
+    "name": "This tastes like something a human would eat around one of their holidays.",
+    "path": "objects/farmables/sweetscoop"
+  },
+  {
+    "desc": "This tastes like something a human would eat around one of their holidays.",
+    "file": "wildsweetscoopseed.object",
+    "name": "This tastes like something a human would eat around one of their holidays.",
+    "path": "objects/farmables/sweetscoop"
+  },
+  {
+    "desc": "A cute flower.",
+    "file": "flowerred.object",
+    "name": "A cute flower.",
+    "path": "objects/farmables/flowerred"
+  },
+  {
+    "desc": "A tough plant, somewhat similar to wheat. The seeds don't taste as good, though.",
+    "file": "wildedunestalkseed.object",
+    "name": "A tough plant, somewhat similar to wheat. The seeds don't taste as good, though.",
+    "path": "objects/farmables/dunestalk"
+  },
+  {
+    "desc": "A tough plant, somewhat similar to wheat. The seeds don't taste as good, though.",
+    "file": "dunestalkseed.object",
+    "name": "A tough plant, somewhat similar to wheat. The seeds don't taste as good, though.",
+    "path": "objects/farmables/dunestalk"
+  },
+  {
+    "desc": "A cute flower.",
+    "file": "floweryellow.object",
+    "name": "A cute flower.",
+    "path": "objects/farmables/floweryellow"
+  },
+  {
+    "desc": "I prefer it when my food doesn't glow.",
+    "file": "lumivineseed.object",
+    "name": "I prefer it when my food doesn't glow.",
+    "path": "objects/farmables/lumivine"
+  },
+  {
+    "desc": "I prefer it when my food doesn't glow.",
+    "file": "wildlumivineseed.object",
+    "name": "I prefer it when my food doesn't glow.",
+    "path": "objects/farmables/lumivine"
+  },
+  {
+    "desc": "A pretty blue spring flower.",
+    "file": "flowerspring.object",
+    "name": "A pretty blue spring flower.",
+    "path": "objects/farmables/flowerspring"
+  },
+  {
+    "desc": "Two hundred and forty times as spicy as ordinary Chili.",
+    "file": "ignuschili2seed.object",
+    "name": "Two hundred and forty times as spicy as ordinary Chili.",
+    "path": "objects/farmables/ignuschili2"
+  },
+  {
+    "desc": "Bamboo.",
+    "file": "bambooseed.object",
+    "name": "Bamboo.",
+    "path": "objects/farmables/bamboo"
+  },
+  {
+    "desc": "Bamboo.",
+    "file": "wildbambooseed.object",
+    "name": "Bamboo.",
+    "path": "objects/farmables/bamboo"
+  },
+  {
+    "desc": "I'm not sure I like the smell of this plant...",
+    "file": "bolbohnseed.object",
+    "name": "I'm not sure I like the smell of this plant...",
+    "path": "objects/farmables/bolbohn"
+  },
+  {
+    "desc": "I'm not sure I like the smell of this plant...",
+    "file": "wildbolbohnseed.object",
+    "name": "I'm not sure I like the smell of this plant...",
+    "path": "objects/farmables/bolbohn"
+  },
+  {
+    "desc": "Too hard for my beak to puncture. Not worth it.",
+    "file": "wildkamaranpodsplant.object",
+    "name": "Too hard for my beak to puncture. Not worth it.",
+    "path": "objects/farmables/kamaranpodsplant"
+  },
+  {
+    "desc": "Too hard for my beak to puncture. Not worth it.",
+    "file": "kamaranpodsplant.object",
+    "name": "Too hard for my beak to puncture. Not worth it.",
+    "path": "objects/farmables/kamaranpodsplant"
+  },
+  {
+    "desc": "The rind is unbearably salty, but the pulpy flesh inside tastes a bit like lightly salted corn.",
+    "file": "wildgemglowseed.object",
+    "name": "The rind is unbearably salty, but the pulpy flesh inside tastes a bit like lightly salted corn.",
+    "path": "objects/farmables/gemglow"
+  },
+  {
+    "desc": "The rind is unbearably salty, but the pulpy flesh inside tastes a bit like lightly salted corn.",
+    "file": "gemglowseed.object",
+    "name": "The rind is unbearably salty, but the pulpy flesh inside tastes a bit like lightly salted corn.",
+    "path": "objects/farmables/gemglow"
+  },
+  {
+    "desc": "I wonder how fast I could run on this...",
+    "file": "isn_accelgel.object",
+    "name": "I wonder how fast I could run on this...",
+    "path": "objects/gels/isn_accelgel"
+  },
+  {
+    "desc": "Sure. Hurl myself around at breakneck speed. What could possibly go wrong?",
+    "file": "isn_propulsionstrip_l.object",
+    "name": "Sure. Hurl myself around at breakneck speed. What could possibly go wrong?",
+    "path": "objects/gels/isn_propulsionstrip"
+  },
+  {
+    "desc": "Sure. Hurl myself around at breakneck speed. What could possibly go wrong?",
+    "file": "isn_propulsionstrip_r.object",
+    "name": "Sure. Hurl myself around at breakneck speed. What could possibly go wrong?",
+    "path": "objects/gels/isn_propulsionstrip"
+  },
+  {
+    "desc": "I could break my legs on this...",
+    "file": "isn_lowfrictionstrip.object",
+    "name": "I could break my legs on this...",
+    "path": "objects/gels/isn_lowfrictionstrip"
+  },
+  {
+    "desc": "I wonder how high I could jump on this...",
+    "file": "isn_bouncegel.object",
+    "name": "I wonder how high I could jump on this...",
+    "path": "objects/gels/isn_bouncegel"
+  },
+  {
+    "desc": "This gel stuff is really cool-looking.",
+    "file": "isn_glowgel_y.object",
+    "name": "This gel stuff is really cool-looking.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "This gel stuff is really cool-looking.",
+    "file": "isn_glowgel_b.object",
+    "name": "This gel stuff is really cool-looking.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "This gel stuff is really cool-looking.",
+    "file": "isn_glowgel_p.object",
+    "name": "This gel stuff is really cool-looking.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "This gel stuff is really cool-looking.",
+    "file": "isn_glowgel_r.object",
+    "name": "This gel stuff is really cool-looking.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "This gel stuff is really cool-looking.",
+    "file": "isn_glowgel.object",
+    "name": "This gel stuff is really cool-looking.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "This gel stuff is really cool-looking.",
+    "file": "isn_glowgel_g.object",
+    "name": "This gel stuff is really cool-looking.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "penguinhighwaymap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "alienjunglemap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "forestoffaemap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "pavillionmap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "skytemplemap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "sunsetridersmap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "snowcrashmap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "lethialabsmap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "infiltrationmap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "avianhydromap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "towerinvinciblemap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "magickaforestmap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "ancienttemplemap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "verdantruinsmap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "grandarenamap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "A map that shows me the way to a location of interest.",
+    "file": "evernightmap.object",
+    "name": "A map that shows me the way to a location of interest.",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "There's something familiar about the rhythm of the bars movement, but I can't put my feathers on it.",
+    "file": "avalihologramsml2.object",
+    "name": "There's something familiar about the rhythm of the bars movement, but I can't put my feathers on it.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Whatever this sign is, it seems to be designed to catch your attention.",
+    "file": "avalihologramtiny2.object",
+    "name": "Whatever this sign is, it seems to be designed to catch your attention.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Looks like it's trying to point something out.",
+    "file": "avalihologramtiny1.object",
+    "name": "Looks like it's trying to point something out.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "The picture on this screen looks like a braid.",
+    "file": "avalihologramsml3.object",
+    "name": "The picture on this screen looks like a braid.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "A screen without a screen, that's interesting...",
+    "file": "avalihologram1.object",
+    "name": "A screen without a screen, that's interesting...",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "A screen without a screen, that's interesting...",
+    "file": "avalihologram2.object",
+    "name": "A screen without a screen, that's interesting...",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Avali writing is like peck marks.",
+    "file": "avalihologramsml1.object",
+    "name": "Avali writing is like peck marks.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "It looks like there's a space in the back for Avali tails to fit. How thoughtful!",
+    "file": "avalichair2.object",
+    "name": "It looks like there's a space in the back for Avali tails to fit. How thoughtful!",
+    "path": "objects/avaligeneric/chairs"
+  },
+  {
+    "desc": "Hope the cult of Kluex don't see this chair, they'd declare it heretical.",
+    "file": "avalichair1.object",
+    "name": "Hope the cult of Kluex don't see this chair, they'd declare it heretical.",
+    "path": "objects/avaligeneric/chairs"
+  },
+  {
+    "desc": "The Kluex worshippers consider the Avali heretics for choosing a wing as their symbol; wings are Kluex's domain, they say.",
+    "file": "avaliemblem.object",
+    "name": "The Kluex worshippers consider the Avali heretics for choosing a wing as their symbol; wings are Kluex's domain, they say.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "Ugh, it smells like an Avian defecated in this bottle.",
+    "file": "avalibottle1.object",
+    "name": "Ugh, it smells like an Avian defecated in this bottle.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "I hope none of these feathers are Avian.",
+    "file": "avalidreamcatcher1.object",
+    "name": "I hope none of these feathers are Avian.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "Pretty, but not as useful as a resonance crystal.",
+    "file": "avalicrystal1.object",
+    "name": "Pretty, but not as useful as a resonance crystal.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "The Kluex worshippers consider the Avali heretics for choosing a wing as their symbol; wings are Kluex's domain, they say.",
+    "file": "avaliemblembig.object",
+    "name": "The Kluex worshippers consider the Avali heretics for choosing a wing as their symbol; wings are Kluex's domain, they say.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "The grounded are fond of their banners too.",
+    "file": "avaliribbon1.object",
+    "name": "The grounded are fond of their banners too.",
+    "path": "objects/avaligeneric/ribbons"
+  },
+  {
+    "desc": "A loom, I used something like this to create my coming-of-age banner.",
+    "file": "testribbon.object",
+    "name": "A loom, I used something like this to create my coming-of-age banner.",
+    "path": "objects/avaligeneric/ribbons"
+  },
+  {
+    "desc": "The grounded are fond of their banners too.",
+    "file": "avaliribbon2.object",
+    "name": "The grounded are fond of their banners too.",
+    "path": "objects/avaligeneric/ribbons"
+  },
+  {
+    "desc": "I have the inexplicable urge to stash this in my bed-nest...",
+    "file": "avalistriplight.object",
+    "name": "I have the inexplicable urge to stash this in my bed-nest...",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "Must... look... away... from the light.",
+    "file": "avalisolidlightblock.object",
+    "name": "Must... look... away... from the light.",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "Must... look... away... from the light.",
+    "file": "avalilightblock.object",
+    "name": "Must... look... away... from the light.",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "Must... look... away... from the light.",
+    "file": "avalilightpanel.object",
+    "name": "Must... look... away... from the light.",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "Must... look... away... from the light.",
+    "file": "avaliaerogellight.object",
+    "name": "Must... look... away... from the light.",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": " I wonder if I should keep my eggs in here.",
+    "file": "avalisample1.object",
+    "name": " I wonder if I should keep my eggs in here.",
+    "path": "objects/avaligeneric/lab"
+  },
+  {
+    "desc": "I wonder what it's thinking about?",
+    "file": "avalisample3.object",
+    "name": "I wonder what it's thinking about?",
+    "path": "objects/avaligeneric/lab"
+  },
+  {
+    "desc": "I have the over-riding urge to try eating it... so deliciously gooey and wormy looking.",
+    "file": "avalisample2.object",
+    "name": "I have the over-riding urge to try eating it... so deliciously gooey and wormy looking.",
+    "path": "objects/avaligeneric/lab"
+  },
+  {
+    "desc": "It says 'information terminal' on it in Avos hieroglyphs!",
+    "file": "avaliterminal3.object",
+    "name": "It says 'information terminal' on it in Avos hieroglyphs!",
+    "path": "objects/avaligeneric/terminal"
+  },
+  {
+    "desc": "This reminds me of the computers the stargazers use.",
+    "file": "avaliterminal2.object",
+    "name": "This reminds me of the computers the stargazers use.",
+    "path": "objects/avaligeneric/terminal"
+  },
+  {
+    "desc": "This reminds me of the computers the stargazers use.",
+    "file": "avaliterminal1.object",
+    "name": "This reminds me of the computers the stargazers use.",
+    "path": "objects/avaligeneric/terminal"
+  },
+  {
+    "desc": "Is it a shelf, is a table, who can judge?",
+    "file": "avalitable1.object",
+    "name": "Is it a shelf, is a table, who can judge?",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "Either it's a desk for kneeling, or a feast table for very small people.",
+    "file": "avalitable3.object",
+    "name": "Either it's a desk for kneeling, or a feast table for very small people.",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "Either it's a desk for kneeling, or a feast table for very small people.",
+    "file": "avalitable2.object",
+    "name": "Either it's a desk for kneeling, or a feast table for very small people.",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "Either it's a desk for kneeling, or a feast table for very small people.",
+    "file": "avalitable4.object",
+    "name": "Either it's a desk for kneeling, or a feast table for very small people.",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "I bet I could drop this off an ascension tower without damaging the contents.",
+    "file": "avalichest2.object",
+    "name": "I bet I could drop this off an ascension tower without damaging the contents.",
+    "path": "objects/avaligeneric/containers"
+  },
+  {
+    "desc": "I can't tell if this is a wall or a door; where's the buttons?",
+    "file": "avalitechdoor.object",
+    "name": "I can't tell if this is a wall or a door; where's the buttons?",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "An engineered hatch.",
+    "file": "avalidarkverticaldoor.object",
+    "name": "An engineered hatch.",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "This looks a little ominous to me.",
+    "file": "avalidarkdoor.object",
+    "name": "This looks a little ominous to me.",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "An engineered hatch.",
+    "file": "avalitechverticaldoor.object",
+    "name": "An engineered hatch.",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "It's got a way to properly cook almost anything here!",
+    "file": "avalikitchenstove.object",
+    "name": "It's got a way to properly cook almost anything here!",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "It's like a stainless steel canvas of cooking possibilities!",
+    "file": "avalicuttingboard.object",
+    "name": "It's like a stainless steel canvas of cooking possibilities!",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "These drawers are shiny, I have the over-riding urge to take them back to my nest.",
+    "file": "avalikitchendrawers.object",
+    "name": "These drawers are shiny, I have the over-riding urge to take them back to my nest.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "I think it's warmer inside this thing than outside.",
+    "file": "avalikitchenfridge.object",
+    "name": "I think it's warmer inside this thing than outside.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "This'd make a fantastic trophy cabinet.",
+    "file": "avalikitchencupboard.object",
+    "name": "This'd make a fantastic trophy cabinet.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "I really have no idea what this is meant to be.",
+    "file": "avaligundisplay1.object",
+    "name": "I really have no idea what this is meant to be.",
+    "path": "objects/avaligeneric/racks"
+  },
+  {
+    "desc": "I really have no idea what this is meant to be.",
+    "file": "avaligundisplay2.object",
+    "name": "I really have no idea what this is meant to be.",
+    "path": "objects/avaligeneric/racks"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avaliweapondisplay1.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier3hammerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier8hammerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier2hammerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier1hammerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier4hammerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier10hammerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier7hammerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier9hammerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier6hammerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier5hammerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier8daggerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier10daggerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier3daggerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier5daggerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier4daggerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier1daggerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier2daggerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier6daggerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier9daggerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/frameddagger/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier7daggerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/frameddagger/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier8speardisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier3speardisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier2speardisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier4speardisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier1speardisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier10speardisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier6speardisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier9speardisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier7speardisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier5speardisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "I really have no idea what this is meant to be.",
+    "file": "avaligundisplay4.object",
+    "name": "I really have no idea what this is meant to be.",
+    "path": "objects/avaligeneric/racks/guns"
+  },
+  {
+    "desc": "I really have no idea what this is meant to be.",
+    "file": "avaligundisplay3.object",
+    "name": "I really have no idea what this is meant to be.",
+    "path": "objects/avaligeneric/racks/guns"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier10daggerhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier6daggerhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier4daggerhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier8daggerhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier5daggerhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier3daggerhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier2daggerdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier1daggerhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier9daggerhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hangingdagger/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier7daggerhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/hangingdagger/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier2shortswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier2broadswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier1shortswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "theforgottenhero.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier3broadswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier8shortswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier10shortswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier1broadswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier10broadswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier4broadswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier4shortswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier3shortswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier8broadswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier9shortswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier5shortswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier6broadswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier5broadswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier7shortswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier7broadswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier9broadswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier6shortswordhanging.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier2pilumdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/pilum"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier3pilumdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/pilum"
+  },
+  {
+    "desc": "The more I see, the more familiar the Avali feel.",
+    "file": "avalitier1pilumdisplay.object",
+    "name": "The more I see, the more familiar the Avali feel.",
+    "path": "objects/avaligeneric/racks/pilum"
+  },
+  {
+    "desc": "I really have no idea if this is supposed to be a bow or a gun.",
+    "file": "avalibowdisplay01_tier3.object",
+    "name": "I really have no idea if this is supposed to be a bow or a gun.",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "I really have no idea if this is supposed to be a bow or a gun.",
+    "file": "avalibowdisplay01_tier2.object",
+    "name": "I really have no idea if this is supposed to be a bow or a gun.",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "I really have no idea if this is supposed to be a bow or a gun.",
+    "file": "avalibowdisplay01_tier4.object",
+    "name": "I really have no idea if this is supposed to be a bow or a gun.",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "I really have no idea if this is supposed to be a bow or a gun.",
+    "file": "avalibowdisplay01_tier1.object",
+    "name": "I really have no idea if this is supposed to be a bow or a gun.",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "How useful, I can extract any augments I want with this.",
+    "file": "aex.object",
+    "name": "How useful, I can extract any augments I want with this.",
+    "path": "objects/augmentextractor"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "letheiafleetturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "grandarenaturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "infiltrationturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "magickaforestturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "ancienttempleturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "skytempleturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "avianhydroturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "towerinvincibleturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "alienjungleturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "forestoffaeturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "sunsetridersturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "verdantruinsturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "penguinhighwayturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "evernightturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "lethialabsturnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "extrachallengelabs2turnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "extrachallengelabs1turnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "extrachallengelabs3turnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "It seems like the end of the line is here.",
+    "file": "extrachallengelabs4turnin.object",
+    "name": "It seems like the end of the line is here.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "This generates a shield.",
+    "file": "referencegenerator.object",
+    "name": "This generates a shield.",
+    "path": "objects/generators"
+  },
+  {
+    "desc": "Delicious seeds all over this table...",
+    "file": "sproutingtable.object",
+    "name": "Delicious seeds all over this table...",
+    "path": "objects/crafting/sproutingtable"
+  },
+  {
+    "desc": "Buying and selling on the honour system is something the grounded take pride in.",
+    "file": "extraavianaugments.object",
+    "name": "Buying and selling on the honour system is something the grounded take pride in.",
+    "path": "objects/crafting/extraavianaugments"
+  },
+  {
+    "desc": "Dinner time!",
+    "file": "cowbell.object",
+    "name": "Dinner time!",
+    "path": "objects/crafting/eggstra/cowbell"
+  },
+  {
+    "desc": "A baby birdy home.",
+    "file": "chickennest.object",
+    "name": "A baby birdy home.",
+    "path": "objects/crafting/eggstra/chickennest"
+  },
+  {
+    "desc": "A baby birdy home.",
+    "file": "eggincubator.object",
+    "name": "A baby birdy home.",
+    "path": "objects/crafting/eggstra/eggincubator"
+  },
+  {
+    "desc": "A Xeno Research Lab.",
+    "file": "xenolab.object",
+    "name": "A Xeno Research Lab.",
+    "path": "objects/crafting/xenostation"
+  },
+  {
+    "desc": "It's a workstation for crafting equipment to use for wiring.",
+    "file": "wiringstation.object",
+    "name": "It's a workstation for crafting equipment to use for wiring.",
+    "path": "objects/crafting/wiringstation"
+  },
+  {
+    "desc": "The bone looks razor sharp.",
+    "file": "extrabonespike.object",
+    "name": "The bone looks razor sharp.",
+    "path": "objects/traps/extrabonespike"
+  },
+  {
+    "desc": "Uh oh! I do not want to step on this.",
+    "file": "poisonmine.object",
+    "name": "Uh oh! I do not want to step on this.",
+    "path": "objects/mines"
+  },
+  {
+    "desc": "So many features! It doesn't help that I can't manually interact with it!",
+    "file": "swtjc_wp_advancedswitch_noninteractive.object",
+    "name": "So many features! It doesn't help that I can't manually interact with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "file": "swtjc_wp_advancedswitch_nolatch.object",
+    "name": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "file": "swtjc_wp_advancedswitch.object",
+    "name": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "This switch must activate something. I can also see that it can be toggled when its input node is /'on'/.",
+    "file": "swtjc_wp_compactvwallswitch.object",
+    "name": "This switch must activate something. I can also see that it can be toggled when its input node is /'on'/.",
+    "path": "objects/wired/smallwallswitch"
+  },
+  {
+    "desc": "This switch must activate something. I can also see that it can be toggled when its input node is /'on'/.",
+    "file": "swtjc_wp_compacthwallswitch.object",
+    "name": "This switch must activate something. I can also see that it can be toggled when its input node is /'on'/.",
+    "path": "objects/wired/smallwallswitch"
+  },
+  {
+    "desc": "The monsters don't stand a chance, unless they can fly.",
+    "file": "fu_laserturret.object",
+    "name": "The monsters don't stand a chance, unless they can fly.",
+    "path": "objects/wired/fu_turrets/fu_laserturret"
+  },
+  {
+    "desc": "The monsters don't stand a chance, unless they can fly.",
+    "file": "fu_rocketturret.object",
+    "name": "The monsters don't stand a chance, unless they can fly.",
+    "path": "objects/wired/fu_turrets/fu_rocketturret"
+  },
+  {
+    "desc": "The monsters don't stand a chance, unless they can fly.",
+    "file": "fu_teslaturret.object",
+    "name": "The monsters don't stand a chance, unless they can fly.",
+    "path": "objects/wired/fu_turrets/fu_teslaturret"
+  },
+  {
+    "desc": "The monsters don't stand a chance, unless they can fly.",
+    "file": "fu_gaussturret.object",
+    "name": "The monsters don't stand a chance, unless they can fly.",
+    "path": "objects/wired/fu_turrets/fu_gaussturret"
+  },
+  {
+    "desc": "The monsters don't stand a chance, unless they can fly.",
+    "file": "fu_flameturret.object",
+    "name": "The monsters don't stand a chance, unless they can fly.",
+    "path": "objects/wired/fu_turrets/fu_flameturret"
+  },
+  {
+    "desc": "A signal emitter that's always on? Maybe I can use it to keep doors open and switches online at all times?",
+    "file": "swtjc_wp_emitter.object",
+    "name": "A signal emitter that's always on? Maybe I can use it to keep doors open and switches online at all times?",
+    "path": "objects/wired/emitter"
+  },
+  {
+    "desc": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "file": "swtjc_wp_brokenemitter.object",
+    "name": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "path": "objects/wired/emitter"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedor.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i12h.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "They really went overboard with programming this thing!",
+    "file": "swtjc_wp_masterlogic.object",
+    "name": "They really went overboard with programming this thing!",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedand.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedor3i.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i2h.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedand3i.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i1h.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Not all that different from a normal AND Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedand_nolatch.object",
+    "name": "Not all that different from a normal AND Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedor_nolatch.object",
+    "name": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedxor_nolatch.object",
+    "name": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "The signal emitted by this unstable dish is ruffling my feathers.",
+    "file": "extrateleportradar.object",
+    "name": "The signal emitted by this unstable dish is ruffling my feathers.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "Nice dish.",
+    "file": "extrateleportradarreturn.object",
+    "name": "Nice dish.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "The signal emitted by this unstable dish is ruffling my feathers.",
+    "file": "extrateleportradarhome.object",
+    "name": "The signal emitted by this unstable dish is ruffling my feathers.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "The pollutants generated by this reactor are worrisome.",
+    "file": "isn_fissionreactor.object",
+    "name": "The pollutants generated by this reactor are worrisome.",
+    "path": "objects/power/isn_fissionreactor"
+  },
+  {
+    "desc": "Only the Stargazers are allowed to use subwave communicators in Avos society.",
+    "file": "isn_radiostation.object",
+    "name": "Only the Stargazers are allowed to use subwave communicators in Avos society.",
+    "path": "objects/power/isn_radiostation"
+  },
+  {
+    "desc": "Most Avians prefer to farm the old fashioned way.",
+    "file": "isn_hydroponicstray.object",
+    "name": "Most Avians prefer to farm the old fashioned way.",
+    "path": "objects/power/isn_hydroponicstray"
+  },
+  {
+    "desc": "I feel better.",
+    "file": "isn_atmosregulator.object",
+    "name": "I feel better.",
+    "path": "objects/power/isn_atmosregulator"
+  },
+  {
+    "desc": "I'm not a fan of heavy industry.",
+    "file": "isn_thermalgenerator.object",
+    "name": "I'm not a fan of heavy industry.",
+    "path": "objects/power/isn_thermalgenerator"
+  },
+  {
+    "desc": "I should be careful not to put anything I don't want to lose in here.",
+    "file": "isn_incinerator.object",
+    "name": "I should be careful not to put anything I don't want to lose in here.",
+    "path": "objects/power/isn_incinerator"
+  },
+  {
+    "desc": "The pollutants generated by this reactor are worrisome.",
+    "file": "isn_fissionreactornew.object",
+    "name": "The pollutants generated by this reactor are worrisome.",
+    "path": "objects/power/isn_fissionreactornew"
+  },
+  {
+    "desc": "It's almost like a magician's trick, pulling resources out of literal thin air.",
+    "file": "isn_atmoscondenser.object",
+    "name": "It's almost like a magician's trick, pulling resources out of literal thin air.",
+    "path": "objects/power/isn_atmoscondenser"
+  },
+  {
+    "desc": "Just one of the many uses of the sun.",
+    "file": "isn_solarpanel.object",
+    "name": "Just one of the many uses of the sun.",
+    "path": "objects/power/isn_solarpanel"
+  },
+  {
+    "desc": "A useful battery for quick mech recharging.",
+    "file": "extraenergycanister.object",
+    "name": "A useful battery for quick mech recharging.",
+    "path": "objects/dispensers"
+  },
+  {
+    "desc": "Free loot. Nice.",
+    "file": "pixeldispenser.object",
+    "name": "Free loot. Nice.",
+    "path": "objects/dispensers"
+  },
+  {
+    "desc": "A basic grass bed. Quite comfy.",
+    "file": "grassbed.object",
+    "name": "A basic grass bed. Quite comfy.",
+    "path": "objects/generic/furniture/grassbed"
+  },
+  {
+    "desc": "I wish my damned wings worked. But nooo...",
+    "file": "voidstorage.object",
+    "name": "I wish my damned wings worked. But nooo...",
+    "path": "objects/generic/storage3"
+  },
+  {
+    "desc": "A wooden storage box.",
+    "file": "smallwoodencrate1.object",
+    "name": "A wooden storage box.",
+    "path": "objects/generic/crates"
+  },
+  {
+    "desc": "A temporary house.",
+    "file": "bandittent1.object",
+    "name": "A temporary house.",
+    "path": "objects/generic/bandittent1"
+  },
+  {
+    "desc": "I wish my damned wings worked. But nooo...",
+    "file": "genestorage.object",
+    "name": "I wish my damned wings worked. But nooo...",
+    "path": "objects/generic/storage2"
+  },
+  {
+    "desc": "I wish my damned wings worked. But nooo...",
+    "file": "genecabinet.object",
+    "name": "I wish my damned wings worked. But nooo...",
+    "path": "objects/generic/storage"
+  },
+  {
+    "desc": "...",
+    "file": "crewshop.object",
+    "name": "...",
+    "path": "objects/generic/crewshop"
+  },
+  {
+    "desc": "An alchemist's mixing station.",
+    "file": "labtable.object",
+    "name": "An alchemist's mixing station.",
+    "path": "objects/generic/labfurniture/labtable"
+  },
+  {
+    "desc": "Perfect to stave off hunger.",
+    "file": "labvendingmachine.object",
+    "name": "Perfect to stave off hunger.",
+    "path": "objects/generic/labfurniture/vendingmachine"
+  },
+  {
+    "desc": "A temporary house.",
+    "file": "bandittent2.object",
+    "name": "A temporary house.",
+    "path": "objects/generic/bandittent2"
+  },
+  {
+    "desc": "Round Wall Clock.",
+    "file": "okeaclock2.object",
+    "name": "Round Wall Clock.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Force Door.",
+    "file": "fuokeahitechforcedoor2.object",
+    "name": "Hi-tech Force Door.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Once you lie here, you won't want to get up.",
+    "file": "fuokeahitechbed.object",
+    "name": "Once you lie here, you won't want to get up.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Toaster.",
+    "file": "fuokeahitechtoaster.object",
+    "name": "Hi-tech Toaster.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Once you lie here, you won't want to get up.",
+    "file": "fufloranbed.object",
+    "name": "Once you lie here, you won't want to get up.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Lamp",
+    "file": "fuokeahitechlamp1.object",
+    "name": "Hi-tech Lamp",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Safe.",
+    "file": "fuokeahitechsafe.object",
+    "name": "Hi-tech Safe.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Table.",
+    "file": "fuokeahitechtable.object",
+    "name": "Hi-tech Table.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Wall Lamp.",
+    "file": "fuokeahitechlamp2.object",
+    "name": "Hi-tech Wall Lamp.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Flat Screen TV.",
+    "file": "tv2.object",
+    "name": "Flat Screen TV.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Glitch Prison Wagon.",
+    "file": "fuokeaglitchwagon.object",
+    "name": "Glitch Prison Wagon.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Cupboard.",
+    "file": "fuokeahitechcupboard.object",
+    "name": "Hi-tech Cupboard.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Living Stone Guardian Statue.",
+    "file": "fuokeamagmastatue.object",
+    "name": "Living Stone Guardian Statue.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Force Door.",
+    "file": "fuokeahitechforcedoor.object",
+    "name": "Hi-tech Force Door.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Bookcase.",
+    "file": "fuokeahitechbookcase2.object",
+    "name": "Hi-tech Bookcase.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Cabinet.",
+    "file": "fuokeahitechdrawer.object",
+    "name": "Hi-tech Cabinet.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "What vile foliage is this?",
+    "file": "heckbush3.object",
+    "name": "What vile foliage is this?",
+    "path": "objects/biome/heck/heckbush3"
+  },
+  {
+    "desc": "A pillar.",
+    "file": "heckpillar1.object",
+    "name": "A pillar.",
+    "path": "objects/biome/heck/heckpillar1"
+  },
+  {
+    "desc": "There's something sickly about this light.",
+    "file": "hecklight2.object",
+    "name": "There's something sickly about this light.",
+    "path": "objects/biome/heck/hecklight2"
+  },
+  {
+    "desc": "What a disgusting light.",
+    "file": "hecklight1.object",
+    "name": "What a disgusting light.",
+    "path": "objects/biome/heck/hecklight1"
+  },
+  {
+    "desc": "What a surprisingly cheery sign.",
+    "file": "hecksign.object",
+    "name": "What a surprisingly cheery sign.",
+    "path": "objects/biome/heck/hecksign"
+  },
+  {
+    "desc": "What vile foliage is this?",
+    "file": "heckbush1.object",
+    "name": "What vile foliage is this?",
+    "path": "objects/biome/heck/heckbush1"
+  },
+  {
+    "desc": "A pillar.",
+    "file": "heckpillar2.object",
+    "name": "A pillar.",
+    "path": "objects/biome/heck/heckpillar2"
+  },
+  {
+    "desc": "This chest sounds shivers down my spine.",
+    "file": "heckchest.object",
+    "name": "This chest sounds shivers down my spine.",
+    "path": "objects/biome/heck/heckchest"
+  },
+  {
+    "desc": "What vile foliage is this?",
+    "file": "heckbush7.object",
+    "name": "What vile foliage is this?",
+    "path": "objects/biome/heck/heckbush7"
+  },
+  {
+    "desc": "What vile foliage is this?",
+    "file": "heckbush9.object",
+    "name": "What vile foliage is this?",
+    "path": "objects/biome/heck/heckbush9"
+  },
+  {
+    "desc": "The god this altar pays tribute to does not bear thinking of.",
+    "file": "heckaltar.object",
+    "name": "The god this altar pays tribute to does not bear thinking of.",
+    "path": "objects/biome/heck/heckaltar"
+  },
+  {
+    "desc": "What vile foliage is this?",
+    "file": "heckbush10.object",
+    "name": "What vile foliage is this?",
+    "path": "objects/biome/heck/heckbush10"
+  },
+  {
+    "desc": "What vile foliage is this?",
+    "file": "heckbush8.object",
+    "name": "What vile foliage is this?",
+    "path": "objects/biome/heck/heckbush8"
+  },
+  {
+    "desc": "What vile foliage is this?",
+    "file": "heckbush5.object",
+    "name": "What vile foliage is this?",
+    "path": "objects/biome/heck/heckbush5"
+  },
+  {
+    "desc": "What vile foliage is this?",
+    "file": "heckbush6.object",
+    "name": "What vile foliage is this?",
+    "path": "objects/biome/heck/heckbush6"
+  },
+  {
+    "desc": "What vile foliage is this?",
+    "file": "heckbush2.object",
+    "name": "What vile foliage is this?",
+    "path": "objects/biome/heck/heckbush2"
+  },
+  {
+    "desc": "What vile foliage is this?",
+    "file": "heckbush4.object",
+    "name": "What vile foliage is this?",
+    "path": "objects/biome/heck/heckbush4"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderfloorspike3.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike3"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderfloorspike4.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike4"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderceilingspike3.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike3"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderceilingspike4.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike4"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderceilingspike2.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike2"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderfloorspike8.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike8"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderceilingspike6.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike6"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderceilingspike7.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike7"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderceilingspike5.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike5"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderceilingspike8.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike8"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderfloorspike7.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike7"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderceilingspike1.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike1"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderfloorspike2.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike2"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderfloorspike5.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike5"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderfloorspike1.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike1"
+  },
+  {
+    "desc": "The stone looks razor sharp.",
+    "file": "elderfloorspike6.object",
+    "name": "The stone looks razor sharp.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike6"
+  },
+  {
+    "desc": "A beautiful crystal table.",
+    "file": "fuhoneycrystaltable.object",
+    "name": "A beautiful crystal table.",
+    "path": "objects/minibiome/honey/fuhoneycrystaltable"
+  },
+  {
+    "desc": "A tall wooden cabinet. Lots of storage.",
+    "file": "fugoldenoakcabinet.object",
+    "name": "A tall wooden cabinet. Lots of storage.",
+    "path": "objects/minibiome/honey/fugoldenoakcabinet"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush11.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush16.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush5.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush6.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush14.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush12.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystallarge3.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush15.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush8.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush17.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush13.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush10.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush9.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A bush of shiny crystals.",
+    "file": "crystalcavebush7.object",
+    "name": "A bush of shiny crystals.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "A decrepit old machine, of no use to anyone one.",
+    "file": "techbush1.object",
+    "name": "A decrepit old machine, of no use to anyone one.",
+    "path": "objects/wasteland/techbush1"
+  },
+  {
+    "desc": "Does this point to the clouds? Or the stars? Or something else...",
+    "file": "techbush6.object",
+    "name": "Does this point to the clouds? Or the stars? Or something else...",
+    "path": "objects/wasteland/techbush6"
+  },
+  {
+    "desc": "This console is both damaged and rusted over.",
+    "file": "techbush2.object",
+    "name": "This console is both damaged and rusted over.",
+    "path": "objects/wasteland/techbush2"
+  },
+  {
+    "desc": "There's no telling what this technology was for.",
+    "file": "techbush3.object",
+    "name": "There's no telling what this technology was for.",
+    "path": "objects/wasteland/techbush3"
+  },
+  {
+    "desc": "What tragedy swallowed this place?",
+    "file": "techbush4.object",
+    "name": "What tragedy swallowed this place?",
+    "path": "objects/wasteland/techbush4"
+  },
+  {
+    "desc": "Is this an evacuation warning?",
+    "file": "techbush5.object",
+    "name": "Is this an evacuation warning?",
+    "path": "objects/wasteland/techbush5"
+  },
+  {
+    "desc": "Avian priests often work by candlelight.",
+    "file": "redcandle.object",
+    "name": "Avian priests often work by candlelight.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "Avian priests often work by candlelight.",
+    "file": "flowercandle.object",
+    "name": "Avian priests often work by candlelight.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "Avian priests often work by candlelight.",
+    "file": "waxcandle.object",
+    "name": "Avian priests often work by candlelight.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "Avian priests often work by candlelight.",
+    "file": "bluecandle.object",
+    "name": "Avian priests often work by candlelight.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "Avian priests often work by candlelight.",
+    "file": "ghostcandle.object",
+    "name": "Avian priests often work by candlelight.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "aerostatsail2.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "aerostatsail1.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "aerostatsail4.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "aerostatsail3.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "campsmallwall1.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avalicamp/modulartent/smallwall"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "campsmallwall2.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avalicamp/modulartent/smallwall"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "camplargewall1.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avalicamp/modulartent/largewall"
+  },
+  {
+    "desc": "Reminds me of a market on Avos",
+    "file": "camplargewall2.object",
+    "name": "Reminds me of a market on Avos",
+    "path": "objects/avalicamp/modulartent/largewall"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "campsmallentry2.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avalicamp/modulartent/smallentry"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "campsmallentry1.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avalicamp/modulartent/smallentry"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "campslope2.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avalicamp/modulartent/slope"
+  },
+  {
+    "desc": "Reminds me of a market on Avos",
+    "file": "campslope1.object",
+    "name": "Reminds me of a market on Avos",
+    "path": "objects/avalicamp/modulartent/slope"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "camplargeentry2.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avalicamp/modulartent/largeentry"
+  },
+  {
+    "desc": "Reminds me of a market on Avos.",
+    "file": "camplargeentry1.object",
+    "name": "Reminds me of a market on Avos.",
+    "path": "objects/avalicamp/modulartent/largeentry"
+  },
+  {
+    "desc": "I'll need more of these to make a nest.",
+    "file": "avalicushion2.object",
+    "name": "I'll need more of these to make a nest.",
+    "path": "objects/avalicamp/cushions"
+  },
+  {
+    "desc": "It beats straw bedding...",
+    "file": "avalicushion1.object",
+    "name": "It beats straw bedding...",
+    "path": "objects/avalicamp/cushions"
+  },
+  {
+    "desc": "A nest for boxes?",
+    "file": "avalihammock2.object",
+    "name": "A nest for boxes?",
+    "path": "objects/avalicamp/hammocks"
+  },
+  {
+    "desc": "A suspended nest, what interesting idea!",
+    "file": "avalihammock1.object",
+    "name": "A suspended nest, what interesting idea!",
+    "path": "objects/avalicamp/hammocks"
+  },
+  {
+    "desc": "This reminds me of the banners grounded use.",
+    "file": "campdoor.object",
+    "name": "This reminds me of the banners grounded use.",
+    "path": "objects/avalicamp/doors"
+  }
+]
