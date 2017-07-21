@@ -5,15 +5,15 @@ import sys
 if len(sys.argv)>1 :
     filename = sys.argv [1]
 else:
-    filename = '.\\namedump.json'
+    filename = 'namedump.json'
 if len(sys.argv)>2 :
     racename = sys.argv [2]
 else:
-    racename = 'wasphive'
+    racename = '.mrmtname.'
 
-patch_prefix = '[{"op": "add","path": "/'
-patch_suffix = 'Description","value": "'
-patch_postfix= '"}]'
+patch_prefix = '[\n  {\n    "op": "add",\n    "path": "/'
+patch_suffix = 'Description",\n    "value": "'
+patch_postfix= '"\n  }\n]'
 
 dump_file = open(filename)
 dump_obj  = json.load(dump_file)
