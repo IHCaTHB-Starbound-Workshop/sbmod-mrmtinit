@@ -1,1518 +1,1518 @@
 [
   {
-    "desc": "Alloy Platform",
+    "desc": "sartag",
     "file": "peglacialloyplatform.material",
     "name": "Alloy Platform",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Nanotube Cable",
+    "desc": "sartag",
     "file": "avalicable.material",
     "name": "Nanotube Cable",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Pykrete Platform",
+    "desc": "sartag",
     "file": "peglacipykreteplatform.material",
     "name": "Pykrete Platform",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Honey Platform",
+    "desc": "sartag",
     "file": "honeyplatform.material",
     "name": "Honey Platform",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Elder Platform",
+    "desc": "sartag",
     "file": "elderplatform.material",
     "name": "Elder Platform",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Avali Platform",
+    "desc": "sartag",
     "file": "avalitechplatform.material",
     "name": "Avali Platform",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Avali Platform",
+    "desc": "sartag",
     "file": "avaliplatform.material",
     "name": "Avali Platform",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Avali Stair Platform",
+    "desc": "sartag",
     "file": "avalistairs.material",
     "name": "Avali Stair Platform",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Red Honey Platform",
+    "desc": "sartag",
     "file": "redhoneyplatform.material",
     "name": "Red Honey Platform",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Amber Platform",
+    "desc": "sartag",
     "file": "amberplatform.material",
     "name": "Amber Platform",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Avali Platform",
+    "desc": "sartag",
     "file": "avalidarkplatform.material",
     "name": "Avali Platform",
     "path": "tiles/platforms"
   },
   {
-    "desc": "Steel Girder",
+    "desc": "sartag",
     "file": "fusteelgirdir.material",
     "name": "Steel Girder",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Bricks",
+    "desc": "sartag",
     "file": "elderbricks2.material",
     "name": "Elder Bricks",
     "path": "tiles/materials"
   },
   {
-    "desc": "Corruption",
+    "desc": "sartag",
     "file": "corruptslime.material",
     "name": "Corruption",
     "path": "tiles/materials"
   },
   {
-    "desc": "Vine Wall",
+    "desc": "sartag",
     "file": "vinewall.material",
     "name": "Vine Wall",
     "path": "tiles/materials"
   },
   {
-    "desc": "Cooked Flesh Block",
+    "desc": "sartag",
     "file": "cookedflesh.material",
     "name": "Cooked Flesh Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Greenhouse",
+    "desc": "sartag",
     "file": "retexgreenhouse.material",
     "name": "Greenhouse",
     "path": "tiles/materials"
   },
   {
-    "desc": "Rainbow Sand",
+    "desc": "sartag",
     "file": "rainbowsand.material",
     "name": "Rainbow Sand",
     "path": "tiles/materials"
   },
   {
-    "desc": "Bamboo",
+    "desc": "sartag",
     "file": "bamboo.material",
     "name": "Bamboo",
     "path": "tiles/materials"
   },
   {
-    "desc": "Rotting Flesh",
+    "desc": "sartag",
     "file": "rottingflesh.material",
     "name": "Rotting Flesh",
     "path": "tiles/materials"
   },
   {
-    "desc": "Interesting. This seems to be a healy-slime.",
+    "desc": "sartag",
     "file": "fublueslime.material",
     "name": "Interesting. This seems to be a healy-slime.",
     "path": "tiles/materials"
   },
   {
-    "desc": "Aether Dust",
+    "desc": "sartag",
     "file": "retexaetherdust.material",
     "name": "Aether Dust",
     "path": "tiles/materials"
   },
   {
-    "desc": "Boney Flesh",
+    "desc": "sartag",
     "file": "cookedboneyflesh.material",
     "name": "Boney Flesh",
     "path": "tiles/materials"
   },
   {
-    "desc": "Sand",
+    "desc": "sartag",
     "file": "retexsand2.material",
     "name": "Sand",
     "path": "tiles/materials"
   },
   {
-    "desc": "Wastestone Block",
+    "desc": "sartag",
     "file": "wastestone.material",
     "name": "Wastestone Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Dark Metal Panels",
+    "desc": "sartag",
     "file": "avalidarkmetal2.material",
     "name": "Dark Metal Panels",
     "path": "tiles/materials"
   },
   {
-    "desc": "Mossy Stone",
+    "desc": "sartag",
     "file": "fumossyrock2.material",
     "name": "Mossy Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Horizontal Panels",
+    "desc": "sartag",
     "file": "avalipaneling.material",
     "name": "Horizontal Panels",
     "path": "tiles/materials"
   },
   {
-    "desc": "Diamond block",
+    "desc": "sartag",
     "file": "ff_diamondblock.material",
     "name": "Diamond block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Marestone",
+    "desc": "sartag",
     "file": "marestone.material",
     "name": "Marestone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Tech Panels",
+    "desc": "sartag",
     "file": "avalitechpanel.material",
     "name": "Tech Panels",
     "path": "tiles/materials"
   },
   {
-    "desc": "Steel Hive",
+    "desc": "sartag",
     "file": "steelhive.material",
     "name": "Steel Hive",
     "path": "tiles/materials"
   },
   {
-    "desc": "Glowing Sand",
+    "desc": "sartag",
     "file": "glowsand.material",
     "name": "Glowing Sand",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Floor",
+    "desc": "sartag",
     "file": "precursorfloor2.material",
     "name": "Precursor Floor",
     "path": "tiles/materials"
   },
   {
-    "desc": "Alien Grass",
+    "desc": "sartag",
     "file": "fualiengrass.material",
     "name": "Alien Grass",
     "path": "tiles/materials"
   },
   {
-    "desc": "Metal",
+    "desc": "sartag",
     "file": "steelmetal.material",
     "name": "Metal",
     "path": "tiles/materials"
   },
   {
-    "desc": "Dry Grass",
+    "desc": "sartag",
     "file": "fusavannahgrass.material",
     "name": "Dry Grass",
     "path": "tiles/materials"
   },
   {
-    "desc": "Rainforest Flowers",
+    "desc": "sartag",
     "file": "rainforestfloorflowers.material",
     "name": "Rainforest Flowers",
     "path": "tiles/materials"
   },
   {
-    "desc": "Plain Panel",
+    "desc": "sartag",
     "file": "avaliplain.material",
     "name": "Plain Panel",
     "path": "tiles/materials"
   },
   {
-    "desc": "Tent Fabric",
+    "desc": "sartag",
     "file": "campcanvas.material",
     "name": "Tent Fabric",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Soil",
+    "desc": "sartag",
     "file": "elderstone.material",
     "name": "Elder Soil",
     "path": "tiles/materials"
   },
   {
-    "desc": "Dirt Block",
+    "desc": "sartag",
     "file": "retexdirt.material",
     "name": "Dirt Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Rough Stone",
+    "desc": "sartag",
     "file": "harrowstone.material",
     "name": "Rough Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Penumbrite block",
+    "desc": "sartag",
     "file": "penumbriteblock.material",
     "name": "Penumbrite block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Panel",
+    "desc": "sartag",
     "file": "precursorwall.material",
     "name": "Precursor Panel",
     "path": "tiles/materials"
   },
   {
-    "desc": "Coral",
+    "desc": "sartag",
     "file": "livecoral.material",
     "name": "Coral",
     "path": "tiles/materials"
   },
   {
-    "desc": "Putrid Honey Material",
+    "desc": "sartag",
     "file": "redhoneycombmaterial.material",
     "name": "Putrid Honey Material",
     "path": "tiles/materials"
   },
   {
-    "desc": "Frozen Sand",
+    "desc": "sartag",
     "file": "frozensand.material",
     "name": "Frozen Sand",
     "path": "tiles/materials"
   },
   {
-    "desc": "Grey Slate Stone",
+    "desc": "sartag",
     "file": "greyslate.material",
     "name": "Grey Slate Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Lab Pipe",
+    "desc": "sartag",
     "file": "fulabpipe.material",
     "name": "Lab Pipe",
     "path": "tiles/materials"
   },
   {
-    "desc": "warts",
+    "desc": "sartag",
     "file": "warttile.material",
     "name": "warts",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Floor",
+    "desc": "sartag",
     "file": "precursorfloor.material",
     "name": "Precursor Floor",
     "path": "tiles/materials"
   },
   {
-    "desc": "Stellara Crystal",
+    "desc": "sartag",
     "file": "aegisaltcrystal.material",
     "name": "Stellara Crystal",
     "path": "tiles/materials"
   },
   {
-    "desc": "Honey Material",
+    "desc": "sartag",
     "file": "honeycombmaterial.material",
     "name": "Honey Material",
     "path": "tiles/materials"
   },
   {
-    "desc": "Cobblestone",
+    "desc": "sartag",
     "file": "retexcobblestone.material",
     "name": "Cobblestone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Pipe",
+    "desc": "sartag",
     "file": "elderpipe.material",
     "name": "Elder Pipe",
     "path": "tiles/materials"
   },
   {
-    "desc": "Umbral Stone",
+    "desc": "sartag",
     "file": "penumbrastone.material",
     "name": "Umbral Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Hydroponic Tube",
+    "desc": "sartag",
     "file": "hydrotube.material",
     "name": "Hydroponic Tube",
     "path": "tiles/materials"
   },
   {
-    "desc": "Bone Meal",
+    "desc": "sartag",
     "file": "bonemealblock.material",
     "name": "Bone Meal",
     "path": "tiles/materials"
   },
   {
-    "desc": "Steel Sand",
+    "desc": "sartag",
     "file": "steelsand.material",
     "name": "Steel Sand",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Soil",
+    "desc": "sartag",
     "file": "elderstone2.material",
     "name": "Elder Soil",
     "path": "tiles/materials"
   },
   {
-    "desc": "Gelatinous Block",
+    "desc": "sartag",
     "file": "fujellyblock.material",
     "name": "Gelatinous Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Red-Hot Cobblestone",
+    "desc": "sartag",
     "file": "redhotcobblestone.material",
     "name": "Red-Hot Cobblestone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Charred Flesh",
+    "desc": "sartag",
     "file": "charredfleshmaterial.material",
     "name": "Charred Flesh",
     "path": "tiles/materials"
   },
   {
-    "desc": "Crystal Block",
+    "desc": "sartag",
     "file": "purplecrystal.material",
     "name": "Crystal Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Protocite block",
+    "desc": "sartag",
     "file": "protoblock.material",
     "name": "Protocite block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Aeroponics Tubing",
+    "desc": "sartag",
     "file": "avaliaeroponics.material",
     "name": "Aeroponics Tubing",
     "path": "tiles/materials"
   },
   {
-    "desc": "Dead Soil",
+    "desc": "sartag",
     "file": "deadearth.material",
     "name": "Dead Soil",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Brickwork",
+    "desc": "sartag",
     "file": "elderbricks.material",
     "name": "Elder Brickwork",
     "path": "tiles/materials"
   },
   {
-    "desc": "Andesite",
+    "desc": "sartag",
     "file": "andesite.material",
     "name": "Andesite",
     "path": "tiles/materials"
   },
   {
-    "desc": "Chromatic Dirt",
+    "desc": "sartag",
     "file": "chromadirt.material",
     "name": "Chromatic Dirt",
     "path": "tiles/materials"
   },
   {
-    "desc": "Healing Slime Stone",
+    "desc": "sartag",
     "file": "fublueslimestone.material",
     "name": "Healing Slime Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Delicate Coral",
+    "desc": "sartag",
     "file": "coral2.material",
     "name": "Delicate Coral",
     "path": "tiles/materials"
   },
   {
-    "desc": "Red Sand",
+    "desc": "sartag",
     "file": "redsand2.material",
     "name": "Red Sand",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Pillar",
+    "desc": "sartag",
     "file": "precursorpillar.material",
     "name": "Precursor Pillar",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Baseboard",
+    "desc": "sartag",
     "file": "elderbaseboard.material",
     "name": "Elder Baseboard",
     "path": "tiles/materials"
   },
   {
-    "desc": "Gelatinous Stone",
+    "desc": "sartag",
     "file": "jellystone.material",
     "name": "Gelatinous Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Darkstone",
+    "desc": "sartag",
     "file": "darkstone.material",
     "name": "Darkstone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Tarry Stone",
+    "desc": "sartag",
     "file": "tarstone.material",
     "name": "Tarry Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Patak Crystal",
+    "desc": "sartag",
     "file": "violiumcrystal.material",
     "name": "Patak Crystal",
     "path": "tiles/materials"
   },
   {
-    "desc": "Grit Stone",
+    "desc": "sartag",
     "file": "retexrock17.material",
     "name": "Grit Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Ebon Block",
+    "desc": "sartag",
     "file": "ebonblock.material",
     "name": "Ebon Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Metal pipe",
+    "desc": "sartag",
     "file": "retexironpipe.material",
     "name": "Metal pipe",
     "path": "tiles/materials"
   },
   {
-    "desc": "Steel Stone",
+    "desc": "sartag",
     "file": "moltensteel.material",
     "name": "Steel Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Ancient Metal",
+    "desc": "sartag",
     "file": "fumetalblock.material",
     "name": "Ancient Metal",
     "path": "tiles/materials"
   },
   {
-    "desc": "Spring Vine",
+    "desc": "sartag",
     "file": "springvines.material",
     "name": "Spring Vine",
     "path": "tiles/materials"
   },
   {
-    "desc": "Wall Cables",
+    "desc": "sartag",
     "file": "retexwallcables.material",
     "name": "Wall Cables",
     "path": "tiles/materials"
   },
   {
-    "desc": "Brittle Metal",
+    "desc": "sartag",
     "file": "brittlemetal.material",
     "name": "Brittle Metal",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Girder",
+    "desc": "sartag",
     "file": "precursorgirder.material",
     "name": "Precursor Girder",
     "path": "tiles/materials"
   },
   {
-    "desc": "Alien Soil",
+    "desc": "sartag",
     "file": "aliensoil.material",
     "name": "Alien Soil",
     "path": "tiles/materials"
   },
   {
-    "desc": "Charred Bones",
+    "desc": "sartag",
     "file": "charredbonematerial.material",
     "name": "Charred Bones",
     "path": "tiles/materials"
   },
   {
-    "desc": "Jungle Stone",
+    "desc": "sartag",
     "file": "junglestone.material",
     "name": "Jungle Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Jump Block",
+    "desc": "sartag",
     "file": "jumpblock.material",
     "name": "Jump Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Steel Sand",
+    "desc": "sartag",
     "file": "moltensand.material",
     "name": "Steel Sand",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Tile",
+    "desc": "sartag",
     "file": "eldertile.material",
     "name": "Elder Tile",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Deco Block",
+    "desc": "sartag",
     "file": "elderpillarcap.material",
     "name": "Elder Deco Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Aether Dust Pillar",
+    "desc": "sartag",
     "file": "retexaetherdustpillar.material",
     "name": "Aether Dust Pillar",
     "path": "tiles/materials"
   },
   {
-    "desc": "Mossy Stone",
+    "desc": "sartag",
     "file": "fumossyrock.material",
     "name": "Mossy Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Rostone",
+    "desc": "sartag",
     "file": "rostone.material",
     "name": "Rostone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Panel",
+    "desc": "sartag",
     "file": "precursorsloped.material",
     "name": "Precursor Panel",
     "path": "tiles/materials"
   },
   {
-    "desc": "Boney Flesh",
+    "desc": "sartag",
     "file": "boneyflesh.material",
     "name": "Boney Flesh",
     "path": "tiles/materials"
   },
   {
-    "desc": "Composite Tiles",
+    "desc": "sartag",
     "file": "avalitiles.material",
     "name": "Composite Tiles",
     "path": "tiles/materials"
   },
   {
-    "desc": "Meteorite Rock",
+    "desc": "sartag",
     "file": "whitemeteorite.material",
     "name": "Meteorite Rock",
     "path": "tiles/materials"
   },
   {
-    "desc": "Jump Block",
+    "desc": "sartag",
     "file": "titaniumwallblock.material",
     "name": "Jump Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Avali Tapestry",
+    "desc": "sartag",
     "file": "camptapestry1.material",
     "name": "Avali Tapestry",
     "path": "tiles/materials"
   },
   {
-    "desc": "Tent Pole",
+    "desc": "sartag",
     "file": "camppole.material",
     "name": "Tent Pole",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Chain",
+    "desc": "sartag",
     "file": "precursorchain.material",
     "name": "Precursor Chain",
     "path": "tiles/materials"
   },
   {
-    "desc": "Sandstone",
+    "desc": "sartag",
     "file": "retexsandstone01.material",
     "name": "Sandstone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Panel",
+    "desc": "sartag",
     "file": "precursorpanel.material",
     "name": "Precursor Panel",
     "path": "tiles/materials"
   },
   {
-    "desc": "Darksoil",
+    "desc": "sartag",
     "file": "darkness.material",
     "name": "Darksoil",
     "path": "tiles/materials"
   },
   {
-    "desc": "Chert",
+    "desc": "sartag",
     "file": "retexrock15.material",
     "name": "Chert",
     "path": "tiles/materials"
   },
   {
-    "desc": "Rock Block",
+    "desc": "sartag",
     "file": "retexrock12.material",
     "name": "Rock Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Girder",
+    "desc": "sartag",
     "file": "precursorgirdir.material",
     "name": "Precursor Girder",
     "path": "tiles/materials"
   },
   {
-    "desc": "Metal",
+    "desc": "sartag",
     "file": "moltentile.material",
     "name": "Metal",
     "path": "tiles/materials"
   },
   {
-    "desc": "Translucent Slime Block",
+    "desc": "sartag",
     "file": "slime2.material",
     "name": "Translucent Slime Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Dark Metal Hexagons",
+    "desc": "sartag",
     "file": "avalihexagons1.material",
     "name": "Dark Metal Hexagons",
     "path": "tiles/materials"
   },
   {
-    "desc": "Healing Slime",
+    "desc": "sartag",
     "file": "fublueslimedirt.material",
     "name": "Healing Slime",
     "path": "tiles/materials"
   },
   {
-    "desc": "Cell",
+    "desc": "sartag",
     "file": "genetile.material",
     "name": "Cell",
     "path": "tiles/materials"
   },
   {
-    "desc": "Brittle Junk",
+    "desc": "sartag",
     "file": "brittlejunk.material",
     "name": "Brittle Junk",
     "path": "tiles/materials"
   },
   {
-    "desc": "Steel Stone",
+    "desc": "sartag",
     "file": "steelstone.material",
     "name": "Steel Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Sand Pillar",
+    "desc": "sartag",
     "file": "sandpillar2.material",
     "name": "Sand Pillar",
     "path": "tiles/materials"
   },
   {
-    "desc": "Tungsten Block",
+    "desc": "sartag",
     "file": "retexironblock.material",
     "name": "Tungsten Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Darkwater Coral",
+    "desc": "sartag",
     "file": "darkwatercoral.material",
     "name": "Darkwater Coral",
     "path": "tiles/materials"
   },
   {
-    "desc": "Erchius Pillar",
+    "desc": "sartag",
     "file": "erchiuspillar.material",
     "name": "Erchius Pillar",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Temple Wall",
+    "desc": "sartag",
     "file": "elderblock1.material",
     "name": "Elder Temple Wall",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Rubble",
+    "desc": "sartag",
     "file": "elderrubble.material",
     "name": "Elder Rubble",
     "path": "tiles/materials"
   },
   {
-    "desc": "Avali Trim",
+    "desc": "sartag",
     "file": "camptapestry2.material",
     "name": "Avali Trim",
     "path": "tiles/materials"
   },
   {
-    "desc": "LED Display",
+    "desc": "sartag",
     "file": "avalidisplay.material",
     "name": "LED Display",
     "path": "tiles/materials"
   },
   {
-    "desc": "Dark Metal Beam",
+    "desc": "sartag",
     "file": "avalidarkmetal3.material",
     "name": "Dark Metal Beam",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Roofing",
+    "desc": "sartag",
     "file": "elderroof.material",
     "name": "Elder Roofing",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Temple Wall",
+    "desc": "sartag",
     "file": "elderblock2.material",
     "name": "Elder Temple Wall",
     "path": "tiles/materials"
   },
   {
-    "desc": "Red Sandstone",
+    "desc": "sartag",
     "file": "retexredsandstone.material",
     "name": "Red Sandstone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Glass Wall",
+    "desc": "sartag",
     "file": "precursorglasswall.material",
     "name": "Precursor Glass Wall",
     "path": "tiles/materials"
   },
   {
-    "desc": "Glass Sand",
+    "desc": "sartag",
     "file": "glasssand.material",
     "name": "Glass Sand",
     "path": "tiles/materials"
   },
   {
-    "desc": "Big Tent Pole",
+    "desc": "sartag",
     "file": "campbigpole.material",
     "name": "Big Tent Pole",
     "path": "tiles/materials"
   },
   {
-    "desc": "Umbral Dirt",
+    "desc": "sartag",
     "file": "penumbradirt.material",
     "name": "Umbral Dirt",
     "path": "tiles/materials"
   },
   {
-    "desc": "Energy Wood",
+    "desc": "sartag",
     "file": "energywood.material",
     "name": "Energy Wood",
     "path": "tiles/materials"
   },
   {
-    "desc": "Frozen Stone",
+    "desc": "sartag",
     "file": "frozenstone.material",
     "name": "Frozen Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Data Storage",
+    "desc": "sartag",
     "file": "avalichits.material",
     "name": "Data Storage",
     "path": "tiles/materials"
   },
   {
-    "desc": "Cooked brains",
+    "desc": "sartag",
     "file": "cookedbrains.material",
     "name": "Cooked brains",
     "path": "tiles/materials"
   },
   {
-    "desc": "Sand Pillar",
+    "desc": "sartag",
     "file": "sandpillar1.material",
     "name": "Sand Pillar",
     "path": "tiles/materials"
   },
   {
-    "desc": "Stomach Lining",
+    "desc": "sartag",
     "file": "fustomachblock.material",
     "name": "Stomach Lining",
     "path": "tiles/materials"
   },
   {
-    "desc": "Living Stone",
+    "desc": "sartag",
     "file": "hiveold.material",
     "name": "Living Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "LED Display",
+    "desc": "sartag",
     "file": "avaliglass.material",
     "name": "LED Display",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Stone",
+    "desc": "sartag",
     "file": "protorock.material",
     "name": "Elder Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Coral",
+    "desc": "sartag",
     "file": "coral.material",
     "name": "Coral",
     "path": "tiles/materials"
   },
   {
-    "desc": "Slimey Soil",
+    "desc": "sartag",
     "file": "slimedirt.material",
     "name": "Slimey Soil",
     "path": "tiles/materials"
   },
   {
-    "desc": "Swamp Dirt",
+    "desc": "sartag",
     "file": "swampdirtff.material",
     "name": "Swamp Dirt",
     "path": "tiles/materials"
   },
   {
-    "desc": "Metal Parts",
+    "desc": "sartag",
     "file": "steelpartblock.material",
     "name": "Metal Parts",
     "path": "tiles/materials"
   },
   {
-    "desc": "Metal Parts",
+    "desc": "sartag",
     "file": "moltenmetal.material",
     "name": "Metal Parts",
     "path": "tiles/materials"
   },
   {
-    "desc": "Bleached Bones",
+    "desc": "sartag",
     "file": "bleachedbonematerial.material",
     "name": "Bleached Bones",
     "path": "tiles/materials"
   },
   {
-    "desc": "Shroom Wall",
+    "desc": "sartag",
     "file": "shroomblockwall.material",
     "name": "Shroom Wall",
     "path": "tiles/materials"
   },
   {
-    "desc": "Glowing Mushroom",
+    "desc": "sartag",
     "file": "shroomblockglow.material",
     "name": "Glowing Mushroom",
     "path": "tiles/materials"
   },
   {
-    "desc": "Red Slate",
+    "desc": "sartag",
     "file": "redslate2.material",
     "name": "Red Slate",
     "path": "tiles/materials"
   },
   {
-    "desc": "Fine Sand",
+    "desc": "sartag",
     "file": "redsand.material",
     "name": "Fine Sand",
     "path": "tiles/materials"
   },
   {
-    "desc": "Dark Metal Support",
+    "desc": "sartag",
     "file": "avalidarkmetal.material",
     "name": "Dark Metal Support",
     "path": "tiles/materials"
   },
   {
-    "desc": "Crystalline Sand",
+    "desc": "sartag",
     "file": "crystalsand.material",
     "name": "Crystalline Sand",
     "path": "tiles/materials"
   },
   {
-    "desc": "Vertical Panels",
+    "desc": "sartag",
     "file": "avalipaneling2.material",
     "name": "Vertical Panels",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Floor",
+    "desc": "sartag",
     "file": "elderfloor.material",
     "name": "Elder Floor",
     "path": "tiles/materials"
   },
   {
-    "desc": "Frozen Sand",
+    "desc": "sartag",
     "file": "frozensand2.material",
     "name": "Frozen Sand",
     "path": "tiles/materials"
   },
   {
-    "desc": "Console",
+    "desc": "sartag",
     "file": "purpleconsole.material",
     "name": "Console",
     "path": "tiles/materials"
   },
   {
-    "desc": "Elder Support",
+    "desc": "sartag",
     "file": "elderpillar1.material",
     "name": "Elder Support",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Rune Tile",
+    "desc": "sartag",
     "file": "precursordecorative.material",
     "name": "Precursor Rune Tile",
     "path": "tiles/materials"
   },
   {
-    "desc": "Jungle Soil",
+    "desc": "sartag",
     "file": "jungledirt2.material",
     "name": "Jungle Soil",
     "path": "tiles/materials"
   },
   {
-    "desc": "Jungle Dirt",
+    "desc": "sartag",
     "file": "jungledirt1.material",
     "name": "Jungle Dirt",
     "path": "tiles/materials"
   },
   {
-    "desc": "Glow-Glass Block",
+    "desc": "sartag",
     "file": "glowglass.material",
     "name": "Glow-Glass Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Speed Block",
+    "desc": "sartag",
     "file": "speedblock.material",
     "name": "Speed Block",
     "path": "tiles/materials"
   },
   {
-    "desc": "Fungal Stone",
+    "desc": "sartag",
     "file": "fungalstone.material",
     "name": "Fungal Stone",
     "path": "tiles/materials"
   },
   {
-    "desc": "Oystershells",
+    "desc": "sartag",
     "file": "oystershell.material",
     "name": "Oystershells",
     "path": "tiles/materials"
   },
   {
-    "desc": "Rainforest Leaves",
+    "desc": "sartag",
     "file": "rainforestfloor.material",
     "name": "Rainforest Leaves",
     "path": "tiles/materials"
   },
   {
-    "desc": "Precursor Tech Tile",
+    "desc": "sartag",
     "file": "precursordetail.material",
     "name": "Precursor Tech Tile",
     "path": "tiles/materials"
   },
   {
-    "desc": "Black Slime",
+    "desc": "sartag",
     "file": "blackslime.material",
     "name": "Black Slime",
     "path": "tiles/materials"
   },
   {
-    "desc": "Bloodvein Block",
+    "desc": "sartag",
     "file": "veinblock.material",
     "name": "Bloodvein Block",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Plasteel Fencing",
+    "desc": "sartag",
     "file": "labwallfence.material",
     "name": "Plasteel Fencing",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Plasteel Roofing",
+    "desc": "sartag",
     "file": "labroof.material",
     "name": "Plasteel Roofing",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Reinforced Girder",
+    "desc": "sartag",
     "file": "steelgirdir2.material",
     "name": "Reinforced Girder",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Tek Composite",
+    "desc": "sartag",
     "file": "fulabhoverpanel.material",
     "name": "Tek Composite",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Plasteel Beam",
+    "desc": "sartag",
     "file": "labbeam.material",
     "name": "Plasteel Beam",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Plasteel",
+    "desc": "sartag",
     "file": "labtile.material",
     "name": "Plasteel",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Tek Panel",
+    "desc": "sartag",
     "file": "fulabhoverplatform.material",
     "name": "Tek Panel",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Lab Screen",
+    "desc": "sartag",
     "file": "fulabscreen.material",
     "name": "Lab Screen",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Plasteel Wall",
+    "desc": "sartag",
     "file": "labwall1.material",
     "name": "Plasteel Wall",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Reinforced Glass Frame",
+    "desc": "sartag",
     "file": "labframedglass.material",
     "name": "Reinforced Glass Frame",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Lab Tech Panel",
+    "desc": "sartag",
     "file": "labtechpanel.material",
     "name": "Lab Tech Panel",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Plasteel Wall",
+    "desc": "sartag",
     "file": "labwall.material",
     "name": "Plasteel Wall",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Hi-Tech Block",
+    "desc": "sartag",
     "file": "hitechmetalblock.material",
     "name": "Hi-Tech Block",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Lab Support",
+    "desc": "sartag",
     "file": "fulabsupport.material",
     "name": "Lab Support",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Plasteel Girder",
+    "desc": "sartag",
     "file": "labgirdir.material",
     "name": "Plasteel Girder",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Iron Grating",
+    "desc": "sartag",
     "file": "irongrating.material",
     "name": "Iron Grating",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Plasteel Reinforced Glass",
+    "desc": "sartag",
     "file": "fureinforcedglass.material",
     "name": "Plasteel Reinforced Glass",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Plasteel Support Beam",
+    "desc": "sartag",
     "file": "labsupport.material",
     "name": "Plasteel Support Beam",
     "path": "tiles/materials/tilesandgreebles"
   },
   {
-    "desc": "Ice Sheet",
+    "desc": "sartag",
     "file": "iceblock3.material",
     "name": "Ice Sheet",
     "path": "tiles/materials/icewaste"
   },
   {
-    "desc": "Ancient Ice",
+    "desc": "sartag",
     "file": "iceblock2.material",
     "name": "Ancient Ice",
     "path": "tiles/materials/icewaste"
   },
   {
-    "desc": "Ancient Ice",
+    "desc": "sartag",
     "file": "iceblock1.material",
     "name": "Ancient Ice",
     "path": "tiles/materials/icewaste"
   },
   {
-    "desc": "Ancient Ice",
+    "desc": "sartag",
     "file": "iceblock4.material",
     "name": "Ancient Ice",
     "path": "tiles/materials/icewaste"
   },
   {
-    "desc": "Caliche Stone",
+    "desc": "sartag",
     "file": "calichestone.material",
     "name": "Caliche Stone",
     "path": "tiles/materials/caliche"
   },
   {
-    "desc": "Blood Stone",
+    "desc": "sartag",
     "file": "bloodstonetile.material",
     "name": "Blood Stone",
     "path": "tiles/materials/bloodstone"
   },
   {
-    "desc": "Blood Stone",
+    "desc": "sartag",
     "file": "ff_bloodstone.material",
     "name": "Blood Stone",
     "path": "tiles/materials/bloodstone"
   },
   {
-    "desc": "Crystallized Blood Stone",
+    "desc": "sartag",
     "file": "bloodstonetile2.material",
     "name": "Crystallized Blood Stone",
     "path": "tiles/materials/bloodstone"
   },
   {
-    "desc": "Blood Sand",
+    "desc": "sartag",
     "file": "bloodsand.material",
     "name": "Blood Sand",
     "path": "tiles/materials/bloodstone"
   },
   {
-    "desc": "Proto Shale",
+    "desc": "sartag",
     "file": "bioblock2.material",
     "name": "Proto Shale",
     "path": "tiles/materials/bioworld"
   },
   {
-    "desc": "Proto Gravel",
+    "desc": "sartag",
     "file": "biogravel.material",
     "name": "Proto Gravel",
     "path": "tiles/materials/bioworld"
   },
   {
-    "desc": "Proto Stone",
+    "desc": "sartag",
     "file": "biostone.material",
     "name": "Proto Stone",
     "path": "tiles/materials/bioworld"
   },
   {
-    "desc": "Proto Shale",
+    "desc": "sartag",
     "file": "bioblock.material",
     "name": "Proto Shale",
     "path": "tiles/materials/bioworld"
   },
   {
-    "desc": "Proto Soil",
+    "desc": "sartag",
     "file": "biodirt.material",
     "name": "Proto Soil",
     "path": "tiles/materials/bioworld"
   },
   {
-    "desc": "Burning Volcanic Rock",
+    "desc": "sartag",
     "file": "magmatile2.material",
     "name": "Burning Volcanic Rock",
     "path": "tiles/materials/magmatile"
   },
   {
-    "desc": "Volcanic Rock",
+    "desc": "sartag",
     "file": "magmatile1.material",
     "name": "Volcanic Rock",
     "path": "tiles/materials/magmatile"
   },
   {
-    "desc": "Cooled Volcanic Stone",
+    "desc": "sartag",
     "file": "magmatile4.material",
     "name": "Cooled Volcanic Stone",
     "path": "tiles/materials/magmatile"
   },
   {
-    "desc": "Volcanic Ash",
+    "desc": "sartag",
     "file": "magmatile3.material",
     "name": "Volcanic Ash",
     "path": "tiles/materials/magmatile"
   },
   {
-    "desc": "Alloy Metal Block",
+    "desc": "sartag",
     "file": "peglacimetalblock.material",
     "name": "Alloy Metal Block",
     "path": "tiles/materials/peglaci"
   },
   {
-    "desc": "Vertical Cabling",
+    "desc": "sartag",
     "file": "peglacivertcable.material",
     "name": "Vertical Cabling",
     "path": "tiles/materials/peglaci"
   },
   {
-    "desc": "Alloy Panel",
+    "desc": "sartag",
     "file": "peglacimetalpanel.material",
     "name": "Alloy Panel",
     "path": "tiles/materials/peglaci"
   },
   {
-    "desc": "Horizontal Cabling",
+    "desc": "sartag",
     "file": "peglacihorcable.material",
     "name": "Horizontal Cabling",
     "path": "tiles/materials/peglaci"
   },
   {
-    "desc": "Processor Nexus",
+    "desc": "sartag",
     "file": "peglacicablenexus.material",
     "name": "Processor Nexus",
     "path": "tiles/materials/peglaci"
   },
   {
-    "desc": "Ice Column",
+    "desc": "sartag",
     "file": "peglaciicecolumn.material",
     "name": "Ice Column",
     "path": "tiles/materials/peglaci"
   },
   {
-    "desc": "Hexpane Panel",
+    "desc": "sartag",
     "file": "peglacihexpane.material",
     "name": "Hexpane Panel",
     "path": "tiles/materials/peglaci"
   },
   {
-    "desc": "Alloy Screen",
+    "desc": "sartag",
     "file": "peglacimetalscreen.material",
     "name": "Alloy Screen",
     "path": "tiles/materials/peglaci"
   },
   {
-    "desc": "Cable Connector",
+    "desc": "sartag",
     "file": "peglacicableconnector.material",
     "name": "Cable Connector",
     "path": "tiles/materials/peglaci"
   },
   {
-    "desc": "Radioactive Rock",
+    "desc": "sartag",
     "file": "irradiatedtile2.material",
     "name": "Radioactive Rock",
     "path": "tiles/materials/irradiated"
   },
   {
-    "desc": "Radioactive Rock",
+    "desc": "sartag",
     "file": "irradiatedtile3.material",
     "name": "Radioactive Rock",
     "path": "tiles/materials/irradiated"
   },
   {
-    "desc": "Radioactive Soil",
+    "desc": "sartag",
     "file": "irradiatedtile.material",
     "name": "Radioactive Soil",
     "path": "tiles/materials/irradiated"
   },
   {
-    "desc": "Giantek Panel",
+    "desc": "sartag",
     "file": "peglacigiantek.material",
     "name": "Giantek Panel",
     "path": "tiles/materials/giants"
   },
   {
-    "desc": "Sulphuric Stone",
+    "desc": "sartag",
     "file": "sulphurstone.material",
     "name": "Sulphuric Stone",
     "path": "tiles/materials/sulphuric"
   },
   {
-    "desc": "Sulphuric dirt",
+    "desc": "sartag",
     "file": "sulphurdirt.material",
     "name": "Sulphuric dirt",
     "path": "tiles/materials/sulphuric"
   },
   {
-    "desc": "Honeycomb Block",
+    "desc": "sartag",
     "file": "fu_honeycombblock.material",
     "name": "Honeycomb Block",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Frozen Wax Platform",
+    "desc": "sartag",
     "file": "frozenwaxplatform.material",
     "name": "Frozen Wax Platform",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Red Wax Block",
+    "desc": "sartag",
     "file": "redwaxblock.material",
     "name": "Red Wax Block",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "red Wax Platform",
+    "desc": "sartag",
     "file": "redwaxplatform.material",
     "name": "red Wax Platform",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Golden Sand",
+    "desc": "sartag",
     "file": "goldensand.material",
     "name": "Golden Sand",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Golden Wood",
+    "desc": "sartag",
     "file": "goldenwood.material",
     "name": "Golden Wood",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Frozen Wax Block",
+    "desc": "sartag",
     "file": "frozenwaxblock.material",
     "name": "Frozen Wax Block",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Wax Block",
+    "desc": "sartag",
     "file": "waxblock1.material",
     "name": "Wax Block",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Golden Leaves",
+    "desc": "sartag",
     "file": "goldenleaves.material",
     "name": "Golden Leaves",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Wax Platform",
+    "desc": "sartag",
     "file": "waxplatform.material",
     "name": "Wax Platform",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Honey Crystal Block",
+    "desc": "sartag",
     "file": "honeycrystalblock.material",
     "name": "Honey Crystal Block",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "white Wax Platform",
+    "desc": "sartag",
     "file": "whitewaxplatform.material",
     "name": "white Wax Platform",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Red Honeycomb Block",
+    "desc": "sartag",
     "file": "fu_redhoneycombblock.material",
     "name": "Red Honeycomb Block",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Honeystone",
+    "desc": "sartag",
     "file": "honeystone.material",
     "name": "Honeystone",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "White Wax Block",
+    "desc": "sartag",
     "file": "whitewaxblock.material",
     "name": "White Wax Block",
     "path": "tiles/materials/honey"
   },
   {
-    "desc": "Honeystone Brick",
+    "desc": "sartag",
     "file": "honeystonebrick.material",
     "name": "Honeystone Brick",
     "path": "tiles/materials/honey/brick"
   },
   {
-    "desc": "Golden Glass Block",
+    "desc": "sartag",
     "file": "goldenglass.material",
     "name": "Golden Glass Block",
     "path": "tiles/materials/honey/goldenglass"
   },
   {
-    "desc": "Golden Plank",
+    "desc": "sartag",
     "file": "goldenplank.material",
     "name": "Golden Plank",
     "path": "tiles/materials/honey/goldenplanks"
   },
   {
-    "desc": "Inscribed Pykrete Block",
+    "desc": "sartag",
     "file": "peglaciinscribedpykreteblock.material",
     "name": "Inscribed Pykrete Block",
     "path": "tiles/materials/pykrete"
   },
   {
-    "desc": "Pykrete Decor Panel",
+    "desc": "sartag",
     "file": "peglacipykretedecor.material",
     "name": "Pykrete Decor Panel",
     "path": "tiles/materials/pykrete"
   },
   {
-    "desc": "Pykrete Block",
+    "desc": "sartag",
     "file": "peglacipykreteblock.material",
     "name": "Pykrete Block",
     "path": "tiles/materials/pykrete"
   },
   {
-    "desc": "Pykrete Strip",
+    "desc": "sartag",
     "file": "peglacipykretestrip.material",
     "name": "Pykrete Strip",
     "path": "tiles/materials/pykrete"
   },
   {
-    "desc": "Pykrete Foundation Block",
+    "desc": "sartag",
     "file": "peglacipykretefoundation.material",
     "name": "Pykrete Foundation Block",
     "path": "tiles/materials/pykrete"
   },
   {
-    "desc": "Hellfire Stone",
+    "desc": "sartag",
     "file": "fuokeamagmastone.material",
     "name": "Hellfire Stone",
     "path": "tiles/materials/pixelgoods"
   },
   {
-    "desc": "Plasteel Wall",
+    "desc": "sartag",
     "file": "fuokeahitechwall2.material",
     "name": "Plasteel Wall",
     "path": "tiles/materials/pixelgoods"
   },
   {
-    "desc": "Plasteel Wall",
+    "desc": "sartag",
     "file": "fuokeahitechwall1.material",
     "name": "Plasteel Wall",
     "path": "tiles/materials/pixelgoods"
   },
   {
-    "desc": "Hellfire Bricks",
+    "desc": "sartag",
     "file": "fuokeamagmabrick.material",
     "name": "Hellfire Bricks",
     "path": "tiles/materials/pixelgoods"
   },
   {
-    "desc": "Gelatinous Block",
+    "desc": "sartag",
     "file": "fujellyblock2.material",
     "name": "Gelatinous Block",
     "path": "tiles/materials/pixelgoods"
   },
   {
-    "desc": "Grass",
+    "desc": "sartag",
     "file": "fuokeagrass.material",
     "name": "Grass",
     "path": "tiles/materials/pixelgoods"
