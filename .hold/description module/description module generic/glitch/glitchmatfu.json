@@ -1,0 +1,164 @@
+[
+  {
+    "desc": "Disgust. A block made of flesh.",
+    "file": "cookedflesh.material",
+    "name": "Disgust. A block made of flesh.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Bamboo.",
+    "file": "bamboo.material",
+    "name": "Statement. Bamboo.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Sand.",
+    "file": "retexsand2.material",
+    "name": "Statement. Sand.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Dirt. Clarification. Just dirt.",
+    "file": "retexdirt.material",
+    "name": "Statement. Dirt. Clarification. Just dirt.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Admiration. A beautiful aegisalt crystal.",
+    "file": "aegisaltcrystal.material",
+    "name": "Admiration. A beautiful aegisalt crystal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Cobblestones.",
+    "file": "retexcobblestone.material",
+    "name": "Statement. Cobblestones.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. High temperature cobblestones.",
+    "file": "redhotcobblestone.material",
+    "name": "Statement. High temperature cobblestones.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Admiration. A beautiful purple crystal.",
+    "file": "purplecrystal.material",
+    "name": "Admiration. A beautiful purple crystal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Sand.",
+    "file": "redsand2.material",
+    "name": "Statement. Sand.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Admiration. A beautiful patak crystal.",
+    "file": "violiumcrystal.material",
+    "name": "Admiration. A beautiful patak crystal.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Rock.",
+    "file": "retexrock17.material",
+    "name": "Statement. Rock.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Large pipe.",
+    "file": "retexironpipe.material",
+    "name": "Statement. Large pipe.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Some flowering vines.",
+    "file": "springvines.material",
+    "name": "Statement. Some flowering vines.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Excited. Cables!",
+    "file": "retexwallcables.material",
+    "name": "Excited. Cables!",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Horrified. Bones from a variety of sources packed together.",
+    "file": "charredbonematerial.material",
+    "name": "Horrified. Bones from a variety of sources packed together.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Sandstone.",
+    "file": "retexsandstone01.material",
+    "name": "Statement. Sandstone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Rock.",
+    "file": "retexrock12.material",
+    "name": "Statement. Rock.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Hesitation. A vulgar, slimy block.",
+    "file": "slime2.material",
+    "name": "Hesitation. A vulgar, slimy block.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. A red variant of sandstone.",
+    "file": "retexredsandstone.material",
+    "name": "Statement. A red variant of sandstone.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Energy wood.",
+    "file": "energywood.material",
+    "name": "Statement. Energy wood.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Uncomforatble. This slimy mass looks and smells terrible.",
+    "file": "fustomachblock.material",
+    "name": "Uncomforatble. This slimy mass looks and smells terrible.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Horrified. Bones from a variety of sources packed together.",
+    "file": "bleachedbonematerial.material",
+    "name": "Horrified. Bones from a variety of sources packed together.",
+    "path": "tiles/materials"
+  },
+  {
+    "desc": "Statement. Sand.",
+    "file": "goldensand.material",
+    "name": "Statement. Sand.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "Statement. Unrefined wood.",
+    "file": "goldenwood.material",
+    "name": "Statement. Unrefined wood.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "Analysis. This block is made of crystal.",
+    "file": "honeycrystalblock.material",
+    "name": "Analysis. This block is made of crystal.",
+    "path": "tiles/materials/honey"
+  },
+  {
+    "desc": "Statement. honeystone.",
+    "file": "honeystonebrick.material",
+    "name": "Statement. honeystone.",
+    "path": "tiles/materials/honey/brick"
+  },
+  {
+    "desc": "Statement. Glass.",
+    "file": "goldenglass.material",
+    "name": "Statement. Glass.",
+    "path": "tiles/materials/honey/goldenglass"
+  }
+]

@@ -1,0 +1,2054 @@
+[
+  {
+    "desc": "waw",
+    "file": "rainbow.object",
+    "name": "waw",
+    "path": "objects/test"
+  },
+  {
+    "desc": "A basic, dependable tech chest.",
+    "file": "bamboochest.object",
+    "name": "A basic, dependable tech chest.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "A cool bamboo table.",
+    "file": "bambootable.object",
+    "name": "A cool bamboo table.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "A pretty soft chair. Reminds me of being at home.",
+    "file": "bamboochair.object",
+    "name": "A pretty soft chair. Reminds me of being at home.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "A great bed. Should easily be able to get some rest here.",
+    "file": "bamboobed.object",
+    "name": "A great bed. Should easily be able to get some rest here.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "When I was little, I always wanted a money tree. This is the next best thing.",
+    "file": "crystalplantseed.object",
+    "name": "When I was little, I always wanted a money tree. This is the next best thing.",
+    "path": "objects/farmables/crystalplant"
+  },
+  {
+    "desc": "When I was little, I always wanted a money tree. This is the next best thing.",
+    "file": "wildcrystalplantseed.object",
+    "name": "When I was little, I always wanted a money tree. This is the next best thing.",
+    "path": "objects/farmables/crystalplant"
+  },
+  {
+    "desc": "A green flower. Wait, no, it's blue.",
+    "file": "flowerblue.object",
+    "name": "A green flower. Wait, no, it's blue.",
+    "path": "objects/farmables/flowerblue"
+  },
+  {
+    "desc": "It tastes like pumpkin pie with a bit of a tangy twist.",
+    "file": "sweetscoopseed.object",
+    "name": "It tastes like pumpkin pie with a bit of a tangy twist.",
+    "path": "objects/farmables/sweetscoop"
+  },
+  {
+    "desc": "It tastes like pumpkin pie with a bit of a tangy twist.",
+    "file": "wildsweetscoopseed.object",
+    "name": "It tastes like pumpkin pie with a bit of a tangy twist.",
+    "path": "objects/farmables/sweetscoop"
+  },
+  {
+    "desc": "Why do you build me up, red flower of unknown species.",
+    "file": "flowerred.object",
+    "name": "Why do you build me up, red flower of unknown species.",
+    "path": "objects/farmables/flowerred"
+  },
+  {
+    "desc": "I wonder if I can use this to bake some sort of alien bread?",
+    "file": "wildedunestalkseed.object",
+    "name": "I wonder if I can use this to bake some sort of alien bread?",
+    "path": "objects/farmables/dunestalk"
+  },
+  {
+    "desc": "I wonder if I can use this to bake some sort of alien bread?",
+    "file": "dunestalkseed.object",
+    "name": "I wonder if I can use this to bake some sort of alien bread?",
+    "path": "objects/farmables/dunestalk"
+  },
+  {
+    "desc": "Why do you build me up, yellow flower of unknown species.",
+    "file": "floweryellow.object",
+    "name": "Why do you build me up, yellow flower of unknown species.",
+    "path": "objects/farmables/floweryellow"
+  },
+  {
+    "desc": "Brilliant! We can now have rave party themed sushi!",
+    "file": "lumivineseed.object",
+    "name": "Brilliant! We can now have rave party themed sushi!",
+    "path": "objects/farmables/lumivine"
+  },
+  {
+    "desc": "Brilliant! We can now have rave party themed sushi!",
+    "file": "wildlumivineseed.object",
+    "name": "Brilliant! We can now have rave party themed sushi!",
+    "path": "objects/farmables/lumivine"
+  },
+  {
+    "desc": "A blue flower of spring.",
+    "file": "flowerspring.object",
+    "name": "A blue flower of spring.",
+    "path": "objects/farmables/flowerspring"
+  },
+  {
+    "desc": "Two hundred and forty times as spicy as ordinary Chili.",
+    "file": "ignuschili2seed.object",
+    "name": "Two hundred and forty times as spicy as ordinary Chili.",
+    "path": "objects/farmables/ignuschili2"
+  },
+  {
+    "desc": "Fresh Bamboo.",
+    "file": "bambooseed.object",
+    "name": "Fresh Bamboo.",
+    "path": "objects/farmables/bamboo"
+  },
+  {
+    "desc": "Fresh Bamboo.",
+    "file": "wildbambooseed.object",
+    "name": "Fresh Bamboo.",
+    "path": "objects/farmables/bamboo"
+  },
+  {
+    "desc": "I'm not even sure if I want to know what this tastes like...",
+    "file": "bolbohnseed.object",
+    "name": "I'm not even sure if I want to know what this tastes like...",
+    "path": "objects/farmables/bolbohn"
+  },
+  {
+    "desc": "I'm not even sure if I want to know what this tastes like...",
+    "file": "wildbolbohnseed.object",
+    "name": "I'm not even sure if I want to know what this tastes like...",
+    "path": "objects/farmables/bolbohn"
+  },
+  {
+    "desc": "Stupid alien stuff. Looks like a good replacement to a baseball.",
+    "file": "wildkamaranpodsplant.object",
+    "name": "Stupid alien stuff. Looks like a good replacement to a baseball.",
+    "path": "objects/farmables/kamaranpodsplant"
+  },
+  {
+    "desc": "Stupid alien stuff. Looks like a good replacement to a baseball.",
+    "file": "kamaranpodsplant.object",
+    "name": "Stupid alien stuff. Looks like a good replacement to a baseball.",
+    "path": "objects/farmables/kamaranpodsplant"
+  },
+  {
+    "desc": "It looks like rock candy. It tastes like the inside of a full salt shaker.",
+    "file": "wildgemglowseed.object",
+    "name": "It looks like rock candy. It tastes like the inside of a full salt shaker.",
+    "path": "objects/farmables/gemglow"
+  },
+  {
+    "desc": "It looks like rock candy. It tastes like the inside of a full salt shaker.",
+    "file": "gemglowseed.object",
+    "name": "It looks like rock candy. It tastes like the inside of a full salt shaker.",
+    "path": "objects/farmables/gemglow"
+  },
+  {
+    "desc": "Now you're thinking with goo.",
+    "file": "isn_accelgel.object",
+    "name": "Now you're thinking with goo.",
+    "path": "objects/gels/isn_accelgel"
+  },
+  {
+    "desc": "This is like the worst fairground technology ever.",
+    "file": "isn_propulsionstrip_l.object",
+    "name": "This is like the worst fairground technology ever.",
+    "path": "objects/gels/isn_propulsionstrip"
+  },
+  {
+    "desc": "This is like the worst fairground technology ever.",
+    "file": "isn_propulsionstrip_r.object",
+    "name": "This is like the worst fairground technology ever.",
+    "path": "objects/gels/isn_propulsionstrip"
+  },
+  {
+    "desc": "It's a slip-n-slide!",
+    "file": "isn_lowfrictionstrip.object",
+    "name": "It's a slip-n-slide!",
+    "path": "objects/gels/isn_lowfrictionstrip"
+  },
+  {
+    "desc": "Now you're thinking with goo.",
+    "file": "isn_bouncegel.object",
+    "name": "Now you're thinking with goo.",
+    "path": "objects/gels/isn_bouncegel"
+  },
+  {
+    "desc": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "file": "isn_glowgel_y.object",
+    "name": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "file": "isn_glowgel_b.object",
+    "name": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "file": "isn_glowgel_p.object",
+    "name": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "file": "isn_glowgel_r.object",
+    "name": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "file": "isn_glowgel.object",
+    "name": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "file": "isn_glowgel_g.object",
+    "name": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "penguinhighwaymap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "alienjunglemap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "forestoffaemap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "pavillionmap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "skytemplemap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "sunsetridersmap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "snowcrashmap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "lethialabsmap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "infiltrationmap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "avianhydromap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "towerinvinciblemap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "magickaforestmap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "ancienttemplemap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "verdantruinsmap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "grandarenamap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "file": "evernightmap.object",
+    "name": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "I best not touch, this looks incredibly important.",
+    "file": "avalihologramsml2.object",
+    "name": "I best not touch, this looks incredibly important.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "A warning stripe is a warning stripe no matter where you go.",
+    "file": "avalihologramtiny2.object",
+    "name": "A warning stripe is a warning stripe no matter where you go.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Man, if we could attach notes to stuff on a human colony, everything would be covered in doge references within a week.",
+    "file": "avalihologramtiny1.object",
+    "name": "Man, if we could attach notes to stuff on a human colony, everything would be covered in doge references within a week.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Looks like a model of DNA, why is it so many random computer screens show that?",
+    "file": "avalihologramsml3.object",
+    "name": "Looks like a model of DNA, why is it so many random computer screens show that?",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Looks like satellite data from this planet. Can't read the text though.",
+    "file": "avalihologram1.object",
+    "name": "Looks like satellite data from this planet. Can't read the text though.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Some kind of wave form, could be anything.",
+    "file": "avalihologram2.object",
+    "name": "Some kind of wave form, could be anything.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Wait, I know this writing; it says FUS-RO-DAH!",
+    "file": "avalihologramsml1.object",
+    "name": "Wait, I know this writing; it says FUS-RO-DAH!",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Doesn't look too comfy, but I guess it's okay.",
+    "file": "avalichair2.object",
+    "name": "Doesn't look too comfy, but I guess it's okay.",
+    "path": "objects/avaligeneric/chairs"
+  },
+  {
+    "desc": "I have got to get me one of these!",
+    "file": "avalichair1.object",
+    "name": "I have got to get me one of these!",
+    "path": "objects/avaligeneric/chairs"
+  },
+  {
+    "desc": "Human colonies get uneasy when they see craft bearing this emblem in orbit.",
+    "file": "avaliemblem.object",
+    "name": "Human colonies get uneasy when they see craft bearing this emblem in orbit.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "I wonder why the Avali keep their cleaning products in the food cabinet?",
+    "file": "avalibottle1.object",
+    "name": "I wonder why the Avali keep their cleaning products in the food cabinet?",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "Hey, this looks just like a dreamcatcher from Earth.",
+    "file": "avalidreamcatcher1.object",
+    "name": "Hey, this looks just like a dreamcatcher from Earth.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "It doesn't matter what species you are, everyone finds crystals fascinating.",
+    "file": "avalicrystal1.object",
+    "name": "It doesn't matter what species you are, everyone finds crystals fascinating.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "Human colonies get uneasy when they see craft bearing this emblem in orbit.",
+    "file": "avaliemblembig.object",
+    "name": "Human colonies get uneasy when they see craft bearing this emblem in orbit.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "Brings a real carnival spirit to the place.",
+    "file": "avaliribbon1.object",
+    "name": "Brings a real carnival spirit to the place.",
+    "path": "objects/avaligeneric/ribbons"
+  },
+  {
+    "desc": "Warp or weft... which is it that runs lengthways?",
+    "file": "testribbon.object",
+    "name": "Warp or weft... which is it that runs lengthways?",
+    "path": "objects/avaligeneric/ribbons"
+  },
+  {
+    "desc": "Brings a real carnival spirit to the place.",
+    "file": "avaliribbon2.object",
+    "name": "Brings a real carnival spirit to the place.",
+    "path": "objects/avaligeneric/ribbons"
+  },
+  {
+    "desc": "Wireless, I wonder how long the battery lasts?",
+    "file": "avalistriplight.object",
+    "name": "Wireless, I wonder how long the battery lasts?",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "This light is flickering and giving me a headache...",
+    "file": "avalisolidlightblock.object",
+    "name": "This light is flickering and giving me a headache...",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "This light is flickering and giving me a headache...",
+    "file": "avalilightblock.object",
+    "name": "This light is flickering and giving me a headache...",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "This light is flickering and giving me a headache...",
+    "file": "avalilightpanel.object",
+    "name": "This light is flickering and giving me a headache...",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "This light is flickering and giving me a headache...",
+    "file": "avaliaerogellight.object",
+    "name": "This light is flickering and giving me a headache...",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "Looks like a more colorful version of the lab jars back home.",
+    "file": "avalisample1.object",
+    "name": "Looks like a more colorful version of the lab jars back home.",
+    "path": "objects/avaligeneric/lab"
+  },
+  {
+    "desc": "Nope. Nope. NOPE. NOPE! NOPE!!!",
+    "file": "avalisample3.object",
+    "name": "Nope. Nope. NOPE. NOPE! NOPE!!!",
+    "path": "objects/avaligeneric/lab"
+  },
+  {
+    "desc": "Ohhh no, I am NOT bringing any more aliens on my ship, not after the tentacle incident.",
+    "file": "avalisample2.object",
+    "name": "Ohhh no, I am NOT bringing any more aliens on my ship, not after the tentacle incident.",
+    "path": "objects/avaligeneric/lab"
+  },
+  {
+    "desc": "'Public information terminal' in English that's helpful.",
+    "file": "avaliterminal3.object",
+    "name": "'Public information terminal' in English that's helpful.",
+    "path": "objects/avaligeneric/terminal"
+  },
+  {
+    "desc": "Holographic screens are nice and all, but you'd need arms like an apex to not get wrist-ache.",
+    "file": "avaliterminal2.object",
+    "name": "Holographic screens are nice and all, but you'd need arms like an apex to not get wrist-ache.",
+    "path": "objects/avaligeneric/terminal"
+  },
+  {
+    "desc": "Holographic screens are nice and all, but you'd need arms like an apex to not get wrist-ache.",
+    "file": "avaliterminal1.object",
+    "name": "Holographic screens are nice and all, but you'd need arms like an apex to not get wrist-ache.",
+    "path": "objects/avaligeneric/terminal"
+  },
+  {
+    "desc": "Looks more like a gurney than a table. Why is Avali stuff always so, functional?",
+    "file": "avalitable1.object",
+    "name": "Looks more like a gurney than a table. Why is Avali stuff always so, functional?",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "Everything the Avali make looks like an iPod.",
+    "file": "avalitable3.object",
+    "name": "Everything the Avali make looks like an iPod.",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "Everything the Avali make looks like an iPod.",
+    "file": "avalitable2.object",
+    "name": "Everything the Avali make looks like an iPod.",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "Reminds me of traditional Japanese tables, made for kneeling.",
+    "file": "avalitable4.object",
+    "name": "Reminds me of traditional Japanese tables, made for kneeling.",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "It's all scuffed and dinked, looks like this container's been on a few adventures of its own.",
+    "file": "avalichest2.object",
+    "name": "It's all scuffed and dinked, looks like this container's been on a few adventures of its own.",
+    "path": "objects/avaligeneric/containers"
+  },
+  {
+    "desc": "Open sesame?",
+    "file": "avalitechdoor.object",
+    "name": "Open sesame?",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "A hatch for when going horizontal just isn't enough.",
+    "file": "avalidarkverticaldoor.object",
+    "name": "A hatch for when going horizontal just isn't enough.",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "Why do the other races make their doors so needlessly complex?",
+    "file": "avalidarkdoor.object",
+    "name": "Why do the other races make their doors so needlessly complex?",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "A hatch for when going horizontal just isn't enough.",
+    "file": "avalitechverticaldoor.object",
+    "name": "A hatch for when going horizontal just isn't enough.",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "I should probably read the instructions before trying to dry my cat in this thing.",
+    "file": "avalikitchenstove.object",
+    "name": "I should probably read the instructions before trying to dry my cat in this thing.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "Is that a dissection table or a kitchen counter?",
+    "file": "avalicuttingboard.object",
+    "name": "Is that a dissection table or a kitchen counter?",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "Some things can't really be improved upon, drawers are one of those things.",
+    "file": "avalikitchendrawers.object",
+    "name": "Some things can't really be improved upon, drawers are one of those things.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "Well, this undermines the expression 'like selling ice to an Avali'.",
+    "file": "avalikitchenfridge.object",
+    "name": "Well, this undermines the expression 'like selling ice to an Avali'.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "It's a cupboard, could probably get something similar at OKEA.",
+    "file": "avalikitchencupboard.object",
+    "name": "It's a cupboard, could probably get something similar at OKEA.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "It looks like a railgun, but way too small. Maybe it's a toy for kids to play with?",
+    "file": "avaligundisplay1.object",
+    "name": "It looks like a railgun, but way too small. Maybe it's a toy for kids to play with?",
+    "path": "objects/avaligeneric/racks"
+  },
+  {
+    "desc": "It looks like a railgun, but way too small. Maybe it's a toy for kids to play with?",
+    "file": "avaligundisplay2.object",
+    "name": "It looks like a railgun, but way too small. Maybe it's a toy for kids to play with?",
+    "path": "objects/avaligeneric/racks"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avaliweapondisplay1.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier3hammerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier8hammerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier2hammerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier1hammerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier4hammerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier10hammerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier7hammerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier9hammerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier6hammerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier5hammerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier8daggerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier10daggerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier3daggerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier5daggerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier4daggerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier1daggerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier2daggerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier6daggerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier9daggerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/frameddagger/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier7daggerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/frameddagger/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier8speardisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier3speardisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier2speardisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier4speardisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier1speardisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier10speardisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier6speardisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier9speardisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier7speardisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier5speardisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "It looks like a pistol of some sort.",
+    "file": "avaligundisplay4.object",
+    "name": "It looks like a pistol of some sort.",
+    "path": "objects/avaligeneric/racks/guns"
+  },
+  {
+    "desc": "It looks like a gatling gun.",
+    "file": "avaligundisplay3.object",
+    "name": "It looks like a gatling gun.",
+    "path": "objects/avaligeneric/racks/guns"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier10daggerhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier6daggerhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier4daggerhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier8daggerhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier5daggerhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier3daggerhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier2daggerdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier1daggerhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier9daggerhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hangingdagger/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier7daggerhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/hangingdagger/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier2shortswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier2broadswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier1shortswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "theforgottenhero.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier3broadswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier8shortswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier10shortswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier1broadswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier10broadswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier4broadswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier4shortswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier3shortswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier8broadswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier9shortswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier5shortswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier6broadswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier5broadswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier7shortswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier7broadswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier9broadswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier6shortswordhanging.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier2pilumdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/pilum"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier3pilumdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/pilum"
+  },
+  {
+    "desc": "Seems a bit basic for such an advanced race.",
+    "file": "avalitier1pilumdisplay.object",
+    "name": "Seems a bit basic for such an advanced race.",
+    "path": "objects/avaligeneric/racks/pilum"
+  },
+  {
+    "desc": "It looks like one of our compound bows, but appears to create its own ammo from thin air!",
+    "file": "avalibowdisplay01_tier3.object",
+    "name": "It looks like one of our compound bows, but appears to create its own ammo from thin air!",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "It looks like one of our compound bows, but appears to create its own ammo from thin air!",
+    "file": "avalibowdisplay01_tier2.object",
+    "name": "It looks like one of our compound bows, but appears to create its own ammo from thin air!",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "It looks like one of our compound bows, but appears to create its own ammo from thin air!",
+    "file": "avalibowdisplay01_tier4.object",
+    "name": "It looks like one of our compound bows, but appears to create its own ammo from thin air!",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "It looks like one of our compound bows, but appears to create its own ammo from thin air!",
+    "file": "avalibowdisplay01_tier1.object",
+    "name": "It looks like one of our compound bows, but appears to create its own ammo from thin air!",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "I can use this to extract any augment. Neat!",
+    "file": "aex.object",
+    "name": "I can use this to extract any augment. Neat!",
+    "path": "objects/augmentextractor"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "letheiafleetturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "grandarenaturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "infiltrationturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "magickaforestturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "ancienttempleturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "skytempleturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "avianhydroturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "towerinvincibleturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "alienjungleturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "forestoffaeturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "sunsetridersturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "verdantruinsturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "penguinhighwayturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "evernightturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "lethialabsturnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "extrachallengelabs2turnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "extrachallengelabs1turnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "extrachallengelabs3turnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "There's nowhere left to go. This is it, I guess.",
+    "file": "extrachallengelabs4turnin.object",
+    "name": "There's nowhere left to go. This is it, I guess.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "This'll keep me safe!",
+    "file": "referencegenerator.object",
+    "name": "This'll keep me safe!",
+    "path": "objects/generators"
+  },
+  {
+    "desc": "Some jars on a wooden slab with plants in 'em.",
+    "file": "sproutingtable.object",
+    "name": "Some jars on a wooden slab with plants in 'em.",
+    "path": "objects/crafting/sproutingtable"
+  },
+  {
+    "desc": "The stuff here looks like it ought to be in the hands of a statue...",
+    "file": "extraavianaugments.object",
+    "name": "The stuff here looks like it ought to be in the hands of a statue...",
+    "path": "objects/crafting/extraavianaugments"
+  },
+  {
+    "desc": "A dinner bell. Can I ring it? Please!",
+    "file": "cowbell.object",
+    "name": "A dinner bell. Can I ring it? Please!",
+    "path": "objects/crafting/eggstra/cowbell"
+  },
+  {
+    "desc": "A chicken nest.",
+    "file": "chickennest.object",
+    "name": "A chicken nest.",
+    "path": "objects/crafting/eggstra/chickennest"
+  },
+  {
+    "desc": "An incubator.",
+    "file": "eggincubator.object",
+    "name": "An incubator.",
+    "path": "objects/crafting/eggstra/eggincubator"
+  },
+  {
+    "desc": "A Xeno Research Lab.",
+    "file": "xenolab.object",
+    "name": "A Xeno Research Lab.",
+    "path": "objects/crafting/xenostation"
+  },
+  {
+    "desc": "Wiring related equipment can be crafted on this workstation. Neat!",
+    "file": "wiringstation.object",
+    "name": "Wiring related equipment can be crafted on this workstation. Neat!",
+    "path": "objects/crafting/wiringstation"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "extrabonespike.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/traps/extrabonespike"
+  },
+  {
+    "desc": "I don't want to risk it, this thing could still go off.",
+    "file": "poisonmine.object",
+    "name": "I don't want to risk it, this thing could still go off.",
+    "path": "objects/mines"
+  },
+  {
+    "desc": "So many features! It doesn't help that I can't manually interact with it!",
+    "file": "swtjc_wp_advancedswitch_noninteractive.object",
+    "name": "So many features! It doesn't help that I can't manually interact with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "file": "swtjc_wp_advancedswitch_nolatch.object",
+    "name": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "file": "swtjc_wp_advancedswitch.object",
+    "name": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "How many times can I flip this switch on and off I wonder, either by hand, or when its input node is /'on'/?",
+    "file": "swtjc_wp_compactvwallswitch.object",
+    "name": "How many times can I flip this switch on and off I wonder, either by hand, or when its input node is /'on'/?",
+    "path": "objects/wired/smallwallswitch"
+  },
+  {
+    "desc": "How many times can I flip this switch on and off I wonder, either by hand, or when its input node is /'on'/?",
+    "file": "swtjc_wp_compacthwallswitch.object",
+    "name": "How many times can I flip this switch on and off I wonder, either by hand, or when its input node is /'on'/?",
+    "path": "objects/wired/smallwallswitch"
+  },
+  {
+    "desc": "An automated security system.",
+    "file": "fu_laserturret.object",
+    "name": "An automated security system.",
+    "path": "objects/wired/fu_turrets/fu_laserturret"
+  },
+  {
+    "desc": "An automated security system.",
+    "file": "fu_rocketturret.object",
+    "name": "An automated security system.",
+    "path": "objects/wired/fu_turrets/fu_rocketturret"
+  },
+  {
+    "desc": "An automated security system.",
+    "file": "fu_teslaturret.object",
+    "name": "An automated security system.",
+    "path": "objects/wired/fu_turrets/fu_teslaturret"
+  },
+  {
+    "desc": "An automated security system.",
+    "file": "fu_gaussturret.object",
+    "name": "An automated security system.",
+    "path": "objects/wired/fu_turrets/fu_gaussturret"
+  },
+  {
+    "desc": "An automated security system.",
+    "file": "fu_flameturret.object",
+    "name": "An automated security system.",
+    "path": "objects/wired/fu_turrets/fu_flameturret"
+  },
+  {
+    "desc": "A signal emitter that's always on? Maybe I can use it to keep doors open and switches online at all times?",
+    "file": "swtjc_wp_emitter.object",
+    "name": "A signal emitter that's always on? Maybe I can use it to keep doors open and switches online at all times?",
+    "path": "objects/wired/emitter"
+  },
+  {
+    "desc": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "file": "swtjc_wp_brokenemitter.object",
+    "name": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "path": "objects/wired/emitter"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedor.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i12h.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "They really went overboard with programming this thing!",
+    "file": "swtjc_wp_masterlogic.object",
+    "name": "They really went overboard with programming this thing!",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedand.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedor3i.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i2h.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedand3i.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i1h.object",
+    "name": "I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Not all that different from a normal AND Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedand_nolatch.object",
+    "name": "Not all that different from a normal AND Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedor_nolatch.object",
+    "name": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedxor_nolatch.object",
+    "name": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "This thing looks like it could fall apart any second.",
+    "file": "extrateleportradar.object",
+    "name": "This thing looks like it could fall apart any second.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "A radar dish for... Radar things.",
+    "file": "extrateleportradarreturn.object",
+    "name": "A radar dish for... Radar things.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "This thing looks like it could fall apart any second.",
+    "file": "extrateleportradarhome.object",
+    "name": "This thing looks like it could fall apart any second.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "Let's not go overboard with this...",
+    "file": "isn_fissionreactor.object",
+    "name": "Let's not go overboard with this...",
+    "path": "objects/power/isn_fissionreactor"
+  },
+  {
+    "desc": "If this uses quantum physics, I wonder if the signal changes if I observe it.",
+    "file": "isn_radiostation.object",
+    "name": "If this uses quantum physics, I wonder if the signal changes if I observe it.",
+    "path": "objects/power/isn_radiostation"
+  },
+  {
+    "desc": "Oh jeez, this isn't one of those grow houses is it?",
+    "file": "isn_hydroponicstray.object",
+    "name": "Oh jeez, this isn't one of those grow houses is it?",
+    "path": "objects/power/isn_hydroponicstray"
+  },
+  {
+    "desc": "I won't have to worry about the peril of death near this thing!",
+    "file": "isn_atmosregulator.object",
+    "name": "I won't have to worry about the peril of death near this thing!",
+    "path": "objects/power/isn_atmosregulator"
+  },
+  {
+    "desc": "This'll generate a lot of power, but it'll eat up fuel.",
+    "file": "isn_thermalgenerator.object",
+    "name": "This'll generate a lot of power, but it'll eat up fuel.",
+    "path": "objects/power/isn_thermalgenerator"
+  },
+  {
+    "desc": "What goes in does not come out.",
+    "file": "isn_incinerator.object",
+    "name": "What goes in does not come out.",
+    "path": "objects/power/isn_incinerator"
+  },
+  {
+    "desc": "Let's not go overboard with this...",
+    "file": "isn_fissionreactornew.object",
+    "name": "Let's not go overboard with this...",
+    "path": "objects/power/isn_fissionreactornew"
+  },
+  {
+    "desc": "Let's find the mega condenser! Am I saying that too fast?",
+    "file": "isn_atmoscondenser.object",
+    "name": "Let's find the mega condenser! Am I saying that too fast?",
+    "path": "objects/power/isn_atmoscondenser"
+  },
+  {
+    "desc": "I hope it doesn't rain. That'd block out the sun!",
+    "file": "isn_solarpanel.object",
+    "name": "I hope it doesn't rain. That'd block out the sun!",
+    "path": "objects/power/isn_solarpanel"
+  },
+  {
+    "desc": "These are handy for when you can't get your mech to a proper refuelling stop.",
+    "file": "extraenergycanister.object",
+    "name": "These are handy for when you can't get your mech to a proper refuelling stop.",
+    "path": "objects/dispensers"
+  },
+  {
+    "desc": "This is like a gashapon machine, but useful!",
+    "file": "pixeldispenser.object",
+    "name": "This is like a gashapon machine, but useful!",
+    "path": "objects/dispensers"
+  },
+  {
+    "desc": "A cute bed made of grass.",
+    "file": "grassbed.object",
+    "name": "A cute bed made of grass.",
+    "path": "objects/generic/furniture/grassbed"
+  },
+  {
+    "desc": "I wonder how many giraffes I could fit in here?",
+    "file": "voidstorage.object",
+    "name": "I wonder how many giraffes I could fit in here?",
+    "path": "objects/generic/storage3"
+  },
+  {
+    "desc": "It's just a crate.",
+    "file": "smallwoodencrate1.object",
+    "name": "It's just a crate.",
+    "path": "objects/generic/crates"
+  },
+  {
+    "desc": "I enjoyed camping as a child.",
+    "file": "bandittent1.object",
+    "name": "I enjoyed camping as a child.",
+    "path": "objects/generic/bandittent1"
+  },
+  {
+    "desc": "Sometimes I wonder why people like mayo.",
+    "file": "genestorage.object",
+    "name": "Sometimes I wonder why people like mayo.",
+    "path": "objects/generic/storage2"
+  },
+  {
+    "desc": "Sometimes I wonder why people like mayo.",
+    "file": "genecabinet.object",
+    "name": "Sometimes I wonder why people like mayo.",
+    "path": "objects/generic/storage"
+  },
+  {
+    "desc": "...",
+    "file": "crewshop.object",
+    "name": "...",
+    "path": "objects/generic/crewshop"
+  },
+  {
+    "desc": "Looks like a lab table.",
+    "file": "labtable.object",
+    "name": "Looks like a lab table.",
+    "path": "objects/generic/labfurniture/labtable"
+  },
+  {
+    "desc": "Oh boy, it's the kind of vending machine where you win every time!",
+    "file": "labvendingmachine.object",
+    "name": "Oh boy, it's the kind of vending machine where you win every time!",
+    "path": "objects/generic/labfurniture/vendingmachine"
+  },
+  {
+    "desc": "I enjoyed camping as a child.",
+    "file": "bandittent2.object",
+    "name": "I enjoyed camping as a child.",
+    "path": "objects/generic/bandittent2"
+  },
+  {
+    "desc": "Round Wall Clock.",
+    "file": "okeaclock2.object",
+    "name": "Round Wall Clock.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Force Door.",
+    "file": "fuokeahitechforcedoor2.object",
+    "name": "Hi-tech Force Door.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "The most fun I've had in bed since I ate cheese before going to sleep.",
+    "file": "fuokeahitechbed.object",
+    "name": "The most fun I've had in bed since I ate cheese before going to sleep.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Toaster.",
+    "file": "fuokeahitechtoaster.object",
+    "name": "Hi-tech Toaster.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "The most fun I've had in bed since I ate cheese before going to sleep.",
+    "file": "fufloranbed.object",
+    "name": "The most fun I've had in bed since I ate cheese before going to sleep.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Lamp",
+    "file": "fuokeahitechlamp1.object",
+    "name": "Hi-tech Lamp",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Safe.",
+    "file": "fuokeahitechsafe.object",
+    "name": "Hi-tech Safe.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Table.",
+    "file": "fuokeahitechtable.object",
+    "name": "Hi-tech Table.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Wall Lamp.",
+    "file": "fuokeahitechlamp2.object",
+    "name": "Hi-tech Wall Lamp.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Flat Screen TV.",
+    "file": "tv2.object",
+    "name": "Flat Screen TV.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Glitch Prison Wagon.",
+    "file": "fuokeaglitchwagon.object",
+    "name": "Glitch Prison Wagon.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Cupboard.",
+    "file": "fuokeahitechcupboard.object",
+    "name": "Hi-tech Cupboard.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Living Stone Guardian Statue.",
+    "file": "fuokeamagmastatue.object",
+    "name": "Living Stone Guardian Statue.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Force Door.",
+    "file": "fuokeahitechforcedoor.object",
+    "name": "Hi-tech Force Door.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Bookcase.",
+    "file": "fuokeahitechbookcase2.object",
+    "name": "Hi-tech Bookcase.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Cabinet.",
+    "file": "fuokeahitechdrawer.object",
+    "name": "Hi-tech Cabinet.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Whoa, this is like a science exhibit.",
+    "file": "heckbush3.object",
+    "name": "Whoa, this is like a science exhibit.",
+    "path": "objects/biome/heck/heckbush3"
+  },
+  {
+    "desc": "Nice pillar.",
+    "file": "heckpillar1.object",
+    "name": "Nice pillar.",
+    "path": "objects/biome/heck/heckpillar1"
+  },
+  {
+    "desc": "The hairs on the back of my neck are standing up.",
+    "file": "hecklight2.object",
+    "name": "The hairs on the back of my neck are standing up.",
+    "path": "objects/biome/heck/hecklight2"
+  },
+  {
+    "desc": "What a gross light.",
+    "file": "hecklight1.object",
+    "name": "What a gross light.",
+    "path": "objects/biome/heck/hecklight1"
+  },
+  {
+    "desc": "Abandon hope all ye who enter?",
+    "file": "hecksign.object",
+    "name": "Abandon hope all ye who enter?",
+    "path": "objects/biome/heck/hecksign"
+  },
+  {
+    "desc": "Whoa, this is like a science exhibit.",
+    "file": "heckbush1.object",
+    "name": "Whoa, this is like a science exhibit.",
+    "path": "objects/biome/heck/heckbush1"
+  },
+  {
+    "desc": "Nice pillar.",
+    "file": "heckpillar2.object",
+    "name": "Nice pillar.",
+    "path": "objects/biome/heck/heckpillar2"
+  },
+  {
+    "desc": "A pretty gross chest made of flesh.",
+    "file": "heckchest.object",
+    "name": "A pretty gross chest made of flesh.",
+    "path": "objects/biome/heck/heckchest"
+  },
+  {
+    "desc": "Whoa, this is like a science exhibit.",
+    "file": "heckbush7.object",
+    "name": "Whoa, this is like a science exhibit.",
+    "path": "objects/biome/heck/heckbush7"
+  },
+  {
+    "desc": "Whoa, this is like a science exhibit.",
+    "file": "heckbush9.object",
+    "name": "Whoa, this is like a science exhibit.",
+    "path": "objects/biome/heck/heckbush9"
+  },
+  {
+    "desc": "What eldritch horrors are worshipped here? And when did I learn the word eldritch?",
+    "file": "heckaltar.object",
+    "name": "What eldritch horrors are worshipped here? And when did I learn the word eldritch?",
+    "path": "objects/biome/heck/heckaltar"
+  },
+  {
+    "desc": "Whoa, this is like a science exhibit.",
+    "file": "heckbush10.object",
+    "name": "Whoa, this is like a science exhibit.",
+    "path": "objects/biome/heck/heckbush10"
+  },
+  {
+    "desc": "Whoa, this is like a science exhibit.",
+    "file": "heckbush8.object",
+    "name": "Whoa, this is like a science exhibit.",
+    "path": "objects/biome/heck/heckbush8"
+  },
+  {
+    "desc": "Whoa, this is like a science exhibit.",
+    "file": "heckbush5.object",
+    "name": "Whoa, this is like a science exhibit.",
+    "path": "objects/biome/heck/heckbush5"
+  },
+  {
+    "desc": "Whoa, this is like a science exhibit.",
+    "file": "heckbush6.object",
+    "name": "Whoa, this is like a science exhibit.",
+    "path": "objects/biome/heck/heckbush6"
+  },
+  {
+    "desc": "Whoa, this is like a science exhibit.",
+    "file": "heckbush2.object",
+    "name": "Whoa, this is like a science exhibit.",
+    "path": "objects/biome/heck/heckbush2"
+  },
+  {
+    "desc": "Whoa, this is like a science exhibit.",
+    "file": "heckbush4.object",
+    "name": "Whoa, this is like a science exhibit.",
+    "path": "objects/biome/heck/heckbush4"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderfloorspike3.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike3"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderfloorspike4.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike4"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderceilingspike3.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike3"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderceilingspike4.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike4"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderceilingspike2.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike2"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderfloorspike8.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike8"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderceilingspike6.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike6"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderceilingspike7.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike7"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderceilingspike5.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike5"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderceilingspike8.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike8"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderfloorspike7.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike7"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderceilingspike1.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike1"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderfloorspike2.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike2"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderfloorspike5.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike5"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderfloorspike1.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike1"
+  },
+  {
+    "desc": "I'd better not touch these.",
+    "file": "elderfloorspike6.object",
+    "name": "I'd better not touch these.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike6"
+  },
+  {
+    "desc": "Sitting at this table would make me feel like magical royalty.",
+    "file": "fuhoneycrystaltable.object",
+    "name": "Sitting at this table would make me feel like magical royalty.",
+    "path": "objects/minibiome/honey/fuhoneycrystaltable"
+  },
+  {
+    "desc": "An roomy cabinet. Not to be mistaken for an outhouse.",
+    "file": "fugoldenoakcabinet.object",
+    "name": "An roomy cabinet. Not to be mistaken for an outhouse.",
+    "path": "objects/minibiome/honey/fugoldenoakcabinet"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush11.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush16.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush5.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush6.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush14.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush12.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystallarge3.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush15.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush8.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush17.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush13.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush10.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush9.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Ooh, pretty.",
+    "file": "crystalcavebush7.object",
+    "name": "Ooh, pretty.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "This old console hasn't been used in a long time.",
+    "file": "techbush1.object",
+    "name": "This old console hasn't been used in a long time.",
+    "path": "objects/wasteland/techbush1"
+  },
+  {
+    "desc": "Can't read the sign, but the only thing in that direction is the stars.",
+    "file": "techbush6.object",
+    "name": "Can't read the sign, but the only thing in that direction is the stars.",
+    "path": "objects/wasteland/techbush6"
+  },
+  {
+    "desc": "This console is junk at this point.",
+    "file": "techbush2.object",
+    "name": "This console is junk at this point.",
+    "path": "objects/wasteland/techbush2"
+  },
+  {
+    "desc": "Whoever made this was technologically advanced, but its purpose is lost.",
+    "file": "techbush3.object",
+    "name": "Whoever made this was technologically advanced, but its purpose is lost.",
+    "path": "objects/wasteland/techbush3"
+  },
+  {
+    "desc": "You don't need to read their language to know that sign isn't good.",
+    "file": "techbush4.object",
+    "name": "You don't need to read their language to know that sign isn't good.",
+    "path": "objects/wasteland/techbush4"
+  },
+  {
+    "desc": "Something tells me this isn't an ad for tourism.",
+    "file": "techbush5.object",
+    "name": "Something tells me this isn't an ad for tourism.",
+    "path": "objects/wasteland/techbush5"
+  },
+  {
+    "desc": "A pretty little candle.",
+    "file": "redcandle.object",
+    "name": "A pretty little candle.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "A pretty little candle.",
+    "file": "flowercandle.object",
+    "name": "A pretty little candle.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "A pretty little candle.",
+    "file": "waxcandle.object",
+    "name": "A pretty little candle.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "A pretty little candle.",
+    "file": "bluecandle.object",
+    "name": "A pretty little candle.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "A pretty little candle.",
+    "file": "ghostcandle.object",
+    "name": "A pretty little candle.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "aerostatsail2.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "aerostatsail1.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "aerostatsail4.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "aerostatsail3.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "campsmallwall1.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avalicamp/modulartent/smallwall"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "campsmallwall2.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avalicamp/modulartent/smallwall"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "camplargewall1.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avalicamp/modulartent/largewall"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "camplargewall2.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avalicamp/modulartent/largewall"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "campsmallentry2.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avalicamp/modulartent/smallentry"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "campsmallentry1.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avalicamp/modulartent/smallentry"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "campslope2.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avalicamp/modulartent/slope"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "campslope1.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avalicamp/modulartent/slope"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "camplargeentry2.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avalicamp/modulartent/largeentry"
+  },
+  {
+    "desc": "But what is camping without marshmallows?",
+    "file": "camplargeentry1.object",
+    "name": "But what is camping without marshmallows?",
+    "path": "objects/avalicamp/modulartent/largeentry"
+  },
+  {
+    "desc": "I'll freeze to death without bed clothes.",
+    "file": "avalicushion2.object",
+    "name": "I'll freeze to death without bed clothes.",
+    "path": "objects/avalicamp/cushions"
+  },
+  {
+    "desc": "Truly, Avali civilisation is beyond doubt, they have beanie chairs!",
+    "file": "avalicushion1.object",
+    "name": "Truly, Avali civilisation is beyond doubt, they have beanie chairs!",
+    "path": "objects/avalicamp/cushions"
+  },
+  {
+    "desc": "I guess that's one alternative to shelves.",
+    "file": "avalihammock2.object",
+    "name": "I guess that's one alternative to shelves.",
+    "path": "objects/avalicamp/hammocks"
+  },
+  {
+    "desc": "I'd love to set this up between a couple palm trees on a tropical world.",
+    "file": "avalihammock1.object",
+    "name": "I'd love to set this up between a couple palm trees on a tropical world.",
+    "path": "objects/avalicamp/hammocks"
+  },
+  {
+    "desc": "Well, if nothing else it'll protect the modesty of those inside.",
+    "file": "campdoor.object",
+    "name": "Well, if nothing else it'll protect the modesty of those inside.",
+    "path": "objects/avalicamp/doors"
+  }
+]

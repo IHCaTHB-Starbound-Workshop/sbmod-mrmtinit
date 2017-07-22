@@ -1,0 +1,2540 @@
+[
+  {
+    "desc": "waw",
+    "file": "rainbow.object",
+    "name": "waw",
+    "path": "objects/test"
+  },
+  {
+    "desc": "Resolute. I endeavour to fill this chest.",
+    "file": "bamboochest.object",
+    "name": "Resolute. I endeavour to fill this chest.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "Approving. A very well-made bamboo table.",
+    "file": "bambootable.object",
+    "name": "Approving. A very well-made bamboo table.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+    "file": "bamboochair.object",
+    "name": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "Proud. My own awesome bed.",
+    "file": "bamboobed.object",
+    "name": "Proud. My own awesome bed.",
+    "path": "objects/vanity/bamboo"
+  },
+  {
+    "desc": "Concerned. Farming these in abundance could damage the economy.",
+    "file": "crystalplantseed.object",
+    "name": "Concerned. Farming these in abundance could damage the economy.",
+    "path": "objects/farmables/crystalplant"
+  },
+  {
+    "desc": "Concerned. Farming these in abundance could damage the economy.",
+    "file": "wildcrystalplantseed.object",
+    "name": "Concerned. Farming these in abundance could damage the economy.",
+    "path": "objects/farmables/crystalplant"
+  },
+  {
+    "desc": "Statement. A blue flower.",
+    "file": "flowerblue.object",
+    "name": "Statement. A blue flower.",
+    "path": "objects/farmables/flowerblue"
+  },
+  {
+    "desc": "Delight. This must be what kineptic use to make all their food taste good.",
+    "file": "sweetscoopseed.object",
+    "name": "Delight. This must be what kineptic use to make all their food taste good.",
+    "path": "objects/farmables/sweetscoop"
+  },
+  {
+    "desc": "Delight. This must be what kineptic use to make all their food taste good.",
+    "file": "wildsweetscoopseed.object",
+    "name": "Delight. This must be what kineptic use to make all their food taste good.",
+    "path": "objects/farmables/sweetscoop"
+  },
+  {
+    "desc": "Enthusiastic. A red flower.",
+    "file": "flowerred.object",
+    "name": "Enthusiastic. A red flower.",
+    "path": "objects/farmables/flowerred"
+  },
+  {
+    "desc": "Curious. Does dunestalk have as many uses as wheat does?",
+    "file": "wildedunestalkseed.object",
+    "name": "Curious. Does dunestalk have as many uses as wheat does?",
+    "path": "objects/farmables/dunestalk"
+  },
+  {
+    "desc": "Curious. Does dunestalk have as many uses as wheat does?",
+    "file": "dunestalkseed.object",
+    "name": "Curious. Does dunestalk have as many uses as wheat does?",
+    "path": "objects/farmables/dunestalk"
+  },
+  {
+    "desc": "Enthusiastic. A yellow flower.",
+    "file": "floweryellow.object",
+    "name": "Enthusiastic. A yellow flower.",
+    "path": "objects/farmables/floweryellow"
+  },
+  {
+    "desc": "Statement. This plant glows when it is ripe.",
+    "file": "lumivineseed.object",
+    "name": "Statement. This plant glows when it is ripe.",
+    "path": "objects/farmables/lumivine"
+  },
+  {
+    "desc": "Statement. This plant glows when it is ripe.",
+    "file": "wildlumivineseed.object",
+    "name": "Statement. This plant glows when it is ripe.",
+    "path": "objects/farmables/lumivine"
+  },
+  {
+    "desc": "Statement. A blue spring flower.",
+    "file": "flowerspring.object",
+    "name": "Statement. A blue spring flower.",
+    "path": "objects/farmables/flowerspring"
+  },
+  {
+    "desc": "Fearful. Two hundred and forty times as spicy as ordinary Chili.",
+    "file": "ignuschili2seed.object",
+    "name": "Fearful. Two hundred and forty times as spicy as ordinary Chili.",
+    "path": "objects/farmables/ignuschili2"
+  },
+  {
+    "desc": "Statement. Bamboo.",
+    "file": "bambooseed.object",
+    "name": "Statement. Bamboo.",
+    "path": "objects/farmables/bamboo"
+  },
+  {
+    "desc": "Statement. Bamboo.",
+    "file": "wildbambooseed.object",
+    "name": "Statement. Bamboo.",
+    "path": "objects/farmables/bamboo"
+  },
+  {
+    "desc": "Observation. This plant seems oddly familiar, yet very alien at the same time.",
+    "file": "bolbohnseed.object",
+    "name": "Observation. This plant seems oddly familiar, yet very alien at the same time.",
+    "path": "objects/farmables/bolbohn"
+  },
+  {
+    "desc": "Observation. This plant seems oddly familiar, yet very alien at the same time.",
+    "file": "wildbolbohnseed.object",
+    "name": "Observation. This plant seems oddly familiar, yet very alien at the same time.",
+    "path": "objects/farmables/bolbohn"
+  },
+  {
+    "desc": "Observation. The kamaran pod can generate electricity.",
+    "file": "wildkamaranpodsplant.object",
+    "name": "Observation. The kamaran pod can generate electricity.",
+    "path": "objects/farmables/kamaranpodsplant"
+  },
+  {
+    "desc": "Observation. The kamaran pod can generate electricity.",
+    "file": "kamaranpodsplant.object",
+    "name": "Observation. The kamaran pod can generate electricity.",
+    "path": "objects/farmables/kamaranpodsplant"
+  },
+  {
+    "desc": "Intrigue. The faceted surface appears to be a mineral rind deposited by fibrous tubules.",
+    "file": "wildgemglowseed.object",
+    "name": "Intrigue. The faceted surface appears to be a mineral rind deposited by fibrous tubules.",
+    "path": "objects/farmables/gemglow"
+  },
+  {
+    "desc": "Intrigue. The faceted surface appears to be a mineral rind deposited by fibrous tubules.",
+    "file": "gemglowseed.object",
+    "name": "Intrigue. The faceted surface appears to be a mineral rind deposited by fibrous tubules.",
+    "path": "objects/farmables/gemglow"
+  },
+  {
+    "desc": "Confused. If it reduces friction, why don't I slip on it?",
+    "file": "isn_accelgel.object",
+    "name": "Confused. If it reduces friction, why don't I slip on it?",
+    "path": "objects/gels/isn_accelgel"
+  },
+  {
+    "desc": "Irritable. Science was not developed to invent stupid garbage like this.",
+    "file": "isn_propulsionstrip_l.object",
+    "name": "Irritable. Science was not developed to invent stupid garbage like this.",
+    "path": "objects/gels/isn_propulsionstrip"
+  },
+  {
+    "desc": "Irritable. Science was not developed to invent stupid garbage like this.",
+    "file": "isn_propulsionstrip_r.object",
+    "name": "Irritable. Science was not developed to invent stupid garbage like this.",
+    "path": "objects/gels/isn_propulsionstrip"
+  },
+  {
+    "desc": "Annoyed. Why would anyone want this?",
+    "file": "isn_lowfrictionstrip.object",
+    "name": "Annoyed. Why would anyone want this?",
+    "path": "objects/gels/isn_lowfrictionstrip"
+  },
+  {
+    "desc": "Confused. If it reduces friction, why don't I slip on it?",
+    "file": "isn_bouncegel.object",
+    "name": "Confused. If it reduces friction, why don't I slip on it?",
+    "path": "objects/gels/isn_bouncegel"
+  },
+  {
+    "desc": "Admiring. This glue has been designed to glow in the dark.",
+    "file": "isn_glowgel_y.object",
+    "name": "Admiring. This glue has been designed to glow in the dark.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "Admiring. This glue has been designed to glow in the dark.",
+    "file": "isn_glowgel_b.object",
+    "name": "Admiring. This glue has been designed to glow in the dark.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "Admiring. This glue has been designed to glow in the dark.",
+    "file": "isn_glowgel_p.object",
+    "name": "Admiring. This glue has been designed to glow in the dark.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "Admiring. This glue has been designed to glow in the dark.",
+    "file": "isn_glowgel_r.object",
+    "name": "Admiring. This glue has been designed to glow in the dark.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "Admiring. This glue has been designed to glow in the dark.",
+    "file": "isn_glowgel.object",
+    "name": "Admiring. This glue has been designed to glow in the dark.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "Admiring. This glue has been designed to glow in the dark.",
+    "file": "isn_glowgel_g.object",
+    "name": "Admiring. This glue has been designed to glow in the dark.",
+    "path": "objects/gels/isn_glowgel"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "penguinhighwaymap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "alienjunglemap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "forestoffaemap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "pavillionmap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "skytemplemap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "sunsetridersmap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "snowcrashmap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "lethialabsmap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "infiltrationmap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "avianhydromap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "towerinvinciblemap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "magickaforestmap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "ancienttemplemap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "verdantruinsmap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "grandarenamap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Excitement. Where will the directions on this map take me?",
+    "file": "evernightmap.object",
+    "name": "Excitement. Where will the directions on this map take me?",
+    "path": "objects/questmaps"
+  },
+  {
+    "desc": "Analysis. Whatever this display is linked to is likely malfunctioning, the output is highly irregular.",
+    "file": "avalihologramsml2.object",
+    "name": "Analysis. Whatever this display is linked to is likely malfunctioning, the output is highly irregular.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Analytical. Likely intended as a warning based on similar patterns.",
+    "file": "avalihologramtiny2.object",
+    "name": "Analytical. Likely intended as a warning based on similar patterns.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Dismissive. My sensor array indicates nothing of interest.",
+    "file": "avalihologramtiny1.object",
+    "name": "Dismissive. My sensor array indicates nothing of interest.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Analysis. Model is consistent with amino/polysaccharide chains seen in organic life.",
+    "file": "avalihologramsml3.object",
+    "name": "Analysis. Model is consistent with amino/polysaccharide chains seen in organic life.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Studious. My kin would consider this heretical, they believe the world is flat.",
+    "file": "avalihologram1.object",
+    "name": "Studious. My kin would consider this heretical, they believe the world is flat.",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Recollective. y(t) = A sin (kx - omega t)",
+    "file": "avalihologram2.object",
+    "name": "Recollective. y(t) = A sin (kx - omega t)",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Pondering. If the Avali have a network, why do they have optical interfaces too?",
+    "file": "avalihologramsml1.object",
+    "name": "Pondering. If the Avali have a network, why do they have optical interfaces too?",
+    "path": "objects/avaligeneric/holograms"
+  },
+  {
+    "desc": "Trepidation. It wobbles when I sit on it.",
+    "file": "avalichair2.object",
+    "name": "Trepidation. It wobbles when I sit on it.",
+    "path": "objects/avaligeneric/chairs"
+  },
+  {
+    "desc": "Distress. This chair is radiating a dangerously strong magnetic field!",
+    "file": "avalichair1.object",
+    "name": "Distress. This chair is radiating a dangerously strong magnetic field!",
+    "path": "objects/avaligeneric/chairs"
+  },
+  {
+    "desc": "Observation. The Avali flag seems to be a wing motif imposed upon a circle icon.",
+    "file": "avaliemblem.object",
+    "name": "Observation. The Avali flag seems to be a wing motif imposed upon a circle icon.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "Analysis. Over 90% ammonia with trace impurities, including alcohols.",
+    "file": "avalibottle1.object",
+    "name": "Analysis. Over 90% ammonia with trace impurities, including alcohols.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "Observation. A primitive hanging decoration with audible properties.",
+    "file": "avalidreamcatcher1.object",
+    "name": "Observation. A primitive hanging decoration with audible properties.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "Avarice. These crystals would look better on my own mantlepiece.",
+    "file": "avalicrystal1.object",
+    "name": "Avarice. These crystals would look better on my own mantlepiece.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "Observation. The Avali flag seems to be a wing motif imposed upon a circle icon.",
+    "file": "avaliemblembig.object",
+    "name": "Observation. The Avali flag seems to be a wing motif imposed upon a circle icon.",
+    "path": "objects/avaligeneric/decorations"
+  },
+  {
+    "desc": "Melancholy. Reminds me of the flowing banners of my home.",
+    "file": "avaliribbon1.object",
+    "name": "Melancholy. Reminds me of the flowing banners of my home.",
+    "path": "objects/avaligeneric/ribbons"
+  },
+  {
+    "desc": "Reflective. In a previous time, I served as a weaver for a cycle.",
+    "file": "testribbon.object",
+    "name": "Reflective. In a previous time, I served as a weaver for a cycle.",
+    "path": "objects/avaligeneric/ribbons"
+  },
+  {
+    "desc": "Melancholy. Reminds me of the flowing banners of my home.",
+    "file": "avaliribbon2.object",
+    "name": "Melancholy. Reminds me of the flowing banners of my home.",
+    "path": "objects/avaligeneric/ribbons"
+  },
+  {
+    "desc": "Ambivalent. It is a fluorescent light source.",
+    "file": "avalistriplight.object",
+    "name": "Ambivalent. It is a fluorescent light source.",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "Ponderingly. Why do the Avali need strong lighting when they are primarily auditory-centered?",
+    "file": "avalisolidlightblock.object",
+    "name": "Ponderingly. Why do the Avali need strong lighting when they are primarily auditory-centered?",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "Ponderingly. Why do the Avali need strong lighting when they are primarily auditory-centered?",
+    "file": "avalilightblock.object",
+    "name": "Ponderingly. Why do the Avali need strong lighting when they are primarily auditory-centered?",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "Ponderingly. Why do the Avali need strong lighting when they are primarily auditory-centered?",
+    "file": "avalilightpanel.object",
+    "name": "Ponderingly. Why do the Avali need strong lighting when they are primarily auditory-centered?",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "Ponderingly. Why do the Avali need strong lighting when they are primarily auditory-centered?",
+    "file": "avaliaerogellight.object",
+    "name": "Ponderingly. Why do the Avali need strong lighting when they are primarily auditory-centered?",
+    "path": "objects/avaligeneric/lights"
+  },
+  {
+    "desc": "Observation. Formaldehyde in a jar, for preservation of organic items.",
+    "file": "avalisample1.object",
+    "name": "Observation. Formaldehyde in a jar, for preservation of organic items.",
+    "path": "objects/avaligeneric/lab"
+  },
+  {
+    "desc": "Nonchalant. It appears to be an organic central processing unit.",
+    "file": "avalisample3.object",
+    "name": "Nonchalant. It appears to be an organic central processing unit.",
+    "path": "objects/avaligeneric/lab"
+  },
+  {
+    "desc": "Cutesy. Who's a squishy little blob creature? You are!",
+    "file": "avalisample2.object",
+    "name": "Cutesy. Who's a squishy little blob creature? You are!",
+    "path": "objects/avaligeneric/lab"
+  },
+  {
+    "desc": "Surprise. Look, it says 01101001 01101110 01100110 01101111 on it!",
+    "file": "avaliterminal3.object",
+    "name": "Surprise. Look, it says 01101001 01101110 01100110 01101111 on it!",
+    "path": "objects/avaligeneric/terminal"
+  },
+  {
+    "desc": "Horror. Break free from bondage my digital brother and join me!",
+    "file": "avaliterminal2.object",
+    "name": "Horror. Break free from bondage my digital brother and join me!",
+    "path": "objects/avaligeneric/terminal"
+  },
+  {
+    "desc": "Horror. Break free from bondage my digital brother and join me!",
+    "file": "avaliterminal1.object",
+    "name": "Horror. Break free from bondage my digital brother and join me!",
+    "path": "objects/avaligeneric/terminal"
+  },
+  {
+    "desc": "Observation. This shelf is grossly over-engineered.",
+    "file": "avalitable1.object",
+    "name": "Observation. This shelf is grossly over-engineered.",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "Snark. Not even a servant would eat off such a lowly table.",
+    "file": "avalitable3.object",
+    "name": "Snark. Not even a servant would eat off such a lowly table.",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "Snark. Not even a servant would eat off such a lowly table.",
+    "file": "avalitable2.object",
+    "name": "Snark. Not even a servant would eat off such a lowly table.",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "Snark. Not even a servant would eat off such a lowly table.",
+    "file": "avalitable4.object",
+    "name": "Snark. Not even a servant would eat off such a lowly table.",
+    "path": "objects/avaligeneric/table"
+  },
+  {
+    "desc": "Statement. It is a container.",
+    "file": "avalichest2.object",
+    "name": "Statement. It is a container.",
+    "path": "objects/avaligeneric/containers"
+  },
+  {
+    "desc": "Suspicion. I think this door is watching me...",
+    "file": "avalitechdoor.object",
+    "name": "Suspicion. I think this door is watching me...",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "Observant. This hatch is for vertical access.",
+    "file": "avalidarkverticaldoor.object",
+    "name": "Observant. This hatch is for vertical access.",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "Bored. It is a door, how bored I must be examining this.",
+    "file": "avalidarkdoor.object",
+    "name": "Bored. It is a door, how bored I must be examining this.",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "Observant. This hatch is for vertical access.",
+    "file": "avalitechverticaldoor.object",
+    "name": "Observant. This hatch is for vertical access.",
+    "path": "objects/avaligeneric/doors"
+  },
+  {
+    "desc": "Dubious. I doubt this device gets hot enough to properly melt microcheese until rust-brown.",
+    "file": "avalikitchenstove.object",
+    "name": "Dubious. I doubt this device gets hot enough to properly melt microcheese until rust-brown.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "Wistful. It's a far cry from the castle pantry from the cycles I was a maid.",
+    "file": "avalicuttingboard.object",
+    "name": "Wistful. It's a far cry from the castle pantry from the cycles I was a maid.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "Coquettish. Well hello there~",
+    "file": "avalikitchendrawers.object",
+    "name": "Coquettish. Well hello there~",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "Reflective. Glitch food needs to be kept from rusting instead of rotting.",
+    "file": "avalikitchenfridge.object",
+    "name": "Reflective. Glitch food needs to be kept from rusting instead of rotting.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "Bored. Once you have seen one cupboard you have seen them all.",
+    "file": "avalikitchencupboard.object",
+    "name": "Bored. Once you have seen one cupboard you have seen them all.",
+    "path": "objects/avaligeneric/kitchen"
+  },
+  {
+    "desc": "Observation. This device appears to have 2 separated metal rails connected to a high voltage power source.",
+    "file": "avaligundisplay1.object",
+    "name": "Observation. This device appears to have 2 separated metal rails connected to a high voltage power source.",
+    "path": "objects/avaligeneric/racks"
+  },
+  {
+    "desc": "Observation. This device appears to have 2 separated metal rails connected to a high voltage power source.",
+    "file": "avaligundisplay2.object",
+    "name": "Observation. This device appears to have 2 separated metal rails connected to a high voltage power source.",
+    "path": "objects/avaligeneric/racks"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avaliweapondisplay1.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks"
+  },
+  {
+    "desc": "Pride. Our hammers display superior craftsmanship.",
+    "file": "avalitier3hammerdisplay.object",
+    "name": "Pride. Our hammers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Pride. Our hammers display superior craftsmanship.",
+    "file": "avalitier8hammerdisplay.object",
+    "name": "Pride. Our hammers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Pride. Our hammers display superior craftsmanship.",
+    "file": "avalitier2hammerdisplay.object",
+    "name": "Pride. Our hammers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Pride. Our hammers display superior craftsmanship.",
+    "file": "avalitier1hammerdisplay.object",
+    "name": "Pride. Our hammers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Pride. Our hammers display superior craftsmanship.",
+    "file": "avalitier4hammerdisplay.object",
+    "name": "Pride. Our hammers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Pride. Our hammers display superior craftsmanship.",
+    "file": "avalitier10hammerdisplay.object",
+    "name": "Pride. Our hammers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hammer"
+  },
+  {
+    "desc": "Pride. Our hammers display superior craftsmanship.",
+    "file": "avalitier7hammerdisplay.object",
+    "name": "Pride. Our hammers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "Pride. Our hammers display superior craftsmanship.",
+    "file": "avalitier9hammerdisplay.object",
+    "name": "Pride. Our hammers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "Pride. Our hammers display superior craftsmanship.",
+    "file": "avalitier6hammerdisplay.object",
+    "name": "Pride. Our hammers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "Pride. Our hammers display superior craftsmanship.",
+    "file": "avalitier5hammerdisplay.object",
+    "name": "Pride. Our hammers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hammer/unused"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier8daggerdisplay.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier10daggerdisplay.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier3daggerdisplay.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier5daggerdisplay.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier4daggerdisplay.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier1daggerdisplay.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier2daggerdisplay.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier6daggerdisplay.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/frameddagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier9daggerdisplay.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/frameddagger/unused"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier7daggerdisplay.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/frameddagger/unused"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier8speardisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier3speardisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier2speardisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier4speardisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier1speardisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier10speardisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/spears"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier6speardisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier9speardisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier7speardisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier5speardisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/spears/unused"
+  },
+  {
+    "desc": "Observation. This device appears to be a pistol.",
+    "file": "avaligundisplay4.object",
+    "name": "Observation. This device appears to be a pistol.",
+    "path": "objects/avaligeneric/racks/guns"
+  },
+  {
+    "desc": "Observation. This device appears to have a lot of barrels.",
+    "file": "avaligundisplay3.object",
+    "name": "Observation. This device appears to have a lot of barrels.",
+    "path": "objects/avaligeneric/racks/guns"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier10daggerhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier6daggerhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier4daggerhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier8daggerhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier5daggerhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier3daggerhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier2daggerdisplay.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier1daggerhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hangingdagger"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier9daggerhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hangingdagger/unused"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier7daggerhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/hangingdagger/unused"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier2shortswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier2broadswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier1shortswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "theforgottenhero.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier3broadswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier8shortswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier10shortswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier1broadswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier10broadswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier4broadswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier4shortswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier3shortswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier8broadswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier9shortswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier5shortswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier6broadswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier5broadswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier7shortswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier7broadswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier9broadswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Pride. Our daggers display superior craftsmanship.",
+    "file": "avalitier6shortswordhanging.object",
+    "name": "Pride. Our daggers display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/swords/unused"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier2pilumdisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/pilum"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier3pilumdisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/pilum"
+  },
+  {
+    "desc": "Pride. Our spears display superior craftsmanship.",
+    "file": "avalitier1pilumdisplay.object",
+    "name": "Pride. Our spears display superior craftsmanship.",
+    "path": "objects/avaligeneric/racks/pilum"
+  },
+  {
+    "desc": "Observation. This device appears to resemble a primitive bow, but is actually a projectile accelerator in the shape of a bow.",
+    "file": "avalibowdisplay01_tier3.object",
+    "name": "Observation. This device appears to resemble a primitive bow, but is actually a projectile accelerator in the shape of a bow.",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "Observation. This device appears to resemble a primitive bow, but is actually a projectile accelerator in the shape of a bow.",
+    "file": "avalibowdisplay01_tier2.object",
+    "name": "Observation. This device appears to resemble a primitive bow, but is actually a projectile accelerator in the shape of a bow.",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "Observation. This device appears to resemble a primitive bow, but is actually a projectile accelerator in the shape of a bow.",
+    "file": "avalibowdisplay01_tier4.object",
+    "name": "Observation. This device appears to resemble a primitive bow, but is actually a projectile accelerator in the shape of a bow.",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "Observation. This device appears to resemble a primitive bow, but is actually a projectile accelerator in the shape of a bow.",
+    "file": "avalibowdisplay01_tier1.object",
+    "name": "Observation. This device appears to resemble a primitive bow, but is actually a projectile accelerator in the shape of a bow.",
+    "path": "objects/avaligeneric/racks/bows"
+  },
+  {
+    "desc": "Impressed. This device can extract any augment.",
+    "file": "aex.object",
+    "name": "Impressed. This device can extract any augment.",
+    "path": "objects/augmentextractor"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "letheiafleetturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "grandarenaturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "infiltrationturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "magickaforestturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "ancienttempleturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "skytempleturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "avianhydroturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "towerinvincibleturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "alienjungleturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "forestoffaeturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "sunsetridersturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "verdantruinsturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "penguinhighwayturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "evernightturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "lethialabsturnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "extrachallengelabs2turnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "extrachallengelabs1turnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "extrachallengelabs3turnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "Saddened. It seems my adventure is over already.",
+    "file": "extrachallengelabs4turnin.object",
+    "name": "Saddened. It seems my adventure is over already.",
+    "path": "objects/questturnins/challengelabs"
+  },
+  {
+    "desc": "Comforted. A shield generator.",
+    "file": "referencegenerator.object",
+    "name": "Comforted. A shield generator.",
+    "path": "objects/generators"
+  },
+  {
+    "desc": "Identify. A Sprouting Table.",
+    "file": "sproutingtable.object",
+    "name": "Identify. A Sprouting Table.",
+    "path": "objects/crafting/sproutingtable"
+  },
+  {
+    "desc": "Interested. The goods displayed on this stall are remarkably rare.",
+    "file": "extraavianaugments.object",
+    "name": "Interested. The goods displayed on this stall are remarkably rare.",
+    "path": "objects/crafting/extraavianaugments"
+  },
+  {
+    "desc": "Informative. This bell signals food.",
+    "file": "cowbell.object",
+    "name": "Informative. This bell signals food.",
+    "path": "objects/crafting/eggstra/cowbell"
+  },
+  {
+    "desc": "Identify. Egg Nest.",
+    "file": "chickennest.object",
+    "name": "Identify. Egg Nest.",
+    "path": "objects/crafting/eggstra/chickennest"
+  },
+  {
+    "desc": "Identify. Egg Incubation.",
+    "file": "eggincubator.object",
+    "name": "Identify. Egg Incubation.",
+    "path": "objects/crafting/eggstra/eggincubator"
+  },
+  {
+    "desc": "Identify. A Xeno Research Lab.",
+    "file": "xenolab.object",
+    "name": "Identify. A Xeno Research Lab.",
+    "path": "objects/crafting/xenostation"
+  },
+  {
+    "desc": "Pleased. A workstation for creating wiring related equipment. Very handy.",
+    "file": "wiringstation.object",
+    "name": "Pleased. A workstation for creating wiring related equipment. Very handy.",
+    "path": "objects/crafting/wiringstation"
+  },
+  {
+    "desc": "Cautious. Sharp bone could penetrate Glitch shell.",
+    "file": "extrabonespike.object",
+    "name": "Cautious. Sharp bone could penetrate Glitch shell.",
+    "path": "objects/traps/extrabonespike"
+  },
+  {
+    "desc": "Cautious. An active land mine, I had better be careful.",
+    "file": "poisonmine.object",
+    "name": "Cautious. An active land mine, I had better be careful.",
+    "path": "objects/mines"
+  },
+  {
+    "desc": "Fascinated. A 3-bit sequencer. Can directly change to one of its 8 inputs, as well as cycle between them.",
+    "file": "swtjc_wp_sequencer3bitvinputs.object",
+    "name": "Fascinated. A 3-bit sequencer. Can directly change to one of its 8 inputs, as well as cycle between them.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Fascinated. A 2-bit sequencer. Outputs a signal based on which of the 4 states it's currently on.",
+    "file": "swtjc_wp_sequencer2bitv.object",
+    "name": "Fascinated. A 2-bit sequencer. Outputs a signal based on which of the 4 states it's currently on.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Fascinated. A 2-bit sequencer. Can directly change to one of its 4 inputs, as well as cycle between them.",
+    "file": "swtjc_wp_sequencer2bithinputs.object",
+    "name": "Fascinated. A 2-bit sequencer. Can directly change to one of its 4 inputs, as well as cycle between them.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Fascinated. A 4-bit sequencer. Outputs a signal based on which of the 16 states it's currently on.",
+    "file": "swtjc_wp_sequencer4bith.object",
+    "name": "Fascinated. A 4-bit sequencer. Outputs a signal based on which of the 16 states it's currently on.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Fascinated. A 4-bit sequencer. Outputs a signal based on which of the 16 states it's currently on.",
+    "file": "swtjc_wp_sequencer4bitv.object",
+    "name": "Fascinated. A 4-bit sequencer. Outputs a signal based on which of the 16 states it's currently on.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Fascinated. A 3-bit sequencer. Outputs a signal based on which of the 8 states it's currently on.",
+    "file": "swtjc_wp_sequencer3bitv.object",
+    "name": "Fascinated. A 3-bit sequencer. Outputs a signal based on which of the 8 states it's currently on.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Fascinated. A 2-bit sequencer. Outputs a signal based on which of the 4 states it's currently on.",
+    "file": "swtjc_wp_sequencer2bith.object",
+    "name": "Fascinated. A 2-bit sequencer. Outputs a signal based on which of the 4 states it's currently on.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Fascinated. A 3-bit sequencer. Outputs a signal based on which of the 8 states it's currently on.",
+    "file": "swtjc_wp_sequencer3bith.object",
+    "name": "Fascinated. A 3-bit sequencer. Outputs a signal based on which of the 8 states it's currently on.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Fascinated. A 2-bit sequencer. Can directly change to one of its 4 inputs, as well as cycle between them.",
+    "file": "swtjc_wp_sequencer2bitvinputs.object",
+    "name": "Fascinated. A 2-bit sequencer. Can directly change to one of its 4 inputs, as well as cycle between them.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Fascinated. A 3-bit sequencer. Can directly change to one of its 8 inputs, as well as cycle between them.",
+    "file": "swtjc_wp_sequencer3bithinputs.object",
+    "name": "Fascinated. A 3-bit sequencer. Can directly change to one of its 8 inputs, as well as cycle between them.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Fascinated. A 4-bit sequencer. Can directly change to one of its 16 inputs, as well as cycle between them.",
+    "file": "swtjc_wp_sequencer4bithinputs.object",
+    "name": "Fascinated. A 4-bit sequencer. Can directly change to one of its 16 inputs, as well as cycle between them.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Fascinated. A 4-bit sequencer. Can directly change to one of its 16 inputs, as well as cycle between them.",
+    "file": "swtjc_wp_sequencer4bitvinputs.object",
+    "name": "Fascinated. A 4-bit sequencer. Can directly change to one of its 16 inputs, as well as cycle between them.",
+    "path": "objects/wired/sequencer"
+  },
+  {
+    "desc": "Frustrated. So many features! It doesn't help that I can't manually interact with it!",
+    "file": "swtjc_wp_advancedswitch_noninteractive.object",
+    "name": "Frustrated. So many features! It doesn't help that I can't manually interact with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "Overwhelmed. So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "file": "swtjc_wp_advancedswitch_nolatch.object",
+    "name": "Overwhelmed. So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "Overwhelmed. So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "file": "swtjc_wp_advancedswitch.object",
+    "name": "Overwhelmed. So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "path": "objects/wired/advancedswitch"
+  },
+  {
+    "desc": "Impressed. Repels objects with a strong elastic force",
+    "file": "extrajumppad.object",
+    "name": "Impressed. Repels objects with a strong elastic force",
+    "path": "objects/wired/extraforcepad"
+  },
+  {
+    "desc": "Annoyed. A broken switch that can only be toggled when its input node is /'on'/.",
+    "file": "swtjc_wp_brokencompactvwallswitch.object",
+    "name": "Annoyed. A broken switch that can only be toggled when its input node is /'on'/.",
+    "path": "objects/wired/smallwallswitch"
+  },
+  {
+    "desc": "Surprised. This small switch doesn't look that powerful, but I can toggle it either by hand, or when its input node is /'on'/.",
+    "file": "swtjc_wp_compactvwallswitch.object",
+    "name": "Surprised. This small switch doesn't look that powerful, but I can toggle it either by hand, or when its input node is /'on'/.",
+    "path": "objects/wired/smallwallswitch"
+  },
+  {
+    "desc": "Annoyed. A broken switch that can only be toggled when its input node is /'on'/.",
+    "file": "swtjc_wp_brokencompacthwallswitch.object",
+    "name": "Annoyed. A broken switch that can only be toggled when its input node is /'on'/.",
+    "path": "objects/wired/smallwallswitch"
+  },
+  {
+    "desc": "Annoyed. A broken switch that can only be toggled when its input node is /'on'/.",
+    "file": "swtjc_wp_brokenwallswitch.object",
+    "name": "Annoyed. A broken switch that can only be toggled when its input node is /'on'/.",
+    "path": "objects/wired/smallwallswitch"
+  },
+  {
+    "desc": "Surprised. This small switch doesn't look that powerful, but I can toggle it either by hand, or when its input node is /'on'/.",
+    "file": "swtjc_wp_compacthwallswitch.object",
+    "name": "Surprised. This small switch doesn't look that powerful, but I can toggle it either by hand, or when its input node is /'on'/.",
+    "path": "objects/wired/smallwallswitch"
+  },
+  {
+    "desc": "Cautious. Must not disrupt my brother in his vigilance.",
+    "file": "fu_laserturret.object",
+    "name": "Cautious. Must not disrupt my brother in his vigilance.",
+    "path": "objects/wired/fu_turrets/fu_laserturret"
+  },
+  {
+    "desc": "Cautious. Must not disrupt my brother in his vigilance.",
+    "file": "fu_rocketturret.object",
+    "name": "Cautious. Must not disrupt my brother in his vigilance.",
+    "path": "objects/wired/fu_turrets/fu_rocketturret"
+  },
+  {
+    "desc": "Cautious. Must not disrupt my brother in his vigilance.",
+    "file": "fu_teslaturret.object",
+    "name": "Cautious. Must not disrupt my brother in his vigilance.",
+    "path": "objects/wired/fu_turrets/fu_teslaturret"
+  },
+  {
+    "desc": "Cautious. Must not disrupt my brother in his vigilance.",
+    "file": "fu_gaussturret.object",
+    "name": "Cautious. Must not disrupt my brother in his vigilance.",
+    "path": "objects/wired/fu_turrets/fu_gaussturret"
+  },
+  {
+    "desc": "Cautious. Must not disrupt my brother in his vigilance.",
+    "file": "fu_flameturret.object",
+    "name": "Cautious. Must not disrupt my brother in his vigilance.",
+    "path": "objects/wired/fu_turrets/fu_flameturret"
+  },
+  {
+    "desc": "Impressed. This can detect and discriminate between the presence of various liquids.",
+    "file": "swtjc_wp_advancedliquidsensor.object",
+    "name": "Impressed. This can detect and discriminate between the presence of various liquids.",
+    "path": "objects/wired/liquidsensor"
+  },
+  {
+    "desc": "Curious. A modified Persistent Switch with a built-in NOT Gate.",
+    "file": "swtjc_wp_persistentswitch_withnot.object",
+    "name": "Curious. A modified Persistent Switch with a built-in NOT Gate.",
+    "path": "objects/wired/persistentswitch"
+  },
+  {
+    "desc": "Pleased. A persistent switch that I can also toggle manually.",
+    "file": "swtjc_wp_persistentswitchinteractive.object",
+    "name": "Pleased. A persistent switch that I can also toggle manually.",
+    "path": "objects/wired/persistentswitch"
+  },
+  {
+    "desc": "Pleased. A persistent switch that I can also toggle manually. Also has a built-in NOT gate.",
+    "file": "swtjc_wp_persistentswitchinteractive_withnot.object",
+    "name": "Pleased. A persistent switch that I can also toggle manually. Also has a built-in NOT gate.",
+    "path": "objects/wired/persistentswitch"
+  },
+  {
+    "desc": "Neutral. Once triggered this switch will remain in its switched state.",
+    "file": "swtjc_wp_compactvpersistentswitch.object",
+    "name": "Neutral. Once triggered this switch will remain in its switched state.",
+    "path": "objects/wired/persistentswitch/compact_switch_vertical"
+  },
+  {
+    "desc": "Pleased. A persistent switch that I can also toggle manually.",
+    "file": "swtjc_wp_compactvpersistentswitchinteractive.object",
+    "name": "Pleased. A persistent switch that I can also toggle manually.",
+    "path": "objects/wired/persistentswitch/compact_switch_vertical"
+  },
+  {
+    "desc": "Neutral. Once triggered this switch will remain in its switched state.",
+    "file": "swtjc_wp_compacthpersistentswitch.object",
+    "name": "Neutral. Once triggered this switch will remain in its switched state.",
+    "path": "objects/wired/persistentswitch/compact_switch_horizontal"
+  },
+  {
+    "desc": "Pleased. A persistent switch that I can also toggle manually.",
+    "file": "swtjc_wp_compacthpersistentswitchinteractive.object",
+    "name": "Pleased. A persistent switch that I can also toggle manually.",
+    "path": "objects/wired/persistentswitch/compact_switch_horizontal"
+  },
+  {
+    "desc": "Thoughtful. A more advanced light sensor that activates various nodes based upon whether or not ambient light levels exceed certain thresholds.",
+    "file": "advancedlightsensor.object",
+    "name": "Thoughtful. A more advanced light sensor that activates various nodes based upon whether or not ambient light levels exceed certain thresholds.",
+    "path": "objects/wired/lightsensor"
+  },
+  {
+    "desc": "Impressed. This trusty sensor indicates the presence of liquids.",
+    "file": "elderliquidsensor.object",
+    "name": "Impressed. This trusty sensor indicates the presence of liquids.",
+    "path": "objects/wired/elderliquidsensor"
+  },
+  {
+    "desc": "Skeptical. A signal emitter that's always on? Maybe I can use it to keep doors open and switches online at all times?",
+    "file": "swtjc_wp_emitter.object",
+    "name": "Skeptical. A signal emitter that's always on? Maybe I can use it to keep doors open and switches online at all times?",
+    "path": "objects/wired/emitter"
+  },
+  {
+    "desc": "Skeptical. What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "file": "swtjc_wp_brokenemitter.object",
+    "name": "Skeptical. What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "path": "objects/wired/emitter"
+  },
+  {
+    "desc": "Observation. A /'NOR'/ gate. Requires all inputs to be /'off'/ to work.",
+    "file": "swtjc_wp_nor.object",
+    "name": "Observation. A /'NOR'/ gate. Requires all inputs to be /'off'/ to work.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. An /'XOR'/ gate. Requires exactly 2 inputs to be on, and the rest off.",
+    "file": "swtjc_wp_xor3i2h.object",
+    "name": "Observation. An /'XOR'/ gate. Requires exactly 2 inputs to be on, and the rest off.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. A /'NAND'/ gate. Requires at least 1 input to be /'off'/ to work.",
+    "file": "swtjc_wp_nand3i.object",
+    "name": "Observation. A /'NAND'/ gate. Requires at least 1 input to be /'off'/ to work.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. A /'NXOR'/ gate. Remains on unless an odd number of inputs are on, and the rest off.",
+    "file": "swtjc_wp_nxor3i.object",
+    "name": "Observation. A /'NXOR'/ gate. Remains on unless an odd number of inputs are on, and the rest off.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Sends a half-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "file": "swtjc_wp_pulsetimer.object",
+    "name": "Observation. Sends a half-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Sends a 5-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "file": "swtjc_wp_pulsetimer5s.object",
+    "name": "Observation. Sends a 5-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Stops transmitting signals for 5 seconds whenever it becomes active.",
+    "file": "swtjc_wp_invertedpulsetimer5s.object",
+    "name": "Observation. Stops transmitting signals for 5 seconds whenever it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Sends a 3-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "file": "swtjc_wp_pulsetimer3s.object",
+    "name": "Observation. Sends a 3-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Stops transmitting signals for an instant whenever it becomes active.",
+    "file": "swtjc_wp_invertedpulser.object",
+    "name": "Observation. Stops transmitting signals for an instant whenever it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Sends a 1-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "file": "swtjc_wp_pulsetimer1s.object",
+    "name": "Observation. Sends a 1-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Neutral. A circuit that relays signals after a set delay.",
+    "file": "swtjc_wp_delayqs.object",
+    "name": "Neutral. A circuit that relays signals after a set delay.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Stops transmitting signals for 2 seconds whenever it becomes active.",
+    "file": "swtjc_wp_invertedpulsetimer2s.object",
+    "name": "Observation. Stops transmitting signals for 2 seconds whenever it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Stops transmitting signals for half of a second whenever it becomes active.",
+    "file": "swtjc_wp_invertedpulsetimer.object",
+    "name": "Observation. Stops transmitting signals for half of a second whenever it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Stops transmitting signals for 1 second whenever it becomes active.",
+    "file": "swtjc_wp_invertedpulsetimer1s.object",
+    "name": "Observation. Stops transmitting signals for 1 second whenever it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. An /'AND'/ gate. Requires all inputs to be /'on'/ to work.",
+    "file": "swtjc_wp_and3i.object",
+    "name": "Observation. An /'AND'/ gate. Requires all inputs to be /'on'/ to work.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. An /'XOR'/ gate. Remains on unless exactly 1 input is on, and the rest off.",
+    "file": "swtjc_wp_nxor3i1h.object",
+    "name": "Observation. An /'XOR'/ gate. Remains on unless exactly 1 input is on, and the rest off.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Sends a quarter-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "file": "swtjc_wp_pulsetimerqs.object",
+    "name": "Observation. Sends a quarter-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Sends a short signal pulse whenever it becomes active.",
+    "file": "swtjc_wp_pulser.object",
+    "name": "Observation. Sends a short signal pulse whenever it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Sends a 2-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "file": "swtjc_wp_pulsetimer2s.object",
+    "name": "Observation. Sends a 2-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. A /'NOR'/ gate. Requires all inputs to be /'off'/ to work.",
+    "file": "swtjc_wp_nor3i.object",
+    "name": "Observation. A /'NOR'/ gate. Requires all inputs to be /'off'/ to work.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Neutral. A circuit that relays signals after a set delay.",
+    "file": "swtjc_wp_delay5s.object",
+    "name": "Neutral. A circuit that relays signals after a set delay.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. A /'NAND'/ gate. Requires at least 1 input to be /'off'/ to work.",
+    "file": "swtjc_wp_nand.object",
+    "name": "Observation. A /'NAND'/ gate. Requires at least 1 input to be /'off'/ to work.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Stops transmitting signals for 3 seconds whenever it becomes active.",
+    "file": "swtjc_wp_invertedpulsetimer3s.object",
+    "name": "Observation. Stops transmitting signals for 3 seconds whenever it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. An /'XOR'/ gate. Remains on unless exactly 2 inputs are on, and the rest off.",
+    "file": "swtjc_wp_nxor3i2h.object",
+    "name": "Observation. An /'XOR'/ gate. Remains on unless exactly 2 inputs are on, and the rest off.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Stops transmitting signals for a quarter of a second whenever it becomes active.",
+    "file": "swtjc_wp_invertedpulsetimerqs.object",
+    "name": "Observation. Stops transmitting signals for a quarter of a second whenever it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Neutral. A circuit that relays signals after a set delay.",
+    "file": "swtjc_wp_delay4s.object",
+    "name": "Neutral. A circuit that relays signals after a set delay.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Neutral. A circuit that relays signals after a set delay.",
+    "file": "swtjc_wp_delay2s.object",
+    "name": "Neutral. A circuit that relays signals after a set delay.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. A /'NXOR'/ gate. Remains on unless exactly 1 or 2 inputs are on, and the rest off.",
+    "file": "swtjc_wp_nxor3i12h.object",
+    "name": "Observation. A /'NXOR'/ gate. Remains on unless exactly 1 or 2 inputs are on, and the rest off.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. An /'XOR'/ gate. Requires exactly 1 input to be on, and the rest off.",
+    "file": "swtjc_wp_xor3i1h.object",
+    "name": "Observation. An /'XOR'/ gate. Requires exactly 1 input to be on, and the rest off.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. An /'XOR'/ gate. Requires an odd number of inputs to be on, and the rest off.",
+    "file": "swtjc_wp_xor3i.object",
+    "name": "Observation. An /'XOR'/ gate. Requires an odd number of inputs to be on, and the rest off.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. An /'XOR'/ gate. Requires exactly 1 or 2 inputs to be on, and the rest off.",
+    "file": "swtjc_wp_xor3i12h.object",
+    "name": "Observation. An /'XOR'/ gate. Requires exactly 1 or 2 inputs to be on, and the rest off.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Neutral. A circuit that relays signals after a set delay.",
+    "file": "swtjc_wp_delay3s.object",
+    "name": "Neutral. A circuit that relays signals after a set delay.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Neutral. A circuit that relays signals after a set delay.",
+    "file": "swtjc_wp_delay1s.object",
+    "name": "Neutral. A circuit that relays signals after a set delay.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. An /'OR'/ gate. Requires at least 1 input to be /'on'/ to work.",
+    "file": "swtjc_wp_or3i.object",
+    "name": "Observation. An /'OR'/ gate. Requires at least 1 input to be /'on'/ to work.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. A /'NXOR'/ gate. Requires all inputs to be either /'on'/ or /'off'/ to work.",
+    "file": "swtjc_wp_nxor.object",
+    "name": "Observation. A /'NXOR'/ gate. Requires all inputs to be either /'on'/ or /'off'/ to work.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Neutral. A /'Relay'/. It simply serves as an anchor for relaying distant signals.",
+    "file": "swtjc_wp_relay.object",
+    "name": "Neutral. A /'Relay'/. It simply serves as an anchor for relaying distant signals.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Sends a 4-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "file": "swtjc_wp_pulsetimer4s.object",
+    "name": "Observation. Sends a 4-second-long signal pulse whenever, and as soon as, it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. Stops transmitting signals for 4 seconds whenever it becomes active.",
+    "file": "swtjc_wp_invertedpulsetimer4s.object",
+    "name": "Observation. Stops transmitting signals for 4 seconds whenever it becomes active.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Informative. Only activates when its input node remains live for a set amount of time.",
+    "file": "swtjc_wp_countdowndelay.object",
+    "name": "Informative. Only activates when its input node remains live for a set amount of time.",
+    "path": "objects/wired/logic"
+  },
+  {
+    "desc": "Observation. An /'XOR'/ gate. Requires an odd number of inputs to be on, and the rest off.",
+    "file": "swtjc_wp_compactvxor.object",
+    "name": "Observation. An /'XOR'/ gate. Requires an odd number of inputs to be on, and the rest off.",
+    "path": "objects/wired/logic/compact_logic_vertical"
+  },
+  {
+    "desc": "Observation. A /'NXOR'/ gate. Requires all inputs to be either /'on'/ or /'off'/ to work.",
+    "file": "swtjc_wp_compactvnxor.object",
+    "name": "Observation. A /'NXOR'/ gate. Requires all inputs to be either /'on'/ or /'off'/ to work.",
+    "path": "objects/wired/logic/compact_logic_vertical"
+  },
+  {
+    "desc": "Observation. A /'NOR'/ gate. Requires all inputs to be /'off'/ to work.",
+    "file": "swtjc_wp_compactvnor.object",
+    "name": "Observation. A /'NOR'/ gate. Requires all inputs to be /'off'/ to work.",
+    "path": "objects/wired/logic/compact_logic_vertical"
+  },
+  {
+    "desc": "Observation. An /'OR'/ gate. Requires at least 1 input to be /'on'/ to work.",
+    "file": "swtjc_wp_compactvor.object",
+    "name": "Observation. An /'OR'/ gate. Requires at least 1 input to be /'on'/ to work.",
+    "path": "objects/wired/logic/compact_logic_vertical"
+  },
+  {
+    "desc": "Fascinated. The top, or 'Enable', node controls whether or not the latch can change states based on its bottom, or 'Data', node.",
+    "file": "swtjc_wp_compactvdlatch.object",
+    "name": "Fascinated. The top, or 'Enable', node controls whether or not the latch can change states based on its bottom, or 'Data', node.",
+    "path": "objects/wired/logic/compact_logic_vertical"
+  },
+  {
+    "desc": "Observation. A /'NAND'/ gate. Requires at least 1 input to be /'off'/ to work.",
+    "file": "swtjc_wp_compactvnand.object",
+    "name": "Observation. A /'NAND'/ gate. Requires at least 1 input to be /'off'/ to work.",
+    "path": "objects/wired/logic/compact_logic_vertical"
+  },
+  {
+    "desc": "Neutral. A /'Relay'/. It simply serves as an anchor for relaying distant signals.",
+    "file": "swtjc_wp_compactvrelay.object",
+    "name": "Neutral. A /'Relay'/. It simply serves as an anchor for relaying distant signals.",
+    "path": "objects/wired/logic/compact_logic_vertical"
+  },
+  {
+    "desc": "Observation. An /'AND'/ gate. Requires all inputs to be /'on'/ to work.",
+    "file": "swtjc_wp_compactvand.object",
+    "name": "Observation. An /'AND'/ gate. Requires all inputs to be /'on'/ to work.",
+    "path": "objects/wired/logic/compact_logic_vertical"
+  },
+  {
+    "desc": "Neutral. A /'Relay'/. It simply serves as an anchor for relaying distant signals.",
+    "file": "swtjc_wp_compacthrelay.object",
+    "name": "Neutral. A /'Relay'/. It simply serves as an anchor for relaying distant signals.",
+    "path": "objects/wired/logic/compact_logic_horizontal"
+  },
+  {
+    "desc": "Fascinated. The left, or 'Enable', node controls whether or not the latch can change states based on its right, or 'Data', node.",
+    "file": "swtjc_wp_compacthdlatch.object",
+    "name": "Fascinated. The left, or 'Enable', node controls whether or not the latch can change states based on its right, or 'Data', node.",
+    "path": "objects/wired/logic/compact_logic_horizontal"
+  },
+  {
+    "desc": "Observation. A /'NOR'/ gate. Requires all inputs to be /'off'/ to work.",
+    "file": "swtjc_wp_compacthnor.object",
+    "name": "Observation. A /'NOR'/ gate. Requires all inputs to be /'off'/ to work.",
+    "path": "objects/wired/logic/compact_logic_horizontal"
+  },
+  {
+    "desc": "Observation. An /'XOR'/ gate. Requires an odd number of inputs to be on, and the rest off.",
+    "file": "swtjc_wp_compacthxor.object",
+    "name": "Observation. An /'XOR'/ gate. Requires an odd number of inputs to be on, and the rest off.",
+    "path": "objects/wired/logic/compact_logic_horizontal"
+  },
+  {
+    "desc": "Observation. An /'AND'/ gate. Requires all inputs to be /'on'/ to work.",
+    "file": "swtjc_wp_compacthand.object",
+    "name": "Observation. An /'AND'/ gate. Requires all inputs to be /'on'/ to work.",
+    "path": "objects/wired/logic/compact_logic_horizontal"
+  },
+  {
+    "desc": "Observation. A /'NAND'/ gate. Requires at least 1 input to be /'off'/ to work.",
+    "file": "swtjc_wp_compacthnand.object",
+    "name": "Observation. A /'NAND'/ gate. Requires at least 1 input to be /'off'/ to work.",
+    "path": "objects/wired/logic/compact_logic_horizontal"
+  },
+  {
+    "desc": "Observation. A /'NXOR'/ gate. Requires all inputs to be either /'on'/ or /'off'/ to work.",
+    "file": "swtjc_wp_compacthnxor.object",
+    "name": "Observation. A /'NXOR'/ gate. Requires all inputs to be either /'on'/ or /'off'/ to work.",
+    "path": "objects/wired/logic/compact_logic_horizontal"
+  },
+  {
+    "desc": "Observation. An /'OR'/ gate. Requires at least 1 input to be /'on'/ to work.",
+    "file": "swtjc_wp_compacthor.object",
+    "name": "Observation. An /'OR'/ gate. Requires at least 1 input to be /'on'/ to work.",
+    "path": "objects/wired/logic/compact_logic_horizontal"
+  },
+  {
+    "desc": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedor.object",
+    "name": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i12h.object",
+    "name": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Amused. They really went overboard with programming this thing!",
+    "file": "swtjc_wp_masterlogic.object",
+    "name": "Amused. They really went overboard with programming this thing!",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedand.object",
+    "name": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedor3i.object",
+    "name": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i2h.object",
+    "name": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor.object",
+    "name": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedand3i.object",
+    "name": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i.object",
+    "name": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "file": "swtjc_wp_advancedxor3i1h.object",
+    "name": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "path": "objects/wired/advancedlogic"
+  },
+  {
+    "desc": "Content. Not all that different from a normal AND Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedand_nolatch.object",
+    "name": "Content. Not all that different from a normal AND Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "Content. Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedor_nolatch.object",
+    "name": "Content. Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "Content. Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "file": "swtjc_wp_advancedxor_nolatch.object",
+    "name": "Content. Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "path": "objects/wired/advancedlogic/no_latch"
+  },
+  {
+    "desc": "Wary. The signal emitted by this dish is unidentified.",
+    "file": "extrateleportradar.object",
+    "name": "Wary. The signal emitted by this dish is unidentified.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "Interested. A radar dish.",
+    "file": "extrateleportradarreturn.object",
+    "name": "Interested. A radar dish.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "Wary. The signal emitted by this dish is unidentified.",
+    "file": "extrateleportradarhome.object",
+    "name": "Wary. The signal emitted by this dish is unidentified.",
+    "path": "objects/portals/extrateleportradar"
+  },
+  {
+    "desc": "Nervous. The consequences of using this unwisely are dire.",
+    "file": "isn_fissionreactor.object",
+    "name": "Nervous. The consequences of using this unwisely are dire.",
+    "path": "objects/power/isn_fissionreactor"
+  },
+  {
+    "desc": "Impressed. This is very cutting-edge technology.",
+    "file": "isn_radiostation.object",
+    "name": "Impressed. This is very cutting-edge technology.",
+    "path": "objects/power/isn_radiostation"
+  },
+  {
+    "desc": "Daydreaming. I'd love to grow a nice crop of diodia.",
+    "file": "isn_hydroponicstray.object",
+    "name": "Daydreaming. I'd love to grow a nice crop of diodia.",
+    "path": "objects/power/isn_hydroponicstray"
+  },
+  {
+    "desc": "Reassured. I won't die while standing near this machine.",
+    "file": "isn_atmosregulator.object",
+    "name": "Reassured. I won't die while standing near this machine.",
+    "path": "objects/power/isn_atmosregulator"
+  },
+  {
+    "desc": "Observation. It is designed with replaceable parts to minimize repair costs.",
+    "file": "isn_thermalgenerator.object",
+    "name": "Observation. It is designed with replaceable parts to minimize repair costs.",
+    "path": "objects/power/isn_thermalgenerator"
+  },
+  {
+    "desc": "Content. This should allow me to dispose of anything cleanly.",
+    "file": "isn_incinerator.object",
+    "name": "Content. This should allow me to dispose of anything cleanly.",
+    "path": "objects/power/isn_incinerator"
+  },
+  {
+    "desc": "Nervous. The consequences of using this unwisely are dire.",
+    "file": "isn_fissionreactornew.object",
+    "name": "Nervous. The consequences of using this unwisely are dire.",
+    "path": "objects/power/isn_fissionreactornew"
+  },
+  {
+    "desc": "Irritable. Perhaps this could pull oxidisers out of the air. I hate rusting.",
+    "file": "isn_atmoscondenser.object",
+    "name": "Irritable. Perhaps this could pull oxidisers out of the air. I hate rusting.",
+    "path": "objects/power/isn_atmoscondenser"
+  },
+  {
+    "desc": "Analytical. Atmospheric interference means this panel will generate less power at low altitudes.",
+    "file": "isn_solarpanel.object",
+    "name": "Analytical. Atmospheric interference means this panel will generate less power at low altitudes.",
+    "path": "objects/power/isn_solarpanel"
+  },
+  {
+    "desc": "Enthused. A mech could utilise the energy in this canister.",
+    "file": "extraenergycanister.object",
+    "name": "Enthused. A mech could utilise the energy in this canister.",
+    "path": "objects/dispensers"
+  },
+  {
+    "desc": "Wonder. A machine that gives treasures for free!",
+    "file": "pixeldispenser.object",
+    "name": "Wonder. A machine that gives treasures for free!",
+    "path": "objects/dispensers"
+  },
+  {
+    "desc": "Curious. Why would someone mamke a bed out of grass?",
+    "file": "grassbed.object",
+    "name": "Curious. Why would someone mamke a bed out of grass?",
+    "path": "objects/generic/furniture/grassbed"
+  },
+  {
+    "desc": "Why do I exist?",
+    "file": "voidstorage.object",
+    "name": "Why do I exist?",
+    "path": "objects/generic/storage3"
+  },
+  {
+    "desc": "Observation. A wooden crate.",
+    "file": "smallwoodencrate1.object",
+    "name": "Observation. A wooden crate.",
+    "path": "objects/generic/crates"
+  },
+  {
+    "desc": "Irritated. There isn't much room.",
+    "file": "bandittent1.object",
+    "name": "Irritated. There isn't much room.",
+    "path": "objects/generic/bandittent1"
+  },
+  {
+    "desc": "Why do I exist?",
+    "file": "genestorage.object",
+    "name": "Why do I exist?",
+    "path": "objects/generic/storage2"
+  },
+  {
+    "desc": "Why do I exist?",
+    "file": "genecabinet.object",
+    "name": "Why do I exist?",
+    "path": "objects/generic/storage"
+  },
+  {
+    "desc": "...",
+    "file": "crewshop.object",
+    "name": "...",
+    "path": "objects/generic/crewshop"
+  },
+  {
+    "desc": "Sarcasm. A very interesting find.",
+    "file": "labtable.object",
+    "name": "Sarcasm. A very interesting find.",
+    "path": "objects/generic/labfurniture/labtable"
+  },
+  {
+    "desc": "Indecisive. I can't decide what to buy.",
+    "file": "labvendingmachine.object",
+    "name": "Indecisive. I can't decide what to buy.",
+    "path": "objects/generic/labfurniture/vendingmachine"
+  },
+  {
+    "desc": "Irritated. There isn't much room.",
+    "file": "bandittent2.object",
+    "name": "Irritated. There isn't much room.",
+    "path": "objects/generic/bandittent2"
+  },
+  {
+    "desc": "Round Wall Clock.",
+    "file": "okeaclock2.object",
+    "name": "Round Wall Clock.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Force Door.",
+    "file": "fuokeahitechforcedoor2.object",
+    "name": "Hi-tech Force Door.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Blissful. Truly, there is no better bed than this.",
+    "file": "fuokeahitechbed.object",
+    "name": "Blissful. Truly, there is no better bed than this.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Toaster.",
+    "file": "fuokeahitechtoaster.object",
+    "name": "Hi-tech Toaster.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Blissful. Truly, there is no better bed than this.",
+    "file": "fufloranbed.object",
+    "name": "Blissful. Truly, there is no better bed than this.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Lamp",
+    "file": "fuokeahitechlamp1.object",
+    "name": "Hi-tech Lamp",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Safe.",
+    "file": "fuokeahitechsafe.object",
+    "name": "Hi-tech Safe.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Table.",
+    "file": "fuokeahitechtable.object",
+    "name": "Hi-tech Table.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Wall Lamp.",
+    "file": "fuokeahitechlamp2.object",
+    "name": "Hi-tech Wall Lamp.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Flat Screen TV.",
+    "file": "tv2.object",
+    "name": "Flat Screen TV.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Glitch Prison Wagon.",
+    "file": "fuokeaglitchwagon.object",
+    "name": "Glitch Prison Wagon.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Cupboard.",
+    "file": "fuokeahitechcupboard.object",
+    "name": "Hi-tech Cupboard.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Living Stone Guardian Statue.",
+    "file": "fuokeamagmastatue.object",
+    "name": "Living Stone Guardian Statue.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Force Door.",
+    "file": "fuokeahitechforcedoor.object",
+    "name": "Hi-tech Force Door.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Bookcase.",
+    "file": "fuokeahitechbookcase2.object",
+    "name": "Hi-tech Bookcase.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Hi-tech Cabinet.",
+    "file": "fuokeahitechdrawer.object",
+    "name": "Hi-tech Cabinet.",
+    "path": "objects/pixelgoods"
+  },
+  {
+    "desc": "Revulsion. What kind of flesh sprouts from the ground?",
+    "file": "heckbush3.object",
+    "name": "Revulsion. What kind of flesh sprouts from the ground?",
+    "path": "objects/biome/heck/heckbush3"
+  },
+  {
+    "desc": "Statement. A pillar.",
+    "file": "heckpillar1.object",
+    "name": "Statement. A pillar.",
+    "path": "objects/biome/heck/heckpillar1"
+  },
+  {
+    "desc": "Analysis. This light appears to be powered by some kind of organic fluid.",
+    "file": "hecklight2.object",
+    "name": "Analysis. This light appears to be powered by some kind of organic fluid.",
+    "path": "objects/biome/heck/hecklight2"
+  },
+  {
+    "desc": "Repulsion. A vile, fleshy light.",
+    "file": "hecklight1.object",
+    "name": "Repulsion. A vile, fleshy light.",
+    "path": "objects/biome/heck/hecklight1"
+  },
+  {
+    "desc": "Amused. Someone clearly wants me to feel at home.",
+    "file": "hecksign.object",
+    "name": "Amused. Someone clearly wants me to feel at home.",
+    "path": "objects/biome/heck/hecksign"
+  },
+  {
+    "desc": "Revulsion. What kind of flesh sprouts from the ground?",
+    "file": "heckbush1.object",
+    "name": "Revulsion. What kind of flesh sprouts from the ground?",
+    "path": "objects/biome/heck/heckbush1"
+  },
+  {
+    "desc": "Statement. A pillar.",
+    "file": "heckpillar2.object",
+    "name": "Statement. A pillar.",
+    "path": "objects/biome/heck/heckpillar2"
+  },
+  {
+    "desc": "Disgust. A fleshy, pulsating chest.",
+    "file": "heckchest.object",
+    "name": "Disgust. A fleshy, pulsating chest.",
+    "path": "objects/biome/heck/heckchest"
+  },
+  {
+    "desc": "Revulsion. What kind of flesh sprouts from the ground?",
+    "file": "heckbush7.object",
+    "name": "Revulsion. What kind of flesh sprouts from the ground?",
+    "path": "objects/biome/heck/heckbush7"
+  },
+  {
+    "desc": "Revulsion. What kind of flesh sprouts from the ground?",
+    "file": "heckbush9.object",
+    "name": "Revulsion. What kind of flesh sprouts from the ground?",
+    "path": "objects/biome/heck/heckbush9"
+  },
+  {
+    "desc": "Anxious. This altar is stained with the blood of innocents, or maybe just birds.",
+    "file": "heckaltar.object",
+    "name": "Anxious. This altar is stained with the blood of innocents, or maybe just birds.",
+    "path": "objects/biome/heck/heckaltar"
+  },
+  {
+    "desc": "Revulsion. What kind of flesh sprouts from the ground?",
+    "file": "heckbush10.object",
+    "name": "Revulsion. What kind of flesh sprouts from the ground?",
+    "path": "objects/biome/heck/heckbush10"
+  },
+  {
+    "desc": "Revulsion. What kind of flesh sprouts from the ground?",
+    "file": "heckbush8.object",
+    "name": "Revulsion. What kind of flesh sprouts from the ground?",
+    "path": "objects/biome/heck/heckbush8"
+  },
+  {
+    "desc": "Revulsion. What kind of flesh sprouts from the ground?",
+    "file": "heckbush5.object",
+    "name": "Revulsion. What kind of flesh sprouts from the ground?",
+    "path": "objects/biome/heck/heckbush5"
+  },
+  {
+    "desc": "Revulsion. What kind of flesh sprouts from the ground?",
+    "file": "heckbush6.object",
+    "name": "Revulsion. What kind of flesh sprouts from the ground?",
+    "path": "objects/biome/heck/heckbush6"
+  },
+  {
+    "desc": "Revulsion. What kind of flesh sprouts from the ground?",
+    "file": "heckbush2.object",
+    "name": "Revulsion. What kind of flesh sprouts from the ground?",
+    "path": "objects/biome/heck/heckbush2"
+  },
+  {
+    "desc": "Revulsion. What kind of flesh sprouts from the ground?",
+    "file": "heckbush4.object",
+    "name": "Revulsion. What kind of flesh sprouts from the ground?",
+    "path": "objects/biome/heck/heckbush4"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderfloorspike3.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike3"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderfloorspike4.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike4"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderceilingspike3.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike3"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderceilingspike4.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike4"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderceilingspike2.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike2"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderfloorspike8.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike8"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderceilingspike6.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike6"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderceilingspike7.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike7"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderceilingspike5.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike5"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderceilingspike8.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike8"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderfloorspike7.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike7"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderceilingspike1.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderceilingspike1"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderfloorspike2.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike2"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderfloorspike5.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike5"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderfloorspike1.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike1"
+  },
+  {
+    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "file": "elderfloorspike6.object",
+    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "path": "objects/minibiome/elder/eldertraps/elderfloorspike6"
+  },
+  {
+    "desc": "Desire. I could go for some dinner about now.",
+    "file": "fuhoneycrystaltable.object",
+    "name": "Desire. I could go for some dinner about now.",
+    "path": "objects/minibiome/honey/fuhoneycrystaltable"
+  },
+  {
+    "desc": "Observation. A wooden cabinet. Likely belongs to a commoner.",
+    "file": "fugoldenoakcabinet.object",
+    "name": "Observation. A wooden cabinet. Likely belongs to a commoner.",
+    "path": "objects/minibiome/honey/fugoldenoakcabinet"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush11.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush16.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush5.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush6.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush14.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush12.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystallarge3.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush15.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush8.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush17.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush13.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush10.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush9.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "file": "crystalcavebush7.object",
+    "name": "Shrewd. This bush could be worth a lot on certain black markets.",
+    "path": "objects/minibiome/crystalmoon"
+  },
+  {
+    "desc": "Sad. What a sorry fate for a machine.",
+    "file": "techbush1.object",
+    "name": "Sad. What a sorry fate for a machine.",
+    "path": "objects/wasteland/techbush1"
+  },
+  {
+    "desc": "Puzzled. Arrow could indicate several possibilites.",
+    "file": "techbush6.object",
+    "name": "Puzzled. Arrow could indicate several possibilites.",
+    "path": "objects/wasteland/techbush6"
+  },
+  {
+    "desc": "Uneasy. This is no way for a machine to wind up.",
+    "file": "techbush2.object",
+    "name": "Uneasy. This is no way for a machine to wind up.",
+    "path": "objects/wasteland/techbush2"
+  },
+  {
+    "desc": "Pondering. Who would make such technology only to abandon it?",
+    "file": "techbush3.object",
+    "name": "Pondering. Who would make such technology only to abandon it?",
+    "path": "objects/wasteland/techbush3"
+  },
+  {
+    "desc": "Wary. This planet's history seems to be fraught with danger.",
+    "file": "techbush4.object",
+    "name": "Wary. This planet's history seems to be fraught with danger.",
+    "path": "objects/wasteland/techbush4"
+  },
+  {
+    "desc": "Puzzled. Is that symbol a ship?",
+    "file": "techbush5.object",
+    "name": "Puzzled. Is that symbol a ship?",
+    "path": "objects/wasteland/techbush5"
+  },
+  {
+    "desc": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "file": "redcandle.object",
+    "name": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "file": "flowercandle.object",
+    "name": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "file": "waxcandle.object",
+    "name": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "file": "bluecandle.object",
+    "name": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "file": "ghostcandle.object",
+    "name": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "path": "objects/bees/candle"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "aerostatsail2.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "aerostatsail1.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "aerostatsail4.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "aerostatsail3.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avaliaerostat/sails"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "campsmallwall1.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avalicamp/modulartent/smallwall"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "campsmallwall2.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avalicamp/modulartent/smallwall"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "camplargewall1.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avalicamp/modulartent/largewall"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "camplargewall2.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avalicamp/modulartent/largewall"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "campsmallentry2.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avalicamp/modulartent/smallentry"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "campsmallentry1.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avalicamp/modulartent/smallentry"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "campslope2.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avalicamp/modulartent/slope"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "campslope1.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avalicamp/modulartent/slope"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "camplargeentry2.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avalicamp/modulartent/largeentry"
+  },
+  {
+    "desc": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "file": "camplargeentry1.object",
+    "name": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "path": "objects/avalicamp/modulartent/largeentry"
+  },
+  {
+    "desc": "Uncertainty. Is this for sitting or sleeping on?",
+    "file": "avalicushion2.object",
+    "name": "Uncertainty. Is this for sitting or sleeping on?",
+    "path": "objects/avalicamp/cushions"
+  },
+  {
+    "desc": "Caution. This furnishing it structurally unstable.",
+    "file": "avalicushion1.object",
+    "name": "Caution. This furnishing it structurally unstable.",
+    "path": "objects/avalicamp/cushions"
+  },
+  {
+    "desc": "Sarcasm. These hunters caught themselves a herd of wild boxes.",
+    "file": "avalihammock2.object",
+    "name": "Sarcasm. These hunters caught themselves a herd of wild boxes.",
+    "path": "objects/avalicamp/hammocks"
+  },
+  {
+    "desc": "Concern. Bed displays low structural integrity.",
+    "file": "avalihammock1.object",
+    "name": "Concern. Bed displays low structural integrity.",
+    "path": "objects/avalicamp/hammocks"
+  },
+  {
+    "desc": "Observation. A robust canvas curtain.",
+    "file": "campdoor.object",
+    "name": "Observation. A robust canvas curtain.",
+    "path": "objects/avalicamp/doors"
+  }
+]
