@@ -18,9 +18,9 @@
     "path": "objects/vanity/bamboo"
   },
   {
-    "desc": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+    "desc": "Relaxed. This chair is exceptionally comfortable for the .mrmttitlename..",
     "file": "bamboochair.object",
-    "name": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+    "name": "Relaxed. This chair is exceptionally comfortable for the .mrmttitlename..",
     "path": "objects/vanity/bamboo"
   },
   {
@@ -558,9 +558,9 @@
     "path": "objects/avaligeneric/kitchen"
   },
   {
-    "desc": "Reflective. Glitch food needs to be kept from rusting instead of rotting.",
+    "desc": "Reflective. .mrmttitlename. food needs to be kept from rusting instead of rotting.",
     "file": "avalikitchenfridge.object",
-    "name": "Reflective. Glitch food needs to be kept from rusting instead of rotting.",
+    "name": "Reflective. .mrmttitlename. food needs to be kept from rusting instead of rotting.",
     "path": "objects/avaligeneric/kitchen"
   },
   {
@@ -1176,9 +1176,9 @@
     "path": "objects/crafting/wiringstation"
   },
   {
-    "desc": "Cautious. Sharp bone could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp bone could penetrate .mrmttitlename. shell.",
     "file": "extrabonespike.object",
-    "name": "Cautious. Sharp bone could penetrate Glitch shell.",
+    "name": "Cautious. Sharp bone could penetrate .mrmttitlename. shell.",
     "path": "objects/traps/extrabonespike"
   },
   {
@@ -2028,9 +2028,9 @@
     "path": "objects/pixelgoods"
   },
   {
-    "desc": "Glitch Prison Wagon.",
+    "desc": ".mrmttitlename. Prison Wagon.",
     "file": "fuokeaglitchwagon.object",
-    "name": "Glitch Prison Wagon.",
+    "name": ".mrmttitlename. Prison Wagon.",
     "path": "objects/pixelgoods"
   },
   {
@@ -2166,99 +2166,99 @@
     "path": "objects/biome/heck/heckbush4"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderfloorspike3.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderfloorspike3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderfloorspike4.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderfloorspike4"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderceilingspike3.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderceilingspike3"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderceilingspike4.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderceilingspike4"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderceilingspike2.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderceilingspike2"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderfloorspike8.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderfloorspike8"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderceilingspike6.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderceilingspike6"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderceilingspike7.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderceilingspike7"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderceilingspike5.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderceilingspike5"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderceilingspike8.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderceilingspike8"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderfloorspike7.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderfloorspike7"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderceilingspike1.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderceilingspike1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderfloorspike2.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderfloorspike2"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderfloorspike5.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderfloorspike5"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderfloorspike1.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderfloorspike1"
   },
   {
-    "desc": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "desc": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "file": "elderfloorspike6.object",
-    "name": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "name": "Cautious. Sharp rock could penetrate .mrmttitlename. shell.",
     "path": "objects/minibiome/elder/eldertraps/elderfloorspike6"
   },
   {
@@ -2394,33 +2394,33 @@
     "path": "objects/wasteland/techbush5"
   },
   {
-    "desc": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "desc": "Explanation. The .mrmttitlename. do not yet have the technology to produce electric lights.",
     "file": "redcandle.object",
-    "name": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "name": "Explanation. The .mrmttitlename. do not yet have the technology to produce electric lights.",
     "path": "objects/bees/candle"
   },
   {
-    "desc": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "desc": "Explanation. The .mrmttitlename. do not yet have the technology to produce electric lights.",
     "file": "flowercandle.object",
-    "name": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "name": "Explanation. The .mrmttitlename. do not yet have the technology to produce electric lights.",
     "path": "objects/bees/candle"
   },
   {
-    "desc": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "desc": "Explanation. The .mrmttitlename. do not yet have the technology to produce electric lights.",
     "file": "waxcandle.object",
-    "name": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "name": "Explanation. The .mrmttitlename. do not yet have the technology to produce electric lights.",
     "path": "objects/bees/candle"
   },
   {
-    "desc": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "desc": "Explanation. The .mrmttitlename. do not yet have the technology to produce electric lights.",
     "file": "bluecandle.object",
-    "name": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "name": "Explanation. The .mrmttitlename. do not yet have the technology to produce electric lights.",
     "path": "objects/bees/candle"
   },
   {
-    "desc": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "desc": "Explanation. The .mrmttitlename. do not yet have the technology to produce electric lights.",
     "file": "ghostcandle.object",
-    "name": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "name": "Explanation. The .mrmttitlename. do not yet have the technology to produce electric lights.",
     "path": "objects/bees/candle"
   },
   {

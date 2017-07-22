@@ -6,39 +6,39 @@
     "path": "objects/test"
   },
   {
-    "desc": "Glowy box hold Floran thingsss.",
+    "desc": "Glowy box hold .mrmttitlename. thingsss.",
     "file": "bamboochest.object",
-    "name": "Glowy box hold Floran thingsss.",
+    "name": "Glowy box hold .mrmttitlename. thingsss.",
     "path": "objects/vanity/bamboo"
   },
   {
-    "desc": "Table good enough for Floran to ssslice meatsss.",
+    "desc": "Table good enough for .mrmttitlename. to ssslice meatsss.",
     "file": "bambootable.object",
-    "name": "Table good enough for Floran to ssslice meatsss.",
+    "name": "Table good enough for .mrmttitlename. to ssslice meatsss.",
     "path": "objects/vanity/bamboo"
   },
   {
-    "desc": "Floran sssit on chair and think about hunting.",
+    "desc": ".mrmttitlename. sssit on chair and think about hunting.",
     "file": "bamboochair.object",
-    "name": "Floran sssit on chair and think about hunting.",
+    "name": ".mrmttitlename. sssit on chair and think about hunting.",
     "path": "objects/vanity/bamboo"
   },
   {
-    "desc": "Floran ressst in great bed.",
+    "desc": ".mrmttitlename. ressst in great bed.",
     "file": "bamboobed.object",
-    "name": "Floran ressst in great bed.",
+    "name": ".mrmttitlename. ressst in great bed.",
     "path": "objects/vanity/bamboo"
   },
   {
-    "desc": "Floran puzzled by shiny plant.",
+    "desc": ".mrmttitlename. puzzled by shiny plant.",
     "file": "crystalplantseed.object",
-    "name": "Floran puzzled by shiny plant.",
+    "name": ".mrmttitlename. puzzled by shiny plant.",
     "path": "objects/farmables/crystalplant"
   },
   {
-    "desc": "Floran puzzled by shiny plant.",
+    "desc": ".mrmttitlename. puzzled by shiny plant.",
     "file": "wildcrystalplantseed.object",
-    "name": "Floran puzzled by shiny plant.",
+    "name": ".mrmttitlename. puzzled by shiny plant.",
     "path": "objects/farmables/crystalplant"
   },
   {
@@ -60,39 +60,39 @@
     "path": "objects/farmables/sweetscoop"
   },
   {
-    "desc": "Floran weak to colour red.",
+    "desc": ".mrmttitlename. weak to colour red.",
     "file": "flowerred.object",
-    "name": "Floran weak to colour red.",
+    "name": ".mrmttitlename. weak to colour red.",
     "path": "objects/farmables/flowerred"
   },
   {
-    "desc": "Floran iss confused... Iss this wheat?",
+    "desc": ".mrmttitlename. iss confused... Iss this wheat?",
     "file": "wildedunestalkseed.object",
-    "name": "Floran iss confused... Iss this wheat?",
+    "name": ".mrmttitlename. iss confused... Iss this wheat?",
     "path": "objects/farmables/dunestalk"
   },
   {
-    "desc": "Floran iss confused... Iss this wheat?",
+    "desc": ".mrmttitlename. iss confused... Iss this wheat?",
     "file": "dunestalkseed.object",
-    "name": "Floran iss confused... Iss this wheat?",
+    "name": ".mrmttitlename. iss confused... Iss this wheat?",
     "path": "objects/farmables/dunestalk"
   },
   {
-    "desc": "Floran weak to colour yellow.",
+    "desc": ".mrmttitlename. weak to colour yellow.",
     "file": "floweryellow.object",
-    "name": "Floran weak to colour yellow.",
+    "name": ".mrmttitlename. weak to colour yellow.",
     "path": "objects/farmables/floweryellow"
   },
   {
-    "desc": "Sssilly plant glows. Floran sssmarter and not glow. Hunt better that way.",
+    "desc": "Sssilly plant glows. .mrmttitlename. sssmarter and not glow. Hunt better that way.",
     "file": "lumivineseed.object",
-    "name": "Sssilly plant glows. Floran sssmarter and not glow. Hunt better that way.",
+    "name": "Sssilly plant glows. .mrmttitlename. sssmarter and not glow. Hunt better that way.",
     "path": "objects/farmables/lumivine"
   },
   {
-    "desc": "Sssilly plant glows. Floran sssmarter and not glow. Hunt better that way.",
+    "desc": "Sssilly plant glows. .mrmttitlename. sssmarter and not glow. Hunt better that way.",
     "file": "wildlumivineseed.object",
-    "name": "Sssilly plant glows. Floran sssmarter and not glow. Hunt better that way.",
+    "name": "Sssilly plant glows. .mrmttitlename. sssmarter and not glow. Hunt better that way.",
     "path": "objects/farmables/lumivine"
   },
   {
@@ -120,15 +120,15 @@
     "path": "objects/farmables/bamboo"
   },
   {
-    "desc": "Floran find thiss plant sssmelly.",
+    "desc": ".mrmttitlename. find thiss plant sssmelly.",
     "file": "bolbohnseed.object",
-    "name": "Floran find thiss plant sssmelly.",
+    "name": ".mrmttitlename. find thiss plant sssmelly.",
     "path": "objects/farmables/bolbohn"
   },
   {
-    "desc": "Floran find thiss plant sssmelly.",
+    "desc": ".mrmttitlename. find thiss plant sssmelly.",
     "file": "wildbolbohnseed.object",
-    "name": "Floran find thiss plant sssmelly.",
+    "name": ".mrmttitlename. find thiss plant sssmelly.",
     "path": "objects/farmables/bolbohn"
   },
   {
@@ -186,135 +186,135 @@
     "path": "objects/gels/isn_bouncegel"
   },
   {
-    "desc": "Pretty ssslime. Floran like.",
+    "desc": "Pretty ssslime. .mrmttitlename. like.",
     "file": "isn_glowgel_y.object",
-    "name": "Pretty ssslime. Floran like.",
+    "name": "Pretty ssslime. .mrmttitlename. like.",
     "path": "objects/gels/isn_glowgel"
   },
   {
-    "desc": "Pretty ssslime. Floran like.",
+    "desc": "Pretty ssslime. .mrmttitlename. like.",
     "file": "isn_glowgel_b.object",
-    "name": "Pretty ssslime. Floran like.",
+    "name": "Pretty ssslime. .mrmttitlename. like.",
     "path": "objects/gels/isn_glowgel"
   },
   {
-    "desc": "Pretty ssslime. Floran like.",
+    "desc": "Pretty ssslime. .mrmttitlename. like.",
     "file": "isn_glowgel_p.object",
-    "name": "Pretty ssslime. Floran like.",
+    "name": "Pretty ssslime. .mrmttitlename. like.",
     "path": "objects/gels/isn_glowgel"
   },
   {
-    "desc": "Pretty ssslime. Floran like.",
+    "desc": "Pretty ssslime. .mrmttitlename. like.",
     "file": "isn_glowgel_r.object",
-    "name": "Pretty ssslime. Floran like.",
+    "name": "Pretty ssslime. .mrmttitlename. like.",
     "path": "objects/gels/isn_glowgel"
   },
   {
-    "desc": "Pretty ssslime. Floran like.",
+    "desc": "Pretty ssslime. .mrmttitlename. like.",
     "file": "isn_glowgel.object",
-    "name": "Pretty ssslime. Floran like.",
+    "name": "Pretty ssslime. .mrmttitlename. like.",
     "path": "objects/gels/isn_glowgel"
   },
   {
-    "desc": "Pretty ssslime. Floran like.",
+    "desc": "Pretty ssslime. .mrmttitlename. like.",
     "file": "isn_glowgel_g.object",
-    "name": "Pretty ssslime. Floran like.",
+    "name": "Pretty ssslime. .mrmttitlename. like.",
     "path": "objects/gels/isn_glowgel"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "penguinhighwaymap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "alienjunglemap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "forestoffaemap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "pavillionmap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "skytemplemap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "sunsetridersmap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "snowcrashmap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "lethialabsmap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "infiltrationmap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "avianhydromap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "towerinvinciblemap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "magickaforestmap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "ancienttemplemap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "verdantruinsmap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "grandarenamap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
-    "desc": "Floran usssesss map to get to placesss.",
+    "desc": ".mrmttitlename. usssesss map to get to placesss.",
     "file": "evernightmap.object",
-    "name": "Floran usssesss map to get to placesss.",
+    "name": ".mrmttitlename. usssesss map to get to placesss.",
     "path": "objects/questmaps"
   },
   {
@@ -324,9 +324,9 @@
     "path": "objects/avaligeneric/holograms"
   },
   {
-    "desc": "Apex once captured Floran. Cage had same markings around it, pattern mean 'floran here'?",
+    "desc": "Apex once captured .mrmttitlename.. Cage had same markings around it, pattern mean 'floran here'?",
     "file": "avalihologramtiny2.object",
-    "name": "Apex once captured Floran. Cage had same markings around it, pattern mean 'floran here'?",
+    "name": "Apex once captured .mrmttitlename.. Cage had same markings around it, pattern mean 'floran here'?",
     "path": "objects/avaligeneric/holograms"
   },
   {
@@ -336,9 +336,9 @@
     "path": "objects/avaligeneric/holograms"
   },
   {
-    "desc": "Deoxyribonucleic acccccid.... wait, how Floran know that?",
+    "desc": "Deoxyribonucleic acccccid.... wait, how .mrmttitlename. know that?",
     "file": "avalihologramsml3.object",
-    "name": "Deoxyribonucleic acccccid.... wait, how Floran know that?",
+    "name": "Deoxyribonucleic acccccid.... wait, how .mrmttitlename. know that?",
     "path": "objects/avaligeneric/holograms"
   },
   {
@@ -372,15 +372,15 @@
     "path": "objects/avaligeneric/chairs"
   },
   {
-    "desc": "Floran ssssuspect this mean pluck birds?",
+    "desc": ".mrmttitlename. ssssuspect this mean pluck birds?",
     "file": "avaliemblem.object",
-    "name": "Floran ssssuspect this mean pluck birds?",
+    "name": ".mrmttitlename. ssssuspect this mean pluck birds?",
     "path": "objects/avaligeneric/decorations"
   },
   {
-    "desc": "Floran thinkssss this is miracle-gro.",
+    "desc": ".mrmttitlename. thinkssss this is miracle-gro.",
     "file": "avalibottle1.object",
-    "name": "Floran thinkssss this is miracle-gro.",
+    "name": ".mrmttitlename. thinkssss this is miracle-gro.",
     "path": "objects/avaligeneric/decorations"
   },
   {
@@ -396,9 +396,9 @@
     "path": "objects/avaligeneric/decorations"
   },
   {
-    "desc": "Floran ssssuspect this mean pluck birds?",
+    "desc": ".mrmttitlename. ssssuspect this mean pluck birds?",
     "file": "avaliemblembig.object",
-    "name": "Floran ssssuspect this mean pluck birds?",
+    "name": ".mrmttitlename. ssssuspect this mean pluck birds?",
     "path": "objects/avaligeneric/decorations"
   },
   {
@@ -426,27 +426,27 @@
     "path": "objects/avaligeneric/lights"
   },
   {
-    "desc": "Floran ssssstand here, nice not-sunlight.",
+    "desc": ".mrmttitlename. ssssstand here, nice not-sunlight.",
     "file": "avalisolidlightblock.object",
-    "name": "Floran ssssstand here, nice not-sunlight.",
+    "name": ".mrmttitlename. ssssstand here, nice not-sunlight.",
     "path": "objects/avaligeneric/lights"
   },
   {
-    "desc": "Floran ssssstand here, nice not-sunlight.",
+    "desc": ".mrmttitlename. ssssstand here, nice not-sunlight.",
     "file": "avalilightblock.object",
-    "name": "Floran ssssstand here, nice not-sunlight.",
+    "name": ".mrmttitlename. ssssstand here, nice not-sunlight.",
     "path": "objects/avaligeneric/lights"
   },
   {
-    "desc": "Floran ssssstand here, nice not-sunlight.",
+    "desc": ".mrmttitlename. ssssstand here, nice not-sunlight.",
     "file": "avalilightpanel.object",
-    "name": "Floran ssssstand here, nice not-sunlight.",
+    "name": ".mrmttitlename. ssssstand here, nice not-sunlight.",
     "path": "objects/avaligeneric/lights"
   },
   {
-    "desc": "Floran ssssstand here, nice not-sunlight.",
+    "desc": ".mrmttitlename. ssssstand here, nice not-sunlight.",
     "file": "avaliaerogellight.object",
-    "name": "Floran ssssstand here, nice not-sunlight.",
+    "name": ".mrmttitlename. ssssstand here, nice not-sunlight.",
     "path": "objects/avaligeneric/lights"
   },
   {
@@ -462,15 +462,15 @@
     "path": "objects/avaligeneric/lab"
   },
   {
-    "desc": "Floran want to see if sssssqueaky toy.",
+    "desc": ".mrmttitlename. want to see if sssssqueaky toy.",
     "file": "avalisample2.object",
-    "name": "Floran want to see if sssssqueaky toy.",
+    "name": ".mrmttitlename. want to see if sssssqueaky toy.",
     "path": "objects/avaligeneric/lab"
   },
   {
-    "desc": "This sign mean good things inside to Floran!",
+    "desc": "This sign mean good things inside to .mrmttitlename.!",
     "file": "avaliterminal3.object",
-    "name": "This sign mean good things inside to Floran!",
+    "name": "This sign mean good things inside to .mrmttitlename.!",
     "path": "objects/avaligeneric/terminal"
   },
   {
@@ -540,9 +540,9 @@
     "path": "objects/avaligeneric/doors"
   },
   {
-    "desc": "Floran put wood in box, then heats 'till it bursssts into flame. Campfire for sssstupidss.",
+    "desc": ".mrmttitlename. put wood in box, then heats 'till it bursssts into flame. Campfire for sssstupidss.",
     "file": "avalikitchenstove.object",
-    "name": "Floran put wood in box, then heats 'till it bursssts into flame. Campfire for sssstupidss.",
+    "name": ".mrmttitlename. put wood in box, then heats 'till it bursssts into flame. Campfire for sssstupidss.",
     "path": "objects/avaligeneric/kitchen"
   },
   {
@@ -1008,9 +1008,9 @@
     "path": "objects/avaligeneric/racks/bows"
   },
   {
-    "desc": "Floran can exsstract augmentss with this.",
+    "desc": ".mrmttitlename. can exsstract augmentss with this.",
     "file": "aex.object",
-    "name": "Floran can exsstract augmentss with this.",
+    "name": ".mrmttitlename. can exsstract augmentss with this.",
     "path": "objects/augmentextractor"
   },
   {
@@ -1134,15 +1134,15 @@
     "path": "objects/generators"
   },
   {
-    "desc": "Can Floran makess mate on thiss?",
+    "desc": "Can .mrmttitlename. makess mate on thiss?",
     "file": "sproutingtable.object",
-    "name": "Can Floran makess mate on thiss?",
+    "name": "Can .mrmttitlename. makess mate on thiss?",
     "path": "objects/crafting/sproutingtable"
   },
   {
-    "desc": "Floran would not ssteal from sstall. No meatss.",
+    "desc": ".mrmttitlename. would not ssteal from sstall. No meatss.",
     "file": "extraavianaugments.object",
-    "name": "Floran would not ssteal from sstall. No meatss.",
+    "name": ".mrmttitlename. would not ssteal from sstall. No meatss.",
     "path": "objects/crafting/extraavianaugments"
   },
   {
@@ -1170,9 +1170,9 @@
     "path": "objects/crafting/xenostation"
   },
   {
-    "desc": "Floran can make equipment for wiring thingsss.",
+    "desc": ".mrmttitlename. can make equipment for wiring thingsss.",
     "file": "wiringstation.object",
-    "name": "Floran can make equipment for wiring thingsss.",
+    "name": ".mrmttitlename. can make equipment for wiring thingsss.",
     "path": "objects/crafting/wiringstation"
   },
   {
@@ -1260,21 +1260,21 @@
     "path": "objects/wired/sequencer"
   },
   {
-    "desc": "Ssso many featuresss! It doesssn't help that Floran can't manually interact with thisss!",
+    "desc": "Ssso many featuresss! It doesssn't help that .mrmttitlename. can't manually interact with thisss!",
     "file": "swtjc_wp_advancedswitch_noninteractive.object",
-    "name": "Ssso many featuresss! It doesssn't help that Floran can't manually interact with thisss!",
+    "name": "Ssso many featuresss! It doesssn't help that .mrmttitlename. can't manually interact with thisss!",
     "path": "objects/wired/advancedswitch"
   },
   {
-    "desc": "Ssso many featuresss! Floran might need to read manual to figure out which node doesss what. Or jussst exxxperiment with it!",
+    "desc": "Ssso many featuresss! .mrmttitlename. might need to read manual to figure out which node doesss what. Or jussst exxxperiment with it!",
     "file": "swtjc_wp_advancedswitch_nolatch.object",
-    "name": "Ssso many featuresss! Floran might need to read manual to figure out which node doesss what. Or jussst exxxperiment with it!",
+    "name": "Ssso many featuresss! .mrmttitlename. might need to read manual to figure out which node doesss what. Or jussst exxxperiment with it!",
     "path": "objects/wired/advancedswitch"
   },
   {
-    "desc": "Ssso many featuresss! Floran might need to read manual to figure out which node doesss what. Or jussst exxxperiment with it!",
+    "desc": "Ssso many featuresss! .mrmttitlename. might need to read manual to figure out which node doesss what. Or jussst exxxperiment with it!",
     "file": "swtjc_wp_advancedswitch.object",
-    "name": "Ssso many featuresss! Floran might need to read manual to figure out which node doesss what. Or jussst exxxperiment with it!",
+    "name": "Ssso many featuresss! .mrmttitlename. might need to read manual to figure out which node doesss what. Or jussst exxxperiment with it!",
     "path": "objects/wired/advancedswitch"
   },
   {
@@ -1356,15 +1356,15 @@
     "path": "objects/wired/persistentswitch"
   },
   {
-    "desc": "Persssissstent ssswitch that Floran can alssso toggle manually.",
+    "desc": "Persssissstent ssswitch that .mrmttitlename. can alssso toggle manually.",
     "file": "swtjc_wp_persistentswitchinteractive.object",
-    "name": "Persssissstent ssswitch that Floran can alssso toggle manually.",
+    "name": "Persssissstent ssswitch that .mrmttitlename. can alssso toggle manually.",
     "path": "objects/wired/persistentswitch"
   },
   {
-    "desc": "Persssissstent ssswitch that Floran can alssso toggle manually. Alssso hasss a built-in NOT gate.",
+    "desc": "Persssissstent ssswitch that .mrmttitlename. can alssso toggle manually. Alssso hasss a built-in NOT gate.",
     "file": "swtjc_wp_persistentswitchinteractive_withnot.object",
-    "name": "Persssissstent ssswitch that Floran can alssso toggle manually. Alssso hasss a built-in NOT gate.",
+    "name": "Persssissstent ssswitch that .mrmttitlename. can alssso toggle manually. Alssso hasss a built-in NOT gate.",
     "path": "objects/wired/persistentswitch"
   },
   {
@@ -1374,9 +1374,9 @@
     "path": "objects/wired/persistentswitch/compact_switch_vertical"
   },
   {
-    "desc": "Persssissstent ssswitch that Floran can alssso toggle manually.",
+    "desc": "Persssissstent ssswitch that .mrmttitlename. can alssso toggle manually.",
     "file": "swtjc_wp_compactvpersistentswitchinteractive.object",
-    "name": "Persssissstent ssswitch that Floran can alssso toggle manually.",
+    "name": "Persssissstent ssswitch that .mrmttitlename. can alssso toggle manually.",
     "path": "objects/wired/persistentswitch/compact_switch_vertical"
   },
   {
@@ -1386,9 +1386,9 @@
     "path": "objects/wired/persistentswitch/compact_switch_horizontal"
   },
   {
-    "desc": "Persssissstent ssswitch that Floran can alssso toggle manually.",
+    "desc": "Persssissstent ssswitch that .mrmttitlename. can alssso toggle manually.",
     "file": "swtjc_wp_compacthpersistentswitchinteractive.object",
-    "name": "Persssissstent ssswitch that Floran can alssso toggle manually.",
+    "name": "Persssissstent ssswitch that .mrmttitlename. can alssso toggle manually.",
     "path": "objects/wired/persistentswitch/compact_switch_horizontal"
   },
   {
@@ -1404,15 +1404,15 @@
     "path": "objects/wired/elderliquidsensor"
   },
   {
-    "desc": "Sssignal emitter that'sss alwaysss on? Maybe Floran can ussse it to keep doorsss open and ssswitchesss online at all timesss?",
+    "desc": "Sssignal emitter that'sss alwaysss on? Maybe .mrmttitlename. can ussse it to keep doorsss open and ssswitchesss online at all timesss?",
     "file": "swtjc_wp_emitter.object",
-    "name": "Sssignal emitter that'sss alwaysss on? Maybe Floran can ussse it to keep doorsss open and ssswitchesss online at all timesss?",
+    "name": "Sssignal emitter that'sss alwaysss on? Maybe .mrmttitlename. can ussse it to keep doorsss open and ssswitchesss online at all timesss?",
     "path": "objects/wired/emitter"
   },
   {
-    "desc": "What'sss the point of usssing thisss broken emitter? Maybe Floran can ussse it to keep doorsss sealed?",
+    "desc": "What'sss the point of usssing thisss broken emitter? Maybe .mrmttitlename. can ussse it to keep doorsss sealed?",
     "file": "swtjc_wp_brokenemitter.object",
-    "name": "What'sss the point of usssing thisss broken emitter? Maybe Floran can ussse it to keep doorsss sealed?",
+    "name": "What'sss the point of usssing thisss broken emitter? Maybe .mrmttitlename. can ussse it to keep doorsss sealed?",
     "path": "objects/wired/emitter"
   },
   {
@@ -1746,15 +1746,15 @@
     "path": "objects/wired/logic/compact_logic_horizontal"
   },
   {
-    "desc": "Floran guesssesss that the right input node isss the Data Latch.",
+    "desc": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "file": "swtjc_wp_advancedor.object",
-    "name": "Floran guesssesss that the right input node isss the Data Latch.",
+    "name": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "path": "objects/wired/advancedlogic"
   },
   {
-    "desc": "Floran guesssesss that the right input node isss the Data Latch.",
+    "desc": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "file": "swtjc_wp_advancedxor3i12h.object",
-    "name": "Floran guesssesss that the right input node isss the Data Latch.",
+    "name": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "path": "objects/wired/advancedlogic"
   },
   {
@@ -1764,45 +1764,45 @@
     "path": "objects/wired/advancedlogic"
   },
   {
-    "desc": "Floran guesssesss that the right input node isss the Data Latch.",
+    "desc": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "file": "swtjc_wp_advancedand.object",
-    "name": "Floran guesssesss that the right input node isss the Data Latch.",
+    "name": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "path": "objects/wired/advancedlogic"
   },
   {
-    "desc": "Floran guesssesss that the right input node isss the Data Latch.",
+    "desc": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "file": "swtjc_wp_advancedor3i.object",
-    "name": "Floran guesssesss that the right input node isss the Data Latch.",
+    "name": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "path": "objects/wired/advancedlogic"
   },
   {
-    "desc": "Floran guesssesss that the right input node isss the Data Latch.",
+    "desc": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "file": "swtjc_wp_advancedxor3i2h.object",
-    "name": "Floran guesssesss that the right input node isss the Data Latch.",
+    "name": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "path": "objects/wired/advancedlogic"
   },
   {
-    "desc": "Floran guesssesss that the right input node isss the Data Latch.",
+    "desc": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "file": "swtjc_wp_advancedxor.object",
-    "name": "Floran guesssesss that the right input node isss the Data Latch.",
+    "name": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "path": "objects/wired/advancedlogic"
   },
   {
-    "desc": "Floran guesssesss that the right input node isss the Data Latch.",
+    "desc": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "file": "swtjc_wp_advancedand3i.object",
-    "name": "Floran guesssesss that the right input node isss the Data Latch.",
+    "name": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "path": "objects/wired/advancedlogic"
   },
   {
-    "desc": "Floran guesssesss that the right input node isss the Data Latch.",
+    "desc": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "file": "swtjc_wp_advancedxor3i.object",
-    "name": "Floran guesssesss that the right input node isss the Data Latch.",
+    "name": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "path": "objects/wired/advancedlogic"
   },
   {
-    "desc": "Floran guesssesss that the right input node isss the Data Latch.",
+    "desc": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "file": "swtjc_wp_advancedxor3i1h.object",
-    "name": "Floran guesssesss that the right input node isss the Data Latch.",
+    "name": ".mrmttitlename. guesssesss that the right input node isss the Data Latch.",
     "path": "objects/wired/advancedlogic"
   },
   {
@@ -1824,21 +1824,21 @@
     "path": "objects/wired/advancedlogic/no_latch"
   },
   {
-    "desc": "Floran not meant to touch any radar after last time.",
+    "desc": ".mrmttitlename. not meant to touch any radar after last time.",
     "file": "extrateleportradar.object",
-    "name": "Floran not meant to touch any radar after last time.",
+    "name": ".mrmttitlename. not meant to touch any radar after last time.",
     "path": "objects/portals/extrateleportradar"
   },
   {
-    "desc": "Floran not meant to touch any radar after last time.",
+    "desc": ".mrmttitlename. not meant to touch any radar after last time.",
     "file": "extrateleportradarreturn.object",
-    "name": "Floran not meant to touch any radar after last time.",
+    "name": ".mrmttitlename. not meant to touch any radar after last time.",
     "path": "objects/portals/extrateleportradar"
   },
   {
-    "desc": "Floran not meant to touch any radar after last time.",
+    "desc": ".mrmttitlename. not meant to touch any radar after last time.",
     "file": "extrateleportradarhome.object",
-    "name": "Floran not meant to touch any radar after last time.",
+    "name": ".mrmttitlename. not meant to touch any radar after last time.",
     "path": "objects/portals/extrateleportradar"
   },
   {
@@ -1848,15 +1848,15 @@
     "path": "objects/power/isn_fissionreactor"
   },
   {
-    "desc": "Floran like cosssmic vending machine.",
+    "desc": ".mrmttitlename. like cosssmic vending machine.",
     "file": "isn_radiostation.object",
-    "name": "Floran like cosssmic vending machine.",
+    "name": ".mrmttitlename. like cosssmic vending machine.",
     "path": "objects/power/isn_radiostation"
   },
   {
-    "desc": "Machine makesss plant? Floran... kinda ssskeeved out a bit.",
+    "desc": "Machine makesss plant? .mrmttitlename.... kinda ssskeeved out a bit.",
     "file": "isn_hydroponicstray.object",
-    "name": "Machine makesss plant? Floran... kinda ssskeeved out a bit.",
+    "name": "Machine makesss plant? .mrmttitlename.... kinda ssskeeved out a bit.",
     "path": "objects/power/isn_hydroponicstray"
   },
   {
@@ -1866,15 +1866,15 @@
     "path": "objects/power/isn_atmosregulator"
   },
   {
-    "desc": "Floran not like hot noisssy machine.",
+    "desc": ".mrmttitlename. not like hot noisssy machine.",
     "file": "isn_thermalgenerator.object",
-    "name": "Floran not like hot noisssy machine.",
+    "name": ".mrmttitlename. not like hot noisssy machine.",
     "path": "objects/power/isn_thermalgenerator"
   },
   {
-    "desc": "Floran hate ssstupid can of fire.",
+    "desc": ".mrmttitlename. hate ssstupid can of fire.",
     "file": "isn_incinerator.object",
-    "name": "Floran hate ssstupid can of fire.",
+    "name": ".mrmttitlename. hate ssstupid can of fire.",
     "path": "objects/power/isn_incinerator"
   },
   {
@@ -1884,33 +1884,33 @@
     "path": "objects/power/isn_fissionreactornew"
   },
   {
-    "desc": "Ssstop ssstealing the air! Floran isss usssing that!",
+    "desc": "Ssstop ssstealing the air! .mrmttitlename. isss usssing that!",
     "file": "isn_atmoscondenser.object",
-    "name": "Ssstop ssstealing the air! Floran isss usssing that!",
+    "name": "Ssstop ssstealing the air! .mrmttitlename. isss usssing that!",
     "path": "objects/power/isn_atmoscondenser"
   },
   {
-    "desc": "Machine get power from sssun like plant. Floran like it.",
+    "desc": "Machine get power from sssun like plant. .mrmttitlename. like it.",
     "file": "isn_solarpanel.object",
-    "name": "Machine get power from sssun like plant. Floran like it.",
+    "name": "Machine get power from sssun like plant. .mrmttitlename. like it.",
     "path": "objects/power/isn_solarpanel"
   },
   {
-    "desc": "Iss to mechss what meatss iss to Floranss.",
+    "desc": "Iss to mechss what meatss iss to .mrmttitlename.ss.",
     "file": "extraenergycanister.object",
-    "name": "Iss to mechss what meatss iss to Floranss.",
+    "name": "Iss to mechss what meatss iss to .mrmttitlename.ss.",
     "path": "objects/dispensers"
   },
   {
-    "desc": "Machine ssspit loot at Floran.",
+    "desc": "Machine ssspit loot at .mrmttitlename..",
     "file": "pixeldispenser.object",
-    "name": "Machine ssspit loot at Floran.",
+    "name": "Machine ssspit loot at .mrmttitlename..",
     "path": "objects/dispensers"
   },
   {
-    "desc": "Floran feelss sstrange ssleeping in thiss.",
+    "desc": ".mrmttitlename. feelss sstrange ssleeping in thiss.",
     "file": "grassbed.object",
-    "name": "Floran feelss sstrange ssleeping in thiss.",
+    "name": ".mrmttitlename. feelss sstrange ssleeping in thiss.",
     "path": "objects/generic/furniture/grassbed"
   },
   {
@@ -1956,9 +1956,9 @@
     "path": "objects/generic/labfurniture/labtable"
   },
   {
-    "desc": "Clever machine gives Floran treatsss.",
+    "desc": "Clever machine gives .mrmttitlename. treatsss.",
     "file": "labvendingmachine.object",
-    "name": "Clever machine gives Floran treatsss.",
+    "name": "Clever machine gives .mrmttitlename. treatsss.",
     "path": "objects/generic/labfurniture/vendingmachine"
   },
   {
@@ -1980,9 +1980,9 @@
     "path": "objects/pixelgoods"
   },
   {
-    "desc": "Floran sssink into bed, forget about ssstabbing for just a moment.",
+    "desc": ".mrmttitlename. sssink into bed, forget about ssstabbing for just a moment.",
     "file": "fuokeahitechbed.object",
-    "name": "Floran sssink into bed, forget about ssstabbing for just a moment.",
+    "name": ".mrmttitlename. sssink into bed, forget about ssstabbing for just a moment.",
     "path": "objects/pixelgoods"
   },
   {
@@ -1992,9 +1992,9 @@
     "path": "objects/pixelgoods"
   },
   {
-    "desc": "Floran sssink into bed, forget about ssstabbing for just a moment.",
+    "desc": ".mrmttitlename. sssink into bed, forget about ssstabbing for just a moment.",
     "file": "fufloranbed.object",
-    "name": "Floran sssink into bed, forget about ssstabbing for just a moment.",
+    "name": ".mrmttitlename. sssink into bed, forget about ssstabbing for just a moment.",
     "path": "objects/pixelgoods"
   },
   {
@@ -2064,9 +2064,9 @@
     "path": "objects/pixelgoods"
   },
   {
-    "desc": "Floran think plant look tasty.",
+    "desc": ".mrmttitlename. think plant look tasty.",
     "file": "heckbush3.object",
-    "name": "Floran think plant look tasty.",
+    "name": ".mrmttitlename. think plant look tasty.",
     "path": "objects/biome/heck/heckbush3"
   },
   {
@@ -2076,27 +2076,27 @@
     "path": "objects/biome/heck/heckpillar1"
   },
   {
-    "desc": "Floran eyes hurt if Floran look at light.",
+    "desc": ".mrmttitlename. eyes hurt if .mrmttitlename. look at light.",
     "file": "hecklight2.object",
-    "name": "Floran eyes hurt if Floran look at light.",
+    "name": ".mrmttitlename. eyes hurt if .mrmttitlename. look at light.",
     "path": "objects/biome/heck/hecklight2"
   },
   {
-    "desc": "Floran think light look tasty.",
+    "desc": ".mrmttitlename. think light look tasty.",
     "file": "hecklight1.object",
-    "name": "Floran think light look tasty.",
+    "name": ".mrmttitlename. think light look tasty.",
     "path": "objects/biome/heck/hecklight1"
   },
   {
-    "desc": "Floran think this sssay, all you can eat.",
+    "desc": ".mrmttitlename. think this sssay, all you can eat.",
     "file": "hecksign.object",
-    "name": "Floran think this sssay, all you can eat.",
+    "name": ".mrmttitlename. think this sssay, all you can eat.",
     "path": "objects/biome/heck/hecksign"
   },
   {
-    "desc": "Floran think plant look tasty.",
+    "desc": ".mrmttitlename. think plant look tasty.",
     "file": "heckbush1.object",
-    "name": "Floran think plant look tasty.",
+    "name": ".mrmttitlename. think plant look tasty.",
     "path": "objects/biome/heck/heckbush1"
   },
   {
@@ -2106,63 +2106,63 @@
     "path": "objects/biome/heck/heckpillar2"
   },
   {
-    "desc": "Floran want to eat chest.",
+    "desc": ".mrmttitlename. want to eat chest.",
     "file": "heckchest.object",
-    "name": "Floran want to eat chest.",
+    "name": ".mrmttitlename. want to eat chest.",
     "path": "objects/biome/heck/heckchest"
   },
   {
-    "desc": "Floran think plant look tasty.",
+    "desc": ".mrmttitlename. think plant look tasty.",
     "file": "heckbush7.object",
-    "name": "Floran think plant look tasty.",
+    "name": ".mrmttitlename. think plant look tasty.",
     "path": "objects/biome/heck/heckbush7"
   },
   {
-    "desc": "Floran think plant look tasty.",
+    "desc": ".mrmttitlename. think plant look tasty.",
     "file": "heckbush9.object",
-    "name": "Floran think plant look tasty.",
+    "name": ".mrmttitlename. think plant look tasty.",
     "path": "objects/biome/heck/heckbush9"
   },
   {
-    "desc": "Floran only worship ssstabbing. Floran like table though.",
+    "desc": ".mrmttitlename. only worship ssstabbing. .mrmttitlename. like table though.",
     "file": "heckaltar.object",
-    "name": "Floran only worship ssstabbing. Floran like table though.",
+    "name": ".mrmttitlename. only worship ssstabbing. .mrmttitlename. like table though.",
     "path": "objects/biome/heck/heckaltar"
   },
   {
-    "desc": "Floran think plant look tasty.",
+    "desc": ".mrmttitlename. think plant look tasty.",
     "file": "heckbush10.object",
-    "name": "Floran think plant look tasty.",
+    "name": ".mrmttitlename. think plant look tasty.",
     "path": "objects/biome/heck/heckbush10"
   },
   {
-    "desc": "Floran think plant look tasty.",
+    "desc": ".mrmttitlename. think plant look tasty.",
     "file": "heckbush8.object",
-    "name": "Floran think plant look tasty.",
+    "name": ".mrmttitlename. think plant look tasty.",
     "path": "objects/biome/heck/heckbush8"
   },
   {
-    "desc": "Floran think plant look tasty.",
+    "desc": ".mrmttitlename. think plant look tasty.",
     "file": "heckbush5.object",
-    "name": "Floran think plant look tasty.",
+    "name": ".mrmttitlename. think plant look tasty.",
     "path": "objects/biome/heck/heckbush5"
   },
   {
-    "desc": "Floran think plant look tasty.",
+    "desc": ".mrmttitlename. think plant look tasty.",
     "file": "heckbush6.object",
-    "name": "Floran think plant look tasty.",
+    "name": ".mrmttitlename. think plant look tasty.",
     "path": "objects/biome/heck/heckbush6"
   },
   {
-    "desc": "Floran think plant look tasty.",
+    "desc": ".mrmttitlename. think plant look tasty.",
     "file": "heckbush2.object",
-    "name": "Floran think plant look tasty.",
+    "name": ".mrmttitlename. think plant look tasty.",
     "path": "objects/biome/heck/heckbush2"
   },
   {
-    "desc": "Floran think plant look tasty.",
+    "desc": ".mrmttitlename. think plant look tasty.",
     "file": "heckbush4.object",
-    "name": "Floran think plant look tasty.",
+    "name": ".mrmttitlename. think plant look tasty.",
     "path": "objects/biome/heck/heckbush4"
   },
   {
@@ -2262,15 +2262,15 @@
     "path": "objects/minibiome/elder/eldertraps/elderfloorspike6"
   },
   {
-    "desc": "Floran ssslice on crystal, not leave marksss.",
+    "desc": ".mrmttitlename. ssslice on crystal, not leave marksss.",
     "file": "fuhoneycrystaltable.object",
-    "name": "Floran ssslice on crystal, not leave marksss.",
+    "name": ".mrmttitlename. ssslice on crystal, not leave marksss.",
     "path": "objects/minibiome/honey/fuhoneycrystaltable"
   },
   {
-    "desc": "Tall wood box. Good for Floran to hide in.",
+    "desc": "Tall wood box. Good for .mrmttitlename. to hide in.",
     "file": "fugoldenoakcabinet.object",
-    "name": "Tall wood box. Good for Floran to hide in.",
+    "name": "Tall wood box. Good for .mrmttitlename. to hide in.",
     "path": "objects/minibiome/honey/fugoldenoakcabinet"
   },
   {
@@ -2358,39 +2358,39 @@
     "path": "objects/minibiome/crystalmoon"
   },
   {
-    "desc": "Floran push button, but no magic.",
+    "desc": ".mrmttitlename. push button, but no magic.",
     "file": "techbush1.object",
-    "name": "Floran push button, but no magic.",
+    "name": ".mrmttitlename. push button, but no magic.",
     "path": "objects/wasteland/techbush1"
   },
   {
-    "desc": "Floran sees arrow, but nothing above sign.",
+    "desc": ".mrmttitlename. sees arrow, but nothing above sign.",
     "file": "techbush6.object",
-    "name": "Floran sees arrow, but nothing above sign.",
+    "name": ".mrmttitlename. sees arrow, but nothing above sign.",
     "path": "objects/wasteland/techbush6"
   },
   {
-    "desc": "Floran can see metal innardsss!",
+    "desc": ".mrmttitlename. can see metal innardsss!",
     "file": "techbush2.object",
-    "name": "Floran can see metal innardsss!",
+    "name": ".mrmttitlename. can see metal innardsss!",
     "path": "objects/wasteland/techbush2"
   },
   {
-    "desc": "Floran unsure what thing is, but sure it broken.",
+    "desc": ".mrmttitlename. unsure what thing is, but sure it broken.",
     "file": "techbush3.object",
-    "name": "Floran unsure what thing is, but sure it broken.",
+    "name": ".mrmttitlename. unsure what thing is, but sure it broken.",
     "path": "objects/wasteland/techbush3"
   },
   {
-    "desc": "Floran know ssskull shape.",
+    "desc": ".mrmttitlename. know ssskull shape.",
     "file": "techbush4.object",
-    "name": "Floran know ssskull shape.",
+    "name": ".mrmttitlename. know ssskull shape.",
     "path": "objects/wasteland/techbush4"
   },
   {
-    "desc": "Floran see space ship. Can't read text.",
+    "desc": ".mrmttitlename. see space ship. Can't read text.",
     "file": "techbush5.object",
-    "name": "Floran see space ship. Can't read text.",
+    "name": ".mrmttitlename. see space ship. Can't read text.",
     "path": "objects/wasteland/techbush5"
   },
   {
@@ -2508,9 +2508,9 @@
     "path": "objects/avalicamp/modulartent/largeentry"
   },
   {
-    "desc": "Floran hear humansssss fight with these. Which end is pointy end?",
+    "desc": ".mrmttitlename. hear humansssss fight with these. Which end is pointy end?",
     "file": "avalicushion2.object",
-    "name": "Floran hear humansssss fight with these. Which end is pointy end?",
+    "name": ".mrmttitlename. hear humansssss fight with these. Which end is pointy end?",
     "path": "objects/avalicamp/cushions"
   },
   {

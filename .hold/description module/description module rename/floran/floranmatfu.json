@@ -72,9 +72,9 @@
     "path": "tiles/materials"
   },
   {
-    "desc": "Floran like vinesss.",
+    "desc": ".mrmttitlename. like vinesss.",
     "file": "springvines.material",
-    "name": "Floran like vinesss.",
+    "name": ".mrmttitlename. like vinesss.",
     "path": "tiles/materials"
   },
   {
@@ -138,9 +138,9 @@
     "path": "tiles/materials/honey/brick"
   },
   {
-    "desc": "Floran look pretty in glasssss.",
+    "desc": ".mrmttitlename. look pretty in glasssss.",
     "file": "goldenglass.material",
-    "name": "Floran look pretty in glasssss.",
+    "name": ".mrmttitlename. look pretty in glasssss.",
     "path": "tiles/materials/honey/goldenglass"
   }
 ]
