@@ -11,3 +11,6 @@ function init()
     i = i + 1
   end
 end
+
+-- @license MIT
+-- @author IHCaTHB

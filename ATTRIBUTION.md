@@ -38,3 +38,8 @@ http://chbrown.github.io/rfc6902/
 [Starbound]: http://playstarbound.com
 
 [The Starbound official forums modding community]: http://community.playstarbound.com/forums/111
+
+---
+
+@license MIT
+@author IHCaTHB

@@ -87,3 +87,8 @@ makes certain tenants more generic
 #### mine
 'FISHFACE.IHC' for dialog tweaks
 'GRANDARM.IHC' copying npc gear will include grand armory weapon types
+
+---
+
+@license MIT
+@author IHCaTHB

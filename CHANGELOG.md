@@ -12,3 +12,8 @@
 + projectile npc spawners
 + tenant tweaks
 + inclusions
+
+---
+
+@license MIT
+@author IHCaTHB
