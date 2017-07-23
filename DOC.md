@@ -1,6 +1,6 @@
 # sbmod-mrmtinit
 # documentation
-last updated yyyy-mm-dd for version 0.1
+last updated 2017-07-23 for version 0.1
 
 ## backend
 
@@ -21,7 +21,7 @@ in `/dungeons/generic/genericcamp/genericcamp.dungeon`
 `merchant_floran_generic.json`
 `merchant_glitch_generic.json`
 `merchant_human_generic.json`
-`merchant_hylotl_generic.json`
+`merchant_hylotl_generic.json`  
 in both `/dungeons/encounterdungeons` and `/dungeons/encounterdungeons/underground`
 
 `genericcamp1.json`
@@ -33,8 +33,8 @@ in both `/dungeons/encounterdungeons` and `/dungeons/encounterdungeons/undergrou
 `genericcampendright1.json`
 `genericcamphill1.json`
 `genericcamplake1.json`
-`genericcamptoilet1.json`
-in `/dungeons/generic/genericcamp`
+`genericcamptoilet1.json`  
+in `/dungeons/generic/genericcamp`  
 A copy of `/dungeons/human/humancamp` but with NPC spawner projectiles instead of humans.
 
 ### npc additions
@@ -94,7 +94,7 @@ Makes certain tenants more generic.
 Adds to vanilla types and then tests for each FU type independendtly.
 
 ### Lua scripts
-`/projectiles/spawner/npcspawn.lua`
+`/projectiles/spawner/npcspawn.lua`  
 Loads config from projectile into spawn command.
 
 ### mod includes
@@ -105,7 +105,7 @@ Loads config from projectile into spawn command.
 `FrackinUniverse` for dungeon patching
 
 #### mine
-`FISHFACE.IHC` for dialog tweaks
+`FISHFACE.IHC` for dialog tweaks  
 `GRANDARM.IHC` so copying npc gear will include grand armory weapon types
 
 ---
