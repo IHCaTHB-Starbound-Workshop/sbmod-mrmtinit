@@ -5,8 +5,6 @@
 
 Project licensed under a modified [MIT license], file included[*].
 
-To install simply extract the project into your 'mods' folder!
-
 See also [ATTRIBUTION.md], [CHANGELOG.md], [DOC.md], and [_metadata].
 
 You can contact the author on the official Starbound forums [MEGATHREAD].
