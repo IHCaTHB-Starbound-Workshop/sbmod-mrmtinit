@@ -1,10 +1,7 @@
 # sbmod-mrmtinit
 # changelog
 
-### vur
-+ b
-
-### v0.1 yyyy-mm-dd
+### v0.1 2017-07-23
 + dialog tweaks
 + dungeon tweaks
 + npc tweaks
