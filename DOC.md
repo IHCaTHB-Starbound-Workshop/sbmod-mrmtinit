@@ -12,7 +12,7 @@ Repairs a couple instances of missing vanilla species dialog.
 Adds new npc spawn types or replaces existing ones.
 
 ### dungeon additions
-`genericcamp`
+`genericcamp`  
 in `/dungeons/generic/genericcamp/genericcamp.dungeon`
 
 ### dungeon part additions
@@ -57,7 +57,6 @@ Adds default description to basicbath.
 `guardplant`
 `hazmatscientist`
 `merchant`
-`npcspawn.lua
 `snowscientist`
 `snowvillager`
 `villager`
@@ -95,18 +94,18 @@ Adds to vanilla types and then tests for each FU type independendtly.
 
 ### Lua scripts
 `/projectiles/spawner/npcspawn.lua`  
-Loads config from projectile into spawn command.
+Loads config from projectile into spawn command. Called by every projectile in the project.
 
 ### mod includes
 #### ships
-`Tier Nine Ships`
++ `Tier Nine Ships`
 
 #### general
-`FrackinUniverse` for dungeon patching
++ `FrackinUniverse` for dungeon patching
 
 #### mine
-`FISHFACE.IHC` for dialog tweaks  
-`GRANDARM.IHC` so copying npc gear will include grand armory weapon types
++ `FISHFACE.IHC` for dialog tweaks
++ `GRANDARM.IHC` so copying npc gear will include grand armory weapon types
 
 ---
 
