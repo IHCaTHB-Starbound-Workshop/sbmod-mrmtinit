@@ -1,0 +1,22 @@
+[
+  {
+    "op" : "test",
+    "path" : "/scriptConfig/dialog/merchant/end/floran",
+    "inverse" : true
+  }
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/floran",
+    "value": {
+      "default": [
+        "Come back, stay here, ssspend more!",
+        "Floran hopess you come back soon.",
+        "Floran sells besst things, you come back soon.",
+        "Floran pleased, hopes you come again."
+      ]
+    }
+  }
+]
+
+// @license MIT
+// @author IHCaTHB
