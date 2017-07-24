@@ -3,7 +3,7 @@
 
 ## author
 
-IHCaTHB | forum: [714236] | steam: [The Honey Badger] | github: [IsaacHart]
+IHCaTHB | forum: [714236] | steam: [The Honey Badger] | github: [IsaacHart] | patreon: [IHCaTHB]
 
 ## credit
 
@@ -32,6 +32,8 @@ http://chbrown.github.io/rfc6902/
 [The Honey Badger]: https://steamcommunity.com/profiles/76561197966846799/myworkshopfiles/?appid=211820
 
 [IsaacHart]: https://github.com/IHCaTHB-Starbound-Workshop
+
+[IHCaTHB]: https://www.patreon.com/IHCaTHB
 
 [Chucklefish]: http://www.chucklefish.org
 
