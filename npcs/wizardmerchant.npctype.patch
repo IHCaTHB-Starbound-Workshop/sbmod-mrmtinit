@@ -3,7 +3,7 @@
     "op" : "test",
     "path" : "/scriptConfig/dialog/merchant/end/floran",
     "inverse" : true
-  }
+  },
   {
     "op": "add",
     "path": "/scriptConfig/dialog/merchant/end/floran",
