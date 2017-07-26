@@ -1,20 +1,11 @@
 {
   "author" : "IHCaTHB",
-  "description" : "^#5aa9d6;Makes more different species appear in more different places!^reset;
-
-Current list of features:
-
-Dialog fixes where dialog was sloppy and generic, made it slightly more robust. "I have nothing to say to you." has been REMOVED.
-Many NPCs have a chance to spawn as any avaiable species. Want your species included in this? Instructions can be found as a part of the MRMT suite.
-Dungeons are more full of more npcs! The protectorate accademy and outpost are more lively, challenge encounters are more challenge!
-
-For more, click the MEGATHREAD link from the steam page.",
+  "description" : "^#5aa9d6;Makes more different species appear in more different places!^reset;\n\nCurrent list of features:\n\nDialog fixes where dialog was sloppy and generic, made it slightly more robust. \"I have nothing to say to you.\" has been REMOVED.\nMany NPCs have a chance to spawn as any avaiable species. Want your species included in this? Instructions can be found as a part of the MRMT suite.\nDungeons are more full of more npcs! The protectorate accademy and outpost are more lively, challenge encounters are more challenge!\n\nFor more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "MRMT Initialization",
-  "includes" : [ "FrackinUniverse", "FISHFACE.IHC", "Tier Nine Ships", "GRANDARM.IHC" ],
+  "includes" : ["FrackinUniverse", "FISHFACE.IHC", "Tier Nine Ships", "GRANDARM.IHC"],
+  "link" : "steam://url/CommunityFilePage/1090792830",
   "name" : "MRMTINIT.IHC",
   "requires" : [],
+  "steamContentId" : "1090792830",
   "version" : "0.1"
 }
-
-// @license MIT
-// @author IHCaTHB
